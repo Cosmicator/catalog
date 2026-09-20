@@ -171,16 +171,6 @@
       "imdbRating": 7.8
     },
     {
-      "id": "tt8537520",
-      "type": "series",
-      "name": "Bigg Boss (Malayalam)",
-      "poster": "https://images.metahub.space/poster/medium/tt8537520/img",
-      "background": "https://images.metahub.space/background/medium/tt8537520/img",
-      "description": "The Malayalam version of the reality show where a number of contestants (known as \"housemates\") live in a purpose-built house and are isolated from the rest of the world. Each week, housemates nominate two of their fellow housemates for eviction, and the housemates who receive the most nominations faces a public vote out.",
-      "releaseInfo": 2018,
-      "imdbRating": 3.7
-    },
-    {
       "id": "tt10577736",
       "type": "series",
       "name": "Tehran",
@@ -199,6 +189,16 @@
       "description": "The iron-fisted Akhandanand Tripathi is a millionaire carpet exporter and the mafia don of Mirzapur. His son, Munna, is an unworthy, power-hungry heir who will stop at nothing to inherit his father's legacy. An incident at a wedding procession forces him to cross paths with Ramakant Pandit, an upstanding lawyer, and his sons, Guddu and Bablu. It snowballs into a game of ambition, power and greed that threatens the fabric of this lawless city.",
       "releaseInfo": 2018,
       "imdbRating": 8.4
+    },
+    {
+      "id": "tt0108778",
+      "type": "series",
+      "name": "Friends",
+      "poster": "https://images.metahub.space/poster/medium/tt0108778/img",
+      "background": "https://images.metahub.space/background/medium/tt0108778/img",
+      "description": "The personal and professional lives of six friends living in the Manhattan borough of New York City.",
+      "releaseInfo": 1994,
+      "imdbRating": 8.8
     },
     {
       "id": "tt10986410",
@@ -221,14 +221,14 @@
       "imdbRating": 7.8
     },
     {
-      "id": "tt0108778",
+      "id": "tt8537520",
       "type": "series",
-      "name": "Friends",
-      "poster": "https://images.metahub.space/poster/medium/tt0108778/img",
-      "background": "https://images.metahub.space/background/medium/tt0108778/img",
-      "description": "The personal and professional lives of six friends living in the Manhattan borough of New York City.",
-      "releaseInfo": 1994,
-      "imdbRating": 8.8
+      "name": "Bigg Boss (Malayalam)",
+      "poster": "https://images.metahub.space/poster/medium/tt8537520/img",
+      "background": "https://images.metahub.space/background/medium/tt8537520/img",
+      "description": "The Malayalam version of the reality show where a number of contestants (known as \"housemates\") live in a purpose-built house and are isolated from the rest of the world. Each week, housemates nominate two of their fellow housemates for eviction, and the housemates who receive the most nominations faces a public vote out.",
+      "releaseInfo": 2018,
+      "imdbRating": 3.7
     },
     {
       "id": "tt0758790",
