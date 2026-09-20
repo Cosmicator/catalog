@@ -149,20 +149,21 @@ def main() -> None:
     netflix_prime_movies = fetch_catalog("movie", "nfxprm")
     other_ott_movies = fetch_catalog("movie", "hstzee")
 
-    trending_series = fetch_catalog("series", "trendingtv")
+    upstream_trending_series = fetch_catalog("series", "trendingtv")
     netflix_prime_series = fetch_catalog("series", "nfxprmtv")
     other_ott_series = fetch_catalog("series", "hstzeetv")
     recommended_series = fetch_catalog("series", "atpmub")
 
     popular_movies = merge_unique(upstream_popular_movies, netflix_prime_movies, other_ott_movies, recommended_movies)
     popular_series = merge_unique(netflix_prime_series, other_ott_series, recommended_series)
+    trending_series = upstream_trending_series
 
     if len(trending_movies) < 5:
         print("warning: trending movies source is thin; falling back to popular movie order")
         trending_movies = popular_movies
     if len(trending_series) < 5:
-        print("warning: trending series source is thin; falling back to popular series order")
-        trending_series = popular_series
+        print("warning: trending series source is thin; using recommendation-first India fallback")
+        trending_series = merge_unique(recommended_series, other_ott_series, netflix_prime_series)
 
     top_movie_candidates = merge_unique(trending_movies, popular_movies, recommended_movies, netflix_prime_movies, other_ott_movies)
     top_series_candidates = merge_unique(trending_series, popular_series, recommended_series)
