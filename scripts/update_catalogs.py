@@ -33,11 +33,22 @@ def get_json(url: str, timeout: int = 30, retries: int = 3) -> dict:
 
 
 def fetch_catalog(media_type: str, catalog_id: str) -> list[dict]:
-    data = get_json(f"{UPSTREAM}/{media_type}/{catalog_id}.json")
+    url = f"{UPSTREAM}/{media_type}/{catalog_id}.json"
+    try:
+        data = get_json(url)
+    except Exception as exc:
+        print(f"warning: source {media_type}/{catalog_id} failed: {exc}")
+        return []
+    if not isinstance(data, dict):
+        print(f"warning: source {media_type}/{catalog_id} returned no object")
+        return []
     metas = data.get("metas")
     if not isinstance(metas, list):
-        raise RuntimeError(f"Unexpected catalog response for {media_type}/{catalog_id}")
-    return clean_metas(metas, media_type)
+        print(f"warning: source {media_type}/{catalog_id} has no metas list")
+        return []
+    cleaned = clean_metas(metas, media_type)
+    print(f"source {media_type}/{catalog_id}: {len(cleaned)} valid titles")
+    return cleaned
 
 
 def clean_metas(metas: list[dict], media_type: str) -> list[dict]:
@@ -133,7 +144,7 @@ def save_catalog(relative_path: str, metas: list[dict]) -> None:
 
 def main() -> None:
     trending_movies = fetch_catalog("movie", "trendingmovies")
-    popular_movies = fetch_catalog("movie", "popmov")
+    upstream_popular_movies = fetch_catalog("movie", "popmov")
     recommended_movies = fetch_catalog("movie", "recmov")
     netflix_prime_movies = fetch_catalog("movie", "nfxprm")
     other_ott_movies = fetch_catalog("movie", "hstzee")
@@ -143,7 +154,15 @@ def main() -> None:
     other_ott_series = fetch_catalog("series", "hstzeetv")
     recommended_series = fetch_catalog("series", "atpmub")
 
+    popular_movies = merge_unique(upstream_popular_movies, netflix_prime_movies, other_ott_movies, recommended_movies)
     popular_series = merge_unique(netflix_prime_series, other_ott_series, recommended_series)
+
+    if len(trending_movies) < 5:
+        print("warning: trending movies source is thin; falling back to popular movie order")
+        trending_movies = popular_movies
+    if len(trending_series) < 5:
+        print("warning: trending series source is thin; falling back to popular series order")
+        trending_series = popular_series
 
     top_movie_candidates = merge_unique(trending_movies, popular_movies, recommended_movies, netflix_prime_movies, other_ott_movies)
     top_series_candidates = merge_unique(trending_series, popular_series, recommended_series)
