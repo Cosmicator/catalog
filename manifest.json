@@ -1,0 +1,17 @@
+{
+  "id": "community.cosmicator.indiacatalog",
+  "version": "1.0.0",
+  "name": "India Catalog",
+  "description": "Trending, popular and top-rated movies and series in India. Catalog-only addon; no streams are provided.",
+  "resources": ["catalog"],
+  "types": ["movie", "series"],
+  "idPrefixes": ["tt"],
+  "catalogs": [
+    {"type": "movie", "id": "trending_movies", "name": "Trending Movies — India"},
+    {"type": "movie", "id": "popular_movies", "name": "Popular Movies — India"},
+    {"type": "movie", "id": "top_rated_movies", "name": "Top Rated Movies — India"},
+    {"type": "series", "id": "trending_series", "name": "Trending Shows — India"},
+    {"type": "series", "id": "popular_series", "name": "Popular Shows — India"},
+    {"type": "series", "id": "top_rated_series", "name": "Top Rated Shows — India"}
+  ]
+}

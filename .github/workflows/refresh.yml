@@ -1,0 +1,62 @@
+name: Refresh India catalogs
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - "manifest.json"
+      - "scripts/update_catalogs.py"
+      - ".github/workflows/refresh.yml"
+  schedule:
+    - cron: "17 */4 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: refresh-india-catalogs
+  cancel-in-progress: false
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.13"
+      - name: Refresh catalog JSON
+        run: python scripts/update_catalogs.py
+      - name: Validate manifest and catalogs
+        run: |
+          python - <<'PY'
+          import json
+          from pathlib import Path
+          manifest = json.loads(Path("manifest.json").read_text(encoding="utf-8"))
+          assert manifest["resources"] == ["catalog"]
+          assert len(manifest["catalogs"]) == 6
+          for catalog in manifest["catalogs"]:
+              path = Path("catalog") / catalog["type"] / f"{catalog['id']}.json"
+              data = json.loads(path.read_text(encoding="utf-8"))
+              assert len(data.get("metas", [])) >= 5, path
+              for meta in data["metas"]:
+                  assert meta["id"].startswith("tt"), (path, meta)
+                  assert meta["type"] == catalog["type"], (path, meta)
+                  assert meta.get("name"), (path, meta)
+          print("Manifest and all six catalogs are valid.")
+          PY
+      - name: Commit refreshed catalogs
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add catalog/
+          if git diff --cached --quiet; then
+            echo "Catalogs are already current."
+          else
+            git commit -m "chore: refresh India catalogs"
+            git push
+          fi
