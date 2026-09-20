@@ -1,14 +1,14 @@
 {
   "metas": [
     {
-      "id": "tt40617568",
+      "id": "tt33332385",
       "type": "series",
-      "name": "Waiting Hai",
-      "poster": "https://images.metahub.space/poster/medium/tt40617568/img",
-      "background": "https://images.metahub.space/background/medium/tt40617568/img",
-      "description": "Sugam joins the RPF and investigates a Tatkal scam. Hamza and Mama turn booking software into a business, facing rivalry and betrayal. Sugam arrests the agents and tracks Hamza, ending the scam before his escape to Dubai.",
+      "name": "Widow's Bay",
+      "poster": "https://images.metahub.space/poster/medium/tt33332385/img",
+      "background": "https://images.metahub.space/background/medium/tt33332385/img",
+      "description": "The mayor of a New England town resolves to turn it into the next tourist hot spot, despite local warnings that it's cursed.",
       "releaseInfo": 2026,
-      "imdbRating": 7.2
+      "imdbRating": 8.1
     },
     {
       "id": "tt1281973",
@@ -21,34 +21,14 @@
       "imdbRating": 3.6
     },
     {
-      "id": "tt33332385",
+      "id": "tt40617568",
       "type": "series",
-      "name": "Widow's Bay",
-      "poster": "https://images.metahub.space/poster/medium/tt33332385/img",
-      "background": "https://images.metahub.space/background/medium/tt33332385/img",
-      "description": "The mayor of a New England town resolves to turn it into the next tourist hot spot, despite local warnings that it's cursed.",
+      "name": "Waiting Hai",
+      "poster": "https://images.metahub.space/poster/medium/tt40617568/img",
+      "background": "https://images.metahub.space/background/medium/tt40617568/img",
+      "description": "Sugam joins the RPF and investigates a Tatkal scam. Hamza and Mama turn booking software into a business, facing rivalry and betrayal. Sugam arrests the agents and tracks Hamza, ending the scam before his escape to Dubai.",
       "releaseInfo": 2026,
-      "imdbRating": 8.1
-    },
-    {
-      "id": "tt9288030",
-      "type": "series",
-      "name": "Reacher",
-      "poster": "https://images.metahub.space/poster/medium/tt9288030/img",
-      "background": "https://images.metahub.space/background/medium/tt9288030/img",
-      "description": "Jack Reacher, a veteran military police investigator, has just recently entered civilian life. Reacher is a drifter, carrying no phone and the barest of essentials as he travels the country and explores the nation he once served.",
-      "releaseInfo": 2022,
-      "imdbRating": 8
-    },
-    {
-      "id": "tt26545992",
-      "type": "series",
-      "name": "Lanterns",
-      "poster": "https://images.metahub.space/poster/medium/tt26545992/img",
-      "background": "https://images.metahub.space/background/medium/tt26545992/img",
-      "description": "Two intergalactic cops, new recruit John Stewart and Lantern legend Hal Jordan, are drawn into a dark, Earth-based mystery as they investigate a murder in the American heartland.",
-      "releaseInfo": 2026,
-      "imdbRating": 7.8
+      "imdbRating": 7.2
     },
     {
       "id": "tt27485777",
@@ -61,14 +41,24 @@
       "imdbRating": 5.3
     },
     {
-      "id": "tt39640519",
+      "id": "tt26545992",
       "type": "series",
-      "name": "Chumbak",
-      "poster": "https://images.metahub.space/poster/medium/tt39640519/img",
-      "background": "https://images.metahub.space/background/medium/tt39640519/img",
-      "description": "A young author and quirky support group explore the lives of five families in a Mumbai row-house who laugh, cry, eat, drink, and share everything together, forming a beautiful surrogate family through life's ups and downs.",
+      "name": "Lanterns",
+      "poster": "https://images.metahub.space/poster/medium/tt26545992/img",
+      "background": "https://images.metahub.space/background/medium/tt26545992/img",
+      "description": "Two intergalactic cops, new recruit John Stewart and Lantern legend Hal Jordan, are drawn into a dark, Earth-based mystery as they investigate a murder in the American heartland.",
       "releaseInfo": 2026,
-      "imdbRating": 6.3
+      "imdbRating": 7.8
+    },
+    {
+      "id": "tt9288030",
+      "type": "series",
+      "name": "Reacher",
+      "poster": "https://images.metahub.space/poster/medium/tt9288030/img",
+      "background": "https://images.metahub.space/background/medium/tt9288030/img",
+      "description": "Jack Reacher, a veteran military police investigator, has just recently entered civilian life. Reacher is a drifter, carrying no phone and the barest of essentials as he travels the country and explores the nation he once served.",
+      "releaseInfo": 2022,
+      "imdbRating": 8
     },
     {
       "id": "tt5875444",
@@ -81,14 +71,14 @@
       "imdbRating": 8.3
     },
     {
-      "id": "tt33094114",
+      "id": "tt39640519",
       "type": "series",
-      "name": "India's Got Latent",
-      "poster": "https://images.metahub.space/poster/medium/tt33094114/img",
-      "background": "https://images.metahub.space/background/medium/tt33094114/img",
-      "description": "India's Got Latent is an Indian Hindi comedy talent show hosted by Samay Raina on YouTube. Inspired by the international Got Talent franchise and Kill Tony, it features a wide variety of acts including singing, dancing, magic, and comedy.",
-      "releaseInfo": 2024,
-      "imdbRating": 8.9
+      "name": "Chumbak",
+      "poster": "https://images.metahub.space/poster/medium/tt39640519/img",
+      "background": "https://images.metahub.space/background/medium/tt39640519/img",
+      "description": "A young author and quirky support group explore the lives of five families in a Mumbai row-house who laugh, cry, eat, drink, and share everything together, forming a beautiful surrogate family through life's ups and downs.",
+      "releaseInfo": 2026,
+      "imdbRating": 6.3
     },
     {
       "id": "tt14688458",
@@ -101,24 +91,14 @@
       "imdbRating": 8.1
     },
     {
-      "id": "tt1196946",
+      "id": "tt33094114",
       "type": "series",
-      "name": "The Mentalist",
-      "poster": "https://images.metahub.space/poster/medium/tt1196946/img",
-      "background": "https://images.metahub.space/background/medium/tt1196946/img",
-      "description": "Patrick Jane, a former celebrity psychic medium, uses his razor sharp skills of observation and expertise at \"reading\" people to solve serious crimes with the California Bureau of Investigation.",
-      "releaseInfo": 2008,
-      "imdbRating": 8.2
-    },
-    {
-      "id": "tt31510819",
-      "type": "series",
-      "name": "MobLand",
-      "poster": "https://images.metahub.space/poster/medium/tt31510819/img",
-      "background": "https://images.metahub.space/background/medium/tt31510819/img",
-      "description": "Two mob families clash in a war that threatens to topple empires and lives.",
-      "releaseInfo": 2025,
-      "imdbRating": 8.3
+      "name": "India's Got Latent",
+      "poster": "https://images.metahub.space/poster/medium/tt33094114/img",
+      "background": "https://images.metahub.space/background/medium/tt33094114/img",
+      "description": "India's Got Latent is an Indian Hindi comedy talent show hosted by Samay Raina on YouTube. Inspired by the international Got Talent franchise and Kill Tony, it features a wide variety of acts including singing, dancing, magic, and comedy.",
+      "releaseInfo": 2024,
+      "imdbRating": 8.9
     },
     {
       "id": "tt22202452",
@@ -131,13 +111,33 @@
       "imdbRating": 7.9
     },
     {
-      "id": "tt31924802",
+      "id": "tt31510819",
       "type": "series",
-      "name": "The Revolutionaries",
-      "poster": "https://images.metahub.space/poster/medium/tt31924802/img",
-      "background": "https://images.metahub.space/background/medium/tt31924802/img",
-      "description": "The Revolutionaries narrates the inspiring tale of brave young Indian freedom fighters who fought for ending British Raj with their unwavering spirit and ideology.",
-      "releaseInfo": 2026,
+      "name": "MobLand",
+      "poster": "https://images.metahub.space/poster/medium/tt31510819/img",
+      "background": "https://images.metahub.space/background/medium/tt31510819/img",
+      "description": "Two mob families clash in a war that threatens to topple empires and lives.",
+      "releaseInfo": 2025,
+      "imdbRating": 8.3
+    },
+    {
+      "id": "tt1196946",
+      "type": "series",
+      "name": "The Mentalist",
+      "poster": "https://images.metahub.space/poster/medium/tt1196946/img",
+      "background": "https://images.metahub.space/background/medium/tt1196946/img",
+      "description": "Patrick Jane, a former celebrity psychic medium, uses his razor sharp skills of observation and expertise at \"reading\" people to solve serious crimes with the California Bureau of Investigation.",
+      "releaseInfo": 2008,
+      "imdbRating": 8.2
+    },
+    {
+      "id": "tt19231492",
+      "type": "series",
+      "name": "Dark Matter",
+      "poster": "https://images.metahub.space/poster/medium/tt19231492/img",
+      "background": "https://images.metahub.space/background/medium/tt19231492/img",
+      "description": "Jason Dessen is abducted into an alternate version of his life. To get back to his real family, he embarks on a harrowing journey to save them from the most terrifying foe imaginable: himself.",
+      "releaseInfo": 2024,
       "imdbRating": 7.6
     },
     {
@@ -151,34 +151,14 @@
       "imdbRating": 9.2
     },
     {
-      "id": "tt19231492",
+      "id": "tt31924802",
       "type": "series",
-      "name": "Dark Matter",
-      "poster": "https://images.metahub.space/poster/medium/tt19231492/img",
-      "background": "https://images.metahub.space/background/medium/tt19231492/img",
-      "description": "Jason Dessen is abducted into an alternate version of his life. To get back to his real family, he embarks on a harrowing journey to save them from the most terrifying foe imaginable: himself.",
-      "releaseInfo": 2024,
-      "imdbRating": 7.6
-    },
-    {
-      "id": "tt33539520",
-      "type": "series",
-      "name": "Neagley",
-      "poster": "https://images.metahub.space/poster/medium/tt33539520/img",
-      "background": "https://images.metahub.space/background/medium/tt33539520/img",
-      "description": "Neagley, drawing from her experience with Jack Reacher and the 110 Special Investigators, embarks on a perilous mission to expose a sinister threat, risking her life to unravel the mystery.",
+      "name": "The Revolutionaries",
+      "poster": "https://images.metahub.space/poster/medium/tt31924802/img",
+      "background": "https://images.metahub.space/background/medium/tt31924802/img",
+      "description": "The Revolutionaries narrates the inspiring tale of brave young Indian freedom fighters who fought for ending British Raj with their unwavering spirit and ideology.",
       "releaseInfo": 2026,
-      "imdbRating": 7.8
-    },
-    {
-      "id": "tt8537520",
-      "type": "series",
-      "name": "Bigg Boss (Malayalam)",
-      "poster": "https://images.metahub.space/poster/medium/tt8537520/img",
-      "background": "https://images.metahub.space/background/medium/tt8537520/img",
-      "description": "The Malayalam version of the reality show where a number of contestants (known as \"housemates\") live in a purpose-built house and are isolated from the rest of the world. Each week, housemates nominate two of their fellow housemates for eviction, and the housemates who receive the most nominations faces a public vote out.",
-      "releaseInfo": 2018,
-      "imdbRating": 3.7
+      "imdbRating": 7.6
     },
     {
       "id": "tt10986410",
@@ -191,14 +171,24 @@
       "imdbRating": 8.7
     },
     {
-      "id": "tt6473300",
+      "id": "tt8537520",
       "type": "series",
-      "name": "Mirzapur",
-      "poster": "https://images.metahub.space/poster/medium/tt6473300/img",
-      "background": "https://images.metahub.space/background/medium/tt6473300/img",
-      "description": "The iron-fisted Akhandanand Tripathi is a millionaire carpet exporter and the mafia don of Mirzapur. His son, Munna, is an unworthy, power-hungry heir who will stop at nothing to inherit his father's legacy. An incident at a wedding procession forces him to cross paths with Ramakant Pandit, an upstanding lawyer, and his sons, Guddu and Bablu. It snowballs into a game of ambition, power and greed that threatens the fabric of this lawless city.",
+      "name": "Bigg Boss (Malayalam)",
+      "poster": "https://images.metahub.space/poster/medium/tt8537520/img",
+      "background": "https://images.metahub.space/background/medium/tt8537520/img",
+      "description": "The Malayalam version of the reality show where a number of contestants (known as \"housemates\") live in a purpose-built house and are isolated from the rest of the world. Each week, housemates nominate two of their fellow housemates for eviction, and the housemates who receive the most nominations faces a public vote out.",
       "releaseInfo": 2018,
-      "imdbRating": 8.4
+      "imdbRating": 3.7
+    },
+    {
+      "id": "tt33539520",
+      "type": "series",
+      "name": "Neagley",
+      "poster": "https://images.metahub.space/poster/medium/tt33539520/img",
+      "background": "https://images.metahub.space/background/medium/tt33539520/img",
+      "description": "Neagley, drawing from her experience with Jack Reacher and the 110 Special Investigators, embarks on a perilous mission to expose a sinister threat, risking her life to unravel the mystery.",
+      "releaseInfo": 2026,
+      "imdbRating": 7.8
     },
     {
       "id": "tt10577736",
@@ -211,24 +201,14 @@
       "imdbRating": 7.6
     },
     {
-      "id": "tt33546863",
+      "id": "tt6473300",
       "type": "series",
-      "name": "Off Campus",
-      "poster": "https://images.metahub.space/poster/medium/tt33546863/img",
-      "background": "https://images.metahub.space/background/medium/tt33546863/img",
-      "description": "A college-set romantic drama chronicling the unexpected love story between a music student and the university's star hockey player, exploring themes of love and the complexities of adulthood through deep friendships and enduring bonds.",
-      "releaseInfo": 2026,
-      "imdbRating": 7.8
-    },
-    {
-      "id": "tt0108778",
-      "type": "series",
-      "name": "Friends",
-      "poster": "https://images.metahub.space/poster/medium/tt0108778/img",
-      "background": "https://images.metahub.space/background/medium/tt0108778/img",
-      "description": "The personal and professional lives of six friends living in the Manhattan borough of New York City.",
-      "releaseInfo": 1994,
-      "imdbRating": 8.8
+      "name": "Mirzapur",
+      "poster": "https://images.metahub.space/poster/medium/tt6473300/img",
+      "background": "https://images.metahub.space/background/medium/tt6473300/img",
+      "description": "The iron-fisted Akhandanand Tripathi is a millionaire carpet exporter and the mafia don of Mirzapur. His son, Munna, is an unworthy, power-hungry heir who will stop at nothing to inherit his father's legacy. An incident at a wedding procession forces him to cross paths with Ramakant Pandit, an upstanding lawyer, and his sons, Guddu and Bablu. It snowballs into a game of ambition, power and greed that threatens the fabric of this lawless city.",
+      "releaseInfo": 2018,
+      "imdbRating": 8.4
     },
     {
       "id": "tt8417266",
@@ -241,24 +221,24 @@
       "imdbRating": 7.6
     },
     {
-      "id": "tt13111078",
+      "id": "tt0108778",
       "type": "series",
-      "name": "Lioness",
-      "poster": "https://images.metahub.space/poster/medium/tt13111078/img",
-      "background": "https://images.metahub.space/background/medium/tt13111078/img",
-      "description": "Cruz Manuelos, a rough-around-the-edges but passionate young Marine, is recruited to join the CIA's Lioness Engagement Team to help bring down a terrorist organization from within. Joe, the station chief of the Lioness program, is tasked with training, managing and leading her female undercover operatives.",
-      "releaseInfo": 2023,
-      "imdbRating": 7.8
+      "name": "Friends",
+      "poster": "https://images.metahub.space/poster/medium/tt0108778/img",
+      "background": "https://images.metahub.space/background/medium/tt0108778/img",
+      "description": "The personal and professional lives of six friends living in the Manhattan borough of New York City.",
+      "releaseInfo": 1994,
+      "imdbRating": 8.8
     },
     {
-      "id": "tt31862809",
+      "id": "tt33546863",
       "type": "series",
-      "name": "Heart Beat",
-      "poster": "https://images.metahub.space/poster/medium/tt31862809/img",
-      "background": "https://images.metahub.space/background/medium/tt31862809/img",
-      "description": "Based around RK Multispeciality Hospital and its doctors, who are resilient as they deal with medical and personal challenges.",
-      "releaseInfo": 2024,
-      "imdbRating": 8.6
+      "name": "Off Campus",
+      "poster": "https://images.metahub.space/poster/medium/tt33546863/img",
+      "background": "https://images.metahub.space/background/medium/tt33546863/img",
+      "description": "A college-set romantic drama chronicling the unexpected love story between a music student and the university's star hockey player, exploring themes of love and the complexities of adulthood through deep friendships and enduring bonds.",
+      "releaseInfo": 2026,
+      "imdbRating": 7.8
     },
     {
       "id": "tt0758790",
@@ -271,14 +251,24 @@
       "imdbRating": 8.1
     },
     {
-      "id": "tt8317568",
+      "id": "tt31862809",
       "type": "series",
-      "name": "Broken But Beautiful",
-      "poster": "https://images.metahub.space/poster/medium/tt8317568/img",
-      "background": "https://images.metahub.space/background/medium/tt8317568/img",
-      "description": "Broken is Veer and Sameera's story where their hearts were left broken and damaged after they lost their love. Destiny has brought love in to their lives again, will they give it a second chance?",
-      "releaseInfo": 2018,
-      "imdbRating": 8.5
+      "name": "Heart Beat",
+      "poster": "https://images.metahub.space/poster/medium/tt31862809/img",
+      "background": "https://images.metahub.space/background/medium/tt31862809/img",
+      "description": "Based around RK Multispeciality Hospital and its doctors, who are resilient as they deal with medical and personal challenges.",
+      "releaseInfo": 2024,
+      "imdbRating": 8.6
+    },
+    {
+      "id": "tt13111078",
+      "type": "series",
+      "name": "Lioness",
+      "poster": "https://images.metahub.space/poster/medium/tt13111078/img",
+      "background": "https://images.metahub.space/background/medium/tt13111078/img",
+      "description": "Cruz Manuelos, a rough-around-the-edges but passionate young Marine, is recruited to join the CIA's Lioness Engagement Team to help bring down a terrorist organization from within. Joe, the station chief of the Lioness program, is tasked with training, managing and leading her female undercover operatives.",
+      "releaseInfo": 2023,
+      "imdbRating": 7.8
     },
     {
       "id": "tt9686194",
@@ -291,24 +281,14 @@
       "imdbRating": 6.5
     },
     {
-      "id": "tt43736405",
+      "id": "tt8317568",
       "type": "series",
-      "name": "A Love Other Than Yours",
-      "poster": "https://images.metahub.space/poster/medium/tt43736405/img",
-      "background": "https://images.metahub.space/background/medium/tt43736405/img",
-      "description": "A realistic, emotionally resonant romance about a couple in their tenth year together whose comfortable relationship is tested by unexpected feelings.",
-      "releaseInfo": 2026,
-      "imdbRating": 7.8
-    },
-    {
-      "id": "tt31938062",
-      "type": "series",
-      "name": "The Pitt",
-      "poster": "https://images.metahub.space/poster/medium/tt31938062/img",
-      "background": "https://images.metahub.space/background/medium/tt31938062/img",
-      "description": "The staff of Pittsburgh's Trauma Medical Center work around the clock to save lives in an overcrowded and underfunded emergency department.",
-      "releaseInfo": 2025,
-      "imdbRating": 8.9
+      "name": "Broken But Beautiful",
+      "poster": "https://images.metahub.space/poster/medium/tt8317568/img",
+      "background": "https://images.metahub.space/background/medium/tt8317568/img",
+      "description": "Broken is Veer and Sameera's story where their hearts were left broken and damaged after they lost their love. Destiny has brought love in to their lives again, will they give it a second chance?",
+      "releaseInfo": 2018,
+      "imdbRating": 8.5
     },
     {
       "id": "tt14417718",
@@ -321,24 +301,24 @@
       "imdbRating": 7.7
     },
     {
-      "id": "tt9813792",
+      "id": "tt31938062",
       "type": "series",
-      "name": "FROM",
-      "poster": "https://images.metahub.space/poster/medium/tt9813792/img",
-      "background": "https://images.metahub.space/background/medium/tt9813792/img",
-      "description": "Unravel the mystery of a nightmarish town in middle America that traps all those who enter. As the unwilling residents fight to keep a sense of normalcy and search for a way out, they must also survive the threats of the surrounding forest – including the terrifying creatures that come out when the sun goes down.",
-      "releaseInfo": 2022,
-      "imdbRating": 7.7
+      "name": "The Pitt",
+      "poster": "https://images.metahub.space/poster/medium/tt31938062/img",
+      "background": "https://images.metahub.space/background/medium/tt31938062/img",
+      "description": "The staff of Pittsburgh's Trauma Medical Center work around the clock to save lives in an overcrowded and underfunded emergency department.",
+      "releaseInfo": 2025,
+      "imdbRating": 8.9
     },
     {
-      "id": "tt45712181",
+      "id": "tt43736405",
       "type": "series",
-      "name": "Indian Game Show",
-      "poster": "https://images.metahub.space/poster/medium/tt45712181/img",
-      "background": "https://images.metahub.space/background/medium/tt45712181/img",
-      "description": "The Indian Game Show is a high-energy comedy game show created and hosted by Bharti Singh and Haarsh Limbachiyaa. Featuring popular television actors, choreographers, musicians, and social media influencers, contestants face off in physical stunts, comedy challenges, and quirky tasks to win prizes while avoiding hilarious punishments",
-      "releaseInfo": 2021,
-      "imdbRating": 0
+      "name": "A Love Other Than Yours",
+      "poster": "https://images.metahub.space/poster/medium/tt43736405/img",
+      "background": "https://images.metahub.space/background/medium/tt43736405/img",
+      "description": "A realistic, emotionally resonant romance about a couple in their tenth year together whose comfortable relationship is tested by unexpected feelings.",
+      "releaseInfo": 2026,
+      "imdbRating": 7.8
     },
     {
       "id": "tt17220216",
@@ -351,14 +331,24 @@
       "imdbRating": 7
     },
     {
-      "id": "tt39665097",
+      "id": "tt45712181",
       "type": "series",
-      "name": "Musafir Cafe",
-      "poster": "https://images.metahub.space/poster/medium/tt39665097/img",
-      "background": "https://images.metahub.space/background/medium/tt39665097/img",
-      "description": "Three travelers lives unexpectedly intertwine. Chander and Sudha share an instant spark. With Preeti, Chander finds steady companionship built on quiet understanding and ease. Which love endures through time, and life's journey?",
-      "releaseInfo": 2026,
-      "imdbRating": 7.6
+      "name": "Indian Game Show",
+      "poster": "https://images.metahub.space/poster/medium/tt45712181/img",
+      "background": "https://images.metahub.space/background/medium/tt45712181/img",
+      "description": "The Indian Game Show is a high-energy comedy game show created and hosted by Bharti Singh and Haarsh Limbachiyaa. Featuring popular television actors, choreographers, musicians, and social media influencers, contestants face off in physical stunts, comedy challenges, and quirky tasks to win prizes while avoiding hilarious punishments",
+      "releaseInfo": 2021,
+      "imdbRating": 0
+    },
+    {
+      "id": "tt9813792",
+      "type": "series",
+      "name": "FROM",
+      "poster": "https://images.metahub.space/poster/medium/tt9813792/img",
+      "background": "https://images.metahub.space/background/medium/tt9813792/img",
+      "description": "Unravel the mystery of a nightmarish town in middle America that traps all those who enter. As the unwilling residents fight to keep a sense of normalcy and search for a way out, they must also survive the threats of the surrounding forest – including the terrifying creatures that come out when the sun goes down.",
+      "releaseInfo": 2022,
+      "imdbRating": 7.7
     },
     {
       "id": "tt1442449",
@@ -371,24 +361,14 @@
       "imdbRating": 8.4
     },
     {
-      "id": "tt20873118",
+      "id": "tt39665097",
       "type": "series",
-      "name": "Suzhal - The Vortex",
-      "poster": "https://images.metahub.space/poster/medium/tt20873118/img",
-      "background": "https://images.metahub.space/background/medium/tt20873118/img",
-      "description": "A minor girl goes missing in a small town in Tamilnadu and an investigation follows. A sub inspector investigating a missing girl's case in a uncovers some shocking revelations and dirty truths those threaten to shake up the cultural societal fabric.",
-      "releaseInfo": 2022,
-      "imdbRating": 8.1
-    },
-    {
-      "id": "tt34748043",
-      "type": "series",
-      "name": "Heartbeats: Pyaar aur Armaan",
-      "poster": "https://images.metahub.space/poster/medium/tt34748043/img",
-      "background": "https://images.metahub.space/background/medium/tt34748043/img",
-      "description": "Heartbeats is a hospital drama that follows Akshat as he pursues his dream of becoming a neurosurgeon while navigating a budding romance with Sanjh, a \"nepo kid\" from a family of doctors.",
-      "releaseInfo": 2024,
-      "imdbRating": 7.1
+      "name": "Musafir Cafe",
+      "poster": "https://images.metahub.space/poster/medium/tt39665097/img",
+      "background": "https://images.metahub.space/background/medium/tt39665097/img",
+      "description": "Three travelers lives unexpectedly intertwine. Chander and Sudha share an instant spark. With Preeti, Chander finds steady companionship built on quiet understanding and ease. Which love endures through time, and life's journey?",
+      "releaseInfo": 2026,
+      "imdbRating": 7.6
     },
     {
       "id": "tt11846996",
@@ -401,6 +381,26 @@
       "imdbRating": 7.4
     },
     {
+      "id": "tt34748043",
+      "type": "series",
+      "name": "Heartbeats: Pyaar aur Armaan",
+      "poster": "https://images.metahub.space/poster/medium/tt34748043/img",
+      "background": "https://images.metahub.space/background/medium/tt34748043/img",
+      "description": "Heartbeats is a hospital drama that follows Akshat as he pursues his dream of becoming a neurosurgeon while navigating a budding romance with Sanjh, a \"nepo kid\" from a family of doctors.",
+      "releaseInfo": 2024,
+      "imdbRating": 7.1
+    },
+    {
+      "id": "tt20873118",
+      "type": "series",
+      "name": "Suzhal - The Vortex",
+      "poster": "https://images.metahub.space/poster/medium/tt20873118/img",
+      "background": "https://images.metahub.space/background/medium/tt20873118/img",
+      "description": "A minor girl goes missing in a small town in Tamilnadu and an investigation follows. A sub inspector investigating a missing girl's case in a uncovers some shocking revelations and dirty truths those threaten to shake up the cultural societal fabric.",
+      "releaseInfo": 2022,
+      "imdbRating": 8.1
+    },
+    {
       "id": "tt9059760",
       "type": "series",
       "name": "Normal People",
@@ -409,26 +409,6 @@
       "description": "Marianne and Connell weave in and out of each other's lives in this exploration of sex, power and the desire to love and be loved.",
       "releaseInfo": 2020,
       "imdbRating": 8.4
-    },
-    {
-      "id": "tt15477488",
-      "type": "series",
-      "name": "Farzi",
-      "poster": "https://images.metahub.space/poster/medium/tt15477488/img",
-      "background": "https://images.metahub.space/background/medium/tt15477488/img",
-      "description": "Sunny, a brilliant small-time artist is catapulted into the high-stakes world of counterfeiting when he creates the perfect fake currency note, even as Michael, a fiery, unorthodox task force officer wants to rid the country of the counterfeiting menace. In this thrilling cat-and-mouse race, losing is not an option!",
-      "releaseInfo": 2023,
-      "imdbRating": 8.3
-    },
-    {
-      "id": "tt34385331",
-      "type": "series",
-      "name": "DTF St. Louis",
-      "poster": "https://images.metahub.space/poster/medium/tt34385331/img",
-      "background": "https://images.metahub.space/background/medium/tt34385331/img",
-      "description": "A love triangle among three adults experiencing middle-age malaise leads to one of them ending up dead.",
-      "releaseInfo": 2026,
-      "imdbRating": 7.3
     },
     {
       "id": "tt7949218",
@@ -441,24 +421,24 @@
       "imdbRating": 7.6
     },
     {
-      "id": "tt14962432",
+      "id": "tt34385331",
       "type": "series",
-      "name": "Overflow",
-      "poster": "https://images.metahub.space/poster/medium/tt14962432/img",
-      "background": "https://images.metahub.space/background/medium/tt14962432/img",
-      "description": "Kazushi Sudou is a university student who is visited by his two childhood friends, the sisters Ayane and Kotone Shirakawa. When Ayane discovers that Kazushi not only forgot to buy her pudding but is also using her special lotion in the bath, she decides to take revenge and join Kazushi in his bath along with Kotone. Will the perverted Kazushi be able to remain indifferent to them both?",
-      "releaseInfo": 2020,
-      "imdbRating": 6.7
+      "name": "DTF St. Louis",
+      "poster": "https://images.metahub.space/poster/medium/tt34385331/img",
+      "background": "https://images.metahub.space/background/medium/tt34385331/img",
+      "description": "A love triangle among three adults experiencing middle-age malaise leads to one of them ending up dead.",
+      "releaseInfo": 2026,
+      "imdbRating": 7.3
     },
     {
-      "id": "tt8772296",
+      "id": "tt15477488",
       "type": "series",
-      "name": "Euphoria",
-      "poster": "https://images.metahub.space/poster/medium/tt8772296/img",
-      "background": "https://images.metahub.space/background/medium/tt8772296/img",
-      "description": "A group of high school students navigate love and friendships in a world of drugs, sex, trauma, and social media.",
-      "releaseInfo": 2019,
-      "imdbRating": 8.1
+      "name": "Farzi",
+      "poster": "https://images.metahub.space/poster/medium/tt15477488/img",
+      "background": "https://images.metahub.space/background/medium/tt15477488/img",
+      "description": "Sunny, a brilliant small-time artist is catapulted into the high-stakes world of counterfeiting when he creates the perfect fake currency note, even as Michael, a fiery, unorthodox task force officer wants to rid the country of the counterfeiting menace. In this thrilling cat-and-mouse race, losing is not an option!",
+      "releaseInfo": 2023,
+      "imdbRating": 8.3
     },
     {
       "id": "tt31137273",
@@ -471,14 +451,34 @@
       "imdbRating": 7.3
     },
     {
-      "id": "tt5753856",
+      "id": "tt8772296",
       "type": "series",
-      "name": "Dark",
-      "poster": "https://images.metahub.space/poster/medium/tt5753856/img",
-      "background": "https://images.metahub.space/background/medium/tt5753856/img",
-      "description": "A missing child sets four families on a frantic hunt for answers as they unearth a mind-bending mystery that spans three generations.",
+      "name": "Euphoria",
+      "poster": "https://images.metahub.space/poster/medium/tt8772296/img",
+      "background": "https://images.metahub.space/background/medium/tt8772296/img",
+      "description": "A group of high school students navigate love and friendships in a world of drugs, sex, trauma, and social media.",
+      "releaseInfo": 2019,
+      "imdbRating": 8.1
+    },
+    {
+      "id": "tt14962432",
+      "type": "series",
+      "name": "Overflow",
+      "poster": "https://images.metahub.space/poster/medium/tt14962432/img",
+      "background": "https://images.metahub.space/background/medium/tt14962432/img",
+      "description": "Kazushi Sudou is a university student who is visited by his two childhood friends, the sisters Ayane and Kotone Shirakawa. When Ayane discovers that Kazushi not only forgot to buy her pudding but is also using her special lotion in the bath, she decides to take revenge and join Kazushi in his bath along with Kotone. Will the perverted Kazushi be able to remain indifferent to them both?",
+      "releaseInfo": 2020,
+      "imdbRating": 6.7
+    },
+    {
+      "id": "tt5711280",
+      "type": "series",
+      "name": "Philip K. Dick's Electric Dreams",
+      "poster": "https://images.metahub.space/poster/medium/tt5711280/img",
+      "background": "https://images.metahub.space/background/medium/tt5711280/img",
+      "description": "A diverse anthology of ambitious, moving tales inspired by Philip K Dick's short stories.",
       "releaseInfo": 2017,
-      "imdbRating": 8.7
+      "imdbRating": 7.2
     },
     {
       "id": "tt1266020",
@@ -491,14 +491,14 @@
       "imdbRating": 8.6
     },
     {
-      "id": "tt5711280",
+      "id": "tt5753856",
       "type": "series",
-      "name": "Philip K. Dick's Electric Dreams",
-      "poster": "https://images.metahub.space/poster/medium/tt5711280/img",
-      "background": "https://images.metahub.space/background/medium/tt5711280/img",
-      "description": "A diverse anthology of ambitious, moving tales inspired by Philip K Dick's short stories.",
+      "name": "Dark",
+      "poster": "https://images.metahub.space/poster/medium/tt5753856/img",
+      "background": "https://images.metahub.space/background/medium/tt5753856/img",
+      "description": "A missing child sets four families on a frantic hunt for answers as they unearth a mind-bending mystery that spans three generations.",
       "releaseInfo": 2017,
-      "imdbRating": 7.2
+      "imdbRating": 8.7
     }
   ]
 }

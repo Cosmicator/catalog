@@ -53,17 +53,6 @@
       "imdbRating": "8.5"
     },
     {
-      "id": "tt35712605",
-      "type": "movie",
-      "name": "G.D.N",
-      "poster": "https://live.metahub.space/poster/small/tt35712605/img",
-      "background": "https://live.metahub.space/background/medium/tt35712605/img",
-      "logo": "https://live.metahub.space/logo/medium/tt35712605/img",
-      "description": "Based on the life of G.D. Naidu, the 'Edison of India', dramatising his groundbreaking innovations, his industrial contributions, and conflicts with authorities—including struggles where his work and international dealings faced severe scrutiny and opposition.",
-      "releaseInfo": "2026",
-      "imdbRating": "8.5"
-    },
-    {
       "id": "tt0482571",
       "type": "movie",
       "name": "The Prestige",
@@ -357,6 +346,17 @@
       "logo": "https://images.metahub.space/logo/medium/tt0117381/img",
       "description": "A high-profile murder intrigues a publicity hungry lawyer.",
       "releaseInfo": "1996",
+      "imdbRating": "7.7"
+    },
+    {
+      "id": "tt35712605",
+      "type": "movie",
+      "name": "G.D.N",
+      "poster": "https://live.metahub.space/poster/small/tt35712605/img",
+      "background": "https://live.metahub.space/background/medium/tt35712605/img",
+      "logo": "https://live.metahub.space/logo/medium/tt35712605/img",
+      "description": "G.D. Naidu overcomes challenges and defies a repressive colonial regime to become one of India's greatest innovators.",
+      "releaseInfo": "2026",
       "imdbRating": "7.7"
     },
     {

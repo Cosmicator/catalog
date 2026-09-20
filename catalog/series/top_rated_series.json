@@ -89,6 +89,17 @@
       "imdbRating": "8.8"
     },
     {
+      "id": "tt10986410",
+      "type": "series",
+      "name": "Ted Lasso",
+      "poster": "https://images.metahub.space/poster/small/tt10986410/img",
+      "background": "https://images.metahub.space/background/medium/tt10986410/img",
+      "logo": "https://images.metahub.space/logo/medium/tt10986410/img",
+      "description": "American college football coach Ted Lasso is hired to manage AFC Richmond, a struggling English soccer club, and must win over skeptical players, staff, and fans.",
+      "releaseInfo": "2020–",
+      "imdbRating": "8.7"
+    },
+    {
       "id": "tt0098936",
       "type": "series",
       "name": "Twin Peaks",
@@ -537,17 +548,6 @@
       "logo": "https://images.metahub.space/logo/medium/tt4301160/img",
       "description": "Jimmy Keene is sentenced to 10 years in a minimum security prison but he cuts a deal with the FBI to befriend a suspected serial killer. Keene has to elicit a confession from Larry Hall to find the bodies of as many as eighteen wo...",
       "releaseInfo": "2022",
-      "imdbRating": "8.1"
-    },
-    {
-      "id": "tt26315487",
-      "type": "series",
-      "name": "Bloodhounds",
-      "poster": "https://images.metahub.space/poster/small/tt26315487/img",
-      "background": "https://images.metahub.space/background/medium/tt26315487/img",
-      "logo": "https://images.metahub.space/logo/medium/tt26315487/img",
-      "description": "In order to pay off their debt, three daring youths jump into the money-lending business while confronting the rich and powerful who prey on the weak.",
-      "releaseInfo": "2023–",
       "imdbRating": "8.1"
     }
   ]
