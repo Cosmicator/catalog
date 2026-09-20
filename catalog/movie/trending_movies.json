@@ -301,16 +301,6 @@
       "imdbRating": 6.6
     },
     {
-      "id": "tt34379307",
-      "type": "movie",
-      "name": "Is God Is",
-      "poster": "https://images.metahub.space/poster/medium/tt34379307/img",
-      "background": "https://images.metahub.space/background/medium/tt34379307/img",
-      "description": "Two sisters embark on an epic quest for revenge, confronting a charged family history that pushes them to extraordinary lengths.",
-      "releaseInfo": 2026,
-      "imdbRating": 6.5
-    },
-    {
       "id": "tt31193180",
       "type": "movie",
       "name": "Sinners",
@@ -319,16 +309,6 @@
       "description": "Trying to leave their troubled lives behind, twin brothers return to their hometown to start again, only to discover that an even greater evil is waiting to welcome them back.",
       "releaseInfo": 2025,
       "imdbRating": 7.5
-    },
-    {
-      "id": "tt13036930",
-      "type": "movie",
-      "name": "Apocalypse of Ice",
-      "poster": "https://images.metahub.space/poster/medium/tt13036930/img",
-      "background": "https://images.metahub.space/background/medium/tt13036930/img",
-      "description": "Earthquakes cause a massive polar vortex that covers most of the planet, a family must make their way to a safe zone at the equator.",
-      "releaseInfo": 2020,
-      "imdbRating": 2.5
     },
     {
       "id": "tt34385135",
@@ -381,6 +361,16 @@
       "imdbRating": 7.8
     },
     {
+      "id": "tt33744610",
+      "type": "movie",
+      "name": "Ghamasaan",
+      "poster": "https://images.metahub.space/poster/medium/tt33744610/img",
+      "background": "https://images.metahub.space/background/medium/tt33744610/img",
+      "description": "Set in the Hindi heartland, the story follows a cat and mouse chase against a ruthless dacoit. An honest IPS officer is determined to hunt him down, corrupt politicians notwithstanding.",
+      "releaseInfo": 2008,
+      "imdbRating": 6.8
+    },
+    {
       "id": "tt0293429",
       "type": "movie",
       "name": "Mortal Kombat",
@@ -399,16 +389,6 @@
       "description": "A successful lawyer returns to his hometown for his mother's funeral only to discover that his estranged father, the town's judge, is suspected of murder.",
       "releaseInfo": 2014,
       "imdbRating": 7.4
-    },
-    {
-      "id": "tt27403986",
-      "type": "movie",
-      "name": "Juror #2",
-      "poster": "https://images.metahub.space/poster/medium/tt27403986/img",
-      "background": "https://images.metahub.space/background/medium/tt27403986/img",
-      "description": "While serving as a juror in a high profile murder trial, family man Justin Kemp finds himself struggling with a serious moral dilemma…one he could use to sway the jury verdict and potentially convict—or free—the accused killer.",
-      "releaseInfo": 2024,
-      "imdbRating": 7
     },
     {
       "id": "tt33988385",
@@ -471,6 +451,16 @@
       "imdbRating": 7.8
     },
     {
+      "id": "tt34379307",
+      "type": "movie",
+      "name": "Is God Is",
+      "poster": "https://images.metahub.space/poster/medium/tt34379307/img",
+      "background": "https://images.metahub.space/background/medium/tt34379307/img",
+      "description": "Two sisters embark on an epic quest for revenge, confronting a charged family history that pushes them to extraordinary lengths.",
+      "releaseInfo": 2026,
+      "imdbRating": 6.5
+    },
+    {
       "id": "tt0088323",
       "type": "movie",
       "name": "The NeverEnding Story",
@@ -499,6 +489,16 @@
       "description": "Jaskirat Singh Rangi descends deeper into his alias as Hamza Ali Mazari, rising through Karachi's criminal hierarchy to claim the feared title \"Sher-e-Baloch\" while balancing loyalty, betrayal, and survival in a ruthless underworld.",
       "releaseInfo": 2026,
       "imdbRating": 8.2
+    },
+    {
+      "id": "tt35064672",
+      "type": "movie",
+      "name": "Cocktail 2",
+      "poster": "https://images.metahub.space/poster/medium/tt35064672/img",
+      "background": "https://images.metahub.space/background/medium/tt35064672/img",
+      "description": "A vacation in Sicily forces longtime partners Diya and Kunal to question their love and commitment after they reunite with Diya's old friend Ally.",
+      "releaseInfo": 2026,
+      "imdbRating": 6.5
     }
   ]
 }
