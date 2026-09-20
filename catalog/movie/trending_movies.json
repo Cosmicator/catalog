@@ -301,16 +301,6 @@
       "imdbRating": 6.6
     },
     {
-      "id": "tt33744610",
-      "type": "movie",
-      "name": "Ghamasaan",
-      "poster": "https://images.metahub.space/poster/medium/tt33744610/img",
-      "background": "https://images.metahub.space/background/medium/tt33744610/img",
-      "description": "Set in the Hindi heartland, the story follows a cat and mouse chase against a ruthless dacoit. An honest IPS officer is determined to hunt him down, corrupt politicians notwithstanding.",
-      "releaseInfo": 2008,
-      "imdbRating": 6.8
-    },
-    {
       "id": "tt34379307",
       "type": "movie",
       "name": "Is God Is",
@@ -441,26 +431,6 @@
       "imdbRating": 7.9
     },
     {
-      "id": "tt28363783",
-      "type": "movie",
-      "name": "Alpha",
-      "poster": "https://images.metahub.space/poster/medium/tt28363783/img",
-      "background": "https://images.metahub.space/background/medium/tt28363783/img",
-      "description": "When Sita, a highly trained assassin raised in isolation as a super-soldier by a rogue commander, discovers the dark truth about her family and her stolen childhood, she teams up with her long lost sister to take down her creator and his illicit military program.",
-      "releaseInfo": 2026,
-      "imdbRating": 3.6
-    },
-    {
-      "id": "tt0490204",
-      "type": "movie",
-      "name": "Reign Over Me",
-      "poster": "https://images.metahub.space/poster/medium/tt0490204/img",
-      "background": "https://images.metahub.space/background/medium/tt0490204/img",
-      "description": "A man who lost his family in the September 11 attack on New York City runs into his old college roommate. Rekindling the friendship is the one thing that appears able to help the man recover from his grief.",
-      "releaseInfo": 2007,
-      "imdbRating": 7.4
-    },
-    {
       "id": "tt15325794",
       "type": "movie",
       "name": "Fall",
@@ -469,6 +439,16 @@
       "description": "When a high-rise climb goes wrong, best friends Becky and Hunter find themselves stuck at the top of a 2,000-foot TV tower.",
       "releaseInfo": 2022,
       "imdbRating": 6.4
+    },
+    {
+      "id": "tt28363783",
+      "type": "movie",
+      "name": "Alpha",
+      "poster": "https://images.metahub.space/poster/medium/tt28363783/img",
+      "background": "https://images.metahub.space/background/medium/tt28363783/img",
+      "description": "When Sita, a highly trained assassin raised in isolation as a super-soldier by a rogue commander, discovers the dark truth about her family and her stolen childhood, she teams up with her long lost sister to take down her creator and his illicit military program.",
+      "releaseInfo": 2026,
+      "imdbRating": 3.6
     },
     {
       "id": "tt1979320",
@@ -499,6 +479,26 @@
       "description": "While hiding from bullies in his school's attic, a young boy discovers the extraordinary land of Fantasia, through a magical book called The Neverending Story. The book tells the tale of Atreyu, a young warrior who, with the help of a luck dragon named Falkor, must save Fantasia from the destruction of The Nothing.",
       "releaseInfo": 1984,
       "imdbRating": 7.3
+    },
+    {
+      "id": "tt35712605",
+      "type": "movie",
+      "name": "G.D.N",
+      "poster": "https://images.metahub.space/poster/medium/tt35712605/img",
+      "background": "https://images.metahub.space/background/medium/tt35712605/img",
+      "description": "G.D. Naidu overcomes challenges and defies a repressive colonial regime to become one of India's greatest innovators.",
+      "releaseInfo": 2026,
+      "imdbRating": 7.7
+    },
+    {
+      "id": "tt39139925",
+      "type": "movie",
+      "name": "Dhurandhar: The Revenge",
+      "poster": "https://images.metahub.space/poster/medium/tt39139925/img",
+      "background": "https://images.metahub.space/background/medium/tt39139925/img",
+      "description": "Jaskirat Singh Rangi descends deeper into his alias as Hamza Ali Mazari, rising through Karachi's criminal hierarchy to claim the feared title \"Sher-e-Baloch\" while balancing loyalty, betrayal, and survival in a ruthless underworld.",
+      "releaseInfo": 2026,
+      "imdbRating": 8.2
     }
   ]
 }
