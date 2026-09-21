@@ -287,6 +287,17 @@
       "imdbRating": "8.4"
     },
     {
+      "id": "tt10324164",
+      "type": "series",
+      "name": "Prehistoric Planet",
+      "poster": "https://images.metahub.space/poster/small/tt10324164/img",
+      "background": "https://images.metahub.space/background/medium/tt10324164/img",
+      "logo": "https://images.metahub.space/logo/medium/tt10324164/img",
+      "description": "Travel back 66 million years to when majestic dinosaurs and extraordinary creatures roamed the lands, seas, and skies.",
+      "releaseInfo": "2022–2025",
+      "imdbRating": "8.4"
+    },
+    {
       "id": "tt37442772",
       "type": "series",
       "name": "The Dynasty: UConn Huskies",
@@ -537,17 +548,6 @@
       "logo": "https://images.metahub.space/logo/medium/tt5489746/img",
       "description": "A TV series where individuals share their perspectives of loved ones who committed horrific crimes.",
       "releaseInfo": "2016–",
-      "imdbRating": "8.0"
-    },
-    {
-      "id": "tt4643084",
-      "type": "series",
-      "name": "Counterpart",
-      "poster": "https://images.metahub.space/poster/small/tt4643084/img",
-      "background": "https://images.metahub.space/background/medium/tt4643084/img",
-      "logo": "https://images.metahub.space/logo/medium/tt4643084/img",
-      "description": "A cog in a bureaucratic agency discovers his agency is guarding a crossing to a parallel dimension.",
-      "releaseInfo": "2017–2019",
       "imdbRating": "8.0"
     }
   ]
