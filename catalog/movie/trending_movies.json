@@ -221,14 +221,14 @@
       "imdbRating": 7.7
     },
     {
-      "id": "tt0088323",
+      "id": "tt33240865",
       "type": "movie",
-      "name": "The NeverEnding Story",
-      "poster": "https://images.metahub.space/poster/medium/tt0088323/img",
-      "background": "https://images.metahub.space/background/medium/tt0088323/img",
-      "description": "While hiding from bullies in his school's attic, a young boy discovers the extraordinary land of Fantasia, through a magical book called The Neverending Story. The book tells the tale of Atreyu, a young warrior who, with the help of a luck dragon named Falkor, must save Fantasia from the destruction of The Nothing.",
-      "releaseInfo": 1984,
-      "imdbRating": 7.3
+      "name": "Rakkasapuradhol",
+      "poster": "https://images.metahub.space/poster/medium/tt33240865/img",
+      "background": "https://images.metahub.space/background/medium/tt33240865/img",
+      "description": "Inspector Shiva an alcoholic officer struggling with schizophrenia, is transferred to Rakkasapura, a seemingly quiet village with a low crime rate. Soon The village’s peace is shattered by a series of gruesome murders. Young women are found dead, dressed in bridal finery with their faces charred beyond recognition. Witness as a troubled cop in rural India confronts his own demons while pursuing a complex case that tests his moral boundaries and beliefs.",
+      "releaseInfo": 2026,
+      "imdbRating": 6.9
     },
     {
       "id": "tt28630806",
@@ -239,6 +239,16 @@
       "description": "In June 2022, Kanhaiya Lal Sahu, a tailor in Udaipur, India, was brutally murdered. The events surrounding the murder are explored, delving into the conspiracy and the deeper issues of religious extremism, digital radicalization, and intelligence failures that led to the tragic event.",
       "releaseInfo": 2025,
       "imdbRating": 6.1
+    },
+    {
+      "id": "tt39833109",
+      "type": "movie",
+      "name": "Salmokji: Whispering Water",
+      "poster": "https://images.metahub.space/poster/medium/tt39833109/img",
+      "background": "https://images.metahub.space/background/medium/tt39833109/img",
+      "description": "An incident unfolds when a film crew goes to a reservoir to update the road view where an unidentified figure was filmed, and they encounter something in the dark, deep waters.",
+      "releaseInfo": 2026,
+      "imdbRating": 5.6
     },
     {
       "id": "tt31723358",
@@ -279,16 +289,6 @@
       "description": "A community confronts the devastating impact of pesticide contamination as industrial negligence threatens public health. The fight for accountability exposes systemic failures in regulatory oversight and corporate responsibility.",
       "releaseInfo": 2026,
       "imdbRating": 6.4
-    },
-    {
-      "id": "tt33240865",
-      "type": "movie",
-      "name": "Rakkasapuradhol",
-      "poster": "https://images.metahub.space/poster/medium/tt33240865/img",
-      "background": "https://images.metahub.space/background/medium/tt33240865/img",
-      "description": "Inspector Shiva an alcoholic officer struggling with schizophrenia, is transferred to Rakkasapura, a seemingly quiet village with a low crime rate. Soon The village’s peace is shattered by a series of gruesome murders. Young women are found dead, dressed in bridal finery with their faces charred beyond recognition. Witness as a troubled cop in rural India confronts his own demons while pursuing a complex case that tests his moral boundaries and beliefs.",
-      "releaseInfo": 2026,
-      "imdbRating": 7.1
     },
     {
       "id": "tt35064672",
@@ -401,26 +401,6 @@
       "imdbRating": 6.1
     },
     {
-      "id": "tt33028778",
-      "type": "movie",
-      "name": "Primate",
-      "poster": "https://images.metahub.space/poster/medium/tt33028778/img",
-      "background": "https://images.metahub.space/background/medium/tt33028778/img",
-      "description": "A group of friends' tropical vacation turns into a terrifying, primal tale of horror and survival.",
-      "releaseInfo": 2026,
-      "imdbRating": 5.8
-    },
-    {
-      "id": "tt39833109",
-      "type": "movie",
-      "name": "Salmokji: Whispering Water",
-      "poster": "https://images.metahub.space/poster/medium/tt39833109/img",
-      "background": "https://images.metahub.space/background/medium/tt39833109/img",
-      "description": "An incident unfolds when a film crew goes to a reservoir to update the road view where an unidentified figure was filmed, and they encounter something in the dark, deep waters.",
-      "releaseInfo": 2026,
-      "imdbRating": 5.6
-    },
-    {
       "id": "tt31184028",
       "type": "movie",
       "name": "Together",
@@ -439,6 +419,16 @@
       "description": "Coriolanus Snow mentors and develops feelings for the female District 12 tribute during the 10th Hunger Games.",
       "releaseInfo": 2023,
       "imdbRating": 6.6
+    },
+    {
+      "id": "tt10698680",
+      "type": "movie",
+      "name": "K.G.F: Chapter 2",
+      "poster": "https://images.metahub.space/poster/medium/tt10698680/img",
+      "background": "https://images.metahub.space/background/medium/tt10698680/img",
+      "description": "In the blood-soaked Kolar Gold Fields, Rocky's name strikes fear into his foes, while the government sees him as a threat to law and order. Rocky must battle threats from all sides for unchallenged supremacy.",
+      "releaseInfo": 2022,
+      "imdbRating": 8.2
     },
     {
       "id": "tt34385135",
@@ -491,14 +481,24 @@
       "imdbRating": 6.3
     },
     {
-      "id": "tt1951265",
+      "id": "tt3746920",
       "type": "movie",
-      "name": "The Hunger Games: Mockingjay - Part 1",
-      "poster": "https://images.metahub.space/poster/medium/tt1951265/img",
-      "background": "https://images.metahub.space/background/medium/tt1951265/img",
-      "description": "After surviving the Quarter Quell, Katniss finds herself in the hidden stronghold of District 13, where the rebellion against the Capitol is gaining momentum. Struggling with the weight of becoming the symbol of resistance, she must navigate fragile alliances while trying to protect those she loves. As propaganda battles rage and Panem moves closer to full-scale war, Katniss is forced to confront the true cost of revolution.",
-      "releaseInfo": 2014,
-      "imdbRating": 6.6
+      "name": "The Change-Up",
+      "poster": "https://images.metahub.space/poster/medium/tt3746920/img",
+      "background": "https://images.metahub.space/background/medium/tt3746920/img",
+      "description": "Lifelong friends Dave and Mitch are envious of the other's life. Mitch thinks Dave has it all: a beautiful, loving family and a high-paying job at a prestigious law firm. But Dave thinks Mitch’s stress-free playboy life without obligation or consequence is the real dream come true. One fateful drunken night, they both admit that they wish they had the other’s life while peeing in a fountain when lightning strikes. The next morning, they wake up, hungover, in each other’s bodies! With time not on their side, Mitch and Dave comically struggle to avoid completely destroying each other’s lives before they can find a way to get their old ones back.",
+      "releaseInfo": 2011,
+      "imdbRating": 6.3
+    },
+    {
+      "id": "tt27196021",
+      "type": "movie",
+      "name": "Small Things Like These",
+      "poster": "https://images.metahub.space/poster/medium/tt27196021/img",
+      "background": "https://images.metahub.space/background/medium/tt27196021/img",
+      "description": "In 1985, while working as a coal merchant to support his family, Bill Furlong discovers disturbing secrets kept by the local convent and uncovers truths of his own; forcing him to confront his past and the complicit silence of a small Irish town controlled by the Catholic Church.",
+      "releaseInfo": 2024,
+      "imdbRating": 6.7
     }
   ]
 }
