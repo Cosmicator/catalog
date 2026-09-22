@@ -341,6 +341,16 @@
       "imdbRating": 5.8
     },
     {
+      "id": "tt0101540",
+      "type": "movie",
+      "name": "Cape Fear",
+      "poster": "https://images.metahub.space/poster/medium/tt0101540/img",
+      "background": "https://images.metahub.space/background/medium/tt0101540/img",
+      "description": "Sam Bowden is a small-town corporate attorney. Max Cady is a tattooed, cigar-smoking, Bible-quoting, psychotic rapist. What do they have in common? 14 years ago, Sam was a public defender assigned to Max Cady's rape trial, and he made a serious error: he hid a document from his illiterate client that could have gotten him acquitted. Now, the cagey Cady has been released, and he intends to teach Sam Bowden and his family a thing or two about loss.",
+      "releaseInfo": 1991,
+      "imdbRating": 7.3
+    },
+    {
       "id": "tt0293429",
       "type": "movie",
       "name": "Mortal Kombat",
@@ -411,6 +421,16 @@
       "imdbRating": 5.6
     },
     {
+      "id": "tt0112641",
+      "type": "movie",
+      "name": "Casino",
+      "poster": "https://images.metahub.space/poster/medium/tt0112641/img",
+      "background": "https://images.metahub.space/background/medium/tt0112641/img",
+      "description": "In Las Vegas, two best friends--a casino executive and a Mafia enforcer--compete for a gambling empire and a fast-living, fast-loving socialite.",
+      "releaseInfo": 1995,
+      "imdbRating": 8.2
+    },
+    {
       "id": "tt10545296",
       "type": "movie",
       "name": "The Hunger Games: The Ballad of Songbirds & Snakes",
@@ -461,16 +481,6 @@
       "imdbRating": 7.8
     },
     {
-      "id": "tt0101540",
-      "type": "movie",
-      "name": "Cape Fear",
-      "poster": "https://images.metahub.space/poster/medium/tt0101540/img",
-      "background": "https://images.metahub.space/background/medium/tt0101540/img",
-      "description": "Sam Bowden is a small-town corporate attorney. Max Cady is a tattooed, cigar-smoking, Bible-quoting, psychotic rapist. What do they have in common? 14 years ago, Sam was a public defender assigned to Max Cady's rape trial, and he made a serious error: he hid a document from his illiterate client that could have gotten him acquitted. Now, the cagey Cady has been released, and he intends to teach Sam Bowden and his family a thing or two about loss.",
-      "releaseInfo": 1991,
-      "imdbRating": 7.3
-    },
-    {
       "id": "tt43665767",
       "type": "movie",
       "name": "Maharaja Hostel",
@@ -481,24 +491,14 @@
       "imdbRating": 4.4
     },
     {
-      "id": "tt11953194",
+      "id": "tt0207201",
       "type": "movie",
-      "name": "Hey! Sinamika",
-      "poster": "https://images.metahub.space/poster/medium/tt11953194/img",
-      "background": "https://images.metahub.space/background/medium/tt11953194/img",
-      "description": "A wife who feels suffocated by her husband's incessant attention hires a psychologist to make him fall in love with her so that she can separate from him.",
-      "releaseInfo": 2022,
-      "imdbRating": 6.3
-    },
-    {
-      "id": "tt27196021",
-      "type": "movie",
-      "name": "Small Things Like These",
-      "poster": "https://images.metahub.space/poster/medium/tt27196021/img",
-      "background": "https://images.metahub.space/background/medium/tt27196021/img",
-      "description": "In 1985, while working as a coal merchant to support his family, Bill Furlong discovers disturbing secrets kept by the local convent and uncovers truths of his own; forcing him to confront his past and the complicit silence of a small Irish town controlled by the Catholic Church.",
-      "releaseInfo": 2024,
-      "imdbRating": 6.7
+      "name": "What Women Want",
+      "poster": "https://images.metahub.space/poster/medium/tt0207201/img",
+      "background": "https://images.metahub.space/background/medium/tt0207201/img",
+      "description": "Advertising executive Nick Marshall is as cocky as they come, but what happens to a chauvinistic guy when he can suddenly hear what women are thinking? Nick gets passed over for a promotion, but after an accident enables him to hear women's thoughts, he puts his newfound talent to work against Darcy, his new boss, who seems to be infatuated with him.",
+      "releaseInfo": 2000,
+      "imdbRating": 6.5
     }
   ]
 }

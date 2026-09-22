@@ -89,17 +89,6 @@
       "imdbRating": "8.9"
     },
     {
-      "id": "tt0108778",
-      "type": "series",
-      "name": "Friends",
-      "poster": "https://images.metahub.space/poster/small/tt0108778/img",
-      "background": "https://images.metahub.space/background/medium/tt0108778/img",
-      "logo": "https://images.metahub.space/logo/medium/tt0108778/img",
-      "description": "The personal and professional lives of six friends living in the Manhattan borough of New York City.",
-      "releaseInfo": "1994–2004",
-      "imdbRating": "8.8"
-    },
-    {
       "id": "tt35495073",
       "type": "series",
       "name": "Heated Rivalry",
@@ -108,6 +97,17 @@
       "logo": "https://images.metahub.space/logo/medium/tt35495073/img",
       "description": "Two rival hockey stars at the top of their game face an unexpected challenge when they develop feelings for each other, complicating their careers and the sport's expectations.",
       "releaseInfo": "2025–",
+      "imdbRating": "8.8"
+    },
+    {
+      "id": "tt0108778",
+      "type": "series",
+      "name": "Friends",
+      "poster": "https://images.metahub.space/poster/small/tt0108778/img",
+      "background": "https://images.metahub.space/background/medium/tt0108778/img",
+      "logo": "https://images.metahub.space/logo/medium/tt0108778/img",
+      "description": "The personal and professional lives of six friends living in the Manhattan borough of New York City.",
+      "releaseInfo": "1994–2004",
       "imdbRating": "8.8"
     },
     {
@@ -144,6 +144,17 @@
       "imdbRating": "8.7"
     },
     {
+      "id": "tt0098936",
+      "type": "series",
+      "name": "Twin Peaks",
+      "poster": "https://images.metahub.space/poster/small/tt0098936/img",
+      "background": "https://images.metahub.space/background/medium/tt0098936/img",
+      "logo": "https://images.metahub.space/logo/medium/tt0098936/img",
+      "description": "An idiosyncratic FBI agent investigates the murder of a young woman in the even more idiosyncratic town of Twin Peaks.",
+      "releaseInfo": "1990–1991",
+      "imdbRating": "8.7"
+    },
+    {
       "id": "tt5687612",
       "type": "series",
       "name": "Fleabag",
@@ -174,6 +185,17 @@
       "logo": "https://live.metahub.space/logo/medium/tt31862809/img",
       "description": "RK Multispeciality Hospital is a beacon of hope and healing. Its doctors are resilient even when they have to deal with medical and personal challenges.",
       "releaseInfo": "2024–",
+      "imdbRating": "8.6"
+    },
+    {
+      "id": "tt1489428",
+      "type": "series",
+      "name": "Justified",
+      "poster": "https://images.metahub.space/poster/small/tt1489428/img",
+      "background": "https://images.metahub.space/background/medium/tt1489428/img",
+      "logo": "https://images.metahub.space/logo/medium/tt1489428/img",
+      "description": "Enforcing his own brand of justice, U.S. Marshal Raylan Givens, a strong-willed, quiet law-man haunted by his past, returns to his native town to see that justice is served to those in need.",
+      "releaseInfo": "2010–2015",
       "imdbRating": "8.6"
     },
     {
@@ -218,28 +240,6 @@
       "logo": "https://images.metahub.space/logo/medium/tt12343534/img",
       "description": "After Yuji Itadori swallows a cursed talisman - the finger of a demon - he becomes cursed himself. He enters a shaman's school to be able to locate the demon's other body parts and thus exorcise himself.",
       "releaseInfo": "2020–",
-      "imdbRating": "8.5"
-    },
-    {
-      "id": "tt3526078",
-      "type": "series",
-      "name": "Schitt's Creek",
-      "poster": "https://images.metahub.space/poster/small/tt3526078/img",
-      "background": "https://images.metahub.space/background/medium/tt3526078/img",
-      "logo": "https://images.metahub.space/logo/medium/tt3526078/img",
-      "description": "After being a victim of fraud, Johnny Rose and his family go from extremely wealthy to penniless overnight. The only asset left to them is a small, unsophisticated town: Schitt's Creek. They relocate there. Culture shock ensues.",
-      "releaseInfo": "2015–2020",
-      "imdbRating": "8.5"
-    },
-    {
-      "id": "tt6763664",
-      "type": "series",
-      "name": "The Haunting of Hill House",
-      "poster": "https://images.metahub.space/poster/small/tt6763664/img",
-      "background": "https://images.metahub.space/background/medium/tt6763664/img",
-      "logo": "https://images.metahub.space/logo/medium/tt6763664/img",
-      "description": "Flashing between past and present, a fractured family confronts haunting memories of their old home and the terrifying events that drove them from it.",
-      "releaseInfo": "2018",
       "imdbRating": "8.5"
     },
     {
@@ -298,17 +298,6 @@
       "imdbRating": "8.4"
     },
     {
-      "id": "tt37442772",
-      "type": "series",
-      "name": "The Dynasty: UConn Huskies",
-      "poster": "https://live.metahub.space/poster/small/tt37442772/img",
-      "background": "https://live.metahub.space/background/medium/tt37442772/img",
-      "logo": "https://live.metahub.space/logo/medium/tt37442772/img",
-      "description": "Go inside the most dominant program in college basketball history as Geno Auriemma pushes his players to the limit to win 12 titles. Rebecca Lobo, Diana Taurasi, Paige Bueckers, and more reveal what it takes to survive UConn and build a dynasty.",
-      "releaseInfo": "2026–2026",
-      "imdbRating": "8.4"
-    },
-    {
       "id": "tt5875444",
       "type": "series",
       "name": "Slow Horses",
@@ -350,6 +339,28 @@
       "logo": "https://images.metahub.space/logo/medium/tt3655448/img",
       "description": "The beginning of the pontificate of Lenny Belardo, alias Pius XIII, the first American Pope in history.",
       "releaseInfo": "2016",
+      "imdbRating": "8.3"
+    },
+    {
+      "id": "tt37442772",
+      "type": "series",
+      "name": "The Dynasty: UConn Huskies",
+      "poster": "https://live.metahub.space/poster/small/tt37442772/img",
+      "background": "https://live.metahub.space/background/medium/tt37442772/img",
+      "logo": "https://live.metahub.space/logo/medium/tt37442772/img",
+      "description": "Go inside the most dominant program in college basketball history as Geno Auriemma pushes his players to the limit to win 12 titles. Rebecca Lobo, Diana Taurasi, Paige Bueckers, and more reveal what it takes to survive UConn and build a dynasty.",
+      "releaseInfo": "2026–2026",
+      "imdbRating": "8.3"
+    },
+    {
+      "id": "tt0455275",
+      "type": "series",
+      "name": "Prison Break",
+      "poster": "https://images.metahub.space/poster/small/tt0455275/img",
+      "background": "https://images.metahub.space/background/medium/tt0455275/img",
+      "logo": "https://images.metahub.space/logo/medium/tt0455275/img",
+      "description": "A structural engineer installs himself in a prison his company helped design, to save his falsely accused brother from a death sentence by breaking both of them out from the inside.",
+      "releaseInfo": "2005–2017",
       "imdbRating": "8.3"
     },
     {
@@ -408,17 +419,6 @@
       "imdbRating": "8.2"
     },
     {
-      "id": "tt40856520",
-      "type": "series",
-      "name": "Adarsh Baal Vidyalaya",
-      "poster": "https://live.metahub.space/poster/small/tt40856520/img",
-      "background": "https://live.metahub.space/background/medium/tt40856520/img",
-      "logo": "https://live.metahub.space/logo/medium/tt40856520/img",
-      "description": "A relaxed principal tries to reform a failing public school, triggering a messy transformation as misfit teachers work to repair the system one lesson at a time.",
-      "releaseInfo": "2026–2026",
-      "imdbRating": "8.2"
-    },
-    {
       "id": "tt14688458",
       "type": "series",
       "name": "Silo",
@@ -463,6 +463,17 @@
       "imdbRating": "8.1"
     },
     {
+      "id": "tt0914387",
+      "type": "series",
+      "name": "Damages",
+      "poster": "https://images.metahub.space/poster/small/tt0914387/img",
+      "background": "https://images.metahub.space/background/medium/tt0914387/img",
+      "logo": "https://images.metahub.space/logo/medium/tt0914387/img",
+      "description": "A law school graduate becomes the protégée of a successful high-stakes litigator.",
+      "releaseInfo": "2007–2012",
+      "imdbRating": "8.1"
+    },
+    {
       "id": "tt0883772",
       "type": "series",
       "name": "Man vs. Wild",
@@ -496,25 +507,14 @@
       "imdbRating": "8.1"
     },
     {
-      "id": "tt2805096",
+      "id": "tt40856520",
       "type": "series",
-      "name": "Chicago P.D.",
-      "poster": "https://images.metahub.space/poster/small/tt2805096/img",
-      "background": "https://images.metahub.space/background/medium/tt2805096/img",
-      "logo": "https://images.metahub.space/logo/medium/tt2805096/img",
-      "description": "Follows the lives of the personnel of the fictional 21st District, which houses both uniformed officers and the department's elite Intelligence Unit as they fight every day to keep the city of Chicago, Illinois safe.",
-      "releaseInfo": "2014–",
-      "imdbRating": "8.1"
-    },
-    {
-      "id": "tt1515193",
-      "type": "series",
-      "name": "The Big C",
-      "poster": "https://images.metahub.space/poster/small/tt1515193/img",
-      "background": "https://images.metahub.space/background/medium/tt1515193/img",
-      "logo": "https://images.metahub.space/logo/medium/tt1515193/img",
-      "description": "A suburban mother faces her cancer diagnosis while trying to find humor and happiness as well.",
-      "releaseInfo": "2010–2013",
+      "name": "Adarsh Baal Vidyalaya",
+      "poster": "https://live.metahub.space/poster/small/tt40856520/img",
+      "background": "https://live.metahub.space/background/medium/tt40856520/img",
+      "logo": "https://live.metahub.space/logo/medium/tt40856520/img",
+      "description": "A relaxed principal tries to reform a failing public school, triggering a messy transformation as misfit teachers work to repair the system one lesson at a time.",
+      "releaseInfo": "2026–2026",
       "imdbRating": "8.1"
     },
     {
