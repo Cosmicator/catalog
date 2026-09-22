@@ -101,11 +101,11 @@
       "imdbRating": 5.7
     },
     {
-      "id": "tt32093575",
+      "id": "tt32126621",
       "type": "movie",
       "name": "Scary Movie",
-      "poster": "https://images.metahub.space/poster/medium/tt32093575/img",
-      "background": "https://images.metahub.space/background/medium/tt32093575/img",
+      "poster": "https://images.metahub.space/poster/medium/tt32126621/img",
+      "background": "https://images.metahub.space/background/medium/tt32126621/img",
       "description": "Two friends find themselves caught up in mayhem involving killers, monsters and supernatural creatures once again.",
       "releaseInfo": 2026,
       "imdbRating": 4.8
@@ -129,6 +129,16 @@
       "description": "Science teacher Ryland Grace wakes up on a spaceship light years from home with no recollection of who he is or how he got there. As his memory returns, he begins to uncover his mission: solve the riddle of the mysterious substance causing the sun to die out. He must call on his scientific knowledge and unorthodox ideas to save everything on Earth from extinction.",
       "releaseInfo": 2026,
       "imdbRating": 8.2
+    },
+    {
+      "id": "tt0138510",
+      "type": "movie",
+      "name": "Idle Hands",
+      "poster": "https://images.metahub.space/poster/medium/tt0138510/img",
+      "background": "https://images.metahub.space/background/medium/tt0138510/img",
+      "description": "Anton is a cheerful but exceedingly non-ambitious 17-year-old stoner who lives to stay buzzed, watch TV, and moon over Molly, the beautiful girl who lives next door. However, it turns out that the old cliché about idle hands being the devil's playground has a kernel of truth after all.",
+      "releaseInfo": 1999,
+      "imdbRating": 6.3
     },
     {
       "id": "tt41228546",
@@ -181,26 +191,6 @@
       "imdbRating": 5.7
     },
     {
-      "id": "tt0138510",
-      "type": "movie",
-      "name": "Idle Hands",
-      "poster": "https://images.metahub.space/poster/medium/tt0138510/img",
-      "background": "https://images.metahub.space/background/medium/tt0138510/img",
-      "description": "Anton is a cheerful but exceedingly non-ambitious 17-year-old stoner who lives to stay buzzed, watch TV, and moon over Molly, the beautiful girl who lives next door. However, it turns out that the old cliché about idle hands being the devil's playground has a kernel of truth after all.",
-      "releaseInfo": 1999,
-      "imdbRating": 6.3
-    },
-    {
-      "id": "tt0780653",
-      "type": "movie",
-      "name": "The Wolfman",
-      "poster": "https://images.metahub.space/poster/medium/tt0780653/img",
-      "background": "https://images.metahub.space/background/medium/tt0780653/img",
-      "description": "Lawrence Talbot, an American man on a visit to Victorian London to make amends with his estranged father, gets bitten by a werewolf and, after a moonlight transformation, leaves him with a savage hunger for flesh.",
-      "releaseInfo": 2010,
-      "imdbRating": 5.9
-    },
-    {
       "id": "tt28650488",
       "type": "movie",
       "name": "The Super Mario Galaxy Movie",
@@ -209,16 +199,6 @@
       "description": "Having thwarted Bowser's previous plot to marry Princess Peach, Mario and Luigi now face a fresh threat in Bowser Jr., who is determined to liberate his father from captivity and restore the family legacy. Alongside companions new and old, the brothers travel across the stars to stop the young heir's crusade.",
       "releaseInfo": 2026,
       "imdbRating": 6.3
-    },
-    {
-      "id": "tt0117381",
-      "type": "movie",
-      "name": "Primal Fear",
-      "poster": "https://images.metahub.space/poster/medium/tt0117381/img",
-      "background": "https://images.metahub.space/background/medium/tt0117381/img",
-      "description": "Defense attorney Martin Vail takes on jobs for money and prestige rather than any sense of the greater good. His latest case involves an altar boy, accused of brutally murdering the archbishop of Chicago. Vail finds himself up against his ex-pupil and ex-lover, but as the case progresses and the Church's dark secrets are revealed, Vail finds that what appeared a simple case takes on a darker, more dangerous aspect.",
-      "releaseInfo": 1996,
-      "imdbRating": 7.7
     },
     {
       "id": "tt33240865",
@@ -261,13 +241,13 @@
       "imdbRating": 6.4
     },
     {
-      "id": "tt0240772",
+      "id": "tt0117381",
       "type": "movie",
-      "name": "Ocean's Eleven",
-      "poster": "https://images.metahub.space/poster/medium/tt0240772/img",
-      "background": "https://images.metahub.space/background/medium/tt0240772/img",
-      "description": "Less than 24 hours into his parole, charismatic thief Danny Ocean is already rolling out his next plan: In one night, Danny's hand-picked crew of specialists will attempt to steal more than $150 million from three Las Vegas casinos. But to score the cash, Danny risks his chances of reconciling with ex-wife, Tess.",
-      "releaseInfo": 2001,
+      "name": "Primal Fear",
+      "poster": "https://images.metahub.space/poster/medium/tt0117381/img",
+      "background": "https://images.metahub.space/background/medium/tt0117381/img",
+      "description": "Defense attorney Martin Vail takes on jobs for money and prestige rather than any sense of the greater good. His latest case involves an altar boy, accused of brutally murdering the archbishop of Chicago. Vail finds himself up against his ex-pupil and ex-lover, but as the case progresses and the Church's dark secrets are revealed, Vail finds that what appeared a simple case takes on a darker, more dangerous aspect.",
+      "releaseInfo": 1996,
       "imdbRating": 7.7
     },
     {
@@ -339,6 +319,16 @@
       "description": "When an unexpected and ruthless adversary strikes too close to home, Kara Zor-El, aka Supergirl, reluctantly joins forces with an unlikely companion on an epic, interstellar journey of vengeance and justice.",
       "releaseInfo": 2026,
       "imdbRating": 5.8
+    },
+    {
+      "id": "tt0976051",
+      "type": "movie",
+      "name": "The Reader",
+      "poster": "https://images.metahub.space/poster/medium/tt0976051/img",
+      "background": "https://images.metahub.space/background/medium/tt0976051/img",
+      "description": "The story of Michael Berg, a German lawyer who, as a teenager in the late 1950s, had an affair with an older woman, Hanna, who then disappeared only to resurface years later as one of the defendants in a war crimes trial stemming from her actions as a concentration camp guard late in the war. He alone realizes that Hanna is illiterate and may be concealing that fact at the expense of her freedom.",
+      "releaseInfo": 2008,
+      "imdbRating": 7.6
     },
     {
       "id": "tt0101540",
@@ -499,6 +489,16 @@
       "description": "Advertising executive Nick Marshall is as cocky as they come, but what happens to a chauvinistic guy when he can suddenly hear what women are thinking? Nick gets passed over for a promotion, but after an accident enables him to hear women's thoughts, he puts his newfound talent to work against Darcy, his new boss, who seems to be infatuated with him.",
       "releaseInfo": 2000,
       "imdbRating": 6.5
+    },
+    {
+      "id": "tt11953194",
+      "type": "movie",
+      "name": "Hey! Sinamika",
+      "poster": "https://images.metahub.space/poster/medium/tt11953194/img",
+      "background": "https://images.metahub.space/background/medium/tt11953194/img",
+      "description": "A wife who feels suffocated by her husband's incessant attention hires a psychologist to make him fall in love with her so that she can separate from him.",
+      "releaseInfo": 2022,
+      "imdbRating": 6.3
     }
   ]
 }

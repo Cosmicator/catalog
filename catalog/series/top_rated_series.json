@@ -12,15 +12,15 @@
       "imdbRating": "9.5"
     },
     {
-      "id": "tt7366338",
+      "id": "tt43730117",
       "type": "series",
-      "name": "Chernobyl",
-      "poster": "https://images.metahub.space/poster/small/tt7366338/img",
-      "background": "https://images.metahub.space/background/medium/tt7366338/img",
-      "logo": "https://images.metahub.space/logo/medium/tt7366338/img",
-      "description": "In April 1986, the city of Chernobyl in the Soviet Union suffers one of the worst nuclear disasters in the history of mankind. Consequently, many heroes put their lives on the line in the following days, weeks and months.",
-      "releaseInfo": "2019",
-      "imdbRating": "9.3"
+      "name": "Declassified: Operation Sindoor",
+      "poster": "https://live.metahub.space/poster/small/tt43730117/img",
+      "background": "https://live.metahub.space/background/medium/tt43730117/img",
+      "logo": "https://live.metahub.space/logo/medium/tt43730117/img",
+      "description": "Following the Pahalgam terror attack in April, India's military leadership deliberates and plans Operation Sindoor, an 88-hour military operation launched on May 7, featuring accounts from operatives and experts.",
+      "releaseInfo": "2026–2026",
+      "imdbRating": "9.2"
     },
     {
       "id": "tt0944947",
@@ -133,17 +133,6 @@
       "imdbRating": "8.7"
     },
     {
-      "id": "tt5753856",
-      "type": "series",
-      "name": "Dark",
-      "poster": "https://images.metahub.space/poster/small/tt5753856/img",
-      "background": "https://images.metahub.space/background/medium/tt5753856/img",
-      "logo": "https://images.metahub.space/logo/medium/tt5753856/img",
-      "description": "A family saga with a supernatural twist, set in a German town where the disappearance of two young children exposes the relationships among four families.",
-      "releaseInfo": "2017–2020",
-      "imdbRating": "8.7"
-    },
-    {
       "id": "tt0098936",
       "type": "series",
       "name": "Twin Peaks",
@@ -152,6 +141,17 @@
       "logo": "https://images.metahub.space/logo/medium/tt0098936/img",
       "description": "An idiosyncratic FBI agent investigates the murder of a young woman in the even more idiosyncratic town of Twin Peaks.",
       "releaseInfo": "1990–1991",
+      "imdbRating": "8.7"
+    },
+    {
+      "id": "tt5753856",
+      "type": "series",
+      "name": "Dark",
+      "poster": "https://images.metahub.space/poster/small/tt5753856/img",
+      "background": "https://images.metahub.space/background/medium/tt5753856/img",
+      "logo": "https://images.metahub.space/logo/medium/tt5753856/img",
+      "description": "A family saga with a supernatural twist, set in a German town where the disappearance of two young children exposes the relationships among four families.",
+      "releaseInfo": "2017–2020",
       "imdbRating": "8.7"
     },
     {
@@ -196,6 +196,17 @@
       "logo": "https://images.metahub.space/logo/medium/tt1489428/img",
       "description": "Enforcing his own brand of justice, U.S. Marshal Raylan Givens, a strong-willed, quiet law-man haunted by his past, returns to his native town to see that justice is served to those in need.",
       "releaseInfo": "2010–2015",
+      "imdbRating": "8.6"
+    },
+    {
+      "id": "tt21211770",
+      "type": "series",
+      "name": "Solo Leveling",
+      "poster": "https://images.metahub.space/poster/small/tt21211770/img",
+      "background": "https://images.metahub.space/background/medium/tt21211770/img",
+      "logo": "https://images.metahub.space/logo/medium/tt21211770/img",
+      "description": "Follows the adventures of Sung Jinwoo in a world that is constantly threatened by monsters and evil forces. In his battles Sung transforms himself from the weakest hunter of all mankind to one of the strongest hunters in existence.",
+      "releaseInfo": "2024–",
       "imdbRating": "8.6"
     },
     {
@@ -265,6 +276,17 @@
       "imdbRating": "8.4"
     },
     {
+      "id": "tt6473300",
+      "type": "series",
+      "name": "Mirzapur",
+      "poster": "https://images.metahub.space/poster/small/tt6473300/img",
+      "background": "https://images.metahub.space/background/medium/tt6473300/img",
+      "logo": "https://images.metahub.space/logo/medium/tt6473300/img",
+      "description": "A shocking incident at a wedding procession ignites a series of events entangling the lives of two families in the lawless city of Mirzapur.",
+      "releaseInfo": "2018–",
+      "imdbRating": "8.4"
+    },
+    {
       "id": "tt9059760",
       "type": "series",
       "name": "Normal People",
@@ -276,14 +298,14 @@
       "imdbRating": "8.4"
     },
     {
-      "id": "tt6473300",
+      "id": "tt37442772",
       "type": "series",
-      "name": "Mirzapur",
-      "poster": "https://images.metahub.space/poster/small/tt6473300/img",
-      "background": "https://images.metahub.space/background/medium/tt6473300/img",
-      "logo": "https://images.metahub.space/logo/medium/tt6473300/img",
-      "description": "A shocking incident at a wedding procession ignites a series of events entangling the lives of two families in the lawless city of Mirzapur.",
-      "releaseInfo": "2018–",
+      "name": "The Dynasty: UConn Huskies",
+      "poster": "https://live.metahub.space/poster/small/tt37442772/img",
+      "background": "https://live.metahub.space/background/medium/tt37442772/img",
+      "logo": "https://live.metahub.space/logo/medium/tt37442772/img",
+      "description": "Go inside the most dominant program in college basketball history as Geno Auriemma pushes his players to the limit to win 12 titles. Rebecca Lobo, Diana Taurasi, Paige Bueckers, and more reveal what it takes to survive UConn and build a dynasty.",
+      "releaseInfo": "2026–2026",
       "imdbRating": "8.4"
     },
     {
@@ -339,17 +361,6 @@
       "logo": "https://images.metahub.space/logo/medium/tt3655448/img",
       "description": "The beginning of the pontificate of Lenny Belardo, alias Pius XIII, the first American Pope in history.",
       "releaseInfo": "2016",
-      "imdbRating": "8.3"
-    },
-    {
-      "id": "tt37442772",
-      "type": "series",
-      "name": "The Dynasty: UConn Huskies",
-      "poster": "https://live.metahub.space/poster/small/tt37442772/img",
-      "background": "https://live.metahub.space/background/medium/tt37442772/img",
-      "logo": "https://live.metahub.space/logo/medium/tt37442772/img",
-      "description": "Go inside the most dominant program in college basketball history as Geno Auriemma pushes his players to the limit to win 12 titles. Rebecca Lobo, Diana Taurasi, Paige Bueckers, and more reveal what it takes to survive UConn and build a dynasty.",
-      "releaseInfo": "2026–2026",
       "imdbRating": "8.3"
     },
     {
@@ -419,6 +430,39 @@
       "imdbRating": "8.2"
     },
     {
+      "id": "tt9140554",
+      "type": "series",
+      "name": "Loki",
+      "poster": "https://images.metahub.space/poster/small/tt9140554/img",
+      "background": "https://images.metahub.space/background/medium/tt9140554/img",
+      "logo": "https://images.metahub.space/logo/medium/tt9140554/img",
+      "description": "The mercurial villain Loki resumes his role as the God of Mischief in a new series that takes place after the events of “Avengers: Endgame.”",
+      "releaseInfo": "2021–2023",
+      "imdbRating": "8.2"
+    },
+    {
+      "id": "tt8062474",
+      "type": "series",
+      "name": "21 Sarfarosh Saragarhi 1897",
+      "poster": "https://images.metahub.space/poster/small/tt8062474/img",
+      "background": "https://images.metahub.space/background/medium/tt8062474/img",
+      "logo": "https://images.metahub.space/logo/medium/tt8062474/img",
+      "description": "A chronicle of the lives and events that led to the brave and epic last stand of the 21 soldiers of the 36th Sikh regiment of the British Indian Army against thousands of Afghani invaders in the September of 1897.",
+      "releaseInfo": "2018–",
+      "imdbRating": "8.2"
+    },
+    {
+      "id": "tt40856520",
+      "type": "series",
+      "name": "Adarsh Baal Vidyalaya",
+      "poster": "https://live.metahub.space/poster/small/tt40856520/img",
+      "background": "https://live.metahub.space/background/medium/tt40856520/img",
+      "logo": "https://live.metahub.space/logo/medium/tt40856520/img",
+      "description": "A relaxed principal tries to reform a failing public school, triggering a messy transformation as misfit teachers work to repair the system one lesson at a time.",
+      "releaseInfo": "2026–2026",
+      "imdbRating": "8.2"
+    },
+    {
       "id": "tt14688458",
       "type": "series",
       "name": "Silo",
@@ -485,17 +529,6 @@
       "imdbRating": "8.1"
     },
     {
-      "id": "tt4301160",
-      "type": "series",
-      "name": "Black Bird",
-      "poster": "https://images.metahub.space/poster/small/tt4301160/img",
-      "background": "https://images.metahub.space/background/medium/tt4301160/img",
-      "logo": "https://images.metahub.space/logo/medium/tt4301160/img",
-      "description": "Jimmy Keene is sentenced to 10 years in a minimum security prison but he cuts a deal with the FBI to befriend a suspected serial killer. Keene has to elicit a confession from Larry Hall to find the bodies of as many as eighteen wo...",
-      "releaseInfo": "2022",
-      "imdbRating": "8.1"
-    },
-    {
       "id": "tt7203552",
       "type": "series",
       "name": "The Morning Show",
@@ -507,17 +540,6 @@
       "imdbRating": "8.1"
     },
     {
-      "id": "tt40856520",
-      "type": "series",
-      "name": "Adarsh Baal Vidyalaya",
-      "poster": "https://live.metahub.space/poster/small/tt40856520/img",
-      "background": "https://live.metahub.space/background/medium/tt40856520/img",
-      "logo": "https://live.metahub.space/logo/medium/tt40856520/img",
-      "description": "A relaxed principal tries to reform a failing public school, triggering a messy transformation as misfit teachers work to repair the system one lesson at a time.",
-      "releaseInfo": "2026–2026",
-      "imdbRating": "8.1"
-    },
-    {
       "id": "tt9288030",
       "type": "series",
       "name": "Reacher",
@@ -526,28 +548,6 @@
       "logo": "https://images.metahub.space/logo/medium/tt9288030/img",
       "description": "Itinerant former military policeman Jack Reacher solves crimes and metes out his own brand of street justice. Based on the novels by Lee Child.",
       "releaseInfo": "2022–",
-      "imdbRating": "8.0"
-    },
-    {
-      "id": "tt22202452",
-      "type": "series",
-      "name": "Pluribus",
-      "poster": "https://images.metahub.space/poster/small/tt22202452/img",
-      "background": "https://images.metahub.space/background/medium/tt22202452/img",
-      "logo": "https://images.metahub.space/logo/medium/tt22202452/img",
-      "description": "In a world overtaken by a mysterious wave of forced happiness, Carol Sturka, one of the immune few, must uncover what's really going on - and save humanity from its artificial bliss.",
-      "releaseInfo": "2025–",
-      "imdbRating": "8.0"
-    },
-    {
-      "id": "tt5489746",
-      "type": "series",
-      "name": "Evil Lives Here",
-      "poster": "https://images.metahub.space/poster/small/tt5489746/img",
-      "background": "https://images.metahub.space/background/medium/tt5489746/img",
-      "logo": "https://images.metahub.space/logo/medium/tt5489746/img",
-      "description": "A TV series where individuals share their perspectives of loved ones who committed horrific crimes.",
-      "releaseInfo": "2016–",
       "imdbRating": "8.0"
     }
   ]
