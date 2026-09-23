@@ -166,17 +166,6 @@
       "imdbRating": "8.6"
     },
     {
-      "id": "tt1758429",
-      "type": "series",
-      "name": "Spartacus: Gods of the Arena",
-      "poster": "https://images.metahub.space/poster/small/tt1758429/img",
-      "background": "https://images.metahub.space/background/medium/tt1758429/img",
-      "logo": "https://images.metahub.space/logo/medium/tt1758429/img",
-      "description": "In the time before the arrival of Spartacus, the House of Batiatus faces many challenges from competitors, and within its own household.",
-      "releaseInfo": "2011",
-      "imdbRating": "8.5"
-    },
-    {
       "id": "tt8317568",
       "type": "series",
       "name": "Broken But Beautiful",
@@ -243,6 +232,17 @@
       "imdbRating": "8.5"
     },
     {
+      "id": "tt0475900",
+      "type": "series",
+      "name": "Anthony Bourdain: No Reservations",
+      "poster": "https://images.metahub.space/poster/small/tt0475900/img",
+      "background": "https://images.metahub.space/background/medium/tt0475900/img",
+      "logo": "https://images.metahub.space/logo/medium/tt0475900/img",
+      "description": "Anthony Bourdain, chef, writer, traveler, visits places all around the world sampling various foods.",
+      "releaseInfo": "2005–2012",
+      "imdbRating": "8.5"
+    },
+    {
       "id": "tt26545992",
       "type": "series",
       "name": "Lanterns",
@@ -251,6 +251,17 @@
       "logo": "https://images.metahub.space/logo/medium/tt26545992/img",
       "description": "Lanterns follows new recruit John Stewart and Lantern legend Hal Jordan, two intergalactic cops drawn into a dark, Earth-based mystery as they investigate a murder in the American heartland.",
       "releaseInfo": "2026–",
+      "imdbRating": "8.4"
+    },
+    {
+      "id": "tt1442449",
+      "type": "series",
+      "name": "Spartacus",
+      "poster": "https://images.metahub.space/poster/small/tt1442449/img",
+      "background": "https://images.metahub.space/background/medium/tt1442449/img",
+      "logo": "https://images.metahub.space/logo/medium/tt1442449/img",
+      "description": "The life of Spartacus, the gladiator who led a rebellion against the Romans.",
+      "releaseInfo": "2010–2013",
       "imdbRating": "8.4"
     },
     {
@@ -273,6 +284,17 @@
       "logo": "https://images.metahub.space/logo/medium/tt9059760/img",
       "description": "A man and a woman embark on an on-again/off-again romance that starts at school and continues through college, testing their relationship as they explore different versions of themselves.",
       "releaseInfo": "2020",
+      "imdbRating": "8.4"
+    },
+    {
+      "id": "tt37442772",
+      "type": "series",
+      "name": "The Dynasty: UConn Huskies",
+      "poster": "https://live.metahub.space/poster/small/tt37442772/img",
+      "background": "https://live.metahub.space/background/medium/tt37442772/img",
+      "logo": "https://live.metahub.space/logo/medium/tt37442772/img",
+      "description": "Go inside the most dominant program in college basketball history as Geno Auriemma pushes his players to the limit to win 12 titles. Rebecca Lobo, Diana Taurasi, Paige Bueckers, and more reveal what it takes to survive UConn and build a dynasty.",
+      "releaseInfo": "2026–2026",
       "imdbRating": "8.4"
     },
     {
@@ -339,17 +361,6 @@
       "logo": "https://images.metahub.space/logo/medium/tt3655448/img",
       "description": "The beginning of the pontificate of Lenny Belardo, alias Pius XIII, the first American Pope in history.",
       "releaseInfo": "2016",
-      "imdbRating": "8.3"
-    },
-    {
-      "id": "tt37442772",
-      "type": "series",
-      "name": "The Dynasty: UConn Huskies",
-      "poster": "https://live.metahub.space/poster/small/tt37442772/img",
-      "background": "https://live.metahub.space/background/medium/tt37442772/img",
-      "logo": "https://live.metahub.space/logo/medium/tt37442772/img",
-      "description": "Go inside the most dominant program in college basketball history as Geno Auriemma pushes his players to the limit to win 12 titles. Rebecca Lobo, Diana Taurasi, Paige Bueckers, and more reveal what it takes to survive UConn and build a dynasty.",
-      "releaseInfo": "2026–2026",
       "imdbRating": "8.3"
     },
     {
@@ -537,17 +548,6 @@
       "logo": "https://images.metahub.space/logo/medium/tt22202452/img",
       "description": "In a world overtaken by a mysterious wave of forced happiness, Carol Sturka, one of the immune few, must uncover what's really going on - and save humanity from its artificial bliss.",
       "releaseInfo": "2025–",
-      "imdbRating": "8.0"
-    },
-    {
-      "id": "tt20096840",
-      "type": "series",
-      "name": "The Messiah",
-      "poster": "https://images.metahub.space/poster/small/tt20096840/img",
-      "background": "https://images.metahub.space/background/medium/tt20096840/img",
-      "logo": "https://images.metahub.space/logo/medium/tt20096840/img",
-      "description": "It tells the story of Enric, who is heavily impacted by a viral video of a Christian pop band made up of five sisters.",
-      "releaseInfo": "2023",
       "imdbRating": "8.0"
     }
   ]

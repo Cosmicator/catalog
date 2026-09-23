@@ -18,7 +18,7 @@
       "background": "https://images.metahub.space/background/medium/tt42262473/img",
       "description": "Two strangers are brought together at an unusual wedding where, in one night, too many surprises unfold and several lies are told, spiraling into chaos that changes everything.",
       "releaseInfo": 2026,
-      "imdbRating": 7.9
+      "imdbRating": 7.8
     },
     {
       "id": "tt10886166",
@@ -48,7 +48,7 @@
       "background": "https://images.metahub.space/background/medium/tt43737953/img",
       "description": "In a village, two teenagers, Ravi and Chitti, are drawn into a secret relationship as curiosity, adolescence, and bad influences shape their choices. When their families discover the affair, the couple defies them, setting off a chain of events that reveals how parental mistakes, peer pressure, and youthful attraction can alter young lives forever.",
       "releaseInfo": 2026,
-      "imdbRating": 8.4
+      "imdbRating": 8.6
     },
     {
       "id": "tt22890246",
@@ -98,7 +98,7 @@
       "background": "https://images.metahub.space/background/medium/tt35323618/img",
       "description": "A community confronts the devastating impact of pesticide contamination as industrial negligence threatens public health. The fight for accountability exposes systemic failures in regulatory oversight and corporate responsibility.",
       "releaseInfo": 2026,
-      "imdbRating": 6.5
+      "imdbRating": 6.4
     },
     {
       "id": "tt31193180",
@@ -181,6 +181,16 @@
       "imdbRating": 4.4
     },
     {
+      "id": "tt0138510",
+      "type": "movie",
+      "name": "Idle Hands",
+      "poster": "https://images.metahub.space/poster/medium/tt0138510/img",
+      "background": "https://images.metahub.space/background/medium/tt0138510/img",
+      "description": "Anton is a cheerful but exceedingly non-ambitious 17-year-old stoner who lives to stay buzzed, watch TV, and moon over Molly, the beautiful girl who lives next door. However, it turns out that the old cliché about idle hands being the devil's playground has a kernel of truth after all.",
+      "releaseInfo": 1999,
+      "imdbRating": 6.3
+    },
+    {
       "id": "tt39073377",
       "type": "movie",
       "name": "Ram and Leela",
@@ -211,11 +221,11 @@
       "imdbRating": 6.9
     },
     {
-      "id": "tt17346768",
+      "id": "tt17279496",
       "type": "movie",
       "name": "Civil War",
-      "poster": "https://images.metahub.space/poster/medium/tt17346768/img",
-      "background": "https://images.metahub.space/background/medium/tt17346768/img",
+      "poster": "https://images.metahub.space/poster/medium/tt17279496/img",
+      "background": "https://images.metahub.space/background/medium/tt17279496/img",
       "description": "In the midst of a U.S. civil war, four reporters make the dangerous trip to the capital to interview the president before he is overthrown.",
       "releaseInfo": 2024,
       "imdbRating": 7
@@ -279,16 +289,6 @@
       "description": "One night, Magda accidentally discovers the body of a murdered woman wearing a necklace shaped like the letter \"W\"--which is identical to the one Magda's long-lost friend Weronika possessed.",
       "releaseInfo": 2021,
       "imdbRating": 5.5
-    },
-    {
-      "id": "tt0138510",
-      "type": "movie",
-      "name": "Idle Hands",
-      "poster": "https://images.metahub.space/poster/medium/tt0138510/img",
-      "background": "https://images.metahub.space/background/medium/tt0138510/img",
-      "description": "Anton is a cheerful but exceedingly non-ambitious 17-year-old stoner who lives to stay buzzed, watch TV, and moon over Molly, the beautiful girl who lives next door. However, it turns out that the old cliché about idle hands being the devil's playground has a kernel of truth after all.",
-      "releaseInfo": 1999,
-      "imdbRating": 6.3
     },
     {
       "id": "tt31723358",
@@ -369,16 +369,6 @@
       "description": "Susan Morrow receives a book manuscript from her ex-husband – a man she left 20 years earlier – asking for her opinion of his writing. As she reads, she is drawn into the fictional life of Tony Hastings, a mathematics professor whose family vacation turns violent.",
       "releaseInfo": 2016,
       "imdbRating": 7.5
-    },
-    {
-      "id": "tt29439114",
-      "type": "movie",
-      "name": "The Room Next Door",
-      "poster": "https://images.metahub.space/poster/medium/tt29439114/img",
-      "background": "https://images.metahub.space/background/medium/tt29439114/img",
-      "description": "Ingrid and Martha were close friends in their youth, when they worked together at the same magazine. Ingrid went on to become an autofiction novelist while Martha became a war reporter, and they were separated by the circumstances of life. After years of being out of touch, they meet again in an extreme but strangely sweet situation.",
-      "releaseInfo": 2024,
-      "imdbRating": 6.8
     },
     {
       "id": "tt0112641",
@@ -499,6 +489,16 @@
       "description": "The ageing wrestler Sultan Ali Khan decides to try his luck on the mat again; to do this, he wants to represent his country at the Olympic Games, but first has to overcome personal issues.",
       "releaseInfo": 2016,
       "imdbRating": 7.1
+    },
+    {
+      "id": "tt0162661",
+      "type": "movie",
+      "name": "Sleepy Hollow",
+      "poster": "https://images.metahub.space/poster/medium/tt0162661/img",
+      "background": "https://images.metahub.space/background/medium/tt0162661/img",
+      "description": "Skeptical young detective Ichabod Crane gets transferred to the hamlet of Sleepy Hollow, New York, where he is tasked with investigating the decapitations of three people – murders the townsfolk attribute to a legendary specter, The Headless Horseman.",
+      "releaseInfo": 1999,
+      "imdbRating": 7.3
     }
   ]
 }
