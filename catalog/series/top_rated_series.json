@@ -188,17 +188,6 @@
       "imdbRating": "8.5"
     },
     {
-      "id": "tt3526078",
-      "type": "series",
-      "name": "Schitt's Creek",
-      "poster": "https://images.metahub.space/poster/small/tt3526078/img",
-      "background": "https://images.metahub.space/background/medium/tt3526078/img",
-      "logo": "https://images.metahub.space/logo/medium/tt3526078/img",
-      "description": "After being a victim of fraud, Johnny Rose and his family go from extremely wealthy to penniless overnight. The only asset left to them is a small, unsophisticated town: Schitt's Creek. They relocate there. Culture shock ensues.",
-      "releaseInfo": "2015–2020",
-      "imdbRating": "8.5"
-    },
-    {
       "id": "tt12343534",
       "type": "series",
       "name": "Jujutsu Kaisen",
@@ -207,6 +196,17 @@
       "logo": "https://images.metahub.space/logo/medium/tt12343534/img",
       "description": "After Yuji Itadori swallows a cursed talisman - the finger of a demon - he becomes cursed himself. He enters a shaman's school to be able to locate the demon's other body parts and thus exorcise himself.",
       "releaseInfo": "2020–",
+      "imdbRating": "8.5"
+    },
+    {
+      "id": "tt3526078",
+      "type": "series",
+      "name": "Schitt's Creek",
+      "poster": "https://images.metahub.space/poster/small/tt3526078/img",
+      "background": "https://images.metahub.space/background/medium/tt3526078/img",
+      "logo": "https://images.metahub.space/logo/medium/tt3526078/img",
+      "description": "After being a victim of fraud, Johnny Rose and his family go from extremely wealthy to penniless overnight. The only asset left to them is a small, unsophisticated town: Schitt's Creek. They relocate there. Culture shock ensues.",
+      "releaseInfo": "2015–2020",
       "imdbRating": "8.5"
     },
     {
@@ -221,17 +221,6 @@
       "imdbRating": "8.5"
     },
     {
-      "id": "tt6763664",
-      "type": "series",
-      "name": "The Haunting of Hill House",
-      "poster": "https://images.metahub.space/poster/small/tt6763664/img",
-      "background": "https://images.metahub.space/background/medium/tt6763664/img",
-      "logo": "https://images.metahub.space/logo/medium/tt6763664/img",
-      "description": "Flashing between past and present, a fractured family confronts haunting memories of their old home and the terrifying events that drove them from it.",
-      "releaseInfo": "2018",
-      "imdbRating": "8.5"
-    },
-    {
       "id": "tt21209876",
       "type": "series",
       "name": "Solo Leveling",
@@ -243,14 +232,14 @@
       "imdbRating": "8.5"
     },
     {
-      "id": "tt0475900",
+      "id": "tt6763664",
       "type": "series",
-      "name": "Anthony Bourdain: No Reservations",
-      "poster": "https://images.metahub.space/poster/small/tt0475900/img",
-      "background": "https://images.metahub.space/background/medium/tt0475900/img",
-      "logo": "https://images.metahub.space/logo/medium/tt0475900/img",
-      "description": "Anthony Bourdain, chef, writer, traveler, visits places all around the world sampling various foods.",
-      "releaseInfo": "2005–2012",
+      "name": "The Haunting of Hill House",
+      "poster": "https://images.metahub.space/poster/small/tt6763664/img",
+      "background": "https://images.metahub.space/background/medium/tt6763664/img",
+      "logo": "https://images.metahub.space/logo/medium/tt6763664/img",
+      "description": "Flashing between past and present, a fractured family confronts haunting memories of their old home and the terrifying events that drove them from it.",
+      "releaseInfo": "2018",
       "imdbRating": "8.5"
     },
     {
@@ -430,17 +419,6 @@
       "imdbRating": "8.2"
     },
     {
-      "id": "tt13911628",
-      "type": "series",
-      "name": "Lessons in Chemistry",
-      "poster": "https://images.metahub.space/poster/small/tt13911628/img",
-      "background": "https://images.metahub.space/background/medium/tt13911628/img",
-      "logo": "https://images.metahub.space/logo/medium/tt13911628/img",
-      "description": "In the 1950s, Elizabeth Zott's dream of being a scientist is challenged by a society that says women belong in the domestic sphere; she accepts a job on a TV cooking show and sets out to teach a nation of housewives way more than ...",
-      "releaseInfo": "2023",
-      "imdbRating": "8.2"
-    },
-    {
       "id": "tt13293588",
       "type": "series",
       "name": "Mushoku Tensei: Jobless Reincarnation",
@@ -449,6 +427,17 @@
       "logo": "https://images.metahub.space/logo/medium/tt13293588/img",
       "description": "A 34-year-old underachiever gets run over by a bus, but his story isn't over. Reincarnated as an infant, he'll embark on an epic adventure.",
       "releaseInfo": "2021–",
+      "imdbRating": "8.2"
+    },
+    {
+      "id": "tt13911628",
+      "type": "series",
+      "name": "Lessons in Chemistry",
+      "poster": "https://images.metahub.space/poster/small/tt13911628/img",
+      "background": "https://images.metahub.space/background/medium/tt13911628/img",
+      "logo": "https://images.metahub.space/logo/medium/tt13911628/img",
+      "description": "In the 1950s, Elizabeth Zott's dream of being a scientist is challenged by a society that says women belong in the domestic sphere; she accepts a job on a TV cooking show and sets out to teach a nation of housewives way more than ...",
+      "releaseInfo": "2023",
       "imdbRating": "8.2"
     },
     {
@@ -548,6 +537,17 @@
       "logo": "https://images.metahub.space/logo/medium/tt22202452/img",
       "description": "In a world overtaken by a mysterious wave of forced happiness, Carol Sturka, one of the immune few, must uncover what's really going on - and save humanity from its artificial bliss.",
       "releaseInfo": "2025–",
+      "imdbRating": "8.0"
+    },
+    {
+      "id": "tt20096840",
+      "type": "series",
+      "name": "The Messiah",
+      "poster": "https://images.metahub.space/poster/small/tt20096840/img",
+      "background": "https://images.metahub.space/background/medium/tt20096840/img",
+      "logo": "https://images.metahub.space/logo/medium/tt20096840/img",
+      "description": "It tells the story of Enric, who is heavily impacted by a viral video of a Christian pop band made up of five sisters.",
+      "releaseInfo": "2023",
       "imdbRating": "8.0"
     }
   ]
