@@ -23,6 +23,17 @@
       "imdbRating": "9.2"
     },
     {
+      "id": "tt0141842",
+      "type": "series",
+      "name": "The Sopranos",
+      "poster": "https://images.metahub.space/poster/small/tt0141842/img",
+      "background": "https://images.metahub.space/background/medium/tt0141842/img",
+      "logo": "https://images.metahub.space/logo/medium/tt0141842/img",
+      "description": "New Jersey mob boss Tony Soprano deals with personal and professional issues in his home and business life that affect his mental state, leading him to seek professional psychiatric counseling.",
+      "releaseInfo": "1999–2007",
+      "imdbRating": "9.2"
+    },
+    {
       "id": "tt1475582",
       "type": "series",
       "name": "Sherlock",
@@ -67,17 +78,6 @@
       "imdbRating": "8.9"
     },
     {
-      "id": "tt35495073",
-      "type": "series",
-      "name": "Heated Rivalry",
-      "poster": "https://images.metahub.space/poster/small/tt35495073/img",
-      "background": "https://images.metahub.space/background/medium/tt35495073/img",
-      "logo": "https://images.metahub.space/logo/medium/tt35495073/img",
-      "description": "Two rival hockey stars at the top of their game face an unexpected challenge when they develop feelings for each other, complicating their careers and the sport's expectations.",
-      "releaseInfo": "2025–",
-      "imdbRating": "8.8"
-    },
-    {
       "id": "tt0108778",
       "type": "series",
       "name": "Friends",
@@ -86,6 +86,17 @@
       "logo": "https://images.metahub.space/logo/medium/tt0108778/img",
       "description": "The personal and professional lives of six friends living in the Manhattan borough of New York City.",
       "releaseInfo": "1994–2004",
+      "imdbRating": "8.8"
+    },
+    {
+      "id": "tt35495073",
+      "type": "series",
+      "name": "Heated Rivalry",
+      "poster": "https://images.metahub.space/poster/small/tt35495073/img",
+      "background": "https://images.metahub.space/background/medium/tt35495073/img",
+      "logo": "https://images.metahub.space/logo/medium/tt35495073/img",
+      "description": "Two rival hockey stars at the top of their game face an unexpected challenge when they develop feelings for each other, complicating their careers and the sport's expectations.",
+      "releaseInfo": "2025–",
       "imdbRating": "8.8"
     },
     {
@@ -111,6 +122,17 @@
       "imdbRating": "8.7"
     },
     {
+      "id": "tt0098936",
+      "type": "series",
+      "name": "Twin Peaks",
+      "poster": "https://images.metahub.space/poster/small/tt0098936/img",
+      "background": "https://images.metahub.space/background/medium/tt0098936/img",
+      "logo": "https://images.metahub.space/logo/medium/tt0098936/img",
+      "description": "An idiosyncratic FBI agent investigates the murder of a young woman in the even more idiosyncratic town of Twin Peaks.",
+      "releaseInfo": "1990–1991",
+      "imdbRating": "8.7"
+    },
+    {
       "id": "tt5687612",
       "type": "series",
       "name": "Fleabag",
@@ -133,17 +155,6 @@
       "imdbRating": "8.7"
     },
     {
-      "id": "tt1489428",
-      "type": "series",
-      "name": "Justified",
-      "poster": "https://images.metahub.space/poster/small/tt1489428/img",
-      "background": "https://images.metahub.space/background/medium/tt1489428/img",
-      "logo": "https://images.metahub.space/logo/medium/tt1489428/img",
-      "description": "Enforcing his own brand of justice, U.S. Marshal Raylan Givens, a strong-willed, quiet law-man haunted by his past, returns to his native town to see that justice is served to those in need.",
-      "releaseInfo": "2010–2015",
-      "imdbRating": "8.6"
-    },
-    {
       "id": "tt11280740",
       "type": "series",
       "name": "Severance",
@@ -155,15 +166,26 @@
       "imdbRating": "8.6"
     },
     {
-      "id": "tt31862809",
+      "id": "tt1489428",
       "type": "series",
-      "name": "Heart Beat",
-      "poster": "https://live.metahub.space/poster/small/tt31862809/img",
-      "background": "https://live.metahub.space/background/medium/tt31862809/img",
-      "logo": "https://live.metahub.space/logo/medium/tt31862809/img",
-      "description": "RK Multispeciality Hospital is a beacon of hope and healing. Its doctors are resilient even when they have to deal with medical and personal challenges.",
-      "releaseInfo": "2024–",
+      "name": "Justified",
+      "poster": "https://images.metahub.space/poster/small/tt1489428/img",
+      "background": "https://images.metahub.space/background/medium/tt1489428/img",
+      "logo": "https://images.metahub.space/logo/medium/tt1489428/img",
+      "description": "Enforcing his own brand of justice, U.S. Marshal Raylan Givens, a strong-willed, quiet law-man haunted by his past, returns to his native town to see that justice is served to those in need.",
+      "releaseInfo": "2010–2015",
       "imdbRating": "8.6"
+    },
+    {
+      "id": "tt1439629",
+      "type": "series",
+      "name": "Community",
+      "poster": "https://images.metahub.space/poster/small/tt1439629/img",
+      "background": "https://images.metahub.space/background/medium/tt1439629/img",
+      "logo": "https://images.metahub.space/logo/medium/tt1439629/img",
+      "description": "A suspended lawyer is forced to enroll in a community college with an eccentric staff and student body.",
+      "releaseInfo": "2009–2015",
+      "imdbRating": "8.5"
     },
     {
       "id": "tt8317568",
@@ -174,17 +196,6 @@
       "logo": "https://images.metahub.space/logo/medium/tt8317568/img",
       "description": "Veer and Sameera, strangers with opposite personalities, are left heartbroken after losing loves they thought would last forever. When fate gives the damaged souls a second chance, a beautiful love story unfolds.",
       "releaseInfo": "2018–",
-      "imdbRating": "8.5"
-    },
-    {
-      "id": "tt12343534",
-      "type": "series",
-      "name": "Jujutsu Kaisen",
-      "poster": "https://images.metahub.space/poster/small/tt12343534/img",
-      "background": "https://images.metahub.space/background/medium/tt12343534/img",
-      "logo": "https://images.metahub.space/logo/medium/tt12343534/img",
-      "description": "After Yuji Itadori swallows a cursed talisman - the finger of a demon - he becomes cursed himself. He enters a shaman's school to be able to locate the demon's other body parts and thus exorcise himself.",
-      "releaseInfo": "2020–",
       "imdbRating": "8.5"
     },
     {
@@ -199,17 +210,6 @@
       "imdbRating": "8.5"
     },
     {
-      "id": "tt1439629",
-      "type": "series",
-      "name": "Community",
-      "poster": "https://images.metahub.space/poster/small/tt1439629/img",
-      "background": "https://images.metahub.space/background/medium/tt1439629/img",
-      "logo": "https://images.metahub.space/logo/medium/tt1439629/img",
-      "description": "A suspended lawyer is forced to enroll in a community college with an eccentric staff and student body.",
-      "releaseInfo": "2009–2015",
-      "imdbRating": "8.5"
-    },
-    {
       "id": "tt21209876",
       "type": "series",
       "name": "Solo Leveling",
@@ -221,14 +221,25 @@
       "imdbRating": "8.5"
     },
     {
-      "id": "tt6763664",
+      "id": "tt4093826",
       "type": "series",
-      "name": "The Haunting of Hill House",
-      "poster": "https://images.metahub.space/poster/small/tt6763664/img",
-      "background": "https://images.metahub.space/background/medium/tt6763664/img",
-      "logo": "https://images.metahub.space/logo/medium/tt6763664/img",
-      "description": "Flashing between past and present, a fractured family confronts haunting memories of their old home and the terrifying events that drove them from it.",
-      "releaseInfo": "2018",
+      "name": "Twin Peaks",
+      "poster": "https://images.metahub.space/poster/small/tt4093826/img",
+      "background": "https://images.metahub.space/background/medium/tt4093826/img",
+      "logo": "https://images.metahub.space/logo/medium/tt4093826/img",
+      "description": "Picks up 25 years after the inhabitants of a quaint northwestern town are stunned when their homecoming queen is murdered.",
+      "releaseInfo": "2017",
+      "imdbRating": "8.5"
+    },
+    {
+      "id": "tt10802170",
+      "type": "series",
+      "name": "The Rehearsal",
+      "poster": "https://images.metahub.space/poster/small/tt10802170/img",
+      "background": "https://images.metahub.space/background/medium/tt10802170/img",
+      "logo": "https://images.metahub.space/logo/medium/tt10802170/img",
+      "description": "Nathan Fielder gives people a chance to rehearse for their own lives in a world where nothing ever works out as expected.",
+      "releaseInfo": "2022–",
       "imdbRating": "8.5"
     },
     {
@@ -254,17 +265,6 @@
       "imdbRating": "8.4"
     },
     {
-      "id": "tt1442449",
-      "type": "series",
-      "name": "Spartacus",
-      "poster": "https://images.metahub.space/poster/small/tt1442449/img",
-      "background": "https://images.metahub.space/background/medium/tt1442449/img",
-      "logo": "https://images.metahub.space/logo/medium/tt1442449/img",
-      "description": "The life of Spartacus, the gladiator who led a rebellion against the Romans.",
-      "releaseInfo": "2010–2013",
-      "imdbRating": "8.4"
-    },
-    {
       "id": "tt6473300",
       "type": "series",
       "name": "Mirzapur",
@@ -273,6 +273,17 @@
       "logo": "https://images.metahub.space/logo/medium/tt6473300/img",
       "description": "A shocking incident at a wedding procession ignites a series of events entangling the lives of two families in the lawless city of Mirzapur.",
       "releaseInfo": "2018–",
+      "imdbRating": "8.4"
+    },
+    {
+      "id": "tt1442449",
+      "type": "series",
+      "name": "Spartacus",
+      "poster": "https://images.metahub.space/poster/small/tt1442449/img",
+      "background": "https://images.metahub.space/background/medium/tt1442449/img",
+      "logo": "https://images.metahub.space/logo/medium/tt1442449/img",
+      "description": "The life of Spartacus, the gladiator who led a rebellion against the Romans.",
+      "releaseInfo": "2010–2013",
       "imdbRating": "8.4"
     },
     {
@@ -287,6 +298,17 @@
       "imdbRating": "8.4"
     },
     {
+      "id": "tt0409591",
+      "type": "series",
+      "name": "Naruto",
+      "poster": "https://images.metahub.space/poster/small/tt0409591/img",
+      "background": "https://images.metahub.space/background/medium/tt0409591/img",
+      "logo": "https://images.metahub.space/logo/medium/tt0409591/img",
+      "description": "Naruto Uzumaki, a mischievous adolescent ninja, struggles as he searches for recognition and dreams of becoming the Hokage, the village's leader and strongest ninja.",
+      "releaseInfo": "2002–2007",
+      "imdbRating": "8.4"
+    },
+    {
       "id": "tt37442772",
       "type": "series",
       "name": "The Dynasty: UConn Huskies",
@@ -295,6 +317,17 @@
       "logo": "https://live.metahub.space/logo/medium/tt37442772/img",
       "description": "Go inside the most dominant program in college basketball history as Geno Auriemma pushes his players to the limit to win 12 titles. Rebecca Lobo, Diana Taurasi, Paige Bueckers, and more reveal what it takes to survive UConn and build a dynasty.",
       "releaseInfo": "2026–2026",
+      "imdbRating": "8.4"
+    },
+    {
+      "id": "tt10324164",
+      "type": "series",
+      "name": "Prehistoric Planet",
+      "poster": "https://images.metahub.space/poster/small/tt10324164/img",
+      "background": "https://images.metahub.space/background/medium/tt10324164/img",
+      "logo": "https://images.metahub.space/logo/medium/tt10324164/img",
+      "description": "Travel back 66 million years to when majestic dinosaurs and extraordinary creatures roamed the lands, seas, and skies.",
+      "releaseInfo": "2022–2025",
       "imdbRating": "8.4"
     },
     {
@@ -320,17 +353,6 @@
       "imdbRating": "8.3"
     },
     {
-      "id": "tt15477488",
-      "type": "series",
-      "name": "Farzi",
-      "poster": "https://images.metahub.space/poster/small/tt15477488/img",
-      "background": "https://images.metahub.space/background/medium/tt15477488/img",
-      "logo": "https://images.metahub.space/logo/medium/tt15477488/img",
-      "description": "An artist who gets pulled into the murky high stakes of a con job and a fiery task force officer on the mission to rid the country of his menaces in a fast-paced, edgy one-of-a-kind thriller.",
-      "releaseInfo": "2023–",
-      "imdbRating": "8.3"
-    },
-    {
       "id": "tt11198330",
       "type": "series",
       "name": "House of the Dragon",
@@ -342,14 +364,14 @@
       "imdbRating": "8.3"
     },
     {
-      "id": "tt0455275",
+      "id": "tt15477488",
       "type": "series",
-      "name": "Prison Break",
-      "poster": "https://images.metahub.space/poster/small/tt0455275/img",
-      "background": "https://images.metahub.space/background/medium/tt0455275/img",
-      "logo": "https://images.metahub.space/logo/medium/tt0455275/img",
-      "description": "A structural engineer installs himself in a prison his company helped design, to save his falsely accused brother from a death sentence by breaking both of them out from the inside.",
-      "releaseInfo": "2005–2017",
+      "name": "Farzi",
+      "poster": "https://images.metahub.space/poster/small/tt15477488/img",
+      "background": "https://images.metahub.space/background/medium/tt15477488/img",
+      "logo": "https://images.metahub.space/logo/medium/tt15477488/img",
+      "description": "An artist who gets pulled into the murky high stakes of a con job and a fiery task force officer on the mission to rid the country of his menaces in a fast-paced, edgy one-of-a-kind thriller.",
+      "releaseInfo": "2023–",
       "imdbRating": "8.3"
     },
     {
@@ -364,6 +386,28 @@
       "imdbRating": "8.3"
     },
     {
+      "id": "tt0455275",
+      "type": "series",
+      "name": "Prison Break",
+      "poster": "https://images.metahub.space/poster/small/tt0455275/img",
+      "background": "https://images.metahub.space/background/medium/tt0455275/img",
+      "logo": "https://images.metahub.space/logo/medium/tt0455275/img",
+      "description": "A structural engineer installs himself in a prison his company helped design, to save his falsely accused brother from a death sentence by breaking both of them out from the inside.",
+      "releaseInfo": "2005–2017",
+      "imdbRating": "8.3"
+    },
+    {
+      "id": "tt1196946",
+      "type": "series",
+      "name": "The Mentalist",
+      "poster": "https://images.metahub.space/poster/small/tt1196946/img",
+      "background": "https://images.metahub.space/background/medium/tt1196946/img",
+      "logo": "https://images.metahub.space/logo/medium/tt1196946/img",
+      "description": "Famous \"psychic\", Patrick Jane, outs himself as a fake, and using his heightened observational skills and impeccable knowledge of the human psyche, he works with the police so he can find \"Red John\", the madman who killed his family.",
+      "releaseInfo": "2008–2015",
+      "imdbRating": "8.2"
+    },
+    {
       "id": "tt33332385",
       "type": "series",
       "name": "Widow's Bay",
@@ -375,14 +419,14 @@
       "imdbRating": "8.2"
     },
     {
-      "id": "tt1196946",
+      "id": "tt13293588",
       "type": "series",
-      "name": "The Mentalist",
-      "poster": "https://images.metahub.space/poster/small/tt1196946/img",
-      "background": "https://images.metahub.space/background/medium/tt1196946/img",
-      "logo": "https://images.metahub.space/logo/medium/tt1196946/img",
-      "description": "Famous \"psychic\", Patrick Jane, outs himself as a fake, and using his heightened observational skills and impeccable knowledge of the human psyche, he works with the police so he can find \"Red John\", the madman who killed his family.",
-      "releaseInfo": "2008–2015",
+      "name": "Mushoku Tensei: Jobless Reincarnation",
+      "poster": "https://images.metahub.space/poster/small/tt13293588/img",
+      "background": "https://images.metahub.space/background/medium/tt13293588/img",
+      "logo": "https://images.metahub.space/logo/medium/tt13293588/img",
+      "description": "A 34-year-old underachiever gets run over by a bus, but his story isn't over. Reincarnated as an infant, he'll embark on an epic adventure.",
+      "releaseInfo": "2021–",
       "imdbRating": "8.2"
     },
     {
@@ -397,17 +441,6 @@
       "imdbRating": "8.2"
     },
     {
-      "id": "tt9140554",
-      "type": "series",
-      "name": "Loki",
-      "poster": "https://images.metahub.space/poster/small/tt9140554/img",
-      "background": "https://images.metahub.space/background/medium/tt9140554/img",
-      "logo": "https://images.metahub.space/logo/medium/tt9140554/img",
-      "description": "The mercurial villain Loki resumes his role as the God of Mischief in a new series that takes place after the events of “Avengers: Endgame.”",
-      "releaseInfo": "2021–2023",
-      "imdbRating": "8.2"
-    },
-    {
       "id": "tt6468322",
       "type": "series",
       "name": "Money Heist",
@@ -419,6 +452,17 @@
       "imdbRating": "8.2"
     },
     {
+      "id": "tt9140554",
+      "type": "series",
+      "name": "Loki",
+      "poster": "https://images.metahub.space/poster/small/tt9140554/img",
+      "background": "https://images.metahub.space/background/medium/tt9140554/img",
+      "logo": "https://images.metahub.space/logo/medium/tt9140554/img",
+      "description": "The mercurial villain Loki resumes his role as the God of Mischief in a new series that takes place after the events of “Avengers: Endgame.”",
+      "releaseInfo": "2021–2023",
+      "imdbRating": "8.2"
+    },
+    {
       "id": "tt8062474",
       "type": "series",
       "name": "21 Sarfarosh Saragarhi 1897",
@@ -427,17 +471,6 @@
       "logo": "https://images.metahub.space/logo/medium/tt8062474/img",
       "description": "A chronicle of the lives and events that led to the brave and epic last stand of the 21 soldiers of the 36th Sikh regiment of the British Indian Army against thousands of Afghani invaders in the September of 1897.",
       "releaseInfo": "2018–",
-      "imdbRating": "8.2"
-    },
-    {
-      "id": "tt13293588",
-      "type": "series",
-      "name": "Mushoku Tensei: Jobless Reincarnation",
-      "poster": "https://images.metahub.space/poster/small/tt13293588/img",
-      "background": "https://images.metahub.space/background/medium/tt13293588/img",
-      "logo": "https://images.metahub.space/logo/medium/tt13293588/img",
-      "description": "A 34-year-old underachiever gets run over by a bus, but his story isn't over. Reincarnated as an infant, he'll embark on an epic adventure.",
-      "releaseInfo": "2021–",
       "imdbRating": "8.2"
     },
     {
@@ -474,6 +507,17 @@
       "imdbRating": "8.1"
     },
     {
+      "id": "tt4301160",
+      "type": "series",
+      "name": "Black Bird",
+      "poster": "https://images.metahub.space/poster/small/tt4301160/img",
+      "background": "https://images.metahub.space/background/medium/tt4301160/img",
+      "logo": "https://images.metahub.space/logo/medium/tt4301160/img",
+      "description": "Jimmy Keene is sentenced to 10 years in a minimum security prison but he cuts a deal with the FBI to befriend a suspected serial killer. Keene has to elicit a confession from Larry Hall to find the bodies of as many as eighteen wo...",
+      "releaseInfo": "2022",
+      "imdbRating": "8.1"
+    },
+    {
       "id": "tt15677150",
       "type": "series",
       "name": "Shrinking",
@@ -505,50 +549,6 @@
       "description": "Bear Grylls travels the world in search of challenges to his survival skills.",
       "releaseInfo": "2006–2020",
       "imdbRating": "8.1"
-    },
-    {
-      "id": "tt4301160",
-      "type": "series",
-      "name": "Black Bird",
-      "poster": "https://images.metahub.space/poster/small/tt4301160/img",
-      "background": "https://images.metahub.space/background/medium/tt4301160/img",
-      "logo": "https://images.metahub.space/logo/medium/tt4301160/img",
-      "description": "Jimmy Keene is sentenced to 10 years in a minimum security prison but he cuts a deal with the FBI to befriend a suspected serial killer. Keene has to elicit a confession from Larry Hall to find the bodies of as many as eighteen wo...",
-      "releaseInfo": "2022",
-      "imdbRating": "8.1"
-    },
-    {
-      "id": "tt7203552",
-      "type": "series",
-      "name": "The Morning Show",
-      "poster": "https://images.metahub.space/poster/small/tt7203552/img",
-      "background": "https://images.metahub.space/background/medium/tt7203552/img",
-      "logo": "https://images.metahub.space/logo/medium/tt7203552/img",
-      "description": "An inside look at the lives of the people who help America wake up in the morning, exploring the unique challenges faced by the team.",
-      "releaseInfo": "2019–",
-      "imdbRating": "8.1"
-    },
-    {
-      "id": "tt9288030",
-      "type": "series",
-      "name": "Reacher",
-      "poster": "https://images.metahub.space/poster/small/tt9288030/img",
-      "background": "https://images.metahub.space/background/medium/tt9288030/img",
-      "logo": "https://images.metahub.space/logo/medium/tt9288030/img",
-      "description": "Itinerant former military policeman Jack Reacher solves crimes and metes out his own brand of street justice. Based on the novels by Lee Child.",
-      "releaseInfo": "2022–",
-      "imdbRating": "8.0"
-    },
-    {
-      "id": "tt22202452",
-      "type": "series",
-      "name": "Pluribus",
-      "poster": "https://images.metahub.space/poster/small/tt22202452/img",
-      "background": "https://images.metahub.space/background/medium/tt22202452/img",
-      "logo": "https://images.metahub.space/logo/medium/tt22202452/img",
-      "description": "In a world overtaken by a mysterious wave of forced happiness, Carol Sturka, one of the immune few, must uncover what's really going on - and save humanity from its artificial bliss.",
-      "releaseInfo": "2025–",
-      "imdbRating": "8.0"
     }
   ]
 }
