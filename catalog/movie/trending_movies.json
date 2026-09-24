@@ -471,16 +471,6 @@
       "imdbRating": 6.1
     },
     {
-      "id": "tt0478311",
-      "type": "movie",
-      "name": "Knocked Up",
-      "poster": "https://images.metahub.space/poster/medium/tt0478311/img",
-      "background": "https://images.metahub.space/background/medium/tt0478311/img",
-      "description": "A slacker and a career-driven woman accidentally conceive a child after a one-night stand. As they try to make the relationship work, they must navigate the challenges of parenthood and their differences in lifestyle and maturity.",
-      "releaseInfo": 2007,
-      "imdbRating": 6.9
-    },
-    {
       "id": "tt23865918",
       "type": "movie",
       "name": "Peddi",
@@ -499,6 +489,16 @@
       "description": "Defense attorney Martin Vail takes on jobs for money and prestige rather than any sense of the greater good. His latest case involves an altar boy, accused of brutally murdering the archbishop of Chicago. Vail finds himself up against his ex-pupil and ex-lover, but as the case progresses and the Church's dark secrets are revealed, Vail finds that what appeared a simple case takes on a darker, more dangerous aspect.",
       "releaseInfo": 1996,
       "imdbRating": 7.7
+    },
+    {
+      "id": "tt26745657",
+      "type": "movie",
+      "name": "Madgaon Express",
+      "poster": "https://images.metahub.space/poster/medium/tt26745657/img",
+      "background": "https://images.metahub.space/background/medium/tt26745657/img",
+      "description": "The journey of three childhood friends who embark on a trip to Goa that goes completely off-track.",
+      "releaseInfo": 2024,
+      "imdbRating": 7
     }
   ]
 }

@@ -331,17 +331,6 @@
       "imdbRating": "8.4"
     },
     {
-      "id": "tt10324164",
-      "type": "series",
-      "name": "Prehistoric Planet",
-      "poster": "https://images.metahub.space/poster/small/tt10324164/img",
-      "background": "https://images.metahub.space/background/medium/tt10324164/img",
-      "logo": "https://images.metahub.space/logo/medium/tt10324164/img",
-      "description": "Travel back 66 million years to when majestic dinosaurs and extraordinary creatures roamed the lands, seas, and skies.",
-      "releaseInfo": "2022–2025",
-      "imdbRating": "8.4"
-    },
-    {
       "id": "tt5875444",
       "type": "series",
       "name": "Slow Horses",
@@ -548,6 +537,17 @@
       "logo": "https://images.metahub.space/logo/medium/tt0092400/img",
       "description": "Al is the quintessential working class dad. Peggy, his wife, always wants more from him. With their children, they go through the highs and lows of ordinary life.",
       "releaseInfo": "1987–1997",
+      "imdbRating": "8.1"
+    },
+    {
+      "id": "tt23649128",
+      "type": "series",
+      "name": "The Studio",
+      "poster": "https://images.metahub.space/poster/small/tt23649128/img",
+      "background": "https://images.metahub.space/background/medium/tt23649128/img",
+      "logo": "https://images.metahub.space/logo/medium/tt23649128/img",
+      "description": "Follows a legacy Hollywood movie studio striving to survive in a world where it is increasingly difficult for art and business to live together.",
+      "releaseInfo": "2025–",
       "imdbRating": "8.1"
     }
   ]
