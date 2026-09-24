@@ -171,16 +171,6 @@
       "imdbRating": 8.1
     },
     {
-      "id": "tt8317568",
-      "type": "series",
-      "name": "Broken But Beautiful",
-      "poster": "https://images.metahub.space/poster/medium/tt8317568/img",
-      "background": "https://images.metahub.space/background/medium/tt8317568/img",
-      "description": "Broken is Veer and Sameera's story where their hearts were left broken and damaged after they lost their love. Destiny has brought love in to their lives again, will they give it a second chance?",
-      "releaseInfo": 2018,
-      "imdbRating": 8.5
-    },
-    {
       "id": "tt33094114",
       "type": "series",
       "name": "India's Got Latent",
@@ -199,6 +189,16 @@
       "description": "Tamar is a Mossad hacker-agent who infiltrates Tehran under a false identity to help destroy Iran's nuclear reactor. But when her mission fails, Tamar must plan an operation that will place everyone dear to her in jeopardy.",
       "releaseInfo": 2020,
       "imdbRating": 7.6
+    },
+    {
+      "id": "tt8317568",
+      "type": "series",
+      "name": "Broken But Beautiful",
+      "poster": "https://images.metahub.space/poster/medium/tt8317568/img",
+      "background": "https://images.metahub.space/background/medium/tt8317568/img",
+      "description": "Broken is Veer and Sameera's story where their hearts were left broken and damaged after they lost their love. Destiny has brought love in to their lives again, will they give it a second chance?",
+      "releaseInfo": 2018,
+      "imdbRating": 8.5
     },
     {
       "id": "tt13111078",
