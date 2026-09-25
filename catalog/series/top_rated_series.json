@@ -232,17 +232,6 @@
       "imdbRating": "8.5"
     },
     {
-      "id": "tt0475900",
-      "type": "series",
-      "name": "Anthony Bourdain: No Reservations",
-      "poster": "https://images.metahub.space/poster/small/tt0475900/img",
-      "background": "https://images.metahub.space/background/medium/tt0475900/img",
-      "logo": "https://images.metahub.space/logo/medium/tt0475900/img",
-      "description": "Anthony Bourdain, chef, writer, traveler, visits places all around the world sampling various foods.",
-      "releaseInfo": "2005–2012",
-      "imdbRating": "8.5"
-    },
-    {
       "id": "tt6473300",
       "type": "series",
       "name": "Mirzapur",
@@ -276,17 +265,6 @@
       "imdbRating": "8.4"
     },
     {
-      "id": "tt9059760",
-      "type": "series",
-      "name": "Normal People",
-      "poster": "https://images.metahub.space/poster/small/tt9059760/img",
-      "background": "https://images.metahub.space/background/medium/tt9059760/img",
-      "logo": "https://images.metahub.space/logo/medium/tt9059760/img",
-      "description": "A man and a woman embark on an on-again/off-again romance that starts at school and continues through college, testing their relationship as they explore different versions of themselves.",
-      "releaseInfo": "2020",
-      "imdbRating": "8.4"
-    },
-    {
       "id": "tt0409591",
       "type": "series",
       "name": "Naruto",
@@ -295,6 +273,17 @@
       "logo": "https://images.metahub.space/logo/medium/tt0409591/img",
       "description": "Naruto Uzumaki, a mischievous adolescent ninja, struggles as he searches for recognition and dreams of becoming the Hokage, the village's leader and strongest ninja.",
       "releaseInfo": "2002–2007",
+      "imdbRating": "8.4"
+    },
+    {
+      "id": "tt9059760",
+      "type": "series",
+      "name": "Normal People",
+      "poster": "https://images.metahub.space/poster/small/tt9059760/img",
+      "background": "https://images.metahub.space/background/medium/tt9059760/img",
+      "logo": "https://images.metahub.space/logo/medium/tt9059760/img",
+      "description": "A man and a woman embark on an on-again/off-again romance that starts at school and continues through college, testing their relationship as they explore different versions of themselves.",
+      "releaseInfo": "2020",
       "imdbRating": "8.4"
     },
     {
@@ -549,6 +538,17 @@
       "description": "An inside look at the lives of the people who help America wake up in the morning, exploring the unique challenges faced by the team.",
       "releaseInfo": "2019–",
       "imdbRating": "8.1"
+    },
+    {
+      "id": "tt9288030",
+      "type": "series",
+      "name": "Reacher",
+      "poster": "https://images.metahub.space/poster/small/tt9288030/img",
+      "background": "https://images.metahub.space/background/medium/tt9288030/img",
+      "logo": "https://images.metahub.space/logo/medium/tt9288030/img",
+      "description": "Itinerant former military policeman Jack Reacher solves crimes and metes out his own brand of street justice. Based on the novels by Lee Child.",
+      "releaseInfo": "2022–",
+      "imdbRating": "8.0"
     }
   ]
 }
