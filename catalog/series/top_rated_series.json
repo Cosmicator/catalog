@@ -133,17 +133,6 @@
       "imdbRating": "8.7"
     },
     {
-      "id": "tt5687612",
-      "type": "series",
-      "name": "Fleabag",
-      "poster": "https://images.metahub.space/poster/small/tt5687612/img",
-      "background": "https://images.metahub.space/background/medium/tt5687612/img",
-      "logo": "https://images.metahub.space/logo/medium/tt5687612/img",
-      "description": "Series adapted from the award-winning play about a young woman trying to cope with life in London whilst coming to terms with a recent tragedy.",
-      "releaseInfo": "2016–2019",
-      "imdbRating": "8.7"
-    },
-    {
       "id": "tt5753856",
       "type": "series",
       "name": "Dark",
@@ -155,17 +144,6 @@
       "imdbRating": "8.7"
     },
     {
-      "id": "tt11280740",
-      "type": "series",
-      "name": "Severance",
-      "poster": "https://images.metahub.space/poster/small/tt11280740/img",
-      "background": "https://images.metahub.space/background/medium/tt11280740/img",
-      "logo": "https://images.metahub.space/logo/medium/tt11280740/img",
-      "description": "Mark leads a team of office workers whose memories have been surgically divided between their work and personal lives. When a mysterious colleague appears outside of work, it begins a journey to discover the truth about their jobs.",
-      "releaseInfo": "2022–",
-      "imdbRating": "8.6"
-    },
-    {
       "id": "tt1489428",
       "type": "series",
       "name": "Justified",
@@ -174,6 +152,17 @@
       "logo": "https://images.metahub.space/logo/medium/tt1489428/img",
       "description": "Enforcing his own brand of justice, U.S. Marshal Raylan Givens, a strong-willed, quiet law-man haunted by his past, returns to his native town to see that justice is served to those in need.",
       "releaseInfo": "2010–2015",
+      "imdbRating": "8.6"
+    },
+    {
+      "id": "tt11280740",
+      "type": "series",
+      "name": "Severance",
+      "poster": "https://images.metahub.space/poster/small/tt11280740/img",
+      "background": "https://images.metahub.space/background/medium/tt11280740/img",
+      "logo": "https://images.metahub.space/logo/medium/tt11280740/img",
+      "description": "Mark leads a team of office workers whose memories have been surgically divided between their work and personal lives. When a mysterious colleague appears outside of work, it begins a journey to discover the truth about their jobs.",
+      "releaseInfo": "2022–",
       "imdbRating": "8.6"
     },
     {
@@ -221,14 +210,14 @@
       "imdbRating": "8.5"
     },
     {
-      "id": "tt21209876",
+      "id": "tt12343534",
       "type": "series",
-      "name": "Solo Leveling",
-      "poster": "https://images.metahub.space/poster/small/tt21209876/img",
-      "background": "https://images.metahub.space/background/medium/tt21209876/img",
-      "logo": "https://images.metahub.space/logo/medium/tt21209876/img",
-      "description": "Follows the adventures of Sung Jinwoo in a world that is constantly threatened by monsters and evil forces. In his battles Sung transforms himself from the weakest hunter of all mankind to one of the strongest hunters in existence.",
-      "releaseInfo": "2024–",
+      "name": "Jujutsu Kaisen",
+      "poster": "https://images.metahub.space/poster/small/tt12343534/img",
+      "background": "https://images.metahub.space/background/medium/tt12343534/img",
+      "logo": "https://images.metahub.space/logo/medium/tt12343534/img",
+      "description": "After Yuji Itadori swallows a cursed talisman - the finger of a demon - he becomes cursed himself. He enters a shaman's school to be able to locate the demon's other body parts and thus exorcise himself.",
+      "releaseInfo": "2020–",
       "imdbRating": "8.5"
     },
     {
@@ -254,25 +243,14 @@
       "imdbRating": "8.5"
     },
     {
-      "id": "tt6763664",
+      "id": "tt6473300",
       "type": "series",
-      "name": "The Haunting of Hill House",
-      "poster": "https://images.metahub.space/poster/small/tt6763664/img",
-      "background": "https://images.metahub.space/background/medium/tt6763664/img",
-      "logo": "https://images.metahub.space/logo/medium/tt6763664/img",
-      "description": "Flashing between past and present, a fractured family confronts haunting memories of their old home and the terrifying events that drove them from it.",
-      "releaseInfo": "2018",
-      "imdbRating": "8.5"
-    },
-    {
-      "id": "tt26545992",
-      "type": "series",
-      "name": "Lanterns",
-      "poster": "https://images.metahub.space/poster/small/tt26545992/img",
-      "background": "https://images.metahub.space/background/medium/tt26545992/img",
-      "logo": "https://images.metahub.space/logo/medium/tt26545992/img",
-      "description": "Lanterns follows new recruit John Stewart and Lantern legend Hal Jordan, two intergalactic cops drawn into a dark, Earth-based mystery as they investigate a murder in the American heartland.",
-      "releaseInfo": "2026–",
+      "name": "Mirzapur",
+      "poster": "https://images.metahub.space/poster/small/tt6473300/img",
+      "background": "https://images.metahub.space/background/medium/tt6473300/img",
+      "logo": "https://images.metahub.space/logo/medium/tt6473300/img",
+      "description": "A shocking incident at a wedding procession ignites a series of events entangling the lives of two families in the lawless city of Mirzapur.",
+      "releaseInfo": "2018–",
       "imdbRating": "8.4"
     },
     {
@@ -287,14 +265,14 @@
       "imdbRating": "8.4"
     },
     {
-      "id": "tt6473300",
+      "id": "tt26545992",
       "type": "series",
-      "name": "Mirzapur",
-      "poster": "https://images.metahub.space/poster/small/tt6473300/img",
-      "background": "https://images.metahub.space/background/medium/tt6473300/img",
-      "logo": "https://images.metahub.space/logo/medium/tt6473300/img",
-      "description": "A shocking incident at a wedding procession ignites a series of events entangling the lives of two families in the lawless city of Mirzapur.",
-      "releaseInfo": "2018–",
+      "name": "Lanterns",
+      "poster": "https://images.metahub.space/poster/small/tt26545992/img",
+      "background": "https://images.metahub.space/background/medium/tt26545992/img",
+      "logo": "https://images.metahub.space/logo/medium/tt26545992/img",
+      "description": "Lanterns follows new recruit John Stewart and Lantern legend Hal Jordan, two intergalactic cops drawn into a dark, Earth-based mystery as they investigate a murder in the American heartland.",
+      "releaseInfo": "2026–",
       "imdbRating": "8.4"
     },
     {
@@ -320,17 +298,6 @@
       "imdbRating": "8.4"
     },
     {
-      "id": "tt37442772",
-      "type": "series",
-      "name": "The Dynasty: UConn Huskies",
-      "poster": "https://live.metahub.space/poster/small/tt37442772/img",
-      "background": "https://live.metahub.space/background/medium/tt37442772/img",
-      "logo": "https://live.metahub.space/logo/medium/tt37442772/img",
-      "description": "Go inside the most dominant program in college basketball history as Geno Auriemma pushes his players to the limit to win 12 titles. Rebecca Lobo, Diana Taurasi, Paige Bueckers, and more reveal what it takes to survive UConn and build a dynasty.",
-      "releaseInfo": "2026–2026",
-      "imdbRating": "8.4"
-    },
-    {
       "id": "tt5875444",
       "type": "series",
       "name": "Slow Horses",
@@ -353,17 +320,6 @@
       "imdbRating": "8.3"
     },
     {
-      "id": "tt11198330",
-      "type": "series",
-      "name": "House of the Dragon",
-      "poster": "https://images.metahub.space/poster/small/tt11198330/img",
-      "background": "https://images.metahub.space/background/medium/tt11198330/img",
-      "logo": "https://images.metahub.space/logo/medium/tt11198330/img",
-      "description": "An internal succession war within House Targaryen at the height of its power, 172 years before the birth of Daenerys Targaryen.",
-      "releaseInfo": "2022–",
-      "imdbRating": "8.3"
-    },
-    {
       "id": "tt15477488",
       "type": "series",
       "name": "Farzi",
@@ -372,6 +328,17 @@
       "logo": "https://images.metahub.space/logo/medium/tt15477488/img",
       "description": "An artist who gets pulled into the murky high stakes of a con job and a fiery task force officer on the mission to rid the country of his menaces in a fast-paced, edgy one-of-a-kind thriller.",
       "releaseInfo": "2023–",
+      "imdbRating": "8.3"
+    },
+    {
+      "id": "tt11198330",
+      "type": "series",
+      "name": "House of the Dragon",
+      "poster": "https://images.metahub.space/poster/small/tt11198330/img",
+      "background": "https://images.metahub.space/background/medium/tt11198330/img",
+      "logo": "https://images.metahub.space/logo/medium/tt11198330/img",
+      "description": "An internal succession war within House Targaryen at the height of its power, 172 years before the birth of Daenerys Targaryen.",
+      "releaseInfo": "2022–",
       "imdbRating": "8.3"
     },
     {
@@ -386,14 +353,14 @@
       "imdbRating": "8.3"
     },
     {
-      "id": "tt0455275",
+      "id": "tt37442772",
       "type": "series",
-      "name": "Prison Break",
-      "poster": "https://images.metahub.space/poster/small/tt0455275/img",
-      "background": "https://images.metahub.space/background/medium/tt0455275/img",
-      "logo": "https://images.metahub.space/logo/medium/tt0455275/img",
-      "description": "A structural engineer installs himself in a prison his company helped design, to save his falsely accused brother from a death sentence by breaking both of them out from the inside.",
-      "releaseInfo": "2005–2017",
+      "name": "The Dynasty: UConn Huskies",
+      "poster": "https://live.metahub.space/poster/small/tt37442772/img",
+      "background": "https://live.metahub.space/background/medium/tt37442772/img",
+      "logo": "https://live.metahub.space/logo/medium/tt37442772/img",
+      "description": "Go inside the most dominant program in college basketball history as Geno Auriemma pushes his players to the limit to win 12 titles. Rebecca Lobo, Diana Taurasi, Paige Bueckers, and more reveal what it takes to survive UConn and build a dynasty.",
+      "releaseInfo": "2026–2026",
       "imdbRating": "8.3"
     },
     {
@@ -419,17 +386,6 @@
       "imdbRating": "8.2"
     },
     {
-      "id": "tt13293588",
-      "type": "series",
-      "name": "Mushoku Tensei: Jobless Reincarnation",
-      "poster": "https://images.metahub.space/poster/small/tt13293588/img",
-      "background": "https://images.metahub.space/background/medium/tt13293588/img",
-      "logo": "https://images.metahub.space/logo/medium/tt13293588/img",
-      "description": "A 34-year-old underachiever gets run over by a bus, but his story isn't over. Reincarnated as an infant, he'll embark on an epic adventure.",
-      "releaseInfo": "2021–",
-      "imdbRating": "8.2"
-    },
-    {
       "id": "tt8772296",
       "type": "series",
       "name": "Euphoria",
@@ -441,14 +397,14 @@
       "imdbRating": "8.2"
     },
     {
-      "id": "tt9140554",
+      "id": "tt13293588",
       "type": "series",
-      "name": "Loki",
-      "poster": "https://images.metahub.space/poster/small/tt9140554/img",
-      "background": "https://images.metahub.space/background/medium/tt9140554/img",
-      "logo": "https://images.metahub.space/logo/medium/tt9140554/img",
-      "description": "The mercurial villain Loki resumes his role as the God of Mischief in a new series that takes place after the events of “Avengers: Endgame.”",
-      "releaseInfo": "2021–2023",
+      "name": "Mushoku Tensei: Jobless Reincarnation",
+      "poster": "https://images.metahub.space/poster/small/tt13293588/img",
+      "background": "https://images.metahub.space/background/medium/tt13293588/img",
+      "logo": "https://images.metahub.space/logo/medium/tt13293588/img",
+      "description": "A 34-year-old underachiever gets run over by a bus, but his story isn't over. Reincarnated as an infant, he'll embark on an epic adventure.",
+      "releaseInfo": "2021–",
       "imdbRating": "8.2"
     },
     {
@@ -460,6 +416,17 @@
       "logo": "https://live.metahub.space/logo/medium/tt6468322/img",
       "description": "To carry out the biggest heist in history, a mysterious man called The Professor recruits a band of eight robbers who have a single characteristic: none of them has anything to lose. Five months of seclusion - memorizing every step, every detail, every probability - culminate in eleven days locked up in the National Coinage and Stamp Factory of Spain, surrounded by police forces and with dozens of hostages in their power, to find out whether their suicide wager will lead to everything or nothing.",
       "releaseInfo": "2017–2021",
+      "imdbRating": "8.2"
+    },
+    {
+      "id": "tt9140554",
+      "type": "series",
+      "name": "Loki",
+      "poster": "https://images.metahub.space/poster/small/tt9140554/img",
+      "background": "https://images.metahub.space/background/medium/tt9140554/img",
+      "logo": "https://images.metahub.space/logo/medium/tt9140554/img",
+      "description": "The mercurial villain Loki resumes his role as the God of Mischief in a new series that takes place after the events of “Avengers: Endgame.”",
+      "releaseInfo": "2021–2023",
       "imdbRating": "8.2"
     },
     {
@@ -496,17 +463,6 @@
       "imdbRating": "8.1"
     },
     {
-      "id": "tt4301160",
-      "type": "series",
-      "name": "Black Bird",
-      "poster": "https://images.metahub.space/poster/small/tt4301160/img",
-      "background": "https://images.metahub.space/background/medium/tt4301160/img",
-      "logo": "https://images.metahub.space/logo/medium/tt4301160/img",
-      "description": "Jimmy Keene is sentenced to 10 years in a minimum security prison but he cuts a deal with the FBI to befriend a suspected serial killer. Keene has to elicit a confession from Larry Hall to find the bodies of as many as eighteen wo...",
-      "releaseInfo": "2022",
-      "imdbRating": "8.1"
-    },
-    {
       "id": "tt15677150",
       "type": "series",
       "name": "Shrinking",
@@ -518,14 +474,36 @@
       "imdbRating": "8.1"
     },
     {
-      "id": "tt0914387",
+      "id": "tt7772588",
       "type": "series",
-      "name": "Damages",
-      "poster": "https://images.metahub.space/poster/small/tt0914387/img",
-      "background": "https://images.metahub.space/background/medium/tt0914387/img",
-      "logo": "https://images.metahub.space/logo/medium/tt0914387/img",
-      "description": "A law school graduate becomes the protégée of a successful high-stakes litigator.",
-      "releaseInfo": "2007–2012",
+      "name": "For All Mankind",
+      "poster": "https://images.metahub.space/poster/small/tt7772588/img",
+      "background": "https://images.metahub.space/background/medium/tt7772588/img",
+      "logo": "https://images.metahub.space/logo/medium/tt7772588/img",
+      "description": "In an alternative version of 1969, the Soviet Union beats the United States to the Moon, and the space race continues on for decades with still grander challenges and goals.",
+      "releaseInfo": "2019–2027",
+      "imdbRating": "8.1"
+    },
+    {
+      "id": "tt23649128",
+      "type": "series",
+      "name": "The Studio",
+      "poster": "https://images.metahub.space/poster/small/tt23649128/img",
+      "background": "https://images.metahub.space/background/medium/tt23649128/img",
+      "logo": "https://images.metahub.space/logo/medium/tt23649128/img",
+      "description": "Follows a legacy Hollywood movie studio striving to survive in a world where it is increasingly difficult for art and business to live together.",
+      "releaseInfo": "2025–",
+      "imdbRating": "8.1"
+    },
+    {
+      "id": "tt4301160",
+      "type": "series",
+      "name": "Black Bird",
+      "poster": "https://images.metahub.space/poster/small/tt4301160/img",
+      "background": "https://images.metahub.space/background/medium/tt4301160/img",
+      "logo": "https://images.metahub.space/logo/medium/tt4301160/img",
+      "description": "Jimmy Keene is sentenced to 10 years in a minimum security prison but he cuts a deal with the FBI to befriend a suspected serial killer. Keene has to elicit a confession from Larry Hall to find the bodies of as many as eighteen wo...",
+      "releaseInfo": "2022",
       "imdbRating": "8.1"
     },
     {
@@ -540,14 +518,36 @@
       "imdbRating": "8.1"
     },
     {
-      "id": "tt23649128",
+      "id": "tt0914387",
       "type": "series",
-      "name": "The Studio",
-      "poster": "https://images.metahub.space/poster/small/tt23649128/img",
-      "background": "https://images.metahub.space/background/medium/tt23649128/img",
-      "logo": "https://images.metahub.space/logo/medium/tt23649128/img",
-      "description": "Follows a legacy Hollywood movie studio striving to survive in a world where it is increasingly difficult for art and business to live together.",
-      "releaseInfo": "2025–",
+      "name": "Damages",
+      "poster": "https://images.metahub.space/poster/small/tt0914387/img",
+      "background": "https://images.metahub.space/background/medium/tt0914387/img",
+      "logo": "https://images.metahub.space/logo/medium/tt0914387/img",
+      "description": "A law school graduate becomes the protégée of a successful high-stakes litigator.",
+      "releaseInfo": "2007–2012",
+      "imdbRating": "8.1"
+    },
+    {
+      "id": "tt0883772",
+      "type": "series",
+      "name": "Man vs. Wild",
+      "poster": "https://images.metahub.space/poster/small/tt0883772/img",
+      "background": "https://images.metahub.space/background/medium/tt0883772/img",
+      "logo": "https://images.metahub.space/logo/medium/tt0883772/img",
+      "description": "Bear Grylls travels the world in search of challenges to his survival skills.",
+      "releaseInfo": "2006–2020",
+      "imdbRating": "8.1"
+    },
+    {
+      "id": "tt7203552",
+      "type": "series",
+      "name": "The Morning Show",
+      "poster": "https://images.metahub.space/poster/small/tt7203552/img",
+      "background": "https://images.metahub.space/background/medium/tt7203552/img",
+      "logo": "https://images.metahub.space/logo/medium/tt7203552/img",
+      "description": "An inside look at the lives of the people who help America wake up in the morning, exploring the unique challenges faced by the team.",
+      "releaseInfo": "2019–",
       "imdbRating": "8.1"
     }
   ]
