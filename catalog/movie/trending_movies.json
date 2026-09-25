@@ -181,16 +181,6 @@
       "imdbRating": 8.1
     },
     {
-      "id": "tt28630806",
-      "type": "movie",
-      "name": "Gyanvapi Files: A Tailor's Murder Story",
-      "poster": "https://images.metahub.space/poster/medium/tt28630806/img",
-      "background": "https://images.metahub.space/background/medium/tt28630806/img",
-      "description": "In June 2022, Kanhaiya Lal Sahu, a tailor in Udaipur, India, was brutally murdered. The events surrounding the murder are explored, delving into the conspiracy and the deeper issues of religious extremism, digital radicalization, and intelligence failures that led to the tragic event.",
-      "releaseInfo": 2025,
-      "imdbRating": 6.1
-    },
-    {
       "id": "tt43617372",
       "type": "movie",
       "name": "You+Me - Against the World",
@@ -211,6 +201,16 @@
       "imdbRating": 6.3
     },
     {
+      "id": "tt28630806",
+      "type": "movie",
+      "name": "Gyanvapi Files: A Tailor's Murder Story",
+      "poster": "https://images.metahub.space/poster/medium/tt28630806/img",
+      "background": "https://images.metahub.space/background/medium/tt28630806/img",
+      "description": "In June 2022, Kanhaiya Lal Sahu, a tailor in Udaipur, India, was brutally murdered. The events surrounding the murder are explored, delving into the conspiracy and the deeper issues of religious extremism, digital radicalization, and intelligence failures that led to the tragic event.",
+      "releaseInfo": 2025,
+      "imdbRating": 6.1
+    },
+    {
       "id": "tt28650488",
       "type": "movie",
       "name": "The Super Mario Galaxy Movie",
@@ -219,6 +219,16 @@
       "description": "Having thwarted Bowser's previous plot to marry Princess Peach, Mario and Luigi now face a fresh threat in Bowser Jr., who is determined to liberate his father from captivity and restore the family legacy. Alongside companions new and old, the brothers travel across the stars to stop the young heir's crusade.",
       "releaseInfo": 2026,
       "imdbRating": 6.3
+    },
+    {
+      "id": "tt0101540",
+      "type": "movie",
+      "name": "Cape Fear",
+      "poster": "https://images.metahub.space/poster/medium/tt0101540/img",
+      "background": "https://images.metahub.space/background/medium/tt0101540/img",
+      "description": "Sam Bowden is a small-town corporate attorney. Max Cady is a tattooed, cigar-smoking, Bible-quoting, psychotic rapist. What do they have in common? 14 years ago, Sam was a public defender assigned to Max Cady's rape trial, and he made a serious error: he hid a document from his illiterate client that could have gotten him acquitted. Now, the cagey Cady has been released, and he intends to teach Sam Bowden and his family a thing or two about loss.",
+      "releaseInfo": 1991,
+      "imdbRating": 7.3
     },
     {
       "id": "tt12042730",
@@ -239,16 +249,6 @@
       "description": "Anton is a cheerful but exceedingly non-ambitious 17-year-old stoner who lives to stay buzzed, watch TV, and moon over Molly, the beautiful girl who lives next door. However, it turns out that the old cliché about idle hands being the devil's playground has a kernel of truth after all.",
       "releaseInfo": 1999,
       "imdbRating": 6.3
-    },
-    {
-      "id": "tt0101540",
-      "type": "movie",
-      "name": "Cape Fear",
-      "poster": "https://images.metahub.space/poster/medium/tt0101540/img",
-      "background": "https://images.metahub.space/background/medium/tt0101540/img",
-      "description": "Sam Bowden is a small-town corporate attorney. Max Cady is a tattooed, cigar-smoking, Bible-quoting, psychotic rapist. What do they have in common? 14 years ago, Sam was a public defender assigned to Max Cady's rape trial, and he made a serious error: he hid a document from his illiterate client that could have gotten him acquitted. Now, the cagey Cady has been released, and he intends to teach Sam Bowden and his family a thing or two about loss.",
-      "releaseInfo": 1991,
-      "imdbRating": 7.3
     },
     {
       "id": "tt0125022",
@@ -289,26 +289,6 @@
       "description": "Years into their relationship, Tim and Millie find themselves at a crossroads as they move to the country, abandoning all that is familiar in their lives except each other. With tensions already flaring, a nightmarish encounter with a mysterious, unnatural force threatens to corrupt their lives, their love, and their flesh.",
       "releaseInfo": 2025,
       "imdbRating": 6.7
-    },
-    {
-      "id": "tt27757805",
-      "type": "movie",
-      "name": "Baby John",
-      "poster": "https://images.metahub.space/poster/medium/tt27757805/img",
-      "background": "https://images.metahub.space/background/medium/tt27757805/img",
-      "description": "John's peaceful life with daughter Khushi is disrupted by a sex-trafficking gang. Revealing his past as DCP Satya, he seeks revenge for his family's murder, saving minor girls and punishing the criminals, before starting anew.",
-      "releaseInfo": 2024,
-      "imdbRating": 5
-    },
-    {
-      "id": "tt13377488",
-      "type": "movie",
-      "name": "W jak morderstwo",
-      "poster": "https://images.metahub.space/poster/medium/tt13377488/img",
-      "background": "https://images.metahub.space/background/medium/tt13377488/img",
-      "description": "One night, Magda accidentally discovers the body of a murdered woman wearing a necklace shaped like the letter \"W\"--which is identical to the one Magda's long-lost friend Weronika possessed.",
-      "releaseInfo": 2021,
-      "imdbRating": 5.5
     },
     {
       "id": "tt12472554",
@@ -371,6 +351,26 @@
       "imdbRating": 6.7
     },
     {
+      "id": "tt13377488",
+      "type": "movie",
+      "name": "W jak morderstwo",
+      "poster": "https://images.metahub.space/poster/medium/tt13377488/img",
+      "background": "https://images.metahub.space/background/medium/tt13377488/img",
+      "description": "One night, Magda accidentally discovers the body of a murdered woman wearing a necklace shaped like the letter \"W\"--which is identical to the one Magda's long-lost friend Weronika possessed.",
+      "releaseInfo": 2021,
+      "imdbRating": 5.5
+    },
+    {
+      "id": "tt27757805",
+      "type": "movie",
+      "name": "Baby John",
+      "poster": "https://images.metahub.space/poster/medium/tt27757805/img",
+      "background": "https://images.metahub.space/background/medium/tt27757805/img",
+      "description": "John's peaceful life with daughter Khushi is disrupted by a sex-trafficking gang. Revealing his past as DCP Satya, he seeks revenge for his family's murder, saving minor girls and punishing the criminals, before starting anew.",
+      "releaseInfo": 2024,
+      "imdbRating": 5
+    },
+    {
       "id": "tt0780653",
       "type": "movie",
       "name": "The Wolfman",
@@ -379,16 +379,6 @@
       "description": "Lawrence Talbot, an American man on a visit to Victorian London to make amends with his estranged father, gets bitten by a werewolf and, after a moonlight transformation, leaves him with a savage hunger for flesh.",
       "releaseInfo": 2010,
       "imdbRating": 5.9
-    },
-    {
-      "id": "tt26745657",
-      "type": "movie",
-      "name": "Madgaon Express",
-      "poster": "https://images.metahub.space/poster/medium/tt26745657/img",
-      "background": "https://images.metahub.space/background/medium/tt26745657/img",
-      "description": "The journey of three childhood friends who embark on a trip to Goa that goes completely off-track.",
-      "releaseInfo": 2024,
-      "imdbRating": 7
     },
     {
       "id": "tt37654096",
@@ -419,26 +409,6 @@
       "description": "In this extraordinary story of an ordinary man, Charles 'Chuck' Krantz experiences the wonder of love, the heartbreak of loss, and the multitudes contained in all of us.",
       "releaseInfo": 2025,
       "imdbRating": 7.3
-    },
-    {
-      "id": "tt1933667",
-      "type": "movie",
-      "name": "The Wizard of Lies",
-      "poster": "https://images.metahub.space/poster/medium/tt1933667/img",
-      "background": "https://images.metahub.space/background/medium/tt1933667/img",
-      "description": "A look behind the scenes at Bernie Madoff's massive Ponzi scheme, how it was perpetrated on the public and the trail of destruction it left in its wake, both for the victims and Madoff's family.",
-      "releaseInfo": 2017,
-      "imdbRating": 6.8
-    },
-    {
-      "id": "tt0258463",
-      "type": "movie",
-      "name": "The Bourne Identity",
-      "poster": "https://images.metahub.space/poster/medium/tt0258463/img",
-      "background": "https://images.metahub.space/background/medium/tt0258463/img",
-      "description": "Wounded to the brink of death and suffering from amnesia, Jason Bourne is rescued at sea by a fisherman. With nothing to go on but a Swiss bank account number, he starts to reconstruct his life, but finds that many people he encounters want him dead. However, Bourne realizes that he has the combat and mental skills of a world-class spy—but who does he work for?",
-      "releaseInfo": 2002,
-      "imdbRating": 7.8
     },
     {
       "id": "tt23865918",
@@ -481,6 +451,16 @@
       "imdbRating": 6.4
     },
     {
+      "id": "tt26745657",
+      "type": "movie",
+      "name": "Madgaon Express",
+      "poster": "https://images.metahub.space/poster/medium/tt26745657/img",
+      "background": "https://images.metahub.space/background/medium/tt26745657/img",
+      "description": "The journey of three childhood friends who embark on a trip to Goa that goes completely off-track.",
+      "releaseInfo": 2024,
+      "imdbRating": 7
+    },
+    {
       "id": "tt26581740",
       "type": "movie",
       "name": "Weapons",
@@ -499,6 +479,26 @@
       "description": "Earthquakes cause a massive polar vortex that covers most of the planet, a family must make their way to a safe zone at the equator.",
       "releaseInfo": 2020,
       "imdbRating": 2.5
+    },
+    {
+      "id": "tt32246771",
+      "type": "movie",
+      "name": "Bring Her Back",
+      "poster": "https://images.metahub.space/poster/medium/tt32246771/img",
+      "background": "https://images.metahub.space/background/medium/tt32246771/img",
+      "description": "Following the death of their father, a brother and sister are sent to live with a foster mother, only to learn that she is hiding a terrifying secret.",
+      "releaseInfo": 2025,
+      "imdbRating": 7.1
+    },
+    {
+      "id": "tt31723358",
+      "type": "movie",
+      "name": "Tell Me What You Want",
+      "poster": "https://images.metahub.space/poster/medium/tt31723358/img",
+      "background": "https://images.metahub.space/background/medium/tt31723358/img",
+      "description": "After his father's death, Eric Zimmerman travels to Spain to oversee his company's branches. In Madrid, he falls for Judith and engage in an intense, erotic relationship full of exploration. However, Eric fears his secret may end their affair.",
+      "releaseInfo": 2024,
+      "imdbRating": 4.1
     }
   ]
 }
