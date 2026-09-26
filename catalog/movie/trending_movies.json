@@ -21,16 +21,6 @@
       "imdbRating": 7.7
     },
     {
-      "id": "tt10886166",
-      "type": "movie",
-      "name": "365 dni",
-      "poster": "https://images.metahub.space/poster/medium/tt10886166/img",
-      "background": "https://images.metahub.space/background/medium/tt10886166/img",
-      "description": "Massimo is a member of the Sicilian Mafia family and Laura is a sales director. She does not expect that on a trip to Sicily trying to save her relationship, Massimo will kidnap her and give her 365 days to fall in love with him.",
-      "releaseInfo": 2020,
-      "imdbRating": 3.3
-    },
-    {
       "id": "tt22526100",
       "type": "movie",
       "name": "The Love Hypothesis",
@@ -39,6 +29,16 @@
       "description": "Olive Smith, a biology PhD candidate, and Dr. Adam Carlsen, a hotshot professor and well-known tyrant, enter into a fake relationship, seeing each of their carefully calculated theories on love get thrown into chaos.",
       "releaseInfo": 2026,
       "imdbRating": 7.2
+    },
+    {
+      "id": "tt10886166",
+      "type": "movie",
+      "name": "365 dni",
+      "poster": "https://images.metahub.space/poster/medium/tt10886166/img",
+      "background": "https://images.metahub.space/background/medium/tt10886166/img",
+      "description": "Massimo is a member of the Sicilian Mafia family and Laura is a sales director. She does not expect that on a trip to Sicily trying to save her relationship, Massimo will kidnap her and give her 365 days to fall in love with him.",
+      "releaseInfo": 2020,
+      "imdbRating": 3.3
     },
     {
       "id": "tt33379543",
@@ -61,6 +61,16 @@
       "imdbRating": 6.4
     },
     {
+      "id": "tt37544992",
+      "type": "movie",
+      "name": "Baby Do Die Do",
+      "poster": "https://images.metahub.space/poster/medium/tt37544992/img",
+      "background": "https://images.metahub.space/background/medium/tt37544992/img",
+      "description": "A deaf and mute serial killer in Mumbai can only hear her dead sister's voice as she commits murders for mysterious reasons.",
+      "releaseInfo": 2026,
+      "imdbRating": 6.1
+    },
+    {
       "id": "tt6323306",
       "type": "movie",
       "name": "Nude",
@@ -71,14 +81,14 @@
       "imdbRating": 5.7
     },
     {
-      "id": "tt35323618",
+      "id": "tt43134711",
       "type": "movie",
-      "name": "The India Story",
-      "poster": "https://images.metahub.space/poster/medium/tt35323618/img",
-      "background": "https://images.metahub.space/background/medium/tt35323618/img",
-      "description": "A community confronts the devastating impact of pesticide contamination as industrial negligence threatens public health. The fight for accountability exposes systemic failures in regulatory oversight and corporate responsibility.",
+      "name": "Ramba Oorvasi Menaka",
+      "poster": "https://images.metahub.space/poster/medium/tt43134711/img",
+      "background": "https://images.metahub.space/background/medium/tt43134711/img",
+      "description": "A man spends 15 years attempting to use a magical book to summon the celestial angels Ramba, Urvasi, and Menaka to earth, but Lord Indra blocks their descent until they finally arrive.",
       "releaseInfo": 2026,
-      "imdbRating": 6.3
+      "imdbRating": 8.3
     },
     {
       "id": "tt43737953",
@@ -91,16 +101,6 @@
       "imdbRating": 8.6
     },
     {
-      "id": "tt27989067",
-      "type": "movie",
-      "name": "Lust Stories 2",
-      "poster": "https://images.metahub.space/poster/medium/tt27989067/img",
-      "background": "https://images.metahub.space/background/medium/tt27989067/img",
-      "description": "Four eminent Indian directors explore sex, desire and love through short films in this sequel to 2018's Emmy-nominated 'Lust Stories'.",
-      "releaseInfo": 2023,
-      "imdbRating": 5.7
-    },
-    {
       "id": "tt31193180",
       "type": "movie",
       "name": "Sinners",
@@ -109,26 +109,6 @@
       "description": "Trying to leave their troubled lives behind, twin brothers return to their hometown to start again, only to discover that an even greater evil is waiting to welcome them back.",
       "releaseInfo": 2025,
       "imdbRating": 7.5
-    },
-    {
-      "id": "tt37544992",
-      "type": "movie",
-      "name": "Baby Do Die Do",
-      "poster": "https://images.metahub.space/poster/medium/tt37544992/img",
-      "background": "https://images.metahub.space/background/medium/tt37544992/img",
-      "description": "A deaf and mute serial killer in Mumbai can only hear her dead sister's voice as she commits murders for mysterious reasons.",
-      "releaseInfo": 2026,
-      "imdbRating": 6.1
-    },
-    {
-      "id": "tt37287335",
-      "type": "movie",
-      "name": "Obsession",
-      "poster": "https://images.metahub.space/poster/medium/tt37287335/img",
-      "background": "https://images.metahub.space/background/medium/tt37287335/img",
-      "description": "After breaking the mysterious \"One Wish Willow\" to win his crush's heart, a hopeless romantic finds himself getting exactly what he asked for but soon discovers that some desires come at a dark, sinister price.",
-      "releaseInfo": 2026,
-      "imdbRating": 7.8
     },
     {
       "id": "tt39120306",
@@ -151,6 +131,26 @@
       "imdbRating": 6
     },
     {
+      "id": "tt35323618",
+      "type": "movie",
+      "name": "The India Story",
+      "poster": "https://images.metahub.space/poster/medium/tt35323618/img",
+      "background": "https://images.metahub.space/background/medium/tt35323618/img",
+      "description": "A community confronts the devastating impact of pesticide contamination as industrial negligence threatens public health. The fight for accountability exposes systemic failures in regulatory oversight and corporate responsibility.",
+      "releaseInfo": 2026,
+      "imdbRating": 6.3
+    },
+    {
+      "id": "tt27989067",
+      "type": "movie",
+      "name": "Lust Stories 2",
+      "poster": "https://images.metahub.space/poster/medium/tt27989067/img",
+      "background": "https://images.metahub.space/background/medium/tt27989067/img",
+      "description": "Four eminent Indian directors explore sex, desire and love through short films in this sequel to 2018's Emmy-nominated 'Lust Stories'.",
+      "releaseInfo": 2023,
+      "imdbRating": 5.7
+    },
+    {
       "id": "tt11953194",
       "type": "movie",
       "name": "Hey! Sinamika",
@@ -159,36 +159,6 @@
       "description": "A wife who feels suffocated by her husband's incessant attention hires a psychologist to make him fall in love with her so that she can separate from him.",
       "releaseInfo": 2022,
       "imdbRating": 6.4
-    },
-    {
-      "id": "tt43134711",
-      "type": "movie",
-      "name": "Ramba Oorvasi Menaka",
-      "poster": "https://images.metahub.space/poster/medium/tt43134711/img",
-      "background": "https://images.metahub.space/background/medium/tt43134711/img",
-      "description": "A man spends 15 years attempting to use a magical book to summon the celestial angels Ramba, Urvasi, and Menaka to earth, but Lord Indra blocks their descent until they finally arrive.",
-      "releaseInfo": 2026,
-      "imdbRating": 8.3
-    },
-    {
-      "id": "tt39073377",
-      "type": "movie",
-      "name": "Ram and Leela",
-      "poster": "https://images.metahub.space/poster/medium/tt39073377/img",
-      "background": "https://images.metahub.space/background/medium/tt39073377/img",
-      "description": "A man who has always been unlucky in love finally meets the woman of his dreams, but an extraordinary twist forces him to redefine love, identity, and what it truly means to choose someone.",
-      "releaseInfo": 2026,
-      "imdbRating": 5.8
-    },
-    {
-      "id": "tt0083658",
-      "type": "movie",
-      "name": "Blade Runner",
-      "poster": "https://images.metahub.space/poster/medium/tt0083658/img",
-      "background": "https://images.metahub.space/background/medium/tt0083658/img",
-      "description": "In the smog-choked dystopian Los Angeles of 2019, blade runner Rick Deckard is called out of retirement to terminate a quartet of replicants who have escaped to Earth seeking their creator for a way to extend their short life spans.",
-      "releaseInfo": 1982,
-      "imdbRating": 8.1
     },
     {
       "id": "tt43617372",
@@ -211,6 +181,16 @@
       "imdbRating": 6.3
     },
     {
+      "id": "tt0125022",
+      "type": "movie",
+      "name": "Heartbreakers",
+      "poster": "https://images.metahub.space/poster/medium/tt0125022/img",
+      "background": "https://images.metahub.space/background/medium/tt0125022/img",
+      "description": "Max and Page are a brilliant mother/daughter con team who have their grift down to a fine science. Max targets wealthy, willing men and marries them. Page then seduces them, and Max catches her husband in the act. Then it's off to palimony city and the next easy mark.",
+      "releaseInfo": 2001,
+      "imdbRating": 6.3
+    },
+    {
       "id": "tt28630806",
       "type": "movie",
       "name": "Gyanvapi Files: A Tailor's Murder Story",
@@ -221,13 +201,83 @@
       "imdbRating": 6.1
     },
     {
-      "id": "tt28650488",
+      "id": "tt32273171",
       "type": "movie",
-      "name": "The Super Mario Galaxy Movie",
-      "poster": "https://images.metahub.space/poster/medium/tt28650488/img",
-      "background": "https://images.metahub.space/background/medium/tt28650488/img",
-      "description": "Having thwarted Bowser's previous plot to marry Princess Peach, Mario and Luigi now face a fresh threat in Bowser Jr., who is determined to liberate his father from captivity and restore the family legacy. Alongside companions new and old, the brothers travel across the stars to stop the young heir's crusade.",
+      "name": "The Death of Robin Hood",
+      "poster": "https://images.metahub.space/poster/medium/tt32273171/img",
+      "background": "https://images.metahub.space/background/medium/tt32273171/img",
+      "description": "Grappling with his past after a life of crime and murder, Robin Hood finds himself gravely injured after a battle he thought would be his last. In the hands of a mysterious woman, he is offered a chance at salvation.",
       "releaseInfo": 2026,
+      "imdbRating": 6
+    },
+    {
+      "id": "tt37287335",
+      "type": "movie",
+      "name": "Obsession",
+      "poster": "https://images.metahub.space/poster/medium/tt37287335/img",
+      "background": "https://images.metahub.space/background/medium/tt37287335/img",
+      "description": "After breaking the mysterious \"One Wish Willow\" to win his crush's heart, a hopeless romantic finds himself getting exactly what he asked for but soon discovers that some desires come at a dark, sinister price.",
+      "releaseInfo": 2026,
+      "imdbRating": 7.8
+    },
+    {
+      "id": "tt12472554",
+      "type": "movie",
+      "name": "Mahaan",
+      "poster": "https://images.metahub.space/poster/medium/tt12472554/img",
+      "background": "https://images.metahub.space/background/medium/tt12472554/img",
+      "description": "A man's family leaves him when he strays from the path of ideological living in his search for personal freedom. However, as he realizes his ambitions, he also misses the presence of his son in his life. Having fulfilled his dream of becoming a billionaire, does life give him a second chance to be a father?",
+      "releaseInfo": 2022,
+      "imdbRating": 7.7
+    },
+    {
+      "id": "tt32267691",
+      "type": "movie",
+      "name": "Power Ballad",
+      "poster": "https://images.metahub.space/poster/medium/tt32267691/img",
+      "background": "https://images.metahub.space/background/medium/tt32267691/img",
+      "description": "When Rick, a past-his-prime wedding singer, meets fading boy-band star Danny during a gig, the two bond over music and a late-night jam session. But when Danny turns one of Rick’s songs into the hit that reignites his career, Rick sets out to reclaim the recognition he believes he deserves - even if it means risking everything he cares about.",
+      "releaseInfo": 2026,
+      "imdbRating": 6.7
+    },
+    {
+      "id": "tt17279496",
+      "type": "movie",
+      "name": "Civil War",
+      "poster": "https://images.metahub.space/poster/medium/tt17279496/img",
+      "background": "https://images.metahub.space/background/medium/tt17279496/img",
+      "description": "In the midst of a U.S. civil war, four reporters make the dangerous trip to the capital to interview the president before he is overthrown.",
+      "releaseInfo": 2024,
+      "imdbRating": 7
+    },
+    {
+      "id": "tt12042730",
+      "type": "movie",
+      "name": "Project Hail Mary",
+      "poster": "https://images.metahub.space/poster/medium/tt12042730/img",
+      "background": "https://images.metahub.space/background/medium/tt12042730/img",
+      "description": "Science teacher Ryland Grace wakes up on a spaceship light years from home with no recollection of who he is or how he got there. As his memory returns, he begins to uncover his mission: solve the riddle of the mysterious substance causing the sun to die out. He must call on his scientific knowledge and unorthodox ideas to save everything on Earth from extinction.",
+      "releaseInfo": 2026,
+      "imdbRating": 8.2
+    },
+    {
+      "id": "tt0114388",
+      "type": "movie",
+      "name": "Sense and Sensibility",
+      "poster": "https://images.metahub.space/poster/medium/tt0114388/img",
+      "background": "https://images.metahub.space/background/medium/tt0114388/img",
+      "description": "The Dashwood sisters, sensible Elinor and passionate Marianne, learn that their prospects of marriage seem doomed by their family's sudden loss of fortune. After Henry Dashwood dies unexpectedly, his estate must pass on by law to his son. These circumstances leave Mr. Dashwood's wife and daughters without a home and with barely enough money to live on. As Elinor and Marianne struggle to find romantic fulfillment in a society obsessed with financial and social status, they must learn to mix sense with sensibility in their dealings with both money and men.",
+      "releaseInfo": 1995,
+      "imdbRating": 7.7
+    },
+    {
+      "id": "tt8439854",
+      "type": "movie",
+      "name": "Lust Stories",
+      "poster": "https://images.metahub.space/poster/medium/tt8439854/img",
+      "background": "https://images.metahub.space/background/medium/tt8439854/img",
+      "description": "An anthology of four stories that sheds light on modern relationships from the viewpoint of the Indian woman.",
+      "releaseInfo": 2018,
       "imdbRating": 6.3
     },
     {
@@ -241,16 +291,6 @@
       "imdbRating": 7.3
     },
     {
-      "id": "tt12042730",
-      "type": "movie",
-      "name": "Project Hail Mary",
-      "poster": "https://images.metahub.space/poster/medium/tt12042730/img",
-      "background": "https://images.metahub.space/background/medium/tt12042730/img",
-      "description": "Science teacher Ryland Grace wakes up on a spaceship light years from home with no recollection of who he is or how he got there. As his memory returns, he begins to uncover his mission: solve the riddle of the mysterious substance causing the sun to die out. He must call on his scientific knowledge and unorthodox ideas to save everything on Earth from extinction.",
-      "releaseInfo": 2026,
-      "imdbRating": 8.2
-    },
-    {
       "id": "tt0138510",
       "type": "movie",
       "name": "Idle Hands",
@@ -258,36 +298,6 @@
       "background": "https://images.metahub.space/background/medium/tt0138510/img",
       "description": "Anton is a cheerful but exceedingly non-ambitious 17-year-old stoner who lives to stay buzzed, watch TV, and moon over Molly, the beautiful girl who lives next door. However, it turns out that the old cliché about idle hands being the devil's playground has a kernel of truth after all.",
       "releaseInfo": 1999,
-      "imdbRating": 6.3
-    },
-    {
-      "id": "tt17279496",
-      "type": "movie",
-      "name": "Civil War",
-      "poster": "https://images.metahub.space/poster/medium/tt17279496/img",
-      "background": "https://images.metahub.space/background/medium/tt17279496/img",
-      "description": "In the midst of a U.S. civil war, four reporters make the dangerous trip to the capital to interview the president before he is overthrown.",
-      "releaseInfo": 2024,
-      "imdbRating": 7
-    },
-    {
-      "id": "tt0125022",
-      "type": "movie",
-      "name": "Heartbreakers",
-      "poster": "https://images.metahub.space/poster/medium/tt0125022/img",
-      "background": "https://images.metahub.space/background/medium/tt0125022/img",
-      "description": "Max and Page are a brilliant mother/daughter con team who have their grift down to a fine science. Max targets wealthy, willing men and marries them. Page then seduces them, and Max catches her husband in the act. Then it's off to palimony city and the next easy mark.",
-      "releaseInfo": 2001,
-      "imdbRating": 6.3
-    },
-    {
-      "id": "tt8439854",
-      "type": "movie",
-      "name": "Lust Stories",
-      "poster": "https://images.metahub.space/poster/medium/tt8439854/img",
-      "background": "https://images.metahub.space/background/medium/tt8439854/img",
-      "description": "An anthology of four stories that sheds light on modern relationships from the viewpoint of the Indian woman.",
-      "releaseInfo": 2018,
       "imdbRating": 6.3
     },
     {
@@ -301,34 +311,14 @@
       "imdbRating": 6.7
     },
     {
-      "id": "tt12472554",
+      "id": "tt10545296",
       "type": "movie",
-      "name": "Mahaan",
-      "poster": "https://images.metahub.space/poster/medium/tt12472554/img",
-      "background": "https://images.metahub.space/background/medium/tt12472554/img",
-      "description": "A man's family leaves him when he strays from the path of ideological living in his search for personal freedom. However, as he realizes his ambitions, he also misses the presence of his son in his life. Having fulfilled his dream of becoming a billionaire, does life give him a second chance to be a father?",
-      "releaseInfo": 2022,
-      "imdbRating": 7.7
-    },
-    {
-      "id": "tt9735470",
-      "type": "movie",
-      "name": "Little Fish",
-      "poster": "https://images.metahub.space/poster/medium/tt9735470/img",
-      "background": "https://images.metahub.space/background/medium/tt9735470/img",
-      "description": "A couple fights to hold their relationship together as a memory loss virus spreads and threatens to erase the history of their love and courtship.",
-      "releaseInfo": 2021,
-      "imdbRating": 6.9
-    },
-    {
-      "id": "tt40744412",
-      "type": "movie",
-      "name": "Heer Sara",
-      "poster": "https://images.metahub.space/poster/medium/tt40744412/img",
-      "background": "https://images.metahub.space/background/medium/tt40744412/img",
-      "description": "Two women embark on a rebellious motorcycle odyssey to Pondicherry - one seeking her lost mother, the other racing to uncover the truth behind a wedding. Laughter, chaos and sisterhood spark freedom, self-worth and eco-conscious living.",
-      "releaseInfo": 2026,
-      "imdbRating": 6
+      "name": "The Hunger Games: The Ballad of Songbirds & Snakes",
+      "poster": "https://images.metahub.space/poster/medium/tt10545296/img",
+      "background": "https://images.metahub.space/background/medium/tt10545296/img",
+      "description": "Coriolanus Snow mentors and develops feelings for the female District 12 tribute during the 10th Hunger Games.",
+      "releaseInfo": 2023,
+      "imdbRating": 6.6
     },
     {
       "id": "tt4832640",
@@ -341,26 +331,6 @@
       "imdbRating": 7.1
     },
     {
-      "id": "tt32267691",
-      "type": "movie",
-      "name": "Power Ballad",
-      "poster": "https://images.metahub.space/poster/medium/tt32267691/img",
-      "background": "https://images.metahub.space/background/medium/tt32267691/img",
-      "description": "When Rick, a past-his-prime wedding singer, meets fading boy-band star Danny during a gig, the two bond over music and a late-night jam session. But when Danny turns one of Rick’s songs into the hit that reignites his career, Rick sets out to reclaim the recognition he believes he deserves - even if it means risking everything he cares about.",
-      "releaseInfo": 2026,
-      "imdbRating": 6.7
-    },
-    {
-      "id": "tt13377488",
-      "type": "movie",
-      "name": "W jak morderstwo",
-      "poster": "https://images.metahub.space/poster/medium/tt13377488/img",
-      "background": "https://images.metahub.space/background/medium/tt13377488/img",
-      "description": "One night, Magda accidentally discovers the body of a murdered woman wearing a necklace shaped like the letter \"W\"--which is identical to the one Magda's long-lost friend Weronika possessed.",
-      "releaseInfo": 2021,
-      "imdbRating": 5.5
-    },
-    {
       "id": "tt27757805",
       "type": "movie",
       "name": "Baby John",
@@ -371,14 +341,44 @@
       "imdbRating": 5
     },
     {
-      "id": "tt21097228",
+      "id": "tt28650488",
       "type": "movie",
-      "name": "A Different Man",
-      "poster": "https://images.metahub.space/poster/medium/tt21097228/img",
-      "background": "https://images.metahub.space/background/medium/tt21097228/img",
-      "description": "Aspiring actor Edward undergoes a radical medical procedure to drastically transform his appearance. But his new dream face quickly turns into a nightmare.",
-      "releaseInfo": 2024,
-      "imdbRating": 6.8
+      "name": "The Super Mario Galaxy Movie",
+      "poster": "https://images.metahub.space/poster/medium/tt28650488/img",
+      "background": "https://images.metahub.space/background/medium/tt28650488/img",
+      "description": "Having thwarted Bowser's previous plot to marry Princess Peach, Mario and Luigi now face a fresh threat in Bowser Jr., who is determined to liberate his father from captivity and restore the family legacy. Alongside companions new and old, the brothers travel across the stars to stop the young heir's crusade.",
+      "releaseInfo": 2026,
+      "imdbRating": 6.3
+    },
+    {
+      "id": "tt39073377",
+      "type": "movie",
+      "name": "Ram and Leela",
+      "poster": "https://images.metahub.space/poster/medium/tt39073377/img",
+      "background": "https://images.metahub.space/background/medium/tt39073377/img",
+      "description": "A man who has always been unlucky in love finally meets the woman of his dreams, but an extraordinary twist forces him to redefine love, identity, and what it truly means to choose someone.",
+      "releaseInfo": 2026,
+      "imdbRating": 5.8
+    },
+    {
+      "id": "tt9735470",
+      "type": "movie",
+      "name": "Little Fish",
+      "poster": "https://images.metahub.space/poster/medium/tt9735470/img",
+      "background": "https://images.metahub.space/background/medium/tt9735470/img",
+      "description": "A couple fights to hold their relationship together as a memory loss virus spreads and threatens to erase the history of their love and courtship.",
+      "releaseInfo": 2021,
+      "imdbRating": 6.9
+    },
+    {
+      "id": "tt13377488",
+      "type": "movie",
+      "name": "W jak morderstwo",
+      "poster": "https://images.metahub.space/poster/medium/tt13377488/img",
+      "background": "https://images.metahub.space/background/medium/tt13377488/img",
+      "description": "One night, Magda accidentally discovers the body of a murdered woman wearing a necklace shaped like the letter \"W\"--which is identical to the one Magda's long-lost friend Weronika possessed.",
+      "releaseInfo": 2021,
+      "imdbRating": 5.5
     },
     {
       "id": "tt0780653",
@@ -401,34 +401,14 @@
       "imdbRating": 7
     },
     {
-      "id": "tt37654096",
+      "id": "tt21097228",
       "type": "movie",
-      "name": "The Last Sunrise",
-      "poster": "https://images.metahub.space/poster/medium/tt37654096/img",
-      "background": "https://images.metahub.space/background/medium/tt37654096/img",
-      "description": "Ry, a college student with a chronic illness, escapes to Mallorca for the summer with her mother, where she unexpectedly falls for a local and begins to embrace living in the moment. But as her condition worsens and long-hidden family secrets come to light, everything she has found before summer's end is threatened.",
-      "releaseInfo": 2026,
-      "imdbRating": 5.6
-    },
-    {
-      "id": "tt34385135",
-      "type": "movie",
-      "name": "Gunche",
-      "poster": "https://images.metahub.space/poster/medium/tt34385135/img",
-      "background": "https://images.metahub.space/background/medium/tt34385135/img",
-      "description": "Professor Se Jeong attends a biotech conference, only to witness it spiral into catastrophe when a rapidly mutating virus is unleashed. As the outbreak spreads and the infected begin to transform, authorities seal off the entire facility.",
-      "releaseInfo": 2026,
-      "imdbRating": 6.5
-    },
-    {
-      "id": "tt12908150",
-      "type": "movie",
-      "name": "The Life of Chuck",
-      "poster": "https://images.metahub.space/poster/medium/tt12908150/img",
-      "background": "https://images.metahub.space/background/medium/tt12908150/img",
-      "description": "In this extraordinary story of an ordinary man, Charles 'Chuck' Krantz experiences the wonder of love, the heartbreak of loss, and the multitudes contained in all of us.",
-      "releaseInfo": 2025,
-      "imdbRating": 7.3
+      "name": "A Different Man",
+      "poster": "https://images.metahub.space/poster/medium/tt21097228/img",
+      "background": "https://images.metahub.space/background/medium/tt21097228/img",
+      "description": "Aspiring actor Edward undergoes a radical medical procedure to drastically transform his appearance. But his new dream face quickly turns into a nightmare.",
+      "releaseInfo": 2024,
+      "imdbRating": 6.8
     },
     {
       "id": "tt23865918",
@@ -439,6 +419,26 @@
       "description": "In a village that doesn't officially exist, a laborer's unmatched athletic talent becomes his weapon to fight for his people's right to be recognized.",
       "releaseInfo": 2026,
       "imdbRating": 5.2
+    },
+    {
+      "id": "tt6933238",
+      "type": "movie",
+      "name": "Unabomber",
+      "poster": "https://images.metahub.space/poster/medium/tt6933238/img",
+      "background": "https://images.metahub.space/background/medium/tt6933238/img",
+      "description": "In this drama inspired by true events, Ted Kaczynski's transformation from Harvard prodigy to the infamous Unabomber unfolds as the FBI hunts him down.",
+      "releaseInfo": 2026,
+      "imdbRating": 0
+    },
+    {
+      "id": "tt5074352",
+      "type": "movie",
+      "name": "Dangal",
+      "poster": "https://images.metahub.space/poster/medium/tt5074352/img",
+      "background": "https://images.metahub.space/background/medium/tt5074352/img",
+      "description": "Dangal is an extraordinary true story based on the life of Mahavir Singh and his two daughters, Geeta and Babita Phogat. The film traces the inspirational journey of a father who trains his daughters to become world class wrestlers.",
+      "releaseInfo": 2016,
+      "imdbRating": 8.3
     },
     {
       "id": "tt27541778",
@@ -461,6 +461,16 @@
       "imdbRating": 8.2
     },
     {
+      "id": "tt5717184",
+      "type": "movie",
+      "name": "The Colour of Darkness",
+      "poster": "https://images.metahub.space/poster/medium/tt5717184/img",
+      "background": "https://images.metahub.space/background/medium/tt5717184/img",
+      "description": "All the colour, depth and mystery of India's complex and riotous cultural heritage is brought to light in a single action which changes two countries forever. A proud Indian international student is attacked in a brightly lit train carriage against a backdrop of darkness. Unknown to his attackers his high caste status has little relevance, and in one poignant moment, he is rescued by his counterpart, an 'untouchable', a low caste. They are united by what would otherwise be impossible. The highly publicised event sends shock waves through the international community.",
+      "releaseInfo": 2017,
+      "imdbRating": 4.7
+    },
+    {
       "id": "tt35064672",
       "type": "movie",
       "name": "Cocktail 2",
@@ -471,34 +481,24 @@
       "imdbRating": 6.4
     },
     {
-      "id": "tt26581740",
+      "id": "tt11112532",
       "type": "movie",
-      "name": "Weapons",
-      "poster": "https://images.metahub.space/poster/medium/tt26581740/img",
-      "background": "https://images.metahub.space/background/medium/tt26581740/img",
-      "description": "When all but one child from the same class mysteriously vanish on the same night at exactly the same time, a community is left questioning who or what is behind their disappearance.",
+      "name": "Agra",
+      "poster": "https://images.metahub.space/poster/medium/tt11112532/img",
+      "background": "https://images.metahub.space/background/medium/tt11112532/img",
+      "description": "The story of a family and an exploration of space in an increasingly crowded world. It follows the quest for a sexual odyssey of an individual.",
       "releaseInfo": 2025,
-      "imdbRating": 7.4
+      "imdbRating": 5.4
     },
     {
-      "id": "tt13036930",
+      "id": "tt37658793",
       "type": "movie",
-      "name": "Apocalypse of Ice",
-      "poster": "https://images.metahub.space/poster/medium/tt13036930/img",
-      "background": "https://images.metahub.space/background/medium/tt13036930/img",
-      "description": "Earthquakes cause a massive polar vortex that covers most of the planet, a family must make their way to a safe zone at the equator.",
-      "releaseInfo": 2020,
-      "imdbRating": 2.5
-    },
-    {
-      "id": "tt32246771",
-      "type": "movie",
-      "name": "Bring Her Back",
-      "poster": "https://images.metahub.space/poster/medium/tt32246771/img",
-      "background": "https://images.metahub.space/background/medium/tt32246771/img",
-      "description": "Following the death of their father, a brother and sister are sent to live with a foster mother, only to learn that she is hiding a terrifying secret.",
-      "releaseInfo": 2025,
-      "imdbRating": 7.1
+      "name": "Bandar",
+      "poster": "https://images.metahub.space/poster/medium/tt37658793/img",
+      "background": "https://images.metahub.space/background/medium/tt37658793/img",
+      "description": "TV star Samar's life spirals when his ex Gayatri accuses him of rape after he blocks contact with her. Despite his new relationship with Khushi, he faces arrest and encounters a corrupt justice system.",
+      "releaseInfo": 2026,
+      "imdbRating": 0
     }
   ]
 }

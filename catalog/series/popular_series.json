@@ -31,14 +31,14 @@
       "imdbRating": 5.3
     },
     {
-      "id": "tt1196946",
+      "id": "tt6473300",
       "type": "series",
-      "name": "The Mentalist",
-      "poster": "https://images.metahub.space/poster/medium/tt1196946/img",
-      "background": "https://images.metahub.space/background/medium/tt1196946/img",
-      "description": "Patrick Jane, a former celebrity psychic medium, uses his razor sharp skills of observation and expertise at \"reading\" people to solve serious crimes with the California Bureau of Investigation.",
-      "releaseInfo": 2008,
-      "imdbRating": 8.2
+      "name": "Mirzapur",
+      "poster": "https://images.metahub.space/poster/medium/tt6473300/img",
+      "background": "https://images.metahub.space/background/medium/tt6473300/img",
+      "description": "The iron-fisted Akhandanand Tripathi is a millionaire carpet exporter and the mafia don of Mirzapur. His son, Munna, is an unworthy, power-hungry heir who will stop at nothing to inherit his father's legacy. An incident at a wedding procession forces him to cross paths with Ramakant Pandit, an upstanding lawyer, and his sons, Guddu and Bablu. It snowballs into a game of ambition, power and greed that threatens the fabric of this lawless city.",
+      "releaseInfo": 2018,
+      "imdbRating": 8.4
     },
     {
       "id": "tt31510819",
@@ -51,24 +51,24 @@
       "imdbRating": 8.3
     },
     {
-      "id": "tt5875444",
+      "id": "tt19231492",
       "type": "series",
-      "name": "Slow Horses",
-      "poster": "https://images.metahub.space/poster/medium/tt5875444/img",
-      "background": "https://images.metahub.space/background/medium/tt5875444/img",
-      "description": "Follow a dysfunctional team of MI5 agents—and their obnoxious boss, the notorious Jackson Lamb—as they navigate the espionage world's smoke and mirrors to defend England from sinister forces.",
-      "releaseInfo": 2022,
-      "imdbRating": 8.4
+      "name": "Dark Matter",
+      "poster": "https://images.metahub.space/poster/medium/tt19231492/img",
+      "background": "https://images.metahub.space/background/medium/tt19231492/img",
+      "description": "Jason Dessen is abducted into an alternate version of his life. To get back to his real family, he embarks on a harrowing journey to save them from the most terrifying foe imaginable: himself.",
+      "releaseInfo": 2024,
+      "imdbRating": 7.6
     },
     {
-      "id": "tt6473300",
+      "id": "tt35929525",
       "type": "series",
-      "name": "Mirzapur",
-      "poster": "https://images.metahub.space/poster/medium/tt6473300/img",
-      "background": "https://images.metahub.space/background/medium/tt6473300/img",
-      "description": "The iron-fisted Akhandanand Tripathi is a millionaire carpet exporter and the mafia don of Mirzapur. His son, Munna, is an unworthy, power-hungry heir who will stop at nothing to inherit his father's legacy. An incident at a wedding procession forces him to cross paths with Ramakant Pandit, an upstanding lawyer, and his sons, Guddu and Bablu. It snowballs into a game of ambition, power and greed that threatens the fabric of this lawless city.",
-      "releaseInfo": 2018,
-      "imdbRating": 8.4
+      "name": "Shaque: Trust No One",
+      "poster": "https://images.metahub.space/poster/medium/tt35929525/img",
+      "background": "https://images.metahub.space/background/medium/tt35929525/img",
+      "description": "A mother receives yearly photos of her missing child. After nine years of searching, she discovers the truth about the abduction lies not far away, but hidden among her closest circle.",
+      "releaseInfo": 2026,
+      "imdbRating": 5.2
     },
     {
       "id": "tt26545992",
@@ -81,13 +81,43 @@
       "imdbRating": 7.8
     },
     {
-      "id": "tt14688458",
+      "id": "tt5875444",
       "type": "series",
-      "name": "Silo",
-      "poster": "https://images.metahub.space/poster/medium/tt14688458/img",
-      "background": "https://images.metahub.space/background/medium/tt14688458/img",
-      "description": "Men and women live in a giant silo underground with several regulations which they believe are in place to protect them from the toxic and ruined world on the surface.",
-      "releaseInfo": 2023,
+      "name": "Slow Horses",
+      "poster": "https://images.metahub.space/poster/medium/tt5875444/img",
+      "background": "https://images.metahub.space/background/medium/tt5875444/img",
+      "description": "Follow a dysfunctional team of MI5 agents—and their obnoxious boss, the notorious Jackson Lamb—as they navigate the espionage world's smoke and mirrors to defend England from sinister forces.",
+      "releaseInfo": 2022,
+      "imdbRating": 8.4
+    },
+    {
+      "id": "tt1196946",
+      "type": "series",
+      "name": "The Mentalist",
+      "poster": "https://images.metahub.space/poster/medium/tt1196946/img",
+      "background": "https://images.metahub.space/background/medium/tt1196946/img",
+      "description": "Patrick Jane, a former celebrity psychic medium, uses his razor sharp skills of observation and expertise at \"reading\" people to solve serious crimes with the California Bureau of Investigation.",
+      "releaseInfo": 2008,
+      "imdbRating": 8.2
+    },
+    {
+      "id": "tt0944947",
+      "type": "series",
+      "name": "Game of Thrones",
+      "poster": "https://images.metahub.space/poster/medium/tt0944947/img",
+      "background": "https://images.metahub.space/background/medium/tt0944947/img",
+      "description": "Seven noble families fight for control of the mythical land of Westeros. Friction between the houses leads to full-scale war. All while a very ancient evil awakens in the farthest north. Amidst the war, a neglected military order of misfits, the Night's Watch, is all that stands between the realms of men and icy horrors beyond.",
+      "releaseInfo": 2011,
+      "imdbRating": 9.2
+    },
+    {
+      "id": "tt0758790",
+      "type": "series",
+      "name": "The Tudors",
+      "poster": "https://images.metahub.space/poster/medium/tt0758790/img",
+      "background": "https://images.metahub.space/background/medium/tt0758790/img",
+      "description": "The Tudors is a history-based drama series following the young, vibrant King Henry VIII, a competitive and lustful monarch who navigates the intrigues of the English court and the human heart with equal vigor and justifiable suspicion.",
+      "releaseInfo": 2007,
       "imdbRating": 8.1
     },
     {
@@ -101,34 +131,14 @@
       "imdbRating": 8
     },
     {
-      "id": "tt0944947",
+      "id": "tt0988824",
       "type": "series",
-      "name": "Game of Thrones",
-      "poster": "https://images.metahub.space/poster/medium/tt0944947/img",
-      "background": "https://images.metahub.space/background/medium/tt0944947/img",
-      "description": "Seven noble families fight for control of the mythical land of Westeros. Friction between the houses leads to full-scale war. All while a very ancient evil awakens in the farthest north. Amidst the war, a neglected military order of misfits, the Night's Watch, is all that stands between the realms of men and icy horrors beyond.",
-      "releaseInfo": 2011,
-      "imdbRating": 9.2
-    },
-    {
-      "id": "tt19231492",
-      "type": "series",
-      "name": "Dark Matter",
-      "poster": "https://images.metahub.space/poster/medium/tt19231492/img",
-      "background": "https://images.metahub.space/background/medium/tt19231492/img",
-      "description": "Jason Dessen is abducted into an alternate version of his life. To get back to his real family, he embarks on a harrowing journey to save them from the most terrifying foe imaginable: himself.",
-      "releaseInfo": 2024,
-      "imdbRating": 7.6
-    },
-    {
-      "id": "tt33546863",
-      "type": "series",
-      "name": "Off Campus",
-      "poster": "https://images.metahub.space/poster/medium/tt33546863/img",
-      "background": "https://images.metahub.space/background/medium/tt33546863/img",
-      "description": "A college-set romantic drama chronicling the unexpected love story between a music student and the university's star hockey player, exploring themes of love and the complexities of adulthood through deep friendships and enduring bonds.",
-      "releaseInfo": 2026,
-      "imdbRating": 7.8
+      "name": "Naruto: Shippûden",
+      "poster": "https://images.metahub.space/poster/medium/tt0988824/img",
+      "background": "https://images.metahub.space/background/medium/tt0988824/img",
+      "description": "Naruto Uzumaki, is a loud, hyperactive, adolescent ninja who constantly searches for approval and recognition, as well as to become Hokage, who is acknowledged as the leader and strongest of all ninja in the village.",
+      "releaseInfo": 2007,
+      "imdbRating": 8.7
     },
     {
       "id": "tt10986410",
@@ -141,43 +151,13 @@
       "imdbRating": 8.7
     },
     {
-      "id": "tt33094114",
+      "id": "tt33546863",
       "type": "series",
-      "name": "India's Got Latent",
-      "poster": "https://images.metahub.space/poster/medium/tt33094114/img",
-      "background": "https://images.metahub.space/background/medium/tt33094114/img",
-      "description": "India's Got Latent is an Indian Hindi comedy talent show hosted by Samay Raina on YouTube. Inspired by the international Got Talent franchise and Kill Tony, it features a wide variety of acts including singing, dancing, magic, and comedy.",
-      "releaseInfo": 2024,
-      "imdbRating": 8.9
-    },
-    {
-      "id": "tt0988824",
-      "type": "series",
-      "name": "Naruto: Shippûden",
-      "poster": "https://images.metahub.space/poster/medium/tt0988824/img",
-      "background": "https://images.metahub.space/background/medium/tt0988824/img",
-      "description": "Naruto Uzumaki, is a loud, hyperactive, adolescent ninja who constantly searches for approval and recognition, as well as to become Hokage, who is acknowledged as the leader and strongest of all ninja in the village.",
-      "releaseInfo": 2007,
-      "imdbRating": 8.7
-    },
-    {
-      "id": "tt0758790",
-      "type": "series",
-      "name": "The Tudors",
-      "poster": "https://images.metahub.space/poster/medium/tt0758790/img",
-      "background": "https://images.metahub.space/background/medium/tt0758790/img",
-      "description": "The Tudors is a history-based drama series following the young, vibrant King Henry VIII, a competitive and lustful monarch who navigates the intrigues of the English court and the human heart with equal vigor and justifiable suspicion.",
-      "releaseInfo": 2007,
-      "imdbRating": 8.1
-    },
-    {
-      "id": "tt13111078",
-      "type": "series",
-      "name": "Lioness",
-      "poster": "https://images.metahub.space/poster/medium/tt13111078/img",
-      "background": "https://images.metahub.space/background/medium/tt13111078/img",
-      "description": "Cruz Manuelos, a rough-around-the-edges but passionate young Marine, is recruited to join the CIA's Lioness Engagement Team to help bring down a terrorist organization from within. Joe, the station chief of the Lioness program, is tasked with training, managing and leading her female undercover operatives.",
-      "releaseInfo": 2023,
+      "name": "Off Campus",
+      "poster": "https://images.metahub.space/poster/medium/tt33546863/img",
+      "background": "https://images.metahub.space/background/medium/tt33546863/img",
+      "description": "A college-set romantic drama chronicling the unexpected love story between a music student and the university's star hockey player, exploring themes of love and the complexities of adulthood through deep friendships and enduring bonds.",
+      "releaseInfo": 2026,
       "imdbRating": 7.8
     },
     {
@@ -191,6 +171,26 @@
       "imdbRating": 8.5
     },
     {
+      "id": "tt14688458",
+      "type": "series",
+      "name": "Silo",
+      "poster": "https://images.metahub.space/poster/medium/tt14688458/img",
+      "background": "https://images.metahub.space/background/medium/tt14688458/img",
+      "description": "Men and women live in a giant silo underground with several regulations which they believe are in place to protect them from the toxic and ruined world on the surface.",
+      "releaseInfo": 2023,
+      "imdbRating": 8.1
+    },
+    {
+      "id": "tt13111078",
+      "type": "series",
+      "name": "Lioness",
+      "poster": "https://images.metahub.space/poster/medium/tt13111078/img",
+      "background": "https://images.metahub.space/background/medium/tt13111078/img",
+      "description": "Cruz Manuelos, a rough-around-the-edges but passionate young Marine, is recruited to join the CIA's Lioness Engagement Team to help bring down a terrorist organization from within. Joe, the station chief of the Lioness program, is tasked with training, managing and leading her female undercover operatives.",
+      "releaseInfo": 2023,
+      "imdbRating": 7.8
+    },
+    {
       "id": "tt1442449",
       "type": "series",
       "name": "Spartacus",
@@ -199,46 +199,6 @@
       "description": "The life of Spartacus, the gladiator who led a rebellion against the Romans.",
       "releaseInfo": 2010,
       "imdbRating": 8.4
-    },
-    {
-      "id": "tt33539520",
-      "type": "series",
-      "name": "Neagley",
-      "poster": "https://images.metahub.space/poster/medium/tt33539520/img",
-      "background": "https://images.metahub.space/background/medium/tt33539520/img",
-      "description": "Neagley, drawing from her experience with Jack Reacher and the 110 Special Investigators, embarks on a perilous mission to expose a sinister threat, risking her life to unravel the mystery.",
-      "releaseInfo": 2026,
-      "imdbRating": 7.8
-    },
-    {
-      "id": "tt6773088",
-      "type": "series",
-      "name": "Brothers",
-      "poster": "https://images.metahub.space/poster/medium/tt6773088/img",
-      "background": "https://images.metahub.space/background/medium/tt6773088/img",
-      "description": "Matthew and Woody have been best friends for years, but a shocking family secret suggests their connection might be closer.",
-      "releaseInfo": 2026,
-      "imdbRating": 6.8
-    },
-    {
-      "id": "tt28765828",
-      "type": "series",
-      "name": "Minerva Academy",
-      "poster": "https://images.metahub.space/poster/medium/tt28765828/img",
-      "background": "https://images.metahub.space/background/medium/tt28765828/img",
-      "description": "At Minerva Military High School, teens navigate discipline, rivalry and family pressure as a young cadet searches for answers about his missing friend.",
-      "releaseInfo": 2026,
-      "imdbRating": 5.1
-    },
-    {
-      "id": "tt33332385",
-      "type": "series",
-      "name": "Widow's Bay",
-      "poster": "https://images.metahub.space/poster/medium/tt33332385/img",
-      "background": "https://images.metahub.space/background/medium/tt33332385/img",
-      "description": "The mayor of a New England town resolves to turn it into the next tourist hot spot, despite local warnings that it's cursed.",
-      "releaseInfo": 2026,
-      "imdbRating": 8.1
     },
     {
       "id": "tt39640519",
@@ -261,114 +221,24 @@
       "imdbRating": 8.8
     },
     {
-      "id": "tt33184638",
+      "id": "tt6773088",
       "type": "series",
-      "name": "Paris Has Fallen",
-      "poster": "https://images.metahub.space/poster/medium/tt33184638/img",
-      "background": "https://images.metahub.space/background/medium/tt33184638/img",
-      "description": "A protection officer and an MI6 operative team up after a terrorist attack. They suspect a mole as they race to thwart a larger conspiracy threatening Paris.",
-      "releaseInfo": 2024,
-      "imdbRating": 6.5
-    },
-    {
-      "id": "tt35929525",
-      "type": "series",
-      "name": "Shaque: Trust No One",
-      "poster": "https://images.metahub.space/poster/medium/tt35929525/img",
-      "background": "https://images.metahub.space/background/medium/tt35929525/img",
-      "description": "A mother receives yearly photos of her missing child. After nine years of searching, she discovers the truth about the abduction lies not far away, but hidden among her closest circle.",
+      "name": "Brothers",
+      "poster": "https://images.metahub.space/poster/medium/tt6773088/img",
+      "background": "https://images.metahub.space/background/medium/tt6773088/img",
+      "description": "Matthew and Woody have been best friends for years, but a shocking family secret suggests their connection might be closer.",
       "releaseInfo": 2026,
-      "imdbRating": 5.2
+      "imdbRating": 6.8
     },
     {
-      "id": "tt8772296",
+      "id": "tt33094114",
       "type": "series",
-      "name": "Euphoria",
-      "poster": "https://images.metahub.space/poster/medium/tt8772296/img",
-      "background": "https://images.metahub.space/background/medium/tt8772296/img",
-      "description": "A group of high school students navigate love and friendships in a world of drugs, sex, trauma, and social media.",
-      "releaseInfo": 2019,
-      "imdbRating": 8.1
-    },
-    {
-      "id": "tt6037988",
-      "type": "series",
-      "name": "Last Seen",
-      "poster": "https://images.metahub.space/poster/medium/tt6037988/img",
-      "background": "https://images.metahub.space/background/medium/tt6037988/img",
-      "description": "Police dispatcher Ian Ridley's daughter Maggie disappeared years ago. He receives a call, believing it's her, and embarks on a relentless quest to find her and reunite his family, disregarding consequences.",
-      "releaseInfo": 2026,
-      "imdbRating": 7.4
-    },
-    {
-      "id": "tt9813792",
-      "type": "series",
-      "name": "FROM",
-      "poster": "https://images.metahub.space/poster/medium/tt9813792/img",
-      "background": "https://images.metahub.space/background/medium/tt9813792/img",
-      "description": "Unravel the mystery of a nightmarish town in middle America that traps all those who enter. As the unwilling residents fight to keep a sense of normalcy and search for a way out, they must also survive the threats of the surrounding forest – including the terrifying creatures that come out when the sun goes down.",
-      "releaseInfo": 2022,
-      "imdbRating": 7.7
-    },
-    {
-      "id": "tt28077038",
-      "type": "series",
-      "name": "Pritam and Pedro",
-      "poster": "https://images.metahub.space/poster/medium/tt28077038/img",
-      "background": "https://images.metahub.space/background/medium/tt28077038/img",
-      "description": "When a tech-illiterate Goa cop is demoted to the cyber cell, he must team up with a quirky hacker to track down a minister's kidnapped son and win back his old job.",
-      "releaseInfo": 2026,
-      "imdbRating": 7.7
-    },
-    {
-      "id": "tt1475582",
-      "type": "series",
-      "name": "Sherlock",
-      "poster": "https://images.metahub.space/poster/medium/tt1475582/img",
-      "background": "https://images.metahub.space/background/medium/tt1475582/img",
-      "description": "A modern update finds the famous sleuth and his doctor partner solving crime in 21st century London.",
-      "releaseInfo": 2010,
-      "imdbRating": 9
-    },
-    {
-      "id": "tt13293588",
-      "type": "series",
-      "name": "Mushoku Tensei: Jobless Reincarnation",
-      "poster": "https://images.metahub.space/poster/medium/tt13293588/img",
-      "background": "https://images.metahub.space/background/medium/tt13293588/img",
-      "description": "When a 34-year-old underachiever gets run over by a truck, his story doesn't end there. Reincarnated in a new world as an infant, Rudy will seize every opportunity to live the life he's always wanted. Armed with new friends, some freshly acquired magical abilities, and the courage to do the things he's always dreamed of, he's embarking on an epic adventure—with all of his past experience intact!",
-      "releaseInfo": 2021,
-      "imdbRating": 8.2
-    },
-    {
-      "id": "tt30459041",
-      "type": "series",
-      "name": "Your Friends & Neighbors",
-      "poster": "https://images.metahub.space/poster/medium/tt30459041/img",
-      "background": "https://images.metahub.space/background/medium/tt30459041/img",
-      "description": "When a financial titan suddenly finds himself divorced and jobless, he starts robbing his wealthy neighbors to stay afloat. Stealing from his own social circle strangely exhilarates him—but he gradually gets tangled in a deadly web.",
-      "releaseInfo": 2025,
-      "imdbRating": 7.6
-    },
-    {
-      "id": "tt16418808",
-      "type": "series",
-      "name": "Sugar",
-      "poster": "https://images.metahub.space/poster/medium/tt16418808/img",
-      "background": "https://images.metahub.space/background/medium/tt16418808/img",
-      "description": "John Sugar is a dashing private eye navigating the dark corners of sunny LA. Though he sees only the good in humanity, Sugar is haunted by a secret too dangerous to expose.",
+      "name": "India's Got Latent",
+      "poster": "https://images.metahub.space/poster/medium/tt33094114/img",
+      "background": "https://images.metahub.space/background/medium/tt33094114/img",
+      "description": "India's Got Latent is an Indian Hindi comedy talent show hosted by Samay Raina on YouTube. Inspired by the international Got Talent franchise and Kill Tony, it features a wide variety of acts including singing, dancing, magic, and comedy.",
       "releaseInfo": 2024,
-      "imdbRating": 7.4
-    },
-    {
-      "id": "tt13210838",
-      "type": "series",
-      "name": "The Gentlemen",
-      "poster": "https://images.metahub.space/poster/medium/tt13210838/img",
-      "background": "https://images.metahub.space/background/medium/tt13210838/img",
-      "description": "When aristocratic Eddie inherits the family estate, he discovers that it's home to a huge weed empire, and its proprietors aren't going anywhere.",
-      "releaseInfo": 2024,
-      "imdbRating": 8.1
+      "imdbRating": 8.9
     },
     {
       "id": "tt0409591",
@@ -381,32 +251,92 @@
       "imdbRating": 8.4
     },
     {
-      "id": "tt22202452",
+      "id": "tt33184638",
       "type": "series",
-      "name": "Pluribus",
-      "poster": "https://images.metahub.space/poster/medium/tt22202452/img",
-      "background": "https://images.metahub.space/background/medium/tt22202452/img",
-      "description": "In a world overtaken by a mysterious wave of forced happiness, Carol Sturka, one of the immune few, must uncover what's really going on - and save humanity from its artificial bliss.",
-      "releaseInfo": 2025,
-      "imdbRating": 7.9
+      "name": "Paris Has Fallen",
+      "poster": "https://images.metahub.space/poster/medium/tt33184638/img",
+      "background": "https://images.metahub.space/background/medium/tt33184638/img",
+      "description": "A protection officer and an MI6 operative team up after a terrorist attack. They suspect a mole as they race to thwart a larger conspiracy threatening Paris.",
+      "releaseInfo": 2024,
+      "imdbRating": 6.5
     },
     {
-      "id": "tt6468322",
+      "id": "tt28765828",
       "type": "series",
-      "name": "Money Heist",
-      "poster": "https://images.metahub.space/poster/medium/tt6468322/img",
-      "background": "https://images.metahub.space/background/medium/tt6468322/img",
-      "description": "To carry out the biggest heist in history, a mysterious man called The Professor recruits a band of eight robbers who have a single characteristic: none of them has anything to lose. Five months of seclusion - memorizing every step, every detail, every probability - culminate in eleven days locked up in the National Coinage and Stamp Factory of Spain, surrounded by police forces and with dozens of hostages in their power, to find out whether their suicide wager will lead to everything or nothing.",
-      "releaseInfo": 2017,
-      "imdbRating": 8.2
+      "name": "Minerva Academy",
+      "poster": "https://images.metahub.space/poster/medium/tt28765828/img",
+      "background": "https://images.metahub.space/background/medium/tt28765828/img",
+      "description": "At Minerva Military High School, teens navigate discipline, rivalry and family pressure as a young cadet searches for answers about his missing friend.",
+      "releaseInfo": 2026,
+      "imdbRating": 5.1
     },
     {
-      "id": "tt45712181",
+      "id": "tt28077038",
       "type": "series",
-      "name": "Indian Game Show",
-      "poster": "https://images.metahub.space/poster/medium/tt45712181/img",
-      "background": "https://images.metahub.space/background/medium/tt45712181/img",
-      "description": "The Indian Game Show is a high-energy comedy game show created and hosted by Bharti Singh and Haarsh Limbachiyaa. Featuring popular television actors, choreographers, musicians, and social media influencers, contestants face off in physical stunts, comedy challenges, and quirky tasks to win prizes while avoiding hilarious punishments",
+      "name": "Pritam and Pedro",
+      "poster": "https://images.metahub.space/poster/medium/tt28077038/img",
+      "background": "https://images.metahub.space/background/medium/tt28077038/img",
+      "description": "When a tech-illiterate Goa cop is demoted to the cyber cell, he must team up with a quirky hacker to track down a minister's kidnapped son and win back his old job.",
+      "releaseInfo": 2026,
+      "imdbRating": 7.7
+    },
+    {
+      "id": "tt6037988",
+      "type": "series",
+      "name": "Last Seen",
+      "poster": "https://images.metahub.space/poster/medium/tt6037988/img",
+      "background": "https://images.metahub.space/background/medium/tt6037988/img",
+      "description": "Police dispatcher Ian Ridley's daughter Maggie disappeared years ago. He receives a call, believing it's her, and embarks on a relentless quest to find her and reunite his family, disregarding consequences.",
+      "releaseInfo": 2026,
+      "imdbRating": 7.4
+    },
+    {
+      "id": "tt33539520",
+      "type": "series",
+      "name": "Neagley",
+      "poster": "https://images.metahub.space/poster/medium/tt33539520/img",
+      "background": "https://images.metahub.space/background/medium/tt33539520/img",
+      "description": "Neagley, drawing from her experience with Jack Reacher and the 110 Special Investigators, embarks on a perilous mission to expose a sinister threat, risking her life to unravel the mystery.",
+      "releaseInfo": 2026,
+      "imdbRating": 7.8
+    },
+    {
+      "id": "tt8772296",
+      "type": "series",
+      "name": "Euphoria",
+      "poster": "https://images.metahub.space/poster/medium/tt8772296/img",
+      "background": "https://images.metahub.space/background/medium/tt8772296/img",
+      "description": "A group of high school students navigate love and friendships in a world of drugs, sex, trauma, and social media.",
+      "releaseInfo": 2019,
+      "imdbRating": 8.1
+    },
+    {
+      "id": "tt1475582",
+      "type": "series",
+      "name": "Sherlock",
+      "poster": "https://images.metahub.space/poster/medium/tt1475582/img",
+      "background": "https://images.metahub.space/background/medium/tt1475582/img",
+      "description": "A modern update finds the famous sleuth and his doctor partner solving crime in 21st century London.",
+      "releaseInfo": 2010,
+      "imdbRating": 9
+    },
+    {
+      "id": "tt13210838",
+      "type": "series",
+      "name": "The Gentlemen",
+      "poster": "https://images.metahub.space/poster/medium/tt13210838/img",
+      "background": "https://images.metahub.space/background/medium/tt13210838/img",
+      "description": "When aristocratic Eddie inherits the family estate, he discovers that it's home to a huge weed empire, and its proprietors aren't going anywhere.",
+      "releaseInfo": 2024,
+      "imdbRating": 8.1
+    },
+    {
+      "id": "tt9140554",
+      "type": "series",
+      "name": "Loki",
+      "poster": "https://images.metahub.space/poster/medium/tt9140554/img",
+      "background": "https://images.metahub.space/background/medium/tt9140554/img",
+      "description": "The mercurial villain Loki resumes his role as the God of Mischief in a new series that takes place after the events of “Avengers: Endgame.”",
       "releaseInfo": 2021,
       "imdbRating": 8.2
     },
@@ -421,14 +351,14 @@
       "imdbRating": 8.5
     },
     {
-      "id": "tt36347588",
+      "id": "tt9813792",
       "type": "series",
-      "name": "The Scandal",
-      "poster": "https://images.metahub.space/poster/medium/tt36347588/img",
-      "background": "https://images.metahub.space/background/medium/tt36347588/img",
-      "description": "A cunning noblewoman and a notorious playboy engage in a secret game of seduction and manipulation, drawing an innocent young widow into their dangerous romantic power play.",
-      "releaseInfo": 2026,
-      "imdbRating": 6.1
+      "name": "FROM",
+      "poster": "https://images.metahub.space/poster/medium/tt9813792/img",
+      "background": "https://images.metahub.space/background/medium/tt9813792/img",
+      "description": "Unravel the mystery of a nightmarish town in middle America that traps all those who enter. As the unwilling residents fight to keep a sense of normalcy and search for a way out, they must also survive the threats of the surrounding forest – including the terrifying creatures that come out when the sun goes down.",
+      "releaseInfo": 2022,
+      "imdbRating": 7.7
     },
     {
       "id": "tt33144230",
@@ -441,6 +371,26 @@
       "imdbRating": 7.3
     },
     {
+      "id": "tt30459041",
+      "type": "series",
+      "name": "Your Friends & Neighbors",
+      "poster": "https://images.metahub.space/poster/medium/tt30459041/img",
+      "background": "https://images.metahub.space/background/medium/tt30459041/img",
+      "description": "When a financial titan suddenly finds himself divorced and jobless, he starts robbing his wealthy neighbors to stay afloat. Stealing from his own social circle strangely exhilarates him—but he gradually gets tangled in a deadly web.",
+      "releaseInfo": 2025,
+      "imdbRating": 7.6
+    },
+    {
+      "id": "tt6468322",
+      "type": "series",
+      "name": "Money Heist",
+      "poster": "https://images.metahub.space/poster/medium/tt6468322/img",
+      "background": "https://images.metahub.space/background/medium/tt6468322/img",
+      "description": "To carry out the biggest heist in history, a mysterious man called The Professor recruits a band of eight robbers who have a single characteristic: none of them has anything to lose. Five months of seclusion - memorizing every step, every detail, every probability - culminate in eleven days locked up in the National Coinage and Stamp Factory of Spain, surrounded by police forces and with dozens of hostages in their power, to find out whether their suicide wager will lead to everything or nothing.",
+      "releaseInfo": 2017,
+      "imdbRating": 8.2
+    },
+    {
       "id": "tt17220216",
       "type": "series",
       "name": "Monarch: Legacy of Monsters",
@@ -449,36 +399,6 @@
       "description": "After surviving Godzilla's attack on San Francisco, Cate is shaken yet again by a shocking secret. Amid monstrous threats, she embarks on a globetrotting adventure to learn the truth about her family—and the mysterious organization known as Monarch.",
       "releaseInfo": 2023,
       "imdbRating": 7
-    },
-    {
-      "id": "tt9140554",
-      "type": "series",
-      "name": "Loki",
-      "poster": "https://images.metahub.space/poster/medium/tt9140554/img",
-      "background": "https://images.metahub.space/background/medium/tt9140554/img",
-      "description": "The mercurial villain Loki resumes his role as the God of Mischief in a new series that takes place after the events of “Avengers: Endgame.”",
-      "releaseInfo": 2021,
-      "imdbRating": 8.2
-    },
-    {
-      "id": "tt1489428",
-      "type": "series",
-      "name": "Justified",
-      "poster": "https://images.metahub.space/poster/medium/tt1489428/img",
-      "background": "https://images.metahub.space/background/medium/tt1489428/img",
-      "description": "A character drama based on the 2001 Elmore Leonard short story \"Fire in the Hole.\" Leonard's tale centers around U.S. Marshal Raylan Givens of Kentucky, a quiet but strong-willed official of the law. The tale covers his high-stakes job, as well as his strained relationships with his ex-wife and father.",
-      "releaseInfo": 2010,
-      "imdbRating": 8.6
-    },
-    {
-      "id": "tt0903747",
-      "type": "series",
-      "name": "Breaking Bad",
-      "poster": "https://images.metahub.space/poster/medium/tt0903747/img",
-      "background": "https://images.metahub.space/background/medium/tt0903747/img",
-      "description": "Walter White, a New Mexico chemistry teacher, is diagnosed with Stage III cancer and given a prognosis of only two years left to live. He becomes filled with a sense of fearlessness and an unrelenting desire to secure his family's financial future at any cost as he enters the dangerous world of drugs and crime.",
-      "releaseInfo": 2008,
-      "imdbRating": 9.5
     },
     {
       "id": "tt0388629",
@@ -491,14 +411,94 @@
       "imdbRating": 9
     },
     {
-      "id": "tt9686194",
+      "id": "tt1489428",
       "type": "series",
-      "name": "War of the Worlds",
-      "poster": "https://images.metahub.space/poster/medium/tt9686194/img",
-      "background": "https://images.metahub.space/background/medium/tt9686194/img",
-      "description": "When astronomers detect a transmission from another galaxy, it is definitive proof of intelligent extra-terrestrial life. The world’s population waits for further contact with bated breath. They do not have to wait long. Within days, mankind is all but wiped out by a devastating attack; pockets of humanity are left in an eerily deserted world. As aliens hunt and kill those left alive, the survivors ask a burning question – who are these attackers and why are they hell-bent on our destruction?",
-      "releaseInfo": 2019,
+      "name": "Justified",
+      "poster": "https://images.metahub.space/poster/medium/tt1489428/img",
+      "background": "https://images.metahub.space/background/medium/tt1489428/img",
+      "description": "A character drama based on the 2001 Elmore Leonard short story \"Fire in the Hole.\" Leonard's tale centers around U.S. Marshal Raylan Givens of Kentucky, a quiet but strong-willed official of the law. The tale covers his high-stakes job, as well as his strained relationships with his ex-wife and father.",
+      "releaseInfo": 2010,
+      "imdbRating": 8.6
+    },
+    {
+      "id": "tt15477488",
+      "type": "series",
+      "name": "Farzi",
+      "poster": "https://images.metahub.space/poster/medium/tt15477488/img",
+      "background": "https://images.metahub.space/background/medium/tt15477488/img",
+      "description": "Sunny, a brilliant small-time artist is catapulted into the high-stakes world of counterfeiting when he creates the perfect fake currency note, even as Michael, a fiery, unorthodox task force officer wants to rid the country of the counterfeiting menace. In this thrilling cat-and-mouse race, losing is not an option!",
+      "releaseInfo": 2023,
+      "imdbRating": 8.3
+    },
+    {
+      "id": "tt45712181",
+      "type": "series",
+      "name": "Indian Game Show",
+      "poster": "https://images.metahub.space/poster/medium/tt45712181/img",
+      "background": "https://images.metahub.space/background/medium/tt45712181/img",
+      "description": "The Indian Game Show is a high-energy comedy game show created and hosted by Bharti Singh and Haarsh Limbachiyaa. Featuring popular television actors, choreographers, musicians, and social media influencers, contestants face off in physical stunts, comedy challenges, and quirky tasks to win prizes while avoiding hilarious punishments",
+      "releaseInfo": 2021,
+      "imdbRating": 8.2
+    },
+    {
+      "id": "tt0098936",
+      "type": "series",
+      "name": "Twin Peaks",
+      "poster": "https://images.metahub.space/poster/medium/tt0098936/img",
+      "background": "https://images.metahub.space/background/medium/tt0098936/img",
+      "description": "The body of Laura Palmer is washed up on a beach near the small Washington state town of Twin Peaks. FBI Special Agent Dale Cooper is called in to investigate her strange demise only to uncover a web of mystery that ultimately leads him deep into the heart of the surrounding woodland and his very own soul.",
+      "releaseInfo": 1990,
+      "imdbRating": 8.7
+    },
+    {
+      "id": "tt13293588",
+      "type": "series",
+      "name": "Mushoku Tensei: Jobless Reincarnation",
+      "poster": "https://images.metahub.space/poster/medium/tt13293588/img",
+      "background": "https://images.metahub.space/background/medium/tt13293588/img",
+      "description": "When a 34-year-old underachiever gets run over by a truck, his story doesn't end there. Reincarnated in a new world as an infant, Rudy will seize every opportunity to live the life he's always wanted. Armed with new friends, some freshly acquired magical abilities, and the courage to do the things he's always dreamed of, he's embarking on an epic adventure—with all of his past experience intact!",
+      "releaseInfo": 2021,
+      "imdbRating": 8.2
+    },
+    {
+      "id": "tt34866681",
+      "type": "series",
+      "name": "Lucky",
+      "poster": "https://images.metahub.space/poster/medium/tt34866681/img",
+      "background": "https://images.metahub.space/background/medium/tt34866681/img",
+      "description": "When a multi-million-dollar heist goes sideways, con artist Lucky is forced to go on the run. Pursued by both the FBI and a ruthless crime boss, Lucky must fight for her life—and a way out.",
+      "releaseInfo": 2026,
+      "imdbRating": 6.7
+    },
+    {
+      "id": "tt35949226",
+      "type": "series",
+      "name": "Youth",
+      "poster": "https://images.metahub.space/poster/medium/tt35949226/img",
+      "background": "https://images.metahub.space/background/medium/tt35949226/img",
+      "description": "A 50-year-old divorcee juggles dating life while taking care of her parents and adult son.",
+      "releaseInfo": 2026,
       "imdbRating": 6.5
+    },
+    {
+      "id": "tt5711280",
+      "type": "series",
+      "name": "Philip K. Dick's Electric Dreams",
+      "poster": "https://images.metahub.space/poster/medium/tt5711280/img",
+      "background": "https://images.metahub.space/background/medium/tt5711280/img",
+      "description": "A diverse anthology of ambitious, moving tales inspired by Philip K Dick's short stories.",
+      "releaseInfo": 2017,
+      "imdbRating": 7.2
+    },
+    {
+      "id": "tt39369819",
+      "type": "series",
+      "name": "Habeas Corpus",
+      "poster": "https://images.metahub.space/poster/medium/tt39369819/img",
+      "background": "https://images.metahub.space/background/medium/tt39369819/img",
+      "description": "A renowned law professor and a team of students attempt to prove the innocence of a convicted man, but the brightest student is secretly connected to his past.",
+      "releaseInfo": 2026,
+      "imdbRating": 6.4
     }
   ]
 }
