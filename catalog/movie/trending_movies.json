@@ -91,16 +91,6 @@
       "imdbRating": 7.9
     },
     {
-      "id": "tt43737953",
-      "type": "movie",
-      "name": "Hushar Pittalu",
-      "poster": "https://images.metahub.space/poster/medium/tt43737953/img",
-      "background": "https://images.metahub.space/background/medium/tt43737953/img",
-      "description": "In a village, two teenagers, Ravi and Chitti, are drawn into a secret relationship as curiosity, adolescence, and bad influences shape their choices. When their families discover the affair, the couple defies them, setting off a chain of events that reveals how parental mistakes, peer pressure, and youthful attraction can alter young lives forever.",
-      "releaseInfo": 2026,
-      "imdbRating": 8.6
-    },
-    {
       "id": "tt31193180",
       "type": "movie",
       "name": "Sinners",
@@ -241,16 +231,6 @@
       "imdbRating": 8.2
     },
     {
-      "id": "tt0114388",
-      "type": "movie",
-      "name": "Sense and Sensibility",
-      "poster": "https://images.metahub.space/poster/medium/tt0114388/img",
-      "background": "https://images.metahub.space/background/medium/tt0114388/img",
-      "description": "The Dashwood sisters, sensible Elinor and passionate Marianne, learn that their prospects of marriage seem doomed by their family's sudden loss of fortune. After Henry Dashwood dies unexpectedly, his estate must pass on by law to his son. These circumstances leave Mr. Dashwood's wife and daughters without a home and with barely enough money to live on. As Elinor and Marianne struggle to find romantic fulfillment in a society obsessed with financial and social status, they must learn to mix sense with sensibility in their dealings with both money and men.",
-      "releaseInfo": 1995,
-      "imdbRating": 7.7
-    },
-    {
       "id": "tt8439854",
       "type": "movie",
       "name": "Lust Stories",
@@ -319,6 +299,16 @@
       "description": "The ageing wrestler Sultan Ali Khan decides to try his luck on the mat again; to do this, he wants to represent his country at the Olympic Games, but first has to overcome personal issues.",
       "releaseInfo": 2016,
       "imdbRating": 7.1
+    },
+    {
+      "id": "tt43737953",
+      "type": "movie",
+      "name": "Hushar Pittalu",
+      "poster": "https://images.metahub.space/poster/medium/tt43737953/img",
+      "background": "https://images.metahub.space/background/medium/tt43737953/img",
+      "description": "In a village, two teenagers, Ravi and Chitti, are drawn into a secret relationship as curiosity, adolescence, and bad influences shape their choices. When their families discover the affair, the couple defies them, setting off a chain of events that reveals how parental mistakes, peer pressure, and youthful attraction can alter young lives forever.",
+      "releaseInfo": 2026,
+      "imdbRating": 8.6
     },
     {
       "id": "tt27757805",
@@ -498,7 +488,17 @@
       "background": "https://images.metahub.space/background/medium/tt11112532/img",
       "description": "The story of a family and an exploration of space in an increasingly crowded world. It follows the quest for a sexual odyssey of an individual.",
       "releaseInfo": 2025,
-      "imdbRating": 5.4
+      "imdbRating": 5.5
+    },
+    {
+      "id": "tt32389930",
+      "type": "movie",
+      "name": "Bandar",
+      "poster": "https://images.metahub.space/poster/medium/tt32389930/img",
+      "background": "https://images.metahub.space/background/medium/tt32389930/img",
+      "description": "TV star Samar's life spirals when his ex Gayatri accuses him of rape after he blocks contact with her. Despite his new relationship with Khushi, he faces arrest and encounters a corrupt justice system.",
+      "releaseInfo": 2026,
+      "imdbRating": 6.7
     }
   ]
 }
