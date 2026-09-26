@@ -78,17 +78,6 @@
       "imdbRating": "8.9"
     },
     {
-      "id": "tt0108778",
-      "type": "series",
-      "name": "Friends",
-      "poster": "https://images.metahub.space/poster/small/tt0108778/img",
-      "background": "https://images.metahub.space/background/medium/tt0108778/img",
-      "logo": "https://images.metahub.space/logo/medium/tt0108778/img",
-      "description": "The personal and professional lives of six friends living in the Manhattan borough of New York City.",
-      "releaseInfo": "1994–2004",
-      "imdbRating": "8.8"
-    },
-    {
       "id": "tt35495073",
       "type": "series",
       "name": "Heated Rivalry",
@@ -97,6 +86,17 @@
       "logo": "https://images.metahub.space/logo/medium/tt35495073/img",
       "description": "Two rival hockey stars at the top of their game face an unexpected challenge when they develop feelings for each other, complicating their careers and the sport's expectations.",
       "releaseInfo": "2025–",
+      "imdbRating": "8.8"
+    },
+    {
+      "id": "tt0108778",
+      "type": "series",
+      "name": "Friends",
+      "poster": "https://images.metahub.space/poster/small/tt0108778/img",
+      "background": "https://images.metahub.space/background/medium/tt0108778/img",
+      "logo": "https://images.metahub.space/logo/medium/tt0108778/img",
+      "description": "The personal and professional lives of six friends living in the Manhattan borough of New York City.",
+      "releaseInfo": "1994–2004",
       "imdbRating": "8.8"
     },
     {
@@ -430,6 +430,17 @@
       "imdbRating": "8.1"
     },
     {
+      "id": "tt23649128",
+      "type": "series",
+      "name": "The Studio",
+      "poster": "https://images.metahub.space/poster/small/tt23649128/img",
+      "background": "https://images.metahub.space/background/medium/tt23649128/img",
+      "logo": "https://images.metahub.space/logo/medium/tt23649128/img",
+      "description": "Follows a legacy Hollywood movie studio striving to survive in a world where it is increasingly difficult for art and business to live together.",
+      "releaseInfo": "2025–",
+      "imdbRating": "8.1"
+    },
+    {
       "id": "tt7203552",
       "type": "series",
       "name": "The Morning Show",
@@ -496,17 +507,6 @@
       "imdbRating": "8.1"
     },
     {
-      "id": "tt23649128",
-      "type": "series",
-      "name": "The Studio",
-      "poster": "https://images.metahub.space/poster/small/tt23649128/img",
-      "background": "https://images.metahub.space/background/medium/tt23649128/img",
-      "logo": "https://images.metahub.space/logo/medium/tt23649128/img",
-      "description": "Follows a legacy Hollywood movie studio striving to survive in a world where it is increasingly difficult for art and business to live together.",
-      "releaseInfo": "2025–",
-      "imdbRating": "8.1"
-    },
-    {
       "id": "tt26915338",
       "type": "series",
       "name": "Gyaarah Gyaarah",
@@ -514,6 +514,17 @@
       "background": "https://images.metahub.space/background/medium/tt26915338/img",
       "logo": "https://images.metahub.space/logo/medium/tt26915338/img",
       "description": "Investigative drama following events in 1990, 2001, 2016. Intertwining storylines blending mysticism, science and mystery across the decades.",
+      "releaseInfo": "2024–",
+      "imdbRating": "8.1"
+    },
+    {
+      "id": "tt24053860",
+      "type": "series",
+      "name": "The Day of the Jackal",
+      "poster": "https://images.metahub.space/poster/small/tt24053860/img",
+      "background": "https://images.metahub.space/background/medium/tt24053860/img",
+      "logo": "https://images.metahub.space/logo/medium/tt24053860/img",
+      "description": "The Jackal is an elusive assassin who makes his living carrying out hits for the highest fee. He soon meets his match in a tenacious British intelligence officer who tracks him down in a thrilling cat-and-mouse chase across Europe.",
       "releaseInfo": "2024–",
       "imdbRating": "8.1"
     },
@@ -526,17 +537,6 @@
       "logo": "https://images.metahub.space/logo/medium/tt15677150/img",
       "description": "A grieving therapist starts to tell his clients exactly what he thinks. Ignoring his training and ethics, he finds himself making huge changes to people's lives - including his own.",
       "releaseInfo": "2023–",
-      "imdbRating": "8.1"
-    },
-    {
-      "id": "tt24053860",
-      "type": "series",
-      "name": "The Day of the Jackal",
-      "poster": "https://images.metahub.space/poster/small/tt24053860/img",
-      "background": "https://images.metahub.space/background/medium/tt24053860/img",
-      "logo": "https://images.metahub.space/logo/medium/tt24053860/img",
-      "description": "The Jackal is an elusive assassin who makes his living carrying out hits for the highest fee. He soon meets his match in a tenacious British intelligence officer who tracks him down in a thrilling cat-and-mouse chase across Europe.",
-      "releaseInfo": "2024–",
       "imdbRating": "8.1"
     },
     {
