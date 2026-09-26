@@ -411,16 +411,6 @@
       "imdbRating": 6.8
     },
     {
-      "id": "tt23865918",
-      "type": "movie",
-      "name": "Peddi",
-      "poster": "https://images.metahub.space/poster/medium/tt23865918/img",
-      "background": "https://images.metahub.space/background/medium/tt23865918/img",
-      "description": "In a village that doesn't officially exist, a laborer's unmatched athletic talent becomes his weapon to fight for his people's right to be recognized.",
-      "releaseInfo": 2026,
-      "imdbRating": 5.2
-    },
-    {
       "id": "tt6933238",
       "type": "movie",
       "name": "Unabomber",
@@ -491,14 +481,24 @@
       "imdbRating": 5.4
     },
     {
-      "id": "tt37658793",
+      "id": "tt32389930",
       "type": "movie",
       "name": "Bandar",
-      "poster": "https://images.metahub.space/poster/medium/tt37658793/img",
-      "background": "https://images.metahub.space/background/medium/tt37658793/img",
+      "poster": "https://images.metahub.space/poster/medium/tt32389930/img",
+      "background": "https://images.metahub.space/background/medium/tt32389930/img",
       "description": "TV star Samar's life spirals when his ex Gayatri accuses him of rape after he blocks contact with her. Despite his new relationship with Khushi, he faces arrest and encounters a corrupt justice system.",
       "releaseInfo": 2026,
-      "imdbRating": 0
+      "imdbRating": 6.7
+    },
+    {
+      "id": "tt31723358",
+      "type": "movie",
+      "name": "Tell Me What You Want",
+      "poster": "https://images.metahub.space/poster/medium/tt31723358/img",
+      "background": "https://images.metahub.space/background/medium/tt31723358/img",
+      "description": "After his father's death, Eric Zimmerman travels to Spain to oversee his company's branches. In Madrid, he falls for Judith and engage in an intense, erotic relationship full of exploration. However, Eric fears his secret may end their affair.",
+      "releaseInfo": 2024,
+      "imdbRating": 4.1
     }
   ]
 }
