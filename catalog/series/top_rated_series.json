@@ -177,17 +177,6 @@
       "imdbRating": "8.5"
     },
     {
-      "id": "tt4093826",
-      "type": "series",
-      "name": "Twin Peaks",
-      "poster": "https://images.metahub.space/poster/small/tt4093826/img",
-      "background": "https://images.metahub.space/background/medium/tt4093826/img",
-      "logo": "https://images.metahub.space/logo/medium/tt4093826/img",
-      "description": "Picks up 25 years after the inhabitants of a quaint northwestern town are stunned when their homecoming queen is murdered.",
-      "releaseInfo": "2017",
-      "imdbRating": "8.5"
-    },
-    {
       "id": "tt12343534",
       "type": "series",
       "name": "Jujutsu Kaisen",
@@ -199,14 +188,14 @@
       "imdbRating": "8.5"
     },
     {
-      "id": "tt3526078",
+      "id": "tt4093826",
       "type": "series",
-      "name": "Schitt's Creek",
-      "poster": "https://images.metahub.space/poster/small/tt3526078/img",
-      "background": "https://images.metahub.space/background/medium/tt3526078/img",
-      "logo": "https://images.metahub.space/logo/medium/tt3526078/img",
-      "description": "After being a victim of fraud, Johnny Rose and his family go from extremely wealthy to penniless overnight. The only asset left to them is a small, unsophisticated town: Schitt's Creek. They relocate there. Culture shock ensues.",
-      "releaseInfo": "2015–2020",
+      "name": "Twin Peaks",
+      "poster": "https://images.metahub.space/poster/small/tt4093826/img",
+      "background": "https://images.metahub.space/background/medium/tt4093826/img",
+      "logo": "https://images.metahub.space/logo/medium/tt4093826/img",
+      "description": "Picks up 25 years after the inhabitants of a quaint northwestern town are stunned when their homecoming queen is murdered.",
+      "releaseInfo": "2017",
       "imdbRating": "8.5"
     },
     {
@@ -218,6 +207,17 @@
       "logo": "https://images.metahub.space/logo/medium/tt21209876/img",
       "description": "Follows the adventures of Sung Jinwoo in a world that is constantly threatened by monsters and evil forces. In his battles Sung transforms himself from the weakest hunter of all mankind to one of the strongest hunters in existence.",
       "releaseInfo": "2024–",
+      "imdbRating": "8.5"
+    },
+    {
+      "id": "tt3526078",
+      "type": "series",
+      "name": "Schitt's Creek",
+      "poster": "https://images.metahub.space/poster/small/tt3526078/img",
+      "background": "https://images.metahub.space/background/medium/tt3526078/img",
+      "logo": "https://images.metahub.space/logo/medium/tt3526078/img",
+      "description": "After being a victim of fraud, Johnny Rose and his family go from extremely wealthy to penniless overnight. The only asset left to them is a small, unsophisticated town: Schitt's Creek. They relocate there. Culture shock ensues.",
+      "releaseInfo": "2015–2020",
       "imdbRating": "8.5"
     },
     {
