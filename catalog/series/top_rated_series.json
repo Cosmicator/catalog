@@ -386,17 +386,6 @@
       "imdbRating": "8.2"
     },
     {
-      "id": "tt13293588",
-      "type": "series",
-      "name": "Mushoku Tensei: Jobless Reincarnation",
-      "poster": "https://images.metahub.space/poster/small/tt13293588/img",
-      "background": "https://images.metahub.space/background/medium/tt13293588/img",
-      "logo": "https://images.metahub.space/logo/medium/tt13293588/img",
-      "description": "A 34-year-old underachiever gets run over by a bus, but his story isn't over. Reincarnated as an infant, he'll embark on an epic adventure.",
-      "releaseInfo": "2021–",
-      "imdbRating": "8.2"
-    },
-    {
       "id": "tt13911628",
       "type": "series",
       "name": "Lessons in Chemistry",
@@ -405,6 +394,17 @@
       "logo": "https://images.metahub.space/logo/medium/tt13911628/img",
       "description": "In the 1950s, Elizabeth Zott's dream of being a scientist is challenged by a society that says women belong in the domestic sphere; she accepts a job on a TV cooking show and sets out to teach a nation of housewives way more than ...",
       "releaseInfo": "2023",
+      "imdbRating": "8.2"
+    },
+    {
+      "id": "tt13293588",
+      "type": "series",
+      "name": "Mushoku Tensei: Jobless Reincarnation",
+      "poster": "https://images.metahub.space/poster/small/tt13293588/img",
+      "background": "https://images.metahub.space/background/medium/tt13293588/img",
+      "logo": "https://images.metahub.space/logo/medium/tt13293588/img",
+      "description": "A 34-year-old underachiever gets run over by a bus, but his story isn't over. Reincarnated as an infant, he'll embark on an epic adventure.",
+      "releaseInfo": "2021–",
       "imdbRating": "8.2"
     },
     {
@@ -540,14 +540,14 @@
       "imdbRating": "8.1"
     },
     {
-      "id": "tt9288030",
+      "id": "tt22202452",
       "type": "series",
-      "name": "Reacher",
-      "poster": "https://images.metahub.space/poster/small/tt9288030/img",
-      "background": "https://images.metahub.space/background/medium/tt9288030/img",
-      "logo": "https://images.metahub.space/logo/medium/tt9288030/img",
-      "description": "Itinerant former military policeman Jack Reacher solves crimes and metes out his own brand of street justice. Based on the novels by Lee Child.",
-      "releaseInfo": "2022–",
+      "name": "Pluribus",
+      "poster": "https://images.metahub.space/poster/small/tt22202452/img",
+      "background": "https://images.metahub.space/background/medium/tt22202452/img",
+      "logo": "https://images.metahub.space/logo/medium/tt22202452/img",
+      "description": "In a world overtaken by a mysterious wave of forced happiness, Carol Sturka, one of the immune few, must uncover what's really going on - and save humanity from its artificial bliss.",
+      "releaseInfo": "2025–",
       "imdbRating": "8.0"
     }
   ]
