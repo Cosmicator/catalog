@@ -56,17 +56,6 @@
       "imdbRating": "8.9"
     },
     {
-      "id": "tt1832668",
-      "type": "series",
-      "name": "How the Universe Works",
-      "poster": "https://images.metahub.space/poster/small/tt1832668/img",
-      "background": "https://images.metahub.space/background/medium/tt1832668/img",
-      "logo": "https://images.metahub.space/logo/medium/tt1832668/img",
-      "description": "A users guide to the cosmos from the big bang to galaxies, stars, planets and moons. Where did it all come from and how does it all fit together. A primer for anyone who has ever looked up at the night sky and wondered.",
-      "releaseInfo": "2010–",
-      "imdbRating": "8.9"
-    },
-    {
       "id": "tt35495073",
       "type": "series",
       "name": "Heated Rivalry",
@@ -177,6 +166,17 @@
       "imdbRating": "8.5"
     },
     {
+      "id": "tt0475900",
+      "type": "series",
+      "name": "Anthony Bourdain: No Reservations",
+      "poster": "https://images.metahub.space/poster/small/tt0475900/img",
+      "background": "https://images.metahub.space/background/medium/tt0475900/img",
+      "logo": "https://images.metahub.space/logo/medium/tt0475900/img",
+      "description": "Anthony Bourdain, chef, writer, traveler, visits places all around the world sampling various foods.",
+      "releaseInfo": "2005–2012",
+      "imdbRating": "8.5"
+    },
+    {
       "id": "tt12343534",
       "type": "series",
       "name": "Jujutsu Kaisen",
@@ -207,17 +207,6 @@
       "logo": "https://images.metahub.space/logo/medium/tt21209876/img",
       "description": "Follows the adventures of Sung Jinwoo in a world that is constantly threatened by monsters and evil forces. In his battles Sung transforms himself from the weakest hunter of all mankind to one of the strongest hunters in existence.",
       "releaseInfo": "2024–",
-      "imdbRating": "8.5"
-    },
-    {
-      "id": "tt3526078",
-      "type": "series",
-      "name": "Schitt's Creek",
-      "poster": "https://images.metahub.space/poster/small/tt3526078/img",
-      "background": "https://images.metahub.space/background/medium/tt3526078/img",
-      "logo": "https://images.metahub.space/logo/medium/tt3526078/img",
-      "description": "After being a victim of fraud, Johnny Rose and his family go from extremely wealthy to penniless overnight. The only asset left to them is a small, unsophisticated town: Schitt's Creek. They relocate there. Culture shock ensues.",
-      "releaseInfo": "2015–2020",
       "imdbRating": "8.5"
     },
     {
@@ -548,6 +537,17 @@
       "logo": "https://images.metahub.space/logo/medium/tt22202452/img",
       "description": "In a world overtaken by a mysterious wave of forced happiness, Carol Sturka, one of the immune few, must uncover what's really going on - and save humanity from its artificial bliss.",
       "releaseInfo": "2025–",
+      "imdbRating": "8.0"
+    },
+    {
+      "id": "tt9288030",
+      "type": "series",
+      "name": "Reacher",
+      "poster": "https://images.metahub.space/poster/small/tt9288030/img",
+      "background": "https://images.metahub.space/background/medium/tt9288030/img",
+      "logo": "https://images.metahub.space/logo/medium/tt9288030/img",
+      "description": "Itinerant former military policeman Jack Reacher solves crimes and metes out his own brand of street justice. Based on the novels by Lee Child.",
+      "releaseInfo": "2022–",
       "imdbRating": "8.0"
     }
   ]
