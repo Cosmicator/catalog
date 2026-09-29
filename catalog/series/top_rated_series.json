@@ -144,6 +144,28 @@
       "imdbRating": "8.6"
     },
     {
+      "id": "tt21211770",
+      "type": "series",
+      "name": "Solo Leveling",
+      "poster": "https://images.metahub.space/poster/small/tt21211770/img",
+      "background": "https://images.metahub.space/background/medium/tt21211770/img",
+      "logo": "https://images.metahub.space/logo/medium/tt21211770/img",
+      "description": "Follows the adventures of Sung Jinwoo in a world that is constantly threatened by monsters and evil forces. In his battles Sung transforms himself from the weakest hunter of all mankind to one of the strongest hunters in existence.",
+      "releaseInfo": "2024–",
+      "imdbRating": "8.6"
+    },
+    {
+      "id": "tt1758429",
+      "type": "series",
+      "name": "Spartacus: Gods of the Arena",
+      "poster": "https://images.metahub.space/poster/small/tt1758429/img",
+      "background": "https://images.metahub.space/background/medium/tt1758429/img",
+      "logo": "https://images.metahub.space/logo/medium/tt1758429/img",
+      "description": "In the time before the arrival of Spartacus, the House of Batiatus faces many challenges from competitors, and within its own household.",
+      "releaseInfo": "2011",
+      "imdbRating": "8.5"
+    },
+    {
       "id": "tt1439629",
       "type": "series",
       "name": "Community",
@@ -188,17 +210,6 @@
       "imdbRating": "8.5"
     },
     {
-      "id": "tt21209876",
-      "type": "series",
-      "name": "Solo Leveling",
-      "poster": "https://images.metahub.space/poster/small/tt21209876/img",
-      "background": "https://images.metahub.space/background/medium/tt21209876/img",
-      "logo": "https://images.metahub.space/logo/medium/tt21209876/img",
-      "description": "Follows the adventures of Sung Jinwoo in a world that is constantly threatened by monsters and evil forces. In his battles Sung transforms himself from the weakest hunter of all mankind to one of the strongest hunters in existence.",
-      "releaseInfo": "2024–",
-      "imdbRating": "8.5"
-    },
-    {
       "id": "tt8317568",
       "type": "series",
       "name": "Broken But Beautiful",
@@ -207,17 +218,6 @@
       "logo": "https://images.metahub.space/logo/medium/tt8317568/img",
       "description": "Veer and Sameera, strangers with opposite personalities, are left heartbroken after losing loves they thought would last forever. When fate gives the damaged souls a second chance, a beautiful love story unfolds.",
       "releaseInfo": "2018–",
-      "imdbRating": "8.5"
-    },
-    {
-      "id": "tt9335498",
-      "type": "series",
-      "name": "Demon Slayer: Kimetsu no Yaiba",
-      "poster": "https://images.metahub.space/poster/small/tt9335498/img",
-      "background": "https://images.metahub.space/background/medium/tt9335498/img",
-      "logo": "https://images.metahub.space/logo/medium/tt9335498/img",
-      "description": "A family is attacked by demons and only two members survive - Tanjiro and his sister Nezuko, who is turning into a demon slowly. Tanjiro sets out to become a demon slayer to avenge his family and cure his sister.",
-      "releaseInfo": "2019–2024",
       "imdbRating": "8.5"
     },
     {
@@ -240,17 +240,6 @@
       "logo": "https://images.metahub.space/logo/medium/tt6473300/img",
       "description": "A shocking incident at a wedding procession ignites a series of events entangling the lives of two families in the lawless city of Mirzapur.",
       "releaseInfo": "2018–",
-      "imdbRating": "8.4"
-    },
-    {
-      "id": "tt1442449",
-      "type": "series",
-      "name": "Spartacus",
-      "poster": "https://images.metahub.space/poster/small/tt1442449/img",
-      "background": "https://images.metahub.space/background/medium/tt1442449/img",
-      "logo": "https://images.metahub.space/logo/medium/tt1442449/img",
-      "description": "The life of Spartacus, the gladiator who led a rebellion against the Romans.",
-      "releaseInfo": "2010–2013",
       "imdbRating": "8.4"
     },
     {
@@ -548,6 +537,17 @@
       "logo": "https://images.metahub.space/logo/medium/tt10982034/img",
       "description": "All Jason and Nikki want is a baby, but it's the one thing they just can't have. So, they decide to adopt. With their dysfunctional friends, screwball family and chaotic lives will the adoption panel think they're ready to be pare...",
       "releaseInfo": "2020–",
+      "imdbRating": "8.0"
+    },
+    {
+      "id": "tt5489746",
+      "type": "series",
+      "name": "Evil Lives Here",
+      "poster": "https://images.metahub.space/poster/small/tt5489746/img",
+      "background": "https://images.metahub.space/background/medium/tt5489746/img",
+      "logo": "https://images.metahub.space/logo/medium/tt5489746/img",
+      "description": "A TV series where individuals share their perspectives of loved ones who committed horrific crimes.",
+      "releaseInfo": "2016–",
       "imdbRating": "8.0"
     }
   ]

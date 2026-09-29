@@ -311,6 +311,16 @@
       "imdbRating": 3.6
     },
     {
+      "id": "tt12472554",
+      "type": "movie",
+      "name": "Mahaan",
+      "poster": "https://images.metahub.space/poster/medium/tt12472554/img",
+      "background": "https://images.metahub.space/background/medium/tt12472554/img",
+      "description": "A man's family leaves him when he strays from the path of ideological living in his search for personal freedom. However, as he realizes his ambitions, he also misses the presence of his son in his life. Having fulfilled his dream of becoming a billionaire, does life give him a second chance to be a father?",
+      "releaseInfo": 2022,
+      "imdbRating": 7.7
+    },
+    {
       "id": "tt11112532",
       "type": "movie",
       "name": "Agra",
@@ -339,26 +349,6 @@
       "description": "Four eminent Indian directors explore sex, desire and love through short films in this sequel to 2018's Emmy-nominated 'Lust Stories'.",
       "releaseInfo": 2023,
       "imdbRating": 5.7
-    },
-    {
-      "id": "tt27757805",
-      "type": "movie",
-      "name": "Baby John",
-      "poster": "https://images.metahub.space/poster/medium/tt27757805/img",
-      "background": "https://images.metahub.space/background/medium/tt27757805/img",
-      "description": "John's peaceful life with daughter Khushi is disrupted by a sex-trafficking gang. Revealing his past as DCP Satya, he seeks revenge for his family's murder, saving minor girls and punishing the criminals, before starting anew.",
-      "releaseInfo": 2024,
-      "imdbRating": 5
-    },
-    {
-      "id": "tt5717184",
-      "type": "movie",
-      "name": "The Colour of Darkness",
-      "poster": "https://images.metahub.space/poster/medium/tt5717184/img",
-      "background": "https://images.metahub.space/background/medium/tt5717184/img",
-      "description": "All the colour, depth and mystery of India's complex and riotous cultural heritage is brought to light in a single action which changes two countries forever. A proud Indian international student is attacked in a brightly lit train carriage against a backdrop of darkness. Unknown to his attackers his high caste status has little relevance, and in one poignant moment, he is rescued by his counterpart, an 'untouchable', a low caste. They are united by what would otherwise be impossible. The highly publicised event sends shock waves through the international community.",
-      "releaseInfo": 2017,
-      "imdbRating": 4.7
     },
     {
       "id": "tt37654096",
@@ -391,16 +381,6 @@
       "imdbRating": 6.3
     },
     {
-      "id": "tt0109830",
-      "type": "movie",
-      "name": "Forrest Gump",
-      "poster": "https://images.metahub.space/poster/medium/tt0109830/img",
-      "background": "https://images.metahub.space/background/medium/tt0109830/img",
-      "description": "A man with a low IQ has accomplished great things in his life and been present during significant historic events—in each case, far exceeding what anyone imagined he could do. But despite all he has achieved, his one true love eludes him.",
-      "releaseInfo": 1994,
-      "imdbRating": 8.8
-    },
-    {
       "id": "tt0251127",
       "type": "movie",
       "name": "How to Lose a Guy in 10 Days",
@@ -411,14 +391,14 @@
       "imdbRating": 6.6
     },
     {
-      "id": "tt0323013",
+      "id": "tt27757805",
       "type": "movie",
-      "name": "Lakshya",
-      "poster": "https://images.metahub.space/poster/medium/tt0323013/img",
-      "background": "https://images.metahub.space/background/medium/tt0323013/img",
-      "description": "An aimless, jobless, irresponsible grown man joins the army and matures into a battlefield hero.",
-      "releaseInfo": 2004,
-      "imdbRating": 7.8
+      "name": "Baby John",
+      "poster": "https://images.metahub.space/poster/medium/tt27757805/img",
+      "background": "https://images.metahub.space/background/medium/tt27757805/img",
+      "description": "John's peaceful life with daughter Khushi is disrupted by a sex-trafficking gang. Revealing his past as DCP Satya, he seeks revenge for his family's murder, saving minor girls and punishing the criminals, before starting anew.",
+      "releaseInfo": 2024,
+      "imdbRating": 5
     },
     {
       "id": "tt10698680",
@@ -429,16 +409,6 @@
       "description": "In the blood-soaked Kolar Gold Fields, Rocky's name strikes fear into his foes, while the government sees him as a threat to law and order. Rocky must battle threats from all sides for unchallenged supremacy.",
       "releaseInfo": 2022,
       "imdbRating": 8.2
-    },
-    {
-      "id": "tt26258634",
-      "type": "movie",
-      "name": "7:11 PM",
-      "poster": "https://images.metahub.space/poster/medium/tt26258634/img",
-      "background": "https://images.metahub.space/background/medium/tt26258634/img",
-      "description": "An incident that takes place at 7:11 PM changes the fate of a town called Hamsala Deevi and a planet called Proxima-EV12. Ravi, An IPS aspirant travels beyond imagination through time to stop a criminal mastermind, save his loved ones and his beloved town.",
-      "releaseInfo": 2023,
-      "imdbRating": 5.5
     },
     {
       "id": "tt33311069",
@@ -499,6 +469,36 @@
       "description": "Hsu-Chuan, who works at a game company, accidentally brings home a broken clay doll from a haunted house while developing a new horror VR game. Unexpectedly, his pregnant wife, Mu-Hua, a cultural relic restorer, develops an obsession with the doll and relentlessly tries to repair it. As strange things begin to happen in the house, Mu-Hua's condition deteriorates, and Hsu-Chuan, at his wits' end, seeks help from a spiritual medium, Ah-Sheng. Meanwhile, the horrifying secret hidden behind the clay doll begins to surface.",
       "releaseInfo": 2025,
       "imdbRating": 5.7
+    },
+    {
+      "id": "tt33014583",
+      "type": "movie",
+      "name": "Dhurandhar",
+      "poster": "https://images.metahub.space/poster/medium/tt33014583/img",
+      "background": "https://images.metahub.space/background/medium/tt33014583/img",
+      "description": "In the early 2000s, an undercover operative infiltrates Karachi's underworld, breaking into its inner circle to dismantle a violent nexus from within.",
+      "releaseInfo": 2025,
+      "imdbRating": 8.2
+    },
+    {
+      "id": "tt9735470",
+      "type": "movie",
+      "name": "Little Fish",
+      "poster": "https://images.metahub.space/poster/medium/tt9735470/img",
+      "background": "https://images.metahub.space/background/medium/tt9735470/img",
+      "description": "A couple fights to hold their relationship together as a memory loss virus spreads and threatens to erase the history of their love and courtship.",
+      "releaseInfo": 2021,
+      "imdbRating": 6.9
+    },
+    {
+      "id": "tt15501640",
+      "type": "movie",
+      "name": "Drishyam 2",
+      "poster": "https://images.metahub.space/poster/medium/tt15501640/img",
+      "background": "https://images.metahub.space/background/medium/tt15501640/img",
+      "description": "7 years after the case related to Vijay Salgaonkar and his family was closed, a series of unexpected events bring truth to light that threatens to change everything for the Salgaonkars. Can Vijay save his family this time?",
+      "releaseInfo": 2022,
+      "imdbRating": 8.2
     }
   ]
 }
