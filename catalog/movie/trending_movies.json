@@ -231,16 +231,6 @@
       "imdbRating": 4.1
     },
     {
-      "id": "tt0109830",
-      "type": "movie",
-      "name": "Forrest Gump",
-      "poster": "https://images.metahub.space/poster/medium/tt0109830/img",
-      "background": "https://images.metahub.space/background/medium/tt0109830/img",
-      "description": "A man with a low IQ has accomplished great things in his life and been present during significant historic events—in each case, far exceeding what anyone imagined he could do. But despite all he has achieved, his one true love eludes him.",
-      "releaseInfo": 1994,
-      "imdbRating": 8.8
-    },
-    {
       "id": "tt28363783",
       "type": "movie",
       "name": "Alpha",
@@ -291,16 +281,6 @@
       "imdbRating": 8.2
     },
     {
-      "id": "tt33714084",
-      "type": "movie",
-      "name": "Reminders of Him",
-      "poster": "https://images.metahub.space/poster/medium/tt33714084/img",
-      "background": "https://images.metahub.space/background/medium/tt33714084/img",
-      "description": "When Diem's custodial grandparents adamantly refuse Kenna's attempts to see her daughter, Kenna discovers unexpected compassion, and then something truer and deeper, with former NFL player and local bar owner Ledger. As their secret romance develops, so do the dangers for both of them, leading Kenna toward heartbreak and, ultimately, the hope for a second chance.",
-      "releaseInfo": 2026,
-      "imdbRating": 6.3
-    },
-    {
       "id": "tt0251127",
       "type": "movie",
       "name": "How to Lose a Guy in 10 Days",
@@ -348,7 +328,7 @@
       "background": "https://images.metahub.space/background/medium/tt43727339/img",
       "description": "Photographer follows Veera, a troubled and obsessive photographer determined to prove his worth in a world that has long dismissed him. Driven by ambition and haunted by a painful past, he ventures deep into Mathikettan Solai, a mysterious reserve forest, to capture a rare and elusive natural phenomenon that could change his life forever.",
       "releaseInfo": 2026,
-      "imdbRating": 7.8
+      "imdbRating": 7.6
     },
     {
       "id": "tt37654096",
@@ -369,6 +349,16 @@
       "description": "Three high school seniors throw a party to make a name for themselves. As the night progresses, things spiral out of control as word of the party spreads.",
       "releaseInfo": 2012,
       "imdbRating": 6.7
+    },
+    {
+      "id": "tt0109830",
+      "type": "movie",
+      "name": "Forrest Gump",
+      "poster": "https://images.metahub.space/poster/medium/tt0109830/img",
+      "background": "https://images.metahub.space/background/medium/tt0109830/img",
+      "description": "A man with a low IQ has accomplished great things in his life and been present during significant historic events—in each case, far exceeding what anyone imagined he could do. But despite all he has achieved, his one true love eludes him.",
+      "releaseInfo": 1994,
+      "imdbRating": 8.8
     },
     {
       "id": "tt27681354",
@@ -489,6 +479,16 @@
       "description": "A couple fights to hold their relationship together as a memory loss virus spreads and threatens to erase the history of their love and courtship.",
       "releaseInfo": 2021,
       "imdbRating": 6.9
+    },
+    {
+      "id": "tt0087332",
+      "type": "movie",
+      "name": "Ghostbusters",
+      "poster": "https://images.metahub.space/poster/medium/tt0087332/img",
+      "background": "https://images.metahub.space/background/medium/tt0087332/img",
+      "description": "After losing their university jobs, three parapsychologists start a ghost-catching business in New York City and uncover a supernatural threat that could destroy the world.",
+      "releaseInfo": 1984,
+      "imdbRating": 7.8
     },
     {
       "id": "tt41617470",
