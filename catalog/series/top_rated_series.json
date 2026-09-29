@@ -23,17 +23,6 @@
       "imdbRating": "9.2"
     },
     {
-      "id": "tt2560140",
-      "type": "series",
-      "name": "Attack on Titan",
-      "poster": "https://images.metahub.space/poster/small/tt2560140/img",
-      "background": "https://images.metahub.space/background/medium/tt2560140/img",
-      "logo": "https://images.metahub.space/logo/medium/tt2560140/img",
-      "description": "In a world where humanity shelters behind towering walls from man-eating Titans, a determined teen joins the elite Survey Corps to fight the giants and uncover the secrets of their origin.",
-      "releaseInfo": "2013–2023",
-      "imdbRating": "9.1"
-    },
-    {
       "id": "tt1475582",
       "type": "series",
       "name": "Sherlock",
@@ -89,17 +78,6 @@
       "imdbRating": "8.8"
     },
     {
-      "id": "tt35495073",
-      "type": "series",
-      "name": "Heated Rivalry",
-      "poster": "https://images.metahub.space/poster/small/tt35495073/img",
-      "background": "https://images.metahub.space/background/medium/tt35495073/img",
-      "logo": "https://images.metahub.space/logo/medium/tt35495073/img",
-      "description": "Two rival hockey stars at the top of their game face an unexpected challenge when they develop feelings for each other, complicating their careers and the sport's expectations.",
-      "releaseInfo": "2025–",
-      "imdbRating": "8.8"
-    },
-    {
       "id": "tt10986410",
       "type": "series",
       "name": "Ted Lasso",
@@ -144,17 +122,6 @@
       "imdbRating": "8.7"
     },
     {
-      "id": "tt5753856",
-      "type": "series",
-      "name": "Dark",
-      "poster": "https://images.metahub.space/poster/small/tt5753856/img",
-      "background": "https://images.metahub.space/background/medium/tt5753856/img",
-      "logo": "https://images.metahub.space/logo/medium/tt5753856/img",
-      "description": "A family saga with a supernatural twist, set in a German town where the disappearance of two young children exposes the relationships among four families.",
-      "releaseInfo": "2017–2020",
-      "imdbRating": "8.7"
-    },
-    {
       "id": "tt1489428",
       "type": "series",
       "name": "Justified",
@@ -188,17 +155,6 @@
       "imdbRating": "8.5"
     },
     {
-      "id": "tt3526078",
-      "type": "series",
-      "name": "Schitt's Creek",
-      "poster": "https://images.metahub.space/poster/small/tt3526078/img",
-      "background": "https://images.metahub.space/background/medium/tt3526078/img",
-      "logo": "https://images.metahub.space/logo/medium/tt3526078/img",
-      "description": "After being a victim of fraud, Johnny Rose and his family go from extremely wealthy to penniless overnight. The only asset left to them is a small, unsophisticated town: Schitt's Creek. They relocate there. Culture shock ensues.",
-      "releaseInfo": "2015–2020",
-      "imdbRating": "8.5"
-    },
-    {
       "id": "tt12343534",
       "type": "series",
       "name": "Jujutsu Kaisen",
@@ -210,36 +166,14 @@
       "imdbRating": "8.5"
     },
     {
-      "id": "tt8317568",
+      "id": "tt3526078",
       "type": "series",
-      "name": "Broken But Beautiful",
-      "poster": "https://images.metahub.space/poster/small/tt8317568/img",
-      "background": "https://images.metahub.space/background/medium/tt8317568/img",
-      "logo": "https://images.metahub.space/logo/medium/tt8317568/img",
-      "description": "Veer and Sameera, strangers with opposite personalities, are left heartbroken after losing loves they thought would last forever. When fate gives the damaged souls a second chance, a beautiful love story unfolds.",
-      "releaseInfo": "2018–",
-      "imdbRating": "8.5"
-    },
-    {
-      "id": "tt21209876",
-      "type": "series",
-      "name": "Solo Leveling",
-      "poster": "https://images.metahub.space/poster/small/tt21209876/img",
-      "background": "https://images.metahub.space/background/medium/tt21209876/img",
-      "logo": "https://images.metahub.space/logo/medium/tt21209876/img",
-      "description": "Follows the adventures of Sung Jinwoo in a world that is constantly threatened by monsters and evil forces. In his battles Sung transforms himself from the weakest hunter of all mankind to one of the strongest hunters in existence.",
-      "releaseInfo": "2024–",
-      "imdbRating": "8.5"
-    },
-    {
-      "id": "tt9335498",
-      "type": "series",
-      "name": "Demon Slayer: Kimetsu no Yaiba",
-      "poster": "https://images.metahub.space/poster/small/tt9335498/img",
-      "background": "https://images.metahub.space/background/medium/tt9335498/img",
-      "logo": "https://images.metahub.space/logo/medium/tt9335498/img",
-      "description": "A family is attacked by demons and only two members survive - Tanjiro and his sister Nezuko, who is turning into a demon slowly. Tanjiro sets out to become a demon slayer to avenge his family and cure his sister.",
-      "releaseInfo": "2019–2024",
+      "name": "Schitt's Creek",
+      "poster": "https://images.metahub.space/poster/small/tt3526078/img",
+      "background": "https://images.metahub.space/background/medium/tt3526078/img",
+      "logo": "https://images.metahub.space/logo/medium/tt3526078/img",
+      "description": "After being a victim of fraud, Johnny Rose and his family go from extremely wealthy to penniless overnight. The only asset left to them is a small, unsophisticated town: Schitt's Creek. They relocate there. Culture shock ensues.",
+      "releaseInfo": "2015–2020",
       "imdbRating": "8.5"
     },
     {
@@ -254,6 +188,50 @@
       "imdbRating": "8.5"
     },
     {
+      "id": "tt21209876",
+      "type": "series",
+      "name": "Solo Leveling",
+      "poster": "https://images.metahub.space/poster/small/tt21209876/img",
+      "background": "https://images.metahub.space/background/medium/tt21209876/img",
+      "logo": "https://images.metahub.space/logo/medium/tt21209876/img",
+      "description": "Follows the adventures of Sung Jinwoo in a world that is constantly threatened by monsters and evil forces. In his battles Sung transforms himself from the weakest hunter of all mankind to one of the strongest hunters in existence.",
+      "releaseInfo": "2024–",
+      "imdbRating": "8.5"
+    },
+    {
+      "id": "tt8317568",
+      "type": "series",
+      "name": "Broken But Beautiful",
+      "poster": "https://images.metahub.space/poster/small/tt8317568/img",
+      "background": "https://images.metahub.space/background/medium/tt8317568/img",
+      "logo": "https://images.metahub.space/logo/medium/tt8317568/img",
+      "description": "Veer and Sameera, strangers with opposite personalities, are left heartbroken after losing loves they thought would last forever. When fate gives the damaged souls a second chance, a beautiful love story unfolds.",
+      "releaseInfo": "2018–",
+      "imdbRating": "8.5"
+    },
+    {
+      "id": "tt9335498",
+      "type": "series",
+      "name": "Demon Slayer: Kimetsu no Yaiba",
+      "poster": "https://images.metahub.space/poster/small/tt9335498/img",
+      "background": "https://images.metahub.space/background/medium/tt9335498/img",
+      "logo": "https://images.metahub.space/logo/medium/tt9335498/img",
+      "description": "A family is attacked by demons and only two members survive - Tanjiro and his sister Nezuko, who is turning into a demon slowly. Tanjiro sets out to become a demon slayer to avenge his family and cure his sister.",
+      "releaseInfo": "2019–2024",
+      "imdbRating": "8.5"
+    },
+    {
+      "id": "tt1839578",
+      "type": "series",
+      "name": "Person of Interest",
+      "poster": "https://images.metahub.space/poster/small/tt1839578/img",
+      "background": "https://images.metahub.space/background/medium/tt1839578/img",
+      "logo": "https://images.metahub.space/logo/medium/tt1839578/img",
+      "description": "An off-the-grid and presumed-dead former CIA agent, John Reese, is hired by a mysterious tech billionaire software genius, Harold Finch, to prevent violent crimes before they happen in New York City via an advanced surveillance so...",
+      "releaseInfo": "2011–2016",
+      "imdbRating": "8.5"
+    },
+    {
       "id": "tt6473300",
       "type": "series",
       "name": "Mirzapur",
@@ -262,17 +240,6 @@
       "logo": "https://images.metahub.space/logo/medium/tt6473300/img",
       "description": "A shocking incident at a wedding procession ignites a series of events entangling the lives of two families in the lawless city of Mirzapur.",
       "releaseInfo": "2018–",
-      "imdbRating": "8.4"
-    },
-    {
-      "id": "tt26545992",
-      "type": "series",
-      "name": "Lanterns",
-      "poster": "https://images.metahub.space/poster/small/tt26545992/img",
-      "background": "https://images.metahub.space/background/medium/tt26545992/img",
-      "logo": "https://images.metahub.space/logo/medium/tt26545992/img",
-      "description": "Lanterns follows new recruit John Stewart and Lantern legend Hal Jordan, two intergalactic cops drawn into a dark, Earth-based mystery as they investigate a murder in the American heartland.",
-      "releaseInfo": "2026–",
       "imdbRating": "8.4"
     },
     {
@@ -287,6 +254,17 @@
       "imdbRating": "8.4"
     },
     {
+      "id": "tt26545992",
+      "type": "series",
+      "name": "Lanterns",
+      "poster": "https://images.metahub.space/poster/small/tt26545992/img",
+      "background": "https://images.metahub.space/background/medium/tt26545992/img",
+      "logo": "https://images.metahub.space/logo/medium/tt26545992/img",
+      "description": "Lanterns follows new recruit John Stewart and Lantern legend Hal Jordan, two intergalactic cops drawn into a dark, Earth-based mystery as they investigate a murder in the American heartland.",
+      "releaseInfo": "2026–",
+      "imdbRating": "8.4"
+    },
+    {
       "id": "tt0409591",
       "type": "series",
       "name": "Naruto",
@@ -298,6 +276,17 @@
       "imdbRating": "8.4"
     },
     {
+      "id": "tt37884717",
+      "type": "series",
+      "name": "The Early Spring",
+      "poster": "https://images.metahub.space/poster/small/tt37884717/img",
+      "background": "https://images.metahub.space/background/medium/tt37884717/img",
+      "logo": "https://images.metahub.space/logo/medium/tt37884717/img",
+      "description": "Fresh graduate Shang Zhitao joins a top global ad agency as a rookie. Her blunt boss Luan Nian tells her to quit on day one, but she perseveres through pressure and challenges to become a skilled professional.",
+      "releaseInfo": "2026",
+      "imdbRating": "8.4"
+    },
+    {
       "id": "tt9059760",
       "type": "series",
       "name": "Normal People",
@@ -306,17 +295,6 @@
       "logo": "https://images.metahub.space/logo/medium/tt9059760/img",
       "description": "A man and a woman embark on an on-again/off-again romance that starts at school and continues through college, testing their relationship as they explore different versions of themselves.",
       "releaseInfo": "2020",
-      "imdbRating": "8.4"
-    },
-    {
-      "id": "tt37442772",
-      "type": "series",
-      "name": "The Dynasty: UConn Huskies",
-      "poster": "https://live.metahub.space/poster/small/tt37442772/img",
-      "background": "https://live.metahub.space/background/medium/tt37442772/img",
-      "logo": "https://live.metahub.space/logo/medium/tt37442772/img",
-      "description": "Go inside the most dominant program in college basketball history as Geno Auriemma pushes his players to the limit to win 12 titles. Rebecca Lobo, Diana Taurasi, Paige Bueckers, and more reveal what it takes to survive UConn and build a dynasty.",
-      "releaseInfo": "2026–2026",
       "imdbRating": "8.4"
     },
     {
@@ -342,28 +320,6 @@
       "imdbRating": "8.3"
     },
     {
-      "id": "tt11198330",
-      "type": "series",
-      "name": "House of the Dragon",
-      "poster": "https://images.metahub.space/poster/small/tt11198330/img",
-      "background": "https://images.metahub.space/background/medium/tt11198330/img",
-      "logo": "https://images.metahub.space/logo/medium/tt11198330/img",
-      "description": "An internal succession war within House Targaryen at the height of its power, 172 years before the birth of Daenerys Targaryen.",
-      "releaseInfo": "2022–",
-      "imdbRating": "8.3"
-    },
-    {
-      "id": "tt15477488",
-      "type": "series",
-      "name": "Farzi",
-      "poster": "https://images.metahub.space/poster/small/tt15477488/img",
-      "background": "https://images.metahub.space/background/medium/tt15477488/img",
-      "logo": "https://images.metahub.space/logo/medium/tt15477488/img",
-      "description": "An artist who gets pulled into the murky high stakes of a con job and a fiery task force officer on the mission to rid the country of his menaces in a fast-paced, edgy one-of-a-kind thriller.",
-      "releaseInfo": "2023–",
-      "imdbRating": "8.3"
-    },
-    {
       "id": "tt3655448",
       "type": "series",
       "name": "The Young Pope",
@@ -386,17 +342,6 @@
       "imdbRating": "8.2"
     },
     {
-      "id": "tt13293588",
-      "type": "series",
-      "name": "Mushoku Tensei: Jobless Reincarnation",
-      "poster": "https://images.metahub.space/poster/small/tt13293588/img",
-      "background": "https://images.metahub.space/background/medium/tt13293588/img",
-      "logo": "https://images.metahub.space/logo/medium/tt13293588/img",
-      "description": "A 34-year-old underachiever gets run over by a bus, but his story isn't over. Reincarnated as an infant, he'll embark on an epic adventure.",
-      "releaseInfo": "2021–",
-      "imdbRating": "8.2"
-    },
-    {
       "id": "tt9140554",
       "type": "series",
       "name": "Loki",
@@ -405,6 +350,17 @@
       "logo": "https://images.metahub.space/logo/medium/tt9140554/img",
       "description": "The mercurial villain Loki resumes his role as the God of Mischief in a new series that takes place after the events of “Avengers: Endgame.”",
       "releaseInfo": "2021–2023",
+      "imdbRating": "8.2"
+    },
+    {
+      "id": "tt15469618",
+      "type": "series",
+      "name": "Bad Sisters",
+      "poster": "https://images.metahub.space/poster/small/tt15469618/img",
+      "background": "https://images.metahub.space/background/medium/tt15469618/img",
+      "logo": "https://images.metahub.space/logo/medium/tt15469618/img",
+      "description": "The Garvey sisters are bound together by their parents' deaths and a promise to always protect one another.",
+      "releaseInfo": "2022–",
       "imdbRating": "8.2"
     },
     {
@@ -419,17 +375,6 @@
       "imdbRating": "8.2"
     },
     {
-      "id": "tt13911628",
-      "type": "series",
-      "name": "Lessons in Chemistry",
-      "poster": "https://images.metahub.space/poster/small/tt13911628/img",
-      "background": "https://images.metahub.space/background/medium/tt13911628/img",
-      "logo": "https://images.metahub.space/logo/medium/tt13911628/img",
-      "description": "In the 1950s, Elizabeth Zott's dream of being a scientist is challenged by a society that says women belong in the domestic sphere; she accepts a job on a TV cooking show and sets out to teach a nation of housewives way more than ...",
-      "releaseInfo": "2023",
-      "imdbRating": "8.2"
-    },
-    {
       "id": "tt0434665",
       "type": "series",
       "name": "Bleach",
@@ -438,6 +383,17 @@
       "logo": "https://images.metahub.space/logo/medium/tt0434665/img",
       "description": "High school student Ichigo Kurosaki, who has the ability to see ghosts, gains soul reaper powers from Rukia Kuchiki and sets out to save the world from \"Hollows\".",
       "releaseInfo": "2004–2012",
+      "imdbRating": "8.2"
+    },
+    {
+      "id": "tt13911628",
+      "type": "series",
+      "name": "Lessons in Chemistry",
+      "poster": "https://images.metahub.space/poster/small/tt13911628/img",
+      "background": "https://images.metahub.space/background/medium/tt13911628/img",
+      "logo": "https://images.metahub.space/logo/medium/tt13911628/img",
+      "description": "In the 1950s, Elizabeth Zott's dream of being a scientist is challenged by a society that says women belong in the domestic sphere; she accepts a job on a TV cooking show and sets out to teach a nation of housewives way more than ...",
+      "releaseInfo": "2023",
       "imdbRating": "8.2"
     },
     {
@@ -474,17 +430,6 @@
       "imdbRating": "8.1"
     },
     {
-      "id": "tt23649128",
-      "type": "series",
-      "name": "The Studio",
-      "poster": "https://images.metahub.space/poster/small/tt23649128/img",
-      "background": "https://images.metahub.space/background/medium/tt23649128/img",
-      "logo": "https://images.metahub.space/logo/medium/tt23649128/img",
-      "description": "Follows a legacy Hollywood movie studio striving to survive in a world where it is increasingly difficult for art and business to live together.",
-      "releaseInfo": "2025–",
-      "imdbRating": "8.1"
-    },
-    {
       "id": "tt4301160",
       "type": "series",
       "name": "Black Bird",
@@ -493,6 +438,17 @@
       "logo": "https://images.metahub.space/logo/medium/tt4301160/img",
       "description": "Jimmy Keene is sentenced to 10 years in a minimum security prison but he cuts a deal with the FBI to befriend a suspected serial killer. Keene has to elicit a confession from Larry Hall to find the bodies of as many as eighteen wo...",
       "releaseInfo": "2022",
+      "imdbRating": "8.1"
+    },
+    {
+      "id": "tt23649128",
+      "type": "series",
+      "name": "The Studio",
+      "poster": "https://images.metahub.space/poster/small/tt23649128/img",
+      "background": "https://images.metahub.space/background/medium/tt23649128/img",
+      "logo": "https://images.metahub.space/logo/medium/tt23649128/img",
+      "description": "Follows a legacy Hollywood movie studio striving to survive in a world where it is increasingly difficult for art and business to live together.",
+      "releaseInfo": "2025–",
       "imdbRating": "8.1"
     },
     {
@@ -514,6 +470,17 @@
       "background": "https://images.metahub.space/background/medium/tt24053860/img",
       "logo": "https://images.metahub.space/logo/medium/tt24053860/img",
       "description": "The Jackal is an elusive assassin who makes his living carrying out hits for the highest fee. He soon meets his match in a tenacious British intelligence officer who tracks him down in a thrilling cat-and-mouse chase across Europe.",
+      "releaseInfo": "2024–",
+      "imdbRating": "8.1"
+    },
+    {
+      "id": "tt26915338",
+      "type": "series",
+      "name": "Gyaarah Gyaarah",
+      "poster": "https://images.metahub.space/poster/small/tt26915338/img",
+      "background": "https://images.metahub.space/background/medium/tt26915338/img",
+      "logo": "https://images.metahub.space/logo/medium/tt26915338/img",
+      "description": "Investigative drama following events in 1990, 2001, 2016. Intertwining storylines blending mysticism, science and mystery across the decades.",
       "releaseInfo": "2024–",
       "imdbRating": "8.1"
     },
@@ -549,6 +516,39 @@
       "description": "Bear Grylls travels the world in search of challenges to his survival skills.",
       "releaseInfo": "2006–2020",
       "imdbRating": "8.1"
+    },
+    {
+      "id": "tt20096840",
+      "type": "series",
+      "name": "The Messiah",
+      "poster": "https://images.metahub.space/poster/small/tt20096840/img",
+      "background": "https://images.metahub.space/background/medium/tt20096840/img",
+      "logo": "https://images.metahub.space/logo/medium/tt20096840/img",
+      "description": "It tells the story of Enric, who is heavily impacted by a viral video of a Christian pop band made up of five sisters.",
+      "releaseInfo": "2023",
+      "imdbRating": "8.0"
+    },
+    {
+      "id": "tt4643084",
+      "type": "series",
+      "name": "Counterpart",
+      "poster": "https://images.metahub.space/poster/small/tt4643084/img",
+      "background": "https://images.metahub.space/background/medium/tt4643084/img",
+      "logo": "https://images.metahub.space/logo/medium/tt4643084/img",
+      "description": "A cog in a bureaucratic agency discovers his agency is guarding a crossing to a parallel dimension.",
+      "releaseInfo": "2017–2019",
+      "imdbRating": "8.0"
+    },
+    {
+      "id": "tt10982034",
+      "type": "series",
+      "name": "Trying",
+      "poster": "https://images.metahub.space/poster/small/tt10982034/img",
+      "background": "https://images.metahub.space/background/medium/tt10982034/img",
+      "logo": "https://images.metahub.space/logo/medium/tt10982034/img",
+      "description": "All Jason and Nikki want is a baby, but it's the one thing they just can't have. So, they decide to adopt. With their dysfunctional friends, screwball family and chaotic lives will the adoption panel think they're ready to be pare...",
+      "releaseInfo": "2020–",
+      "imdbRating": "8.0"
     }
   ]
 }
