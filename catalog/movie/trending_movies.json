@@ -201,14 +201,14 @@
       "imdbRating": 4.1
     },
     {
-      "id": "tt37333137",
+      "id": "tt39528902",
       "type": "movie",
-      "name": "Main Vaapas Aaunga",
-      "poster": "https://images.metahub.space/poster/medium/tt37333137/img",
-      "background": "https://images.metahub.space/background/medium/tt37333137/img",
-      "description": "Haunted by a childhood romance and recollections of love lost during the 1947 Partition of India, 95-year-old Ishar Singh Grewal shares his story with his grandson Nirvair, the past unfolding through memories of migration, longing, and a romance that endures across generations.",
+      "name": "Don't Be Shy!",
+      "poster": "https://images.metahub.space/poster/medium/tt39528902/img",
+      "background": "https://images.metahub.space/background/medium/tt39528902/img",
+      "description": "Quintessential Mean Girl, Shyamili ‘Shy’ Das, finds herself suddenly relegated to Loser-ville when Mayank, her boyfriend of three years, suddenly dumps her. But Shy, all set to get her revenge, finds herself falling into friendship and compassion with someone unexpected… Mayank’s new girlfriend - Tara.",
       "releaseInfo": 2026,
-      "imdbRating": 8
+      "imdbRating": 4.5
     },
     {
       "id": "tt28363783",
@@ -279,6 +279,16 @@
       "description": "A man suffering from anterograde amnesia as a result of a violent attack in the past sets out to avenge his girlfriend's death with the aid of photographs, notes and tattoos all over his body.",
       "releaseInfo": 2008,
       "imdbRating": 7.4
+    },
+    {
+      "id": "tt37333137",
+      "type": "movie",
+      "name": "Main Vaapas Aaunga",
+      "poster": "https://images.metahub.space/poster/medium/tt37333137/img",
+      "background": "https://images.metahub.space/background/medium/tt37333137/img",
+      "description": "Haunted by a childhood romance and recollections of love lost during the 1947 Partition of India, 95-year-old Ishar Singh Grewal shares his story with his grandson Nirvair, the past unfolding through memories of migration, longing, and a romance that endures across generations.",
+      "releaseInfo": 2026,
+      "imdbRating": 8
     },
     {
       "id": "tt37654096",
@@ -359,6 +369,16 @@
       "description": "After receiving an exotic small animal as a Christmas gift, a young man inadvertently breaks three important rules concerning his new pet, which unleashes a horde of malevolently mischievous creatures on a small town.",
       "releaseInfo": 1984,
       "imdbRating": 7.3
+    },
+    {
+      "id": "tt1840309",
+      "type": "movie",
+      "name": "Divergent",
+      "poster": "https://images.metahub.space/poster/medium/tt1840309/img",
+      "background": "https://images.metahub.space/background/medium/tt1840309/img",
+      "description": "In a world divided into factions based on personality types, Tris learns that she's been classified as Divergent and won't fit in. When she discovers a plot to destroy Divergents, Tris and the mysterious Four must find out what makes Divergents dangerous before it's too late.",
+      "releaseInfo": 2014,
+      "imdbRating": 6.6
     },
     {
       "id": "tt41617470",
@@ -479,26 +499,6 @@
       "description": "Three high school seniors throw a party to make a name for themselves. As the night progresses, things spiral out of control as word of the party spreads.",
       "releaseInfo": 2012,
       "imdbRating": 6.7
-    },
-    {
-      "id": "tt27989067",
-      "type": "movie",
-      "name": "Lust Stories 2",
-      "poster": "https://images.metahub.space/poster/medium/tt27989067/img",
-      "background": "https://images.metahub.space/background/medium/tt27989067/img",
-      "description": "Four eminent Indian directors explore sex, desire and love through short films in this sequel to 2018's Emmy-nominated 'Lust Stories'.",
-      "releaseInfo": 2023,
-      "imdbRating": 5.7
-    },
-    {
-      "id": "tt0120616",
-      "type": "movie",
-      "name": "The Mummy",
-      "poster": "https://images.metahub.space/poster/medium/tt0120616/img",
-      "background": "https://images.metahub.space/background/medium/tt0120616/img",
-      "description": "Dashing legionnaire Rick O'Connell stumbles upon the hidden ruins of Hamunaptra while in the midst of a battle to claim the area in 1920s Egypt. It has been over three thousand years since former High Priest Imhotep suffered a fate worse than death as a punishment for a forbidden love—along with a curse that guarantees eternal doom upon the world if he is ever awoken.",
-      "releaseInfo": 1999,
-      "imdbRating": 7.1
     }
   ]
 }

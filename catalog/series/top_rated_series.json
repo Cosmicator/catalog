@@ -342,6 +342,17 @@
       "imdbRating": "8.4"
     },
     {
+      "id": "tt5675620",
+      "type": "series",
+      "name": "The Punisher",
+      "poster": "https://images.metahub.space/poster/small/tt5675620/img",
+      "background": "https://images.metahub.space/background/medium/tt5675620/img",
+      "logo": "https://images.metahub.space/logo/medium/tt5675620/img",
+      "description": "After his revenge on those who murdered his family, aimless Marine veteran Frank Castle finds a new meaning in life as a vigilante known as \"The Punisher\".",
+      "releaseInfo": "2017–2019",
+      "imdbRating": "8.4"
+    },
+    {
       "id": "tt31510819",
       "type": "series",
       "name": "MobLand",
@@ -485,17 +496,6 @@
       "imdbRating": "8.1"
     },
     {
-      "id": "tt26915338",
-      "type": "series",
-      "name": "Gyaarah Gyaarah",
-      "poster": "https://images.metahub.space/poster/small/tt26915338/img",
-      "background": "https://images.metahub.space/background/medium/tt26915338/img",
-      "logo": "https://images.metahub.space/logo/medium/tt26915338/img",
-      "description": "Investigative drama following events in 1990, 2001, 2016. Intertwining storylines blending mysticism, science and mystery across the decades.",
-      "releaseInfo": "2024–",
-      "imdbRating": "8.1"
-    },
-    {
       "id": "tt4301160",
       "type": "series",
       "name": "Black Bird",
@@ -518,6 +518,17 @@
       "imdbRating": "8.1"
     },
     {
+      "id": "tt29615330",
+      "type": "series",
+      "name": "The New Years",
+      "poster": "https://images.metahub.space/poster/small/tt29615330/img",
+      "background": "https://images.metahub.space/background/medium/tt29615330/img",
+      "logo": "https://images.metahub.space/logo/medium/tt29615330/img",
+      "description": "Oscar, stuck with a crappy medical contract, is still hooked on his ex. Ana, without a partner or a job, feels lost and plans to move away. Over the next ten years, they will have to face the passage of time and the decisions they...",
+      "releaseInfo": "2024",
+      "imdbRating": "8.1"
+    },
+    {
       "id": "tt7203552",
       "type": "series",
       "name": "The Morning Show",
@@ -537,17 +548,6 @@
       "logo": "https://images.metahub.space/logo/medium/tt0883772/img",
       "description": "Bear Grylls travels the world in search of challenges to his survival skills.",
       "releaseInfo": "2006–2020",
-      "imdbRating": "8.1"
-    },
-    {
-      "id": "tt0914387",
-      "type": "series",
-      "name": "Damages",
-      "poster": "https://images.metahub.space/poster/small/tt0914387/img",
-      "background": "https://images.metahub.space/background/medium/tt0914387/img",
-      "logo": "https://images.metahub.space/logo/medium/tt0914387/img",
-      "description": "A law school graduate becomes the protégée of a successful high-stakes litigator.",
-      "releaseInfo": "2007–2012",
       "imdbRating": "8.1"
     }
   ]
