@@ -1,6 +1,17 @@
 {
   "metas": [
     {
+      "id": "tt0903747",
+      "type": "series",
+      "name": "Breaking Bad",
+      "poster": "https://images.metahub.space/poster/small/tt0903747/img",
+      "background": "https://images.metahub.space/background/medium/tt0903747/img",
+      "logo": "https://images.metahub.space/logo/medium/tt0903747/img",
+      "description": "A chemistry teacher diagnosed with inoperable lung cancer turns to manufacturing and selling methamphetamine with a former student to secure his family's future.",
+      "releaseInfo": "2008–2013",
+      "imdbRating": "9.5"
+    },
+    {
       "id": "tt0306414",
       "type": "series",
       "name": "The Wire",
@@ -21,6 +32,28 @@
       "description": "Nine noble families fight for control over the lands of Westeros, while an ancient enemy returns after being dormant for millennia.",
       "releaseInfo": "2011–2019",
       "imdbRating": "9.2"
+    },
+    {
+      "id": "tt43730117",
+      "type": "series",
+      "name": "Declassified: Operation Sindoor",
+      "poster": "https://live.metahub.space/poster/small/tt43730117/img",
+      "background": "https://live.metahub.space/background/medium/tt43730117/img",
+      "logo": "https://live.metahub.space/logo/medium/tt43730117/img",
+      "description": "Following the Pahalgam terror attack in April, India's military leadership deliberates and plans Operation Sindoor, an 88-hour military operation launched on May 7, featuring accounts from operatives and experts.",
+      "releaseInfo": "2026–2026",
+      "imdbRating": "9.2"
+    },
+    {
+      "id": "tt26471411",
+      "type": "series",
+      "name": "When Life Gives You Tangerines",
+      "poster": "https://images.metahub.space/poster/small/tt26471411/img",
+      "background": "https://images.metahub.space/background/medium/tt26471411/img",
+      "logo": "https://images.metahub.space/logo/medium/tt26471411/img",
+      "description": "In Jeju, a spirited girl and a steadfast boy's island story blossoms into a lifelong tale of setbacks and triumphs, proving love endures across time.",
+      "releaseInfo": "2025",
+      "imdbRating": "9.1"
     },
     {
       "id": "tt1475582",
@@ -78,6 +111,17 @@
       "imdbRating": "8.8"
     },
     {
+      "id": "tt35495073",
+      "type": "series",
+      "name": "Heated Rivalry",
+      "poster": "https://images.metahub.space/poster/small/tt35495073/img",
+      "background": "https://images.metahub.space/background/medium/tt35495073/img",
+      "logo": "https://images.metahub.space/logo/medium/tt35495073/img",
+      "description": "Two rival hockey stars at the top of their game face an unexpected challenge when they develop feelings for each other, complicating their careers and the sport's expectations.",
+      "releaseInfo": "2025–",
+      "imdbRating": "8.8"
+    },
+    {
       "id": "tt10986410",
       "type": "series",
       "name": "Ted Lasso",
@@ -100,17 +144,6 @@
       "imdbRating": "8.7"
     },
     {
-      "id": "tt0988824",
-      "type": "series",
-      "name": "Naruto: Shippuden",
-      "poster": "https://images.metahub.space/poster/small/tt0988824/img",
-      "background": "https://images.metahub.space/background/medium/tt0988824/img",
-      "logo": "https://images.metahub.space/logo/medium/tt0988824/img",
-      "description": "Naruto Uzumaki, is a loud, hyperactive, adolescent ninja who constantly searches for approval and recognition, as well as to become Hokage, who is acknowledged as the leader and strongest of all ninja in the village.",
-      "releaseInfo": "2007–2017",
-      "imdbRating": "8.7"
-    },
-    {
       "id": "tt9544034",
       "type": "series",
       "name": "The Family Man",
@@ -119,6 +152,17 @@
       "logo": "https://images.metahub.space/logo/medium/tt9544034/img",
       "description": "A working man from the National Investigation Agency tries to protect the nation from terrorism, but he also needs to keep his family safe from his secret job.",
       "releaseInfo": "2019–",
+      "imdbRating": "8.7"
+    },
+    {
+      "id": "tt0988824",
+      "type": "series",
+      "name": "Naruto: Shippuden",
+      "poster": "https://images.metahub.space/poster/small/tt0988824/img",
+      "background": "https://images.metahub.space/background/medium/tt0988824/img",
+      "logo": "https://images.metahub.space/logo/medium/tt0988824/img",
+      "description": "Naruto Uzumaki, is a loud, hyperactive, adolescent ninja who constantly searches for approval and recognition, as well as to become Hokage, who is acknowledged as the leader and strongest of all ninja in the village.",
+      "releaseInfo": "2007–2017",
       "imdbRating": "8.7"
     },
     {
@@ -144,6 +188,17 @@
       "imdbRating": "8.6"
     },
     {
+      "id": "tt4574334",
+      "type": "series",
+      "name": "Stranger Things",
+      "poster": "https://images.metahub.space/poster/small/tt4574334/img",
+      "background": "https://images.metahub.space/background/medium/tt4574334/img",
+      "logo": "https://images.metahub.space/logo/medium/tt4574334/img",
+      "description": "In 1980s Indiana, a group of young friends witness supernatural forces and secret government exploits. As they search for answers, the children unravel a series of extraordinary mysteries.",
+      "releaseInfo": "2016–2025",
+      "imdbRating": "8.6"
+    },
+    {
       "id": "tt21211770",
       "type": "series",
       "name": "Solo Leveling",
@@ -155,15 +210,15 @@
       "imdbRating": "8.6"
     },
     {
-      "id": "tt1758429",
+      "id": "tt31862809",
       "type": "series",
-      "name": "Spartacus: Gods of the Arena",
-      "poster": "https://images.metahub.space/poster/small/tt1758429/img",
-      "background": "https://images.metahub.space/background/medium/tt1758429/img",
-      "logo": "https://images.metahub.space/logo/medium/tt1758429/img",
-      "description": "In the time before the arrival of Spartacus, the House of Batiatus faces many challenges from competitors, and within its own household.",
-      "releaseInfo": "2011",
-      "imdbRating": "8.5"
+      "name": "Heart Beat",
+      "poster": "https://live.metahub.space/poster/small/tt31862809/img",
+      "background": "https://live.metahub.space/background/medium/tt31862809/img",
+      "logo": "https://live.metahub.space/logo/medium/tt31862809/img",
+      "description": "RK Multispeciality Hospital is a beacon of hope and healing. Its doctors are resilient even when they have to deal with medical and personal challenges.",
+      "releaseInfo": "2024–",
+      "imdbRating": "8.6"
     },
     {
       "id": "tt1439629",
@@ -188,17 +243,6 @@
       "imdbRating": "8.5"
     },
     {
-      "id": "tt3526078",
-      "type": "series",
-      "name": "Schitt's Creek",
-      "poster": "https://images.metahub.space/poster/small/tt3526078/img",
-      "background": "https://images.metahub.space/background/medium/tt3526078/img",
-      "logo": "https://images.metahub.space/logo/medium/tt3526078/img",
-      "description": "After being a victim of fraud, Johnny Rose and his family go from extremely wealthy to penniless overnight. The only asset left to them is a small, unsophisticated town: Schitt's Creek. They relocate there. Culture shock ensues.",
-      "releaseInfo": "2015–2020",
-      "imdbRating": "8.5"
-    },
-    {
       "id": "tt4093826",
       "type": "series",
       "name": "Twin Peaks",
@@ -210,26 +254,37 @@
       "imdbRating": "8.5"
     },
     {
-      "id": "tt8317568",
+      "id": "tt3526078",
       "type": "series",
-      "name": "Broken But Beautiful",
-      "poster": "https://images.metahub.space/poster/small/tt8317568/img",
-      "background": "https://images.metahub.space/background/medium/tt8317568/img",
-      "logo": "https://images.metahub.space/logo/medium/tt8317568/img",
-      "description": "Veer and Sameera, strangers with opposite personalities, are left heartbroken after losing loves they thought would last forever. When fate gives the damaged souls a second chance, a beautiful love story unfolds.",
-      "releaseInfo": "2018–",
+      "name": "Schitt's Creek",
+      "poster": "https://images.metahub.space/poster/small/tt3526078/img",
+      "background": "https://images.metahub.space/background/medium/tt3526078/img",
+      "logo": "https://images.metahub.space/logo/medium/tt3526078/img",
+      "description": "After being a victim of fraud, Johnny Rose and his family go from extremely wealthy to penniless overnight. The only asset left to them is a small, unsophisticated town: Schitt's Creek. They relocate there. Culture shock ensues.",
+      "releaseInfo": "2015–2020",
       "imdbRating": "8.5"
     },
     {
-      "id": "tt1839578",
+      "id": "tt9335498",
       "type": "series",
-      "name": "Person of Interest",
-      "poster": "https://images.metahub.space/poster/small/tt1839578/img",
-      "background": "https://images.metahub.space/background/medium/tt1839578/img",
-      "logo": "https://images.metahub.space/logo/medium/tt1839578/img",
-      "description": "An off-the-grid and presumed-dead former CIA agent, John Reese, is hired by a mysterious tech billionaire software genius, Harold Finch, to prevent violent crimes before they happen in New York City via an advanced surveillance so...",
-      "releaseInfo": "2011–2016",
+      "name": "Demon Slayer: Kimetsu no Yaiba",
+      "poster": "https://images.metahub.space/poster/small/tt9335498/img",
+      "background": "https://images.metahub.space/background/medium/tt9335498/img",
+      "logo": "https://images.metahub.space/logo/medium/tt9335498/img",
+      "description": "A family is attacked by demons and only two members survive - Tanjiro and his sister Nezuko, who is turning into a demon slowly. Tanjiro sets out to become a demon slayer to avenge his family and cure his sister.",
+      "releaseInfo": "2019–2024",
       "imdbRating": "8.5"
+    },
+    {
+      "id": "tt1442449",
+      "type": "series",
+      "name": "Spartacus",
+      "poster": "https://images.metahub.space/poster/small/tt1442449/img",
+      "background": "https://images.metahub.space/background/medium/tt1442449/img",
+      "logo": "https://images.metahub.space/logo/medium/tt1442449/img",
+      "description": "The life of Spartacus, the gladiator who led a rebellion against the Romans.",
+      "releaseInfo": "2010–2013",
+      "imdbRating": "8.4"
     },
     {
       "id": "tt6473300",
@@ -287,6 +342,17 @@
       "imdbRating": "8.4"
     },
     {
+      "id": "tt31510819",
+      "type": "series",
+      "name": "MobLand",
+      "poster": "https://images.metahub.space/poster/small/tt31510819/img",
+      "background": "https://images.metahub.space/background/medium/tt31510819/img",
+      "logo": "https://images.metahub.space/logo/medium/tt31510819/img",
+      "description": "Power is up for grabs as two warring crime families clash in a battle that threatens to topple empires. In the crossfire stands Harry Da Souza, a street-smart 'fixer' who knows too well where loyalties lie when opposing forces col...",
+      "releaseInfo": "2025–",
+      "imdbRating": "8.3"
+    },
+    {
       "id": "tt5875444",
       "type": "series",
       "name": "Slow Horses",
@@ -298,14 +364,14 @@
       "imdbRating": "8.3"
     },
     {
-      "id": "tt31510819",
+      "id": "tt11198330",
       "type": "series",
-      "name": "MobLand",
-      "poster": "https://images.metahub.space/poster/small/tt31510819/img",
-      "background": "https://images.metahub.space/background/medium/tt31510819/img",
-      "logo": "https://images.metahub.space/logo/medium/tt31510819/img",
-      "description": "Power is up for grabs as two warring crime families clash in a battle that threatens to topple empires. In the crossfire stands Harry Da Souza, a street-smart 'fixer' who knows too well where loyalties lie when opposing forces col...",
-      "releaseInfo": "2025–",
+      "name": "House of the Dragon",
+      "poster": "https://images.metahub.space/poster/small/tt11198330/img",
+      "background": "https://images.metahub.space/background/medium/tt11198330/img",
+      "logo": "https://images.metahub.space/logo/medium/tt11198330/img",
+      "description": "An internal succession war within House Targaryen at the height of its power, 172 years before the birth of Daenerys Targaryen.",
+      "releaseInfo": "2022–",
       "imdbRating": "8.3"
     },
     {
@@ -353,28 +419,6 @@
       "imdbRating": "8.2"
     },
     {
-      "id": "tt6468322",
-      "type": "series",
-      "name": "Money Heist",
-      "poster": "https://live.metahub.space/poster/small/tt6468322/img",
-      "background": "https://live.metahub.space/background/medium/tt6468322/img",
-      "logo": "https://live.metahub.space/logo/medium/tt6468322/img",
-      "description": "To carry out the biggest heist in history, a mysterious man called The Professor recruits a band of eight robbers who have a single characteristic: none of them has anything to lose. Five months of seclusion - memorizing every step, every detail, every probability - culminate in eleven days locked up in the National Coinage and Stamp Factory of Spain, surrounded by police forces and with dozens of hostages in their power, to find out whether their suicide wager will lead to everything or nothing.",
-      "releaseInfo": "2017–2021",
-      "imdbRating": "8.2"
-    },
-    {
-      "id": "tt0434665",
-      "type": "series",
-      "name": "Bleach",
-      "poster": "https://images.metahub.space/poster/small/tt0434665/img",
-      "background": "https://images.metahub.space/background/medium/tt0434665/img",
-      "logo": "https://images.metahub.space/logo/medium/tt0434665/img",
-      "description": "High school student Ichigo Kurosaki, who has the ability to see ghosts, gains soul reaper powers from Rukia Kuchiki and sets out to save the world from \"Hollows\".",
-      "releaseInfo": "2004–2012",
-      "imdbRating": "8.2"
-    },
-    {
       "id": "tt13911628",
       "type": "series",
       "name": "Lessons in Chemistry",
@@ -383,6 +427,17 @@
       "logo": "https://images.metahub.space/logo/medium/tt13911628/img",
       "description": "In the 1950s, Elizabeth Zott's dream of being a scientist is challenged by a society that says women belong in the domestic sphere; she accepts a job on a TV cooking show and sets out to teach a nation of housewives way more than ...",
       "releaseInfo": "2023",
+      "imdbRating": "8.2"
+    },
+    {
+      "id": "tt6468322",
+      "type": "series",
+      "name": "Money Heist",
+      "poster": "https://live.metahub.space/poster/small/tt6468322/img",
+      "background": "https://live.metahub.space/background/medium/tt6468322/img",
+      "logo": "https://live.metahub.space/logo/medium/tt6468322/img",
+      "description": "To carry out the biggest heist in history, a mysterious man called The Professor recruits a band of eight robbers who have a single characteristic: none of them has anything to lose. Five months of seclusion - memorizing every step, every detail, every probability - culminate in eleven days locked up in the National Coinage and Stamp Factory of Spain, surrounded by police forces and with dozens of hostages in their power, to find out whether their suicide wager will lead to everything or nothing.",
+      "releaseInfo": "2017–2021",
       "imdbRating": "8.2"
     },
     {
@@ -397,17 +452,6 @@
       "imdbRating": "8.1"
     },
     {
-      "id": "tt14688458",
-      "type": "series",
-      "name": "Silo",
-      "poster": "https://images.metahub.space/poster/small/tt14688458/img",
-      "background": "https://images.metahub.space/background/medium/tt14688458/img",
-      "logo": "https://images.metahub.space/logo/medium/tt14688458/img",
-      "description": "Men and women live in a giant silo underground with several regulations which they believe are in place to protect them from the toxic and ruined world on the surface.",
-      "releaseInfo": "2023–",
-      "imdbRating": "8.1"
-    },
-    {
       "id": "tt7772588",
       "type": "series",
       "name": "For All Mankind",
@@ -419,14 +463,14 @@
       "imdbRating": "8.1"
     },
     {
-      "id": "tt4301160",
+      "id": "tt14688458",
       "type": "series",
-      "name": "Black Bird",
-      "poster": "https://images.metahub.space/poster/small/tt4301160/img",
-      "background": "https://images.metahub.space/background/medium/tt4301160/img",
-      "logo": "https://images.metahub.space/logo/medium/tt4301160/img",
-      "description": "Jimmy Keene is sentenced to 10 years in a minimum security prison but he cuts a deal with the FBI to befriend a suspected serial killer. Keene has to elicit a confession from Larry Hall to find the bodies of as many as eighteen wo...",
-      "releaseInfo": "2022",
+      "name": "Silo",
+      "poster": "https://images.metahub.space/poster/small/tt14688458/img",
+      "background": "https://images.metahub.space/background/medium/tt14688458/img",
+      "logo": "https://images.metahub.space/logo/medium/tt14688458/img",
+      "description": "Men and women live in a giant silo underground with several regulations which they believe are in place to protect them from the toxic and ruined world on the surface.",
+      "releaseInfo": "2023–",
       "imdbRating": "8.1"
     },
     {
@@ -441,14 +485,25 @@
       "imdbRating": "8.1"
     },
     {
-      "id": "tt7203552",
+      "id": "tt26915338",
       "type": "series",
-      "name": "The Morning Show",
-      "poster": "https://images.metahub.space/poster/small/tt7203552/img",
-      "background": "https://images.metahub.space/background/medium/tt7203552/img",
-      "logo": "https://images.metahub.space/logo/medium/tt7203552/img",
-      "description": "An inside look at the lives of the people who help America wake up in the morning, exploring the unique challenges faced by the team.",
-      "releaseInfo": "2019–",
+      "name": "Gyaarah Gyaarah",
+      "poster": "https://images.metahub.space/poster/small/tt26915338/img",
+      "background": "https://images.metahub.space/background/medium/tt26915338/img",
+      "logo": "https://images.metahub.space/logo/medium/tt26915338/img",
+      "description": "Investigative drama following events in 1990, 2001, 2016. Intertwining storylines blending mysticism, science and mystery across the decades.",
+      "releaseInfo": "2024–",
+      "imdbRating": "8.1"
+    },
+    {
+      "id": "tt4301160",
+      "type": "series",
+      "name": "Black Bird",
+      "poster": "https://images.metahub.space/poster/small/tt4301160/img",
+      "background": "https://images.metahub.space/background/medium/tt4301160/img",
+      "logo": "https://images.metahub.space/logo/medium/tt4301160/img",
+      "description": "Jimmy Keene is sentenced to 10 years in a minimum security prison but he cuts a deal with the FBI to befriend a suspected serial killer. Keene has to elicit a confession from Larry Hall to find the bodies of as many as eighteen wo...",
+      "releaseInfo": "2022",
       "imdbRating": "8.1"
     },
     {
@@ -463,36 +518,14 @@
       "imdbRating": "8.1"
     },
     {
-      "id": "tt26915338",
+      "id": "tt7203552",
       "type": "series",
-      "name": "Gyaarah Gyaarah",
-      "poster": "https://images.metahub.space/poster/small/tt26915338/img",
-      "background": "https://images.metahub.space/background/medium/tt26915338/img",
-      "logo": "https://images.metahub.space/logo/medium/tt26915338/img",
-      "description": "Investigative drama following events in 1990, 2001, 2016. Intertwining storylines blending mysticism, science and mystery across the decades.",
-      "releaseInfo": "2024–",
-      "imdbRating": "8.1"
-    },
-    {
-      "id": "tt0914387",
-      "type": "series",
-      "name": "Damages",
-      "poster": "https://images.metahub.space/poster/small/tt0914387/img",
-      "background": "https://images.metahub.space/background/medium/tt0914387/img",
-      "logo": "https://images.metahub.space/logo/medium/tt0914387/img",
-      "description": "A law school graduate becomes the protégée of a successful high-stakes litigator.",
-      "releaseInfo": "2007–2012",
-      "imdbRating": "8.1"
-    },
-    {
-      "id": "tt0092400",
-      "type": "series",
-      "name": "Married... with Children",
-      "poster": "https://images.metahub.space/poster/small/tt0092400/img",
-      "background": "https://images.metahub.space/background/medium/tt0092400/img",
-      "logo": "https://images.metahub.space/logo/medium/tt0092400/img",
-      "description": "Al is the quintessential working class dad. Peggy, his wife, always wants more from him. With their children, they go through the highs and lows of ordinary life.",
-      "releaseInfo": "1987–1997",
+      "name": "The Morning Show",
+      "poster": "https://images.metahub.space/poster/small/tt7203552/img",
+      "background": "https://images.metahub.space/background/medium/tt7203552/img",
+      "logo": "https://images.metahub.space/logo/medium/tt7203552/img",
+      "description": "An inside look at the lives of the people who help America wake up in the morning, exploring the unique challenges faced by the team.",
+      "releaseInfo": "2019–",
       "imdbRating": "8.1"
     },
     {
@@ -507,48 +540,15 @@
       "imdbRating": "8.1"
     },
     {
-      "id": "tt20096840",
+      "id": "tt0914387",
       "type": "series",
-      "name": "The Messiah",
-      "poster": "https://images.metahub.space/poster/small/tt20096840/img",
-      "background": "https://images.metahub.space/background/medium/tt20096840/img",
-      "logo": "https://images.metahub.space/logo/medium/tt20096840/img",
-      "description": "It tells the story of Enric, who is heavily impacted by a viral video of a Christian pop band made up of five sisters.",
-      "releaseInfo": "2023",
-      "imdbRating": "8.0"
-    },
-    {
-      "id": "tt4643084",
-      "type": "series",
-      "name": "Counterpart",
-      "poster": "https://images.metahub.space/poster/small/tt4643084/img",
-      "background": "https://images.metahub.space/background/medium/tt4643084/img",
-      "logo": "https://images.metahub.space/logo/medium/tt4643084/img",
-      "description": "A cog in a bureaucratic agency discovers his agency is guarding a crossing to a parallel dimension.",
-      "releaseInfo": "2017–2019",
-      "imdbRating": "8.0"
-    },
-    {
-      "id": "tt10982034",
-      "type": "series",
-      "name": "Trying",
-      "poster": "https://images.metahub.space/poster/small/tt10982034/img",
-      "background": "https://images.metahub.space/background/medium/tt10982034/img",
-      "logo": "https://images.metahub.space/logo/medium/tt10982034/img",
-      "description": "All Jason and Nikki want is a baby, but it's the one thing they just can't have. So, they decide to adopt. With their dysfunctional friends, screwball family and chaotic lives will the adoption panel think they're ready to be pare...",
-      "releaseInfo": "2020–",
-      "imdbRating": "8.0"
-    },
-    {
-      "id": "tt5489746",
-      "type": "series",
-      "name": "Evil Lives Here",
-      "poster": "https://images.metahub.space/poster/small/tt5489746/img",
-      "background": "https://images.metahub.space/background/medium/tt5489746/img",
-      "logo": "https://images.metahub.space/logo/medium/tt5489746/img",
-      "description": "A TV series where individuals share their perspectives of loved ones who committed horrific crimes.",
-      "releaseInfo": "2016–",
-      "imdbRating": "8.0"
+      "name": "Damages",
+      "poster": "https://images.metahub.space/poster/small/tt0914387/img",
+      "background": "https://images.metahub.space/background/medium/tt0914387/img",
+      "logo": "https://images.metahub.space/logo/medium/tt0914387/img",
+      "description": "A law school graduate becomes the protégée of a successful high-stakes litigator.",
+      "releaseInfo": "2007–2012",
+      "imdbRating": "8.1"
     }
   ]
 }
