@@ -271,16 +271,6 @@
       "imdbRating": 6.7
     },
     {
-      "id": "tt1166100",
-      "type": "movie",
-      "name": "Ghajini",
-      "poster": "https://images.metahub.space/poster/medium/tt1166100/img",
-      "background": "https://images.metahub.space/background/medium/tt1166100/img",
-      "description": "A man suffering from anterograde amnesia as a result of a violent attack in the past sets out to avenge his girlfriend's death with the aid of photographs, notes and tattoos all over his body.",
-      "releaseInfo": 2008,
-      "imdbRating": 7.4
-    },
-    {
       "id": "tt37333137",
       "type": "movie",
       "name": "Main Vaapas Aaunga",
@@ -401,16 +391,6 @@
       "imdbRating": 6.3
     },
     {
-      "id": "tt2181831",
-      "type": "movie",
-      "name": "Shahid",
-      "poster": "https://images.metahub.space/poster/medium/tt2181831/img",
-      "background": "https://images.metahub.space/background/medium/tt2181831/img",
-      "description": "A story based on real-life human-rights and criminal lawyer, Shahid Azmi, who was slain while defending the wrongly accused by the law in terrorist activities.",
-      "releaseInfo": 2013,
-      "imdbRating": 8.2
-    },
-    {
       "id": "tt1872194",
       "type": "movie",
       "name": "The Judge",
@@ -419,6 +399,16 @@
       "description": "A successful lawyer returns to his hometown for his mother's funeral only to discover that his estranged father, the town's judge, is suspected of murder.",
       "releaseInfo": 2014,
       "imdbRating": 7.4
+    },
+    {
+      "id": "tt2181831",
+      "type": "movie",
+      "name": "Shahid",
+      "poster": "https://images.metahub.space/poster/medium/tt2181831/img",
+      "background": "https://images.metahub.space/background/medium/tt2181831/img",
+      "description": "A story based on real-life human-rights and criminal lawyer, Shahid Azmi, who was slain while defending the wrongly accused by the law in terrorist activities.",
+      "releaseInfo": 2013,
+      "imdbRating": 8.2
     },
     {
       "id": "tt28443655",
@@ -431,16 +421,6 @@
       "imdbRating": 5.8
     },
     {
-      "id": "tt0067992",
-      "type": "movie",
-      "name": "Willy Wonka & the Chocolate Factory",
-      "poster": "https://images.metahub.space/poster/medium/tt0067992/img",
-      "background": "https://images.metahub.space/background/medium/tt0067992/img",
-      "description": "When eccentric candy man Willy Wonka promises a lifetime supply of sweets and a tour of his chocolate factory to five lucky kids, penniless Charlie Bucket seeks the golden ticket that will make him a winner.",
-      "releaseInfo": 1971,
-      "imdbRating": 7.8
-    },
-    {
       "id": "tt0109830",
       "type": "movie",
       "name": "Forrest Gump",
@@ -451,16 +431,6 @@
       "imdbRating": 8.8
     },
     {
-      "id": "tt1292703",
-      "type": "movie",
-      "name": "Oye Lucky! Lucky Oye!",
-      "poster": "https://images.metahub.space/poster/medium/tt1292703/img",
-      "background": "https://images.metahub.space/background/medium/tt1292703/img",
-      "description": "Lovinder Singh, a thief now in custody and facing trial, reflects on his life of crime while the press reflect on how he managed to get away with so much before being arrested.",
-      "releaseInfo": 2008,
-      "imdbRating": 7.7
-    },
-    {
       "id": "tt10698680",
       "type": "movie",
       "name": "K.G.F: Chapter 2",
@@ -469,16 +439,6 @@
       "description": "In the blood-soaked Kolar Gold Fields, Rocky's name strikes fear into his foes, while the government sees him as a threat to law and order. Rocky must battle threats from all sides for unchallenged supremacy.",
       "releaseInfo": 2022,
       "imdbRating": 8.2
-    },
-    {
-      "id": "tt43727339",
-      "type": "movie",
-      "name": "Photographer",
-      "poster": "https://images.metahub.space/poster/medium/tt43727339/img",
-      "background": "https://images.metahub.space/background/medium/tt43727339/img",
-      "description": "Photographer follows Veera, a troubled and obsessive photographer determined to prove his worth in a world that has long dismissed him. Driven by ambition and haunted by a painful past, he ventures deep into Mathikettan Solai, a mysterious reserve forest, to capture a rare and elusive natural phenomenon that could change his life forever.",
-      "releaseInfo": 2026,
-      "imdbRating": 7.5
     },
     {
       "id": "tt33014583",
@@ -499,6 +459,46 @@
       "description": "Three high school seniors throw a party to make a name for themselves. As the night progresses, things spiral out of control as word of the party spreads.",
       "releaseInfo": 2012,
       "imdbRating": 6.7
+    },
+    {
+      "id": "tt43727339",
+      "type": "movie",
+      "name": "Photographer",
+      "poster": "https://images.metahub.space/poster/medium/tt43727339/img",
+      "background": "https://images.metahub.space/background/medium/tt43727339/img",
+      "description": "Photographer follows Veera, a troubled and obsessive photographer determined to prove his worth in a world that has long dismissed him. Driven by ambition and haunted by a painful past, he ventures deep into Mathikettan Solai, a mysterious reserve forest, to capture a rare and elusive natural phenomenon that could change his life forever.",
+      "releaseInfo": 2026,
+      "imdbRating": 7.5
+    },
+    {
+      "id": "tt0251127",
+      "type": "movie",
+      "name": "How to Lose a Guy in 10 Days",
+      "poster": "https://images.metahub.space/poster/medium/tt0251127/img",
+      "background": "https://images.metahub.space/background/medium/tt0251127/img",
+      "description": "It's the battle of wills, as Andie needs to prove she can dump a guy in 10 days, whereas Ben needs to prove he can win a girl in 10 days. Now, the clock is ticking—and the wildly entertaining comedy smash is off and running in this irresistible tale of sex, lies and outrageous romantic fireworks!",
+      "releaseInfo": 2003,
+      "imdbRating": 6.6
+    },
+    {
+      "id": "tt27989067",
+      "type": "movie",
+      "name": "Lust Stories 2",
+      "poster": "https://images.metahub.space/poster/medium/tt27989067/img",
+      "background": "https://images.metahub.space/background/medium/tt27989067/img",
+      "description": "Four eminent Indian directors explore sex, desire and love through short films in this sequel to 2018's Emmy-nominated 'Lust Stories'.",
+      "releaseInfo": 2023,
+      "imdbRating": 5.7
+    },
+    {
+      "id": "tt0120616",
+      "type": "movie",
+      "name": "The Mummy",
+      "poster": "https://images.metahub.space/poster/medium/tt0120616/img",
+      "background": "https://images.metahub.space/background/medium/tt0120616/img",
+      "description": "Dashing legionnaire Rick O'Connell stumbles upon the hidden ruins of Hamunaptra while in the midst of a battle to claim the area in 1920s Egypt. It has been over three thousand years since former High Priest Imhotep suffered a fate worse than death as a punishment for a forbidden love—along with a curse that guarantees eternal doom upon the world if he is ever awoken.",
+      "releaseInfo": 1999,
+      "imdbRating": 7.1
     }
   ]
 }
