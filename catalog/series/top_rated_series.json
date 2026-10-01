@@ -67,28 +67,6 @@
       "imdbRating": "9.0"
     },
     {
-      "id": "tt0388629",
-      "type": "series",
-      "name": "One Piece",
-      "poster": "https://images.metahub.space/poster/small/tt0388629/img",
-      "background": "https://images.metahub.space/background/medium/tt0388629/img",
-      "logo": "https://images.metahub.space/logo/medium/tt0388629/img",
-      "description": "Monkey D. Luffy, a pirate with rubber powers, forms the Straw Hat crew and sails the Grand Line, battling rivals and the World Government on a quest for the legendary treasure One Piece and the title of Pirate King.",
-      "releaseInfo": "1999–",
-      "imdbRating": "9.0"
-    },
-    {
-      "id": "tt12004706",
-      "type": "series",
-      "name": "Panchayat",
-      "poster": "https://images.metahub.space/poster/small/tt12004706/img",
-      "background": "https://images.metahub.space/background/medium/tt12004706/img",
-      "logo": "https://images.metahub.space/logo/medium/tt12004706/img",
-      "description": "A comedy-drama, which captures the journey of an engineering graduate Abhishek, who for lack of a better job option joins as secretary of a Panchayat office in a remote village of Uttar Pradesh.",
-      "releaseInfo": "2020–",
-      "imdbRating": "9.0"
-    },
-    {
       "id": "tt33094114",
       "type": "series",
       "name": "India's Got Latent",
@@ -122,17 +100,6 @@
       "imdbRating": "8.8"
     },
     {
-      "id": "tt10986410",
-      "type": "series",
-      "name": "Ted Lasso",
-      "poster": "https://images.metahub.space/poster/small/tt10986410/img",
-      "background": "https://images.metahub.space/background/medium/tt10986410/img",
-      "logo": "https://images.metahub.space/logo/medium/tt10986410/img",
-      "description": "American college football coach Ted Lasso is hired to manage AFC Richmond, a struggling English soccer club, and must win over skeptical players, staff, and fans.",
-      "releaseInfo": "2020–",
-      "imdbRating": "8.7"
-    },
-    {
       "id": "tt0098936",
       "type": "series",
       "name": "Twin Peaks",
@@ -144,6 +111,17 @@
       "imdbRating": "8.7"
     },
     {
+      "id": "tt39368345",
+      "type": "series",
+      "name": "Four Hands, Two Sonatas",
+      "poster": "https://images.metahub.space/poster/small/tt39368345/img",
+      "background": "https://images.metahub.space/background/medium/tt39368345/img",
+      "logo": "https://images.metahub.space/logo/medium/tt39368345/img",
+      "description": "When two young pianists from completely different worlds meet at an elite music high school, the melodies of their lives become intimately intertwined.",
+      "releaseInfo": "2026–",
+      "imdbRating": "8.7"
+    },
+    {
       "id": "tt9544034",
       "type": "series",
       "name": "The Family Man",
@@ -152,17 +130,6 @@
       "logo": "https://images.metahub.space/logo/medium/tt9544034/img",
       "description": "A working man from the National Investigation Agency tries to protect the nation from terrorism, but he also needs to keep his family safe from his secret job.",
       "releaseInfo": "2019–",
-      "imdbRating": "8.7"
-    },
-    {
-      "id": "tt0988824",
-      "type": "series",
-      "name": "Naruto: Shippuden",
-      "poster": "https://images.metahub.space/poster/small/tt0988824/img",
-      "background": "https://images.metahub.space/background/medium/tt0988824/img",
-      "logo": "https://images.metahub.space/logo/medium/tt0988824/img",
-      "description": "Naruto Uzumaki, is a loud, hyperactive, adolescent ninja who constantly searches for approval and recognition, as well as to become Hokage, who is acknowledged as the leader and strongest of all ninja in the village.",
-      "releaseInfo": "2007–2017",
       "imdbRating": "8.7"
     },
     {
@@ -199,17 +166,6 @@
       "imdbRating": "8.6"
     },
     {
-      "id": "tt21211770",
-      "type": "series",
-      "name": "Solo Leveling",
-      "poster": "https://images.metahub.space/poster/small/tt21211770/img",
-      "background": "https://images.metahub.space/background/medium/tt21211770/img",
-      "logo": "https://images.metahub.space/logo/medium/tt21211770/img",
-      "description": "Follows the adventures of Sung Jinwoo in a world that is constantly threatened by monsters and evil forces. In his battles Sung transforms himself from the weakest hunter of all mankind to one of the strongest hunters in existence.",
-      "releaseInfo": "2024–",
-      "imdbRating": "8.6"
-    },
-    {
       "id": "tt31862809",
       "type": "series",
       "name": "Heart Beat",
@@ -221,25 +177,25 @@
       "imdbRating": "8.6"
     },
     {
-      "id": "tt1439629",
+      "id": "tt4236770",
       "type": "series",
-      "name": "Community",
-      "poster": "https://images.metahub.space/poster/small/tt1439629/img",
-      "background": "https://images.metahub.space/background/medium/tt1439629/img",
-      "logo": "https://images.metahub.space/logo/medium/tt1439629/img",
-      "description": "A suspended lawyer is forced to enroll in a community college with an eccentric staff and student body.",
-      "releaseInfo": "2009–2015",
-      "imdbRating": "8.5"
+      "name": "Yellowstone",
+      "poster": "https://images.metahub.space/poster/small/tt4236770/img",
+      "background": "https://images.metahub.space/background/medium/tt4236770/img",
+      "logo": "https://images.metahub.space/logo/medium/tt4236770/img",
+      "description": "A ranching family in Montana faces off against others encroaching on their land.",
+      "releaseInfo": "2018–2024",
+      "imdbRating": "8.6"
     },
     {
-      "id": "tt12343534",
+      "id": "tt3526078",
       "type": "series",
-      "name": "Jujutsu Kaisen",
-      "poster": "https://images.metahub.space/poster/small/tt12343534/img",
-      "background": "https://images.metahub.space/background/medium/tt12343534/img",
-      "logo": "https://images.metahub.space/logo/medium/tt12343534/img",
-      "description": "After Yuji Itadori swallows a cursed talisman - the finger of a demon - he becomes cursed himself. He enters a shaman's school to be able to locate the demon's other body parts and thus exorcise himself.",
-      "releaseInfo": "2020–",
+      "name": "Schitt's Creek",
+      "poster": "https://images.metahub.space/poster/small/tt3526078/img",
+      "background": "https://images.metahub.space/background/medium/tt3526078/img",
+      "logo": "https://images.metahub.space/logo/medium/tt3526078/img",
+      "description": "After being a victim of fraud, Johnny Rose and his family go from extremely wealthy to penniless overnight. The only asset left to them is a small, unsophisticated town: Schitt's Creek. They relocate there. Culture shock ensues.",
+      "releaseInfo": "2015–2020",
       "imdbRating": "8.5"
     },
     {
@@ -254,17 +210,6 @@
       "imdbRating": "8.5"
     },
     {
-      "id": "tt3526078",
-      "type": "series",
-      "name": "Schitt's Creek",
-      "poster": "https://images.metahub.space/poster/small/tt3526078/img",
-      "background": "https://images.metahub.space/background/medium/tt3526078/img",
-      "logo": "https://images.metahub.space/logo/medium/tt3526078/img",
-      "description": "After being a victim of fraud, Johnny Rose and his family go from extremely wealthy to penniless overnight. The only asset left to them is a small, unsophisticated town: Schitt's Creek. They relocate there. Culture shock ensues.",
-      "releaseInfo": "2015–2020",
-      "imdbRating": "8.5"
-    },
-    {
       "id": "tt9335498",
       "type": "series",
       "name": "Demon Slayer: Kimetsu no Yaiba",
@@ -276,15 +221,70 @@
       "imdbRating": "8.5"
     },
     {
-      "id": "tt1442449",
+      "id": "tt8317568",
       "type": "series",
-      "name": "Spartacus",
-      "poster": "https://images.metahub.space/poster/small/tt1442449/img",
-      "background": "https://images.metahub.space/background/medium/tt1442449/img",
-      "logo": "https://images.metahub.space/logo/medium/tt1442449/img",
-      "description": "The life of Spartacus, the gladiator who led a rebellion against the Romans.",
-      "releaseInfo": "2010–2013",
-      "imdbRating": "8.4"
+      "name": "Broken But Beautiful",
+      "poster": "https://images.metahub.space/poster/small/tt8317568/img",
+      "background": "https://images.metahub.space/background/medium/tt8317568/img",
+      "logo": "https://images.metahub.space/logo/medium/tt8317568/img",
+      "description": "Veer and Sameera, strangers with opposite personalities, are left heartbroken after losing loves they thought would last forever. When fate gives the damaged souls a second chance, a beautiful love story unfolds.",
+      "releaseInfo": "2018–",
+      "imdbRating": "8.5"
+    },
+    {
+      "id": "tt21209876",
+      "type": "series",
+      "name": "Solo Leveling",
+      "poster": "https://images.metahub.space/poster/small/tt21209876/img",
+      "background": "https://images.metahub.space/background/medium/tt21209876/img",
+      "logo": "https://images.metahub.space/logo/medium/tt21209876/img",
+      "description": "Follows the adventures of Sung Jinwoo in a world that is constantly threatened by monsters and evil forces. In his battles Sung transforms himself from the weakest hunter of all mankind to one of the strongest hunters in existence.",
+      "releaseInfo": "2024–",
+      "imdbRating": "8.5"
+    },
+    {
+      "id": "tt12343534",
+      "type": "series",
+      "name": "Jujutsu Kaisen",
+      "poster": "https://images.metahub.space/poster/small/tt12343534/img",
+      "background": "https://images.metahub.space/background/medium/tt12343534/img",
+      "logo": "https://images.metahub.space/logo/medium/tt12343534/img",
+      "description": "After Yuji Itadori swallows a cursed talisman - the finger of a demon - he becomes cursed himself. He enters a shaman's school to be able to locate the demon's other body parts and thus exorcise himself.",
+      "releaseInfo": "2020–",
+      "imdbRating": "8.5"
+    },
+    {
+      "id": "tt1439629",
+      "type": "series",
+      "name": "Community",
+      "poster": "https://images.metahub.space/poster/small/tt1439629/img",
+      "background": "https://images.metahub.space/background/medium/tt1439629/img",
+      "logo": "https://images.metahub.space/logo/medium/tt1439629/img",
+      "description": "A suspended lawyer is forced to enroll in a community college with an eccentric staff and student body.",
+      "releaseInfo": "2009–2015",
+      "imdbRating": "8.5"
+    },
+    {
+      "id": "tt0149460",
+      "type": "series",
+      "name": "Futurama",
+      "poster": "https://live.metahub.space/poster/small/tt0149460/img",
+      "background": "https://live.metahub.space/background/medium/tt0149460/img",
+      "logo": "https://live.metahub.space/logo/medium/tt0149460/img",
+      "description": "The adventures of a late-20th-century New York City pizza delivery boy, Philip J. Fry, who, after being unwittingly cryogenically frozen for one thousand years, finds employment at Planet Express, an interplanetary delivery company in the retro-futuristic 31st century.",
+      "releaseInfo": "1999–",
+      "imdbRating": "8.5"
+    },
+    {
+      "id": "tt1839578",
+      "type": "series",
+      "name": "Person of Interest",
+      "poster": "https://images.metahub.space/poster/small/tt1839578/img",
+      "background": "https://images.metahub.space/background/medium/tt1839578/img",
+      "logo": "https://images.metahub.space/logo/medium/tt1839578/img",
+      "description": "An off-the-grid and presumed-dead former CIA agent, John Reese, is hired by a mysterious tech billionaire software genius, Harold Finch, to prevent violent crimes before they happen in New York City via an advanced surveillance so...",
+      "releaseInfo": "2011–2016",
+      "imdbRating": "8.5"
     },
     {
       "id": "tt6473300",
@@ -309,14 +309,14 @@
       "imdbRating": "8.4"
     },
     {
-      "id": "tt0409591",
+      "id": "tt1442449",
       "type": "series",
-      "name": "Naruto",
-      "poster": "https://images.metahub.space/poster/small/tt0409591/img",
-      "background": "https://images.metahub.space/background/medium/tt0409591/img",
-      "logo": "https://images.metahub.space/logo/medium/tt0409591/img",
-      "description": "Naruto Uzumaki, a mischievous adolescent ninja, struggles as he searches for recognition and dreams of becoming the Hokage, the village's leader and strongest ninja.",
-      "releaseInfo": "2002–2007",
+      "name": "Spartacus",
+      "poster": "https://images.metahub.space/poster/small/tt1442449/img",
+      "background": "https://images.metahub.space/background/medium/tt1442449/img",
+      "logo": "https://images.metahub.space/logo/medium/tt1442449/img",
+      "description": "The life of Spartacus, the gladiator who led a rebellion against the Romans.",
+      "releaseInfo": "2010–2013",
       "imdbRating": "8.4"
     },
     {
@@ -331,6 +331,17 @@
       "imdbRating": "8.4"
     },
     {
+      "id": "tt5675620",
+      "type": "series",
+      "name": "The Punisher",
+      "poster": "https://images.metahub.space/poster/small/tt5675620/img",
+      "background": "https://images.metahub.space/background/medium/tt5675620/img",
+      "logo": "https://images.metahub.space/logo/medium/tt5675620/img",
+      "description": "After his revenge on those who murdered his family, aimless Marine veteran Frank Castle finds a new meaning in life as a vigilante known as \"The Punisher\".",
+      "releaseInfo": "2017–2019",
+      "imdbRating": "8.4"
+    },
+    {
       "id": "tt9059760",
       "type": "series",
       "name": "Normal People",
@@ -342,14 +353,14 @@
       "imdbRating": "8.4"
     },
     {
-      "id": "tt5675620",
+      "id": "tt0409591",
       "type": "series",
-      "name": "The Punisher",
-      "poster": "https://images.metahub.space/poster/small/tt5675620/img",
-      "background": "https://images.metahub.space/background/medium/tt5675620/img",
-      "logo": "https://images.metahub.space/logo/medium/tt5675620/img",
-      "description": "After his revenge on those who murdered his family, aimless Marine veteran Frank Castle finds a new meaning in life as a vigilante known as \"The Punisher\".",
-      "releaseInfo": "2017–2019",
+      "name": "Naruto",
+      "poster": "https://images.metahub.space/poster/small/tt0409591/img",
+      "background": "https://images.metahub.space/background/medium/tt0409591/img",
+      "logo": "https://images.metahub.space/logo/medium/tt0409591/img",
+      "description": "Naruto Uzumaki, a mischievous adolescent ninja, struggles as he searches for recognition and dreams of becoming the Hokage, the village's leader and strongest ninja.",
+      "releaseInfo": "2002–2007",
       "imdbRating": "8.4"
     },
     {
@@ -364,17 +375,6 @@
       "imdbRating": "8.3"
     },
     {
-      "id": "tt5875444",
-      "type": "series",
-      "name": "Slow Horses",
-      "poster": "https://images.metahub.space/poster/small/tt5875444/img",
-      "background": "https://images.metahub.space/background/medium/tt5875444/img",
-      "logo": "https://images.metahub.space/logo/medium/tt5875444/img",
-      "description": "A dysfunctional team of MI5 agents navigate the espionage world's smoke and mirrors to defend the UK from sinister forces.",
-      "releaseInfo": "2022–",
-      "imdbRating": "8.3"
-    },
-    {
       "id": "tt11198330",
       "type": "series",
       "name": "House of the Dragon",
@@ -386,14 +386,14 @@
       "imdbRating": "8.3"
     },
     {
-      "id": "tt3655448",
+      "id": "tt5875444",
       "type": "series",
-      "name": "The Young Pope",
-      "poster": "https://images.metahub.space/poster/small/tt3655448/img",
-      "background": "https://images.metahub.space/background/medium/tt3655448/img",
-      "logo": "https://images.metahub.space/logo/medium/tt3655448/img",
-      "description": "The beginning of the pontificate of Lenny Belardo, alias Pius XIII, the first American Pope in history.",
-      "releaseInfo": "2016",
+      "name": "Slow Horses",
+      "poster": "https://images.metahub.space/poster/small/tt5875444/img",
+      "background": "https://images.metahub.space/background/medium/tt5875444/img",
+      "logo": "https://images.metahub.space/logo/medium/tt5875444/img",
+      "description": "A dysfunctional team of MI5 agents navigate the espionage world's smoke and mirrors to defend the UK from sinister forces.",
+      "releaseInfo": "2022–",
       "imdbRating": "8.3"
     },
     {
@@ -430,17 +430,6 @@
       "imdbRating": "8.2"
     },
     {
-      "id": "tt13911628",
-      "type": "series",
-      "name": "Lessons in Chemistry",
-      "poster": "https://images.metahub.space/poster/small/tt13911628/img",
-      "background": "https://images.metahub.space/background/medium/tt13911628/img",
-      "logo": "https://images.metahub.space/logo/medium/tt13911628/img",
-      "description": "In the 1950s, Elizabeth Zott's dream of being a scientist is challenged by a society that says women belong in the domestic sphere; she accepts a job on a TV cooking show and sets out to teach a nation of housewives way more than ...",
-      "releaseInfo": "2023",
-      "imdbRating": "8.2"
-    },
-    {
       "id": "tt6468322",
       "type": "series",
       "name": "Money Heist",
@@ -449,6 +438,28 @@
       "logo": "https://live.metahub.space/logo/medium/tt6468322/img",
       "description": "To carry out the biggest heist in history, a mysterious man called The Professor recruits a band of eight robbers who have a single characteristic: none of them has anything to lose. Five months of seclusion - memorizing every step, every detail, every probability - culminate in eleven days locked up in the National Coinage and Stamp Factory of Spain, surrounded by police forces and with dozens of hostages in their power, to find out whether their suicide wager will lead to everything or nothing.",
       "releaseInfo": "2017–2021",
+      "imdbRating": "8.2"
+    },
+    {
+      "id": "tt8772296",
+      "type": "series",
+      "name": "Euphoria",
+      "poster": "https://images.metahub.space/poster/small/tt8772296/img",
+      "background": "https://images.metahub.space/background/medium/tt8772296/img",
+      "logo": "https://images.metahub.space/logo/medium/tt8772296/img",
+      "description": "A group of teenagers experience the ups and downs of love and friendship in a world of social networks, sex, drugs, and violence.",
+      "releaseInfo": "2019–2026",
+      "imdbRating": "8.2"
+    },
+    {
+      "id": "tt13911628",
+      "type": "series",
+      "name": "Lessons in Chemistry",
+      "poster": "https://images.metahub.space/poster/small/tt13911628/img",
+      "background": "https://images.metahub.space/background/medium/tt13911628/img",
+      "logo": "https://images.metahub.space/logo/medium/tt13911628/img",
+      "description": "In the 1950s, Elizabeth Zott's dream of being a scientist is challenged by a society that says women belong in the domestic sphere; she accepts a job on a TV cooking show and sets out to teach a nation of housewives way more than ...",
+      "releaseInfo": "2023",
       "imdbRating": "8.2"
     },
     {
@@ -463,28 +474,6 @@
       "imdbRating": "8.1"
     },
     {
-      "id": "tt7772588",
-      "type": "series",
-      "name": "For All Mankind",
-      "poster": "https://images.metahub.space/poster/small/tt7772588/img",
-      "background": "https://images.metahub.space/background/medium/tt7772588/img",
-      "logo": "https://images.metahub.space/logo/medium/tt7772588/img",
-      "description": "In an alternative version of 1969, the Soviet Union beats the United States to the Moon, and the space race continues on for decades with still grander challenges and goals.",
-      "releaseInfo": "2019–2027",
-      "imdbRating": "8.1"
-    },
-    {
-      "id": "tt14688458",
-      "type": "series",
-      "name": "Silo",
-      "poster": "https://images.metahub.space/poster/small/tt14688458/img",
-      "background": "https://images.metahub.space/background/medium/tt14688458/img",
-      "logo": "https://images.metahub.space/logo/medium/tt14688458/img",
-      "description": "Men and women live in a giant silo underground with several regulations which they believe are in place to protect them from the toxic and ruined world on the surface.",
-      "releaseInfo": "2023–",
-      "imdbRating": "8.1"
-    },
-    {
       "id": "tt23649128",
       "type": "series",
       "name": "The Studio",
@@ -496,36 +485,36 @@
       "imdbRating": "8.1"
     },
     {
-      "id": "tt4301160",
+      "id": "tt15677150",
       "type": "series",
-      "name": "Black Bird",
-      "poster": "https://images.metahub.space/poster/small/tt4301160/img",
-      "background": "https://images.metahub.space/background/medium/tt4301160/img",
-      "logo": "https://images.metahub.space/logo/medium/tt4301160/img",
-      "description": "Jimmy Keene is sentenced to 10 years in a minimum security prison but he cuts a deal with the FBI to befriend a suspected serial killer. Keene has to elicit a confession from Larry Hall to find the bodies of as many as eighteen wo...",
-      "releaseInfo": "2022",
+      "name": "Shrinking",
+      "poster": "https://images.metahub.space/poster/small/tt15677150/img",
+      "background": "https://images.metahub.space/background/medium/tt15677150/img",
+      "logo": "https://images.metahub.space/logo/medium/tt15677150/img",
+      "description": "A grieving therapist starts to tell his clients exactly what he thinks. Ignoring his training and ethics, he finds himself making huge changes to people's lives - including his own.",
+      "releaseInfo": "2023–",
       "imdbRating": "8.1"
     },
     {
-      "id": "tt24053860",
+      "id": "tt40856520",
       "type": "series",
-      "name": "The Day of the Jackal",
-      "poster": "https://images.metahub.space/poster/small/tt24053860/img",
-      "background": "https://images.metahub.space/background/medium/tt24053860/img",
-      "logo": "https://images.metahub.space/logo/medium/tt24053860/img",
-      "description": "The Jackal is an elusive assassin who makes his living carrying out hits for the highest fee. He soon meets his match in a tenacious British intelligence officer who tracks him down in a thrilling cat-and-mouse chase across Europe.",
-      "releaseInfo": "2024–",
+      "name": "Adarsh Baal Vidyalaya",
+      "poster": "https://live.metahub.space/poster/small/tt40856520/img",
+      "background": "https://live.metahub.space/background/medium/tt40856520/img",
+      "logo": "https://live.metahub.space/logo/medium/tt40856520/img",
+      "description": "A relaxed principal tries to reform a failing public school, triggering a messy transformation as misfit teachers work to repair the system one lesson at a time.",
+      "releaseInfo": "2026–2026",
       "imdbRating": "8.1"
     },
     {
-      "id": "tt29615330",
+      "id": "tt0092400",
       "type": "series",
-      "name": "The New Years",
-      "poster": "https://images.metahub.space/poster/small/tt29615330/img",
-      "background": "https://images.metahub.space/background/medium/tt29615330/img",
-      "logo": "https://images.metahub.space/logo/medium/tt29615330/img",
-      "description": "Oscar, stuck with a crappy medical contract, is still hooked on his ex. Ana, without a partner or a job, feels lost and plans to move away. Over the next ten years, they will have to face the passage of time and the decisions they...",
-      "releaseInfo": "2024",
+      "name": "Married... with Children",
+      "poster": "https://images.metahub.space/poster/small/tt0092400/img",
+      "background": "https://images.metahub.space/background/medium/tt0092400/img",
+      "logo": "https://images.metahub.space/logo/medium/tt0092400/img",
+      "description": "Al is the quintessential working class dad. Peggy, his wife, always wants more from him. With their children, they go through the highs and lows of ordinary life.",
+      "releaseInfo": "1987–1997",
       "imdbRating": "8.1"
     },
     {
@@ -540,14 +529,25 @@
       "imdbRating": "8.1"
     },
     {
-      "id": "tt0092400",
+      "id": "tt29615330",
       "type": "series",
-      "name": "Married... with Children",
-      "poster": "https://images.metahub.space/poster/small/tt0092400/img",
-      "background": "https://images.metahub.space/background/medium/tt0092400/img",
-      "logo": "https://images.metahub.space/logo/medium/tt0092400/img",
-      "description": "Al is the quintessential working class dad. Peggy, his wife, always wants more from him. With their children, they go through the highs and lows of ordinary life.",
-      "releaseInfo": "1987–1997",
+      "name": "The New Years",
+      "poster": "https://images.metahub.space/poster/small/tt29615330/img",
+      "background": "https://images.metahub.space/background/medium/tt29615330/img",
+      "logo": "https://images.metahub.space/logo/medium/tt29615330/img",
+      "description": "Oscar, stuck with a crappy medical contract, is still hooked on his ex. Ana, without a partner or a job, feels lost and plans to move away. Over the next ten years, they will have to face the passage of time and the decisions they...",
+      "releaseInfo": "2024",
+      "imdbRating": "8.1"
+    },
+    {
+      "id": "tt1520211",
+      "type": "series",
+      "name": "The Walking Dead",
+      "poster": "https://images.metahub.space/poster/small/tt1520211/img",
+      "background": "https://images.metahub.space/background/medium/tt1520211/img",
+      "logo": "https://images.metahub.space/logo/medium/tt1520211/img",
+      "description": "Sheriff Deputy Rick Grimes wakes up from a coma to learn the world is in ruins and must lead a group of survivors to stay alive.",
+      "releaseInfo": "2010–2022",
       "imdbRating": "8.1"
     }
   ]
