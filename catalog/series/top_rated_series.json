@@ -34,17 +34,6 @@
       "imdbRating": "9.2"
     },
     {
-      "id": "tt43730117",
-      "type": "series",
-      "name": "Declassified: Operation Sindoor",
-      "poster": "https://live.metahub.space/poster/small/tt43730117/img",
-      "background": "https://live.metahub.space/background/medium/tt43730117/img",
-      "logo": "https://live.metahub.space/logo/medium/tt43730117/img",
-      "description": "Following the Pahalgam terror attack in April, India's military leadership deliberates and plans Operation Sindoor, an 88-hour military operation launched on May 7, featuring accounts from operatives and experts.",
-      "releaseInfo": "2026–2026",
-      "imdbRating": "9.2"
-    },
-    {
       "id": "tt12004706",
       "type": "series",
       "name": "Panchayat",
@@ -133,17 +122,6 @@
       "imdbRating": "8.7"
     },
     {
-      "id": "tt9544034",
-      "type": "series",
-      "name": "The Family Man",
-      "poster": "https://images.metahub.space/poster/small/tt9544034/img",
-      "background": "https://images.metahub.space/background/medium/tt9544034/img",
-      "logo": "https://images.metahub.space/logo/medium/tt9544034/img",
-      "description": "A working man from the National Investigation Agency tries to protect the nation from terrorism, but he also needs to keep his family safe from his secret job.",
-      "releaseInfo": "2019–",
-      "imdbRating": "8.7"
-    },
-    {
       "id": "tt11280740",
       "type": "series",
       "name": "Severance",
@@ -163,6 +141,17 @@
       "logo": "https://images.metahub.space/logo/medium/tt1489428/img",
       "description": "Enforcing his own brand of justice, U.S. Marshal Raylan Givens, a strong-willed, quiet law-man haunted by his past, returns to his native town to see that justice is served to those in need.",
       "releaseInfo": "2010–2015",
+      "imdbRating": "8.6"
+    },
+    {
+      "id": "tt4574334",
+      "type": "series",
+      "name": "Stranger Things",
+      "poster": "https://images.metahub.space/poster/small/tt4574334/img",
+      "background": "https://images.metahub.space/background/medium/tt4574334/img",
+      "logo": "https://images.metahub.space/logo/medium/tt4574334/img",
+      "description": "In 1980s Indiana, a group of young friends witness supernatural forces and secret government exploits. As they search for answers, the children unravel a series of extraordinary mysteries.",
+      "releaseInfo": "2016–2025",
       "imdbRating": "8.6"
     },
     {
@@ -188,17 +177,6 @@
       "imdbRating": "8.5"
     },
     {
-      "id": "tt9335498",
-      "type": "series",
-      "name": "Demon Slayer: Kimetsu no Yaiba",
-      "poster": "https://images.metahub.space/poster/small/tt9335498/img",
-      "background": "https://images.metahub.space/background/medium/tt9335498/img",
-      "logo": "https://images.metahub.space/logo/medium/tt9335498/img",
-      "description": "A family is attacked by demons and only two members survive - Tanjiro and his sister Nezuko, who is turning into a demon slowly. Tanjiro sets out to become a demon slayer to avenge his family and cure his sister.",
-      "releaseInfo": "2019–2024",
-      "imdbRating": "8.5"
-    },
-    {
       "id": "tt3526078",
       "type": "series",
       "name": "Schitt's Creek",
@@ -207,6 +185,17 @@
       "logo": "https://images.metahub.space/logo/medium/tt3526078/img",
       "description": "After being a victim of fraud, Johnny Rose and his family go from extremely wealthy to penniless overnight. The only asset left to them is a small, unsophisticated town: Schitt's Creek. They relocate there. Culture shock ensues.",
       "releaseInfo": "2015–2020",
+      "imdbRating": "8.5"
+    },
+    {
+      "id": "tt9335498",
+      "type": "series",
+      "name": "Demon Slayer: Kimetsu no Yaiba",
+      "poster": "https://images.metahub.space/poster/small/tt9335498/img",
+      "background": "https://images.metahub.space/background/medium/tt9335498/img",
+      "logo": "https://images.metahub.space/logo/medium/tt9335498/img",
+      "description": "A family is attacked by demons and only two members survive - Tanjiro and his sister Nezuko, who is turning into a demon slowly. Tanjiro sets out to become a demon slayer to avenge his family and cure his sister.",
+      "releaseInfo": "2019–2024",
       "imdbRating": "8.5"
     },
     {
@@ -386,17 +375,6 @@
       "imdbRating": "8.2"
     },
     {
-      "id": "tt40856520",
-      "type": "series",
-      "name": "Adarsh Baal Vidyalaya",
-      "poster": "https://live.metahub.space/poster/small/tt40856520/img",
-      "background": "https://live.metahub.space/background/medium/tt40856520/img",
-      "logo": "https://live.metahub.space/logo/medium/tt40856520/img",
-      "description": "A relaxed principal tries to reform a failing public school, triggering a messy transformation as misfit teachers work to repair the system one lesson at a time.",
-      "releaseInfo": "2026–2026",
-      "imdbRating": "8.2"
-    },
-    {
       "id": "tt15469618",
       "type": "series",
       "name": "Bad Sisters",
@@ -485,6 +463,17 @@
       "imdbRating": "8.1"
     },
     {
+      "id": "tt40856520",
+      "type": "series",
+      "name": "Adarsh Baal Vidyalaya",
+      "poster": "https://live.metahub.space/poster/small/tt40856520/img",
+      "background": "https://live.metahub.space/background/medium/tt40856520/img",
+      "logo": "https://live.metahub.space/logo/medium/tt40856520/img",
+      "description": "A relaxed principal tries to reform a failing public school, triggering a messy transformation as misfit teachers work to repair the system one lesson at a time.",
+      "releaseInfo": "2026–2026",
+      "imdbRating": "8.1"
+    },
+    {
       "id": "tt23649128",
       "type": "series",
       "name": "The Studio",
@@ -548,6 +537,17 @@
       "logo": "https://images.metahub.space/logo/medium/tt0092400/img",
       "description": "Al is the quintessential working class dad. Peggy, his wife, always wants more from him. With their children, they go through the highs and lows of ordinary life.",
       "releaseInfo": "1987–1997",
+      "imdbRating": "8.1"
+    },
+    {
+      "id": "tt1515193",
+      "type": "series",
+      "name": "The Big C",
+      "poster": "https://images.metahub.space/poster/small/tt1515193/img",
+      "background": "https://images.metahub.space/background/medium/tt1515193/img",
+      "logo": "https://images.metahub.space/logo/medium/tt1515193/img",
+      "description": "A suburban mother faces her cancer diagnosis while trying to find humor and happiness as well.",
+      "releaseInfo": "2010–2013",
       "imdbRating": "8.1"
     }
   ]

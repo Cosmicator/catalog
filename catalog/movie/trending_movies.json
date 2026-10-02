@@ -181,6 +181,16 @@
       "imdbRating": 7.4
     },
     {
+      "id": "tt39528902",
+      "type": "movie",
+      "name": "Don't Be Shy!",
+      "poster": "https://images.metahub.space/poster/medium/tt39528902/img",
+      "background": "https://images.metahub.space/background/medium/tt39528902/img",
+      "description": "Quintessential Mean Girl, Shyamili ‘Shy’ Das, finds herself suddenly relegated to Loser-ville when Mayank, her boyfriend of three years, suddenly dumps her. But Shy, all set to get her revenge, finds herself falling into friendship and compassion with someone unexpected… Mayank’s new girlfriend - Tara.",
+      "releaseInfo": 2026,
+      "imdbRating": 7.7
+    },
+    {
       "id": "tt32820897",
       "type": "movie",
       "name": "Demon Slayer: Kimetsu no Yaiba Infinity Castle",
@@ -239,16 +249,6 @@
       "description": "To protect his family and their dark secret, Georgekutty faces an organized new threat. As walls close in and cracks widen, how much more is he willing to sacrifice?",
       "releaseInfo": 2026,
       "imdbRating": 6.6
-    },
-    {
-      "id": "tt28443655",
-      "type": "movie",
-      "name": "Death of a Unicorn",
-      "poster": "https://images.metahub.space/poster/medium/tt28443655/img",
-      "background": "https://images.metahub.space/background/medium/tt28443655/img",
-      "description": "A father and daughter accidentally hit and kill a unicorn while en route to a weekend retreat, where his billionaire boss seeks to exploit the creature’s miraculous curative properties.",
-      "releaseInfo": 2025,
-      "imdbRating": 5.8
     },
     {
       "id": "tt0087363",
@@ -351,16 +351,6 @@
       "imdbRating": 4.7
     },
     {
-      "id": "tt37511036",
-      "type": "movie",
-      "name": "The Furious",
-      "poster": "https://images.metahub.space/poster/medium/tt37511036/img",
-      "background": "https://images.metahub.space/background/medium/tt37511036/img",
-      "description": "When YouTuber-boxer Danial insults their late father's name, brothers Firdaus and Hakim reunite - one fighting for redemption, the other for revenge - in a battle that will decide not just who wins, but what remains of The Furious legacy.",
-      "releaseInfo": 2026,
-      "imdbRating": 5.4
-    },
-    {
       "id": "tt28037987",
       "type": "movie",
       "name": "Saiyaara",
@@ -401,16 +391,6 @@
       "imdbRating": 7.4
     },
     {
-      "id": "tt39528902",
-      "type": "movie",
-      "name": "Don't Be Shy!",
-      "poster": "https://images.metahub.space/poster/medium/tt39528902/img",
-      "background": "https://images.metahub.space/background/medium/tt39528902/img",
-      "description": "Quintessential Mean Girl, Shyamili ‘Shy’ Das, finds herself suddenly relegated to Loser-ville when Mayank, her boyfriend of three years, suddenly dumps her. But Shy, all set to get her revenge, finds herself falling into friendship and compassion with someone unexpected… Mayank’s new girlfriend - Tara.",
-      "releaseInfo": 2026,
-      "imdbRating": 7.7
-    },
-    {
       "id": "tt0109686",
       "type": "movie",
       "name": "Dumb and Dumber",
@@ -441,6 +421,16 @@
       "imdbRating": 7.8
     },
     {
+      "id": "tt28443655",
+      "type": "movie",
+      "name": "Death of a Unicorn",
+      "poster": "https://images.metahub.space/poster/medium/tt28443655/img",
+      "background": "https://images.metahub.space/background/medium/tt28443655/img",
+      "description": "A father and daughter accidentally hit and kill a unicorn while en route to a weekend retreat, where his billionaire boss seeks to exploit the creature’s miraculous curative properties.",
+      "releaseInfo": 2025,
+      "imdbRating": 5.8
+    },
+    {
       "id": "tt31434030",
       "type": "movie",
       "name": "Dracula: A Love Tale",
@@ -461,26 +451,6 @@
       "imdbRating": 6.5
     },
     {
-      "id": "tt28540171",
-      "type": "movie",
-      "name": "Welcome to the Jungle",
-      "poster": "https://images.metahub.space/poster/medium/tt28540171/img",
-      "background": "https://images.metahub.space/background/medium/tt28540171/img",
-      "description": "Follows a group of quirky characters gets stuck in a dangerous jungle during a chaotic mission. Filled with confusion, criminals, and hilarious situations, they must work together to survive and find their way out",
-      "releaseInfo": 2026,
-      "imdbRating": 3.9
-    },
-    {
-      "id": "tt1872194",
-      "type": "movie",
-      "name": "The Judge",
-      "poster": "https://images.metahub.space/poster/medium/tt1872194/img",
-      "background": "https://images.metahub.space/background/medium/tt1872194/img",
-      "description": "A successful lawyer returns to his hometown for his mother's funeral only to discover that his estranged father, the town's judge, is suspected of murder.",
-      "releaseInfo": 2014,
-      "imdbRating": 7.4
-    },
-    {
       "id": "tt14527204",
       "type": "movie",
       "name": "Sardar",
@@ -499,6 +469,36 @@
       "description": "In a 19th-century European village, a young man about to be married is whisked away to the underworld and wed to a mysterious corpse bride, while his real bride waits bereft in the land of the living.",
       "releaseInfo": 2005,
       "imdbRating": 7.4
+    },
+    {
+      "id": "tt28630806",
+      "type": "movie",
+      "name": "Gyanvapi Files: A Tailor's Murder Story",
+      "poster": "https://images.metahub.space/poster/medium/tt28630806/img",
+      "background": "https://images.metahub.space/background/medium/tt28630806/img",
+      "description": "In June 2022, Kanhaiya Lal Sahu, a tailor in Udaipur, India, was brutally murdered. The events surrounding the murder are explored, delving into the conspiracy and the deeper issues of religious extremism, digital radicalization, and intelligence failures that led to the tragic event.",
+      "releaseInfo": 2025,
+      "imdbRating": 6
+    },
+    {
+      "id": "tt0103874",
+      "type": "movie",
+      "name": "Bram Stoker's Dracula",
+      "poster": "https://images.metahub.space/poster/medium/tt0103874/img",
+      "background": "https://images.metahub.space/background/medium/tt0103874/img",
+      "description": "Count Dracula, a 15th-century prince, is condemned to live off the blood of the living for eternity. Young lawyer Jonathan Harker is sent to Dracula's castle to finalise a land deal, but when the Count sees a photo of Harker's fiancée, Mina, the spitting image of his dead wife, he imprisons him and sets off for London to track her down.",
+      "releaseInfo": 1992,
+      "imdbRating": 7.4
+    },
+    {
+      "id": "tt6135136",
+      "type": "movie",
+      "name": "The Colour of Darkness",
+      "poster": "https://images.metahub.space/poster/medium/tt6135136/img",
+      "background": "https://images.metahub.space/background/medium/tt6135136/img",
+      "description": "All the colour, depth and mystery of India's complex and riotous cultural heritage is brought to light in a single action which changes two countries forever. A proud Indian international student is attacked in a brightly lit train carriage against a backdrop of darkness. Unknown to his attackers his high caste status has little relevance, and in one poignant moment, he is rescued by his counterpart, an 'untouchable', a low caste. They are united by what would otherwise be impossible. The highly publicised event sends shock waves through the international community.",
+      "releaseInfo": 2017,
+      "imdbRating": 4.7
     }
   ]
 }
