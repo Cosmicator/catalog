@@ -301,16 +301,6 @@
       "imdbRating": 8.2
     },
     {
-      "id": "tt39528902",
-      "type": "movie",
-      "name": "Don't Be Shy!",
-      "poster": "https://images.metahub.space/poster/medium/tt39528902/img",
-      "background": "https://images.metahub.space/background/medium/tt39528902/img",
-      "description": "Quintessential Mean Girl, Shyamili ‘Shy’ Das, finds herself suddenly relegated to Loser-ville when Mayank, her boyfriend of three years, suddenly dumps her. But Shy, all set to get her revenge, finds herself falling into friendship and compassion with someone unexpected… Mayank’s new girlfriend - Tara.",
-      "releaseInfo": 2026,
-      "imdbRating": 8.2
-    },
-    {
       "id": "tt0121164",
       "type": "movie",
       "name": "Corpse Bride",
@@ -351,6 +341,16 @@
       "imdbRating": 4.9
     },
     {
+      "id": "tt39528902",
+      "type": "movie",
+      "name": "Don't Be Shy!",
+      "poster": "https://images.metahub.space/poster/medium/tt39528902/img",
+      "background": "https://images.metahub.space/background/medium/tt39528902/img",
+      "description": "Quintessential Mean Girl, Shyamili ‘Shy’ Das, finds herself suddenly relegated to Loser-ville when Mayank, her boyfriend of three years, suddenly dumps her. But Shy, all set to get her revenge, finds herself falling into friendship and compassion with someone unexpected… Mayank’s new girlfriend - Tara.",
+      "releaseInfo": 2026,
+      "imdbRating": 8.2
+    },
+    {
       "id": "tt32273171",
       "type": "movie",
       "name": "The Death of Robin Hood",
@@ -369,6 +369,16 @@
       "description": "Plot under wraps.",
       "releaseInfo": 2025,
       "imdbRating": 6.3
+    },
+    {
+      "id": "tt0109686",
+      "type": "movie",
+      "name": "Dumb and Dumber",
+      "poster": "https://images.metahub.space/poster/medium/tt0109686/img",
+      "background": "https://images.metahub.space/background/medium/tt0109686/img",
+      "description": "Lloyd and Harry are two men whose stupidity is really indescribable. When Mary, a beautiful woman, loses an important suitcase with money before she leaves for Aspen, the two friends (who have found the suitcase) decide to return it to her. After some \"adventures\" they finally get to Aspen where, using the lost money they live it up and fight for Mary's heart.",
+      "releaseInfo": 1994,
+      "imdbRating": 7.3
     },
     {
       "id": "tt41971399",
@@ -469,16 +479,6 @@
       "description": "Haunted by a childhood romance and recollections of love lost during the 1947 Partition of India, 95-year-old Ishar Singh Grewal shares his story with his grandson Nirvair, the past unfolding through memories of migration, longing, and a romance that endures across generations.",
       "releaseInfo": 2026,
       "imdbRating": 8
-    },
-    {
-      "id": "tt27664585",
-      "type": "movie",
-      "name": "Phoenix",
-      "poster": "https://images.metahub.space/poster/medium/tt27664585/img",
-      "background": "https://images.metahub.space/background/medium/tt27664585/img",
-      "description": "John and his family relocate to a far away island village with hopes of rebuilding their lives. But destiny has other plans for them as a series of horrifying events begin to unfold.",
-      "releaseInfo": 2023,
-      "imdbRating": 6
     },
     {
       "id": "tt0112642",
