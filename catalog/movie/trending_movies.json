@@ -28,7 +28,7 @@
       "background": "https://images.metahub.space/background/medium/tt27050858/img",
       "description": "To protect his family and their dark secret, Georgekutty faces an organized new threat. As walls close in and cracks widen, how much more is he willing to sacrifice?",
       "releaseInfo": 2026,
-      "imdbRating": 6.6
+      "imdbRating": 8.1
     },
     {
       "id": "tt4430212",
@@ -68,7 +68,7 @@
       "background": "https://images.metahub.space/background/medium/tt30050236/img",
       "description": "Siddharth, an atheist skeptical of the supernatural, investigates a series of mysterious deaths in Mahendragiri attributed to the goddess Vaaraahi.",
       "releaseInfo": 2026,
-      "imdbRating": 8.8
+      "imdbRating": 7.4
     },
     {
       "id": "tt33379543",
@@ -211,16 +211,6 @@
       "imdbRating": 8.4
     },
     {
-      "id": "tt28443655",
-      "type": "movie",
-      "name": "Death of a Unicorn",
-      "poster": "https://images.metahub.space/poster/medium/tt28443655/img",
-      "background": "https://images.metahub.space/background/medium/tt28443655/img",
-      "description": "A father and daughter accidentally hit and kill a unicorn while en route to a weekend retreat, where his billionaire boss seeks to exploit the creature’s miraculous curative properties.",
-      "releaseInfo": 2025,
-      "imdbRating": 5.8
-    },
-    {
       "id": "tt0087800",
       "type": "movie",
       "name": "A Nightmare on Elm Street",
@@ -331,16 +321,6 @@
       "imdbRating": 8.2
     },
     {
-      "id": "tt43134711",
-      "type": "movie",
-      "name": "Ramba Oorvasi Menaka",
-      "poster": "https://images.metahub.space/poster/medium/tt43134711/img",
-      "background": "https://images.metahub.space/background/medium/tt43134711/img",
-      "description": "A man spends 15 years attempting to use a magical book to summon the celestial angels Ramba, Urvasi, and Menaka to earth, but Lord Indra blocks their descent until they finally arrive.",
-      "releaseInfo": 2026,
-      "imdbRating": 4.9
-    },
-    {
       "id": "tt39528902",
       "type": "movie",
       "name": "Don't Be Shy!",
@@ -348,7 +328,7 @@
       "background": "https://images.metahub.space/background/medium/tt39528902/img",
       "description": "Quintessential Mean Girl, Shyamili ‘Shy’ Das, finds herself suddenly relegated to Loser-ville when Mayank, her boyfriend of three years, suddenly dumps her. But Shy, all set to get her revenge, finds herself falling into friendship and compassion with someone unexpected… Mayank’s new girlfriend - Tara.",
       "releaseInfo": 2026,
-      "imdbRating": 8.2
+      "imdbRating": 8.4
     },
     {
       "id": "tt32273171",
@@ -388,7 +368,7 @@
       "background": "https://images.metahub.space/background/medium/tt41971399/img",
       "description": "An entrepreneur hoping to make money off romance ends up falling in love. But when she blocks him on social media, he tries to reignite their spark.",
       "releaseInfo": 2026,
-      "imdbRating": 5.4
+      "imdbRating": 5.1
     },
     {
       "id": "tt35727678",
@@ -409,6 +389,16 @@
       "description": "An espionage agent who is branded a traitor returns from exile to take down a dubious water project and safeguard the country.",
       "releaseInfo": 2022,
       "imdbRating": 7.5
+    },
+    {
+      "id": "tt28443655",
+      "type": "movie",
+      "name": "Death of a Unicorn",
+      "poster": "https://images.metahub.space/poster/medium/tt28443655/img",
+      "background": "https://images.metahub.space/background/medium/tt28443655/img",
+      "description": "A father and daughter accidentally hit and kill a unicorn while en route to a weekend retreat, where his billionaire boss seeks to exploit the creature’s miraculous curative properties.",
+      "releaseInfo": 2025,
+      "imdbRating": 5.8
     },
     {
       "id": "tt2854926",
@@ -499,6 +489,16 @@
       "description": "The story of a family and an exploration of space in an increasingly crowded world. It follows the quest for a sexual odyssey of an individual.",
       "releaseInfo": 2025,
       "imdbRating": 5.4
+    },
+    {
+      "id": "tt10545296",
+      "type": "movie",
+      "name": "The Hunger Games: The Ballad of Songbirds & Snakes",
+      "poster": "https://images.metahub.space/poster/medium/tt10545296/img",
+      "background": "https://images.metahub.space/background/medium/tt10545296/img",
+      "description": "Coriolanus Snow mentors and develops feelings for the female District 12 tribute during the 10th Hunger Games.",
+      "releaseInfo": 2023,
+      "imdbRating": 6.6
     }
   ]
 }
