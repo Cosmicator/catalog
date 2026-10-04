@@ -178,7 +178,7 @@
       "background": "https://images.metahub.space/background/medium/tt41971399/img",
       "description": "An entrepreneur hoping to make money off romance ends up falling in love. But when she blocks him on social media, he tries to reignite their spark.",
       "releaseInfo": 2026,
-      "imdbRating": 5.1
+      "imdbRating": 5.2
     },
     {
       "id": "tt0121164",
@@ -208,7 +208,7 @@
       "background": "https://images.metahub.space/background/medium/tt40572470/img",
       "description": "Follows a young man experiencing unrequited love as he navigates his longing and vulnerability toward Ammu.",
       "releaseInfo": 2026,
-      "imdbRating": 8.2
+      "imdbRating": 8.1
     },
     {
       "id": "tt6933238",
@@ -241,16 +241,6 @@
       "imdbRating": 5.8
     },
     {
-      "id": "tt0103874",
-      "type": "movie",
-      "name": "Bram Stoker's Dracula",
-      "poster": "https://images.metahub.space/poster/medium/tt0103874/img",
-      "background": "https://images.metahub.space/background/medium/tt0103874/img",
-      "description": "Count Dracula, a 15th-century prince, is condemned to live off the blood of the living for eternity. Young lawyer Jonathan Harker is sent to Dracula's castle to finalise a land deal, but when the Count sees a photo of Harker's fiancée, Mina, the spitting image of his dead wife, he imprisons him and sets off for London to track her down.",
-      "releaseInfo": 1992,
-      "imdbRating": 7.4
-    },
-    {
       "id": "tt0087800",
       "type": "movie",
       "name": "A Nightmare on Elm Street",
@@ -258,6 +248,16 @@
       "background": "https://images.metahub.space/background/medium/tt0087800/img",
       "description": "Teenagers in a small town are dropping like flies, apparently in the grip of mass hysteria causing their suicides. A cop's daughter, Nancy Thompson, traces the cause to child molester Fred Krueger, who was burned alive by angry parents many years before. Krueger has now come back in the dreams of his killers' children, claiming their lives as his revenge. Nancy and her boyfriend, Glen, must devise a plan to lure the monster out of the realm of nightmares and into the real world...",
       "releaseInfo": 1984,
+      "imdbRating": 7.4
+    },
+    {
+      "id": "tt0103874",
+      "type": "movie",
+      "name": "Bram Stoker's Dracula",
+      "poster": "https://images.metahub.space/poster/medium/tt0103874/img",
+      "background": "https://images.metahub.space/background/medium/tt0103874/img",
+      "description": "Count Dracula, a 15th-century prince, is condemned to live off the blood of the living for eternity. Young lawyer Jonathan Harker is sent to Dracula's castle to finalise a land deal, but when the Count sees a photo of Harker's fiancée, Mina, the spitting image of his dead wife, he imprisons him and sets off for London to track her down.",
+      "releaseInfo": 1992,
       "imdbRating": 7.4
     },
     {
@@ -481,16 +481,6 @@
       "imdbRating": 8.4
     },
     {
-      "id": "tt0080661",
-      "type": "movie",
-      "name": "Dressed to Kill",
-      "poster": "https://images.metahub.space/poster/medium/tt0080661/img",
-      "background": "https://images.metahub.space/background/medium/tt0080661/img",
-      "description": "After witnessing a mysterious woman brutally slay a homemaker, prostitute Liz Blake finds herself trapped in a dangerous situation. While the police thinks she is the murderer, the real killer is intent on silencing her only witness.",
-      "releaseInfo": 1980,
-      "imdbRating": 7
-    },
-    {
       "id": "tt11112532",
       "type": "movie",
       "name": "Agra",
@@ -499,6 +489,16 @@
       "description": "The story of a family and an exploration of space in an increasingly crowded world. It follows the quest for a sexual odyssey of an individual.",
       "releaseInfo": 2025,
       "imdbRating": 5.4
+    },
+    {
+      "id": "tt0080661",
+      "type": "movie",
+      "name": "Dressed to Kill",
+      "poster": "https://images.metahub.space/poster/medium/tt0080661/img",
+      "background": "https://images.metahub.space/background/medium/tt0080661/img",
+      "description": "After witnessing a mysterious woman brutally slay a homemaker, prostitute Liz Blake finds herself trapped in a dangerous situation. While the police thinks she is the murderer, the real killer is intent on silencing her only witness.",
+      "releaseInfo": 1980,
+      "imdbRating": 7
     }
   ]
 }
