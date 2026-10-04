@@ -101,16 +101,6 @@
       "imdbRating": 5.2
     },
     {
-      "id": "tt6323306",
-      "type": "movie",
-      "name": "Nude",
-      "poster": "https://images.metahub.space/poster/medium/tt6323306/img",
-      "background": "https://images.metahub.space/background/medium/tt6323306/img",
-      "description": "NUDE explores perceptions of nudity in art by chronicling the creative process of photographer David Bellemere as he's commissioned by NU Muses founder Steve Shaw to shoot a fine art calendar of nude photographs.",
-      "releaseInfo": 2017,
-      "imdbRating": 5.7
-    },
-    {
       "id": "tt27165187",
       "type": "movie",
       "name": "The End of Oak Street",
@@ -139,6 +129,16 @@
       "description": "A celebrated Olympian shooter travels to America looking for a donor to help his sick child — but unexpected romance complicates his search.",
       "releaseInfo": 2026,
       "imdbRating": 7.2
+    },
+    {
+      "id": "tt6323306",
+      "type": "movie",
+      "name": "Nude",
+      "poster": "https://images.metahub.space/poster/medium/tt6323306/img",
+      "background": "https://images.metahub.space/background/medium/tt6323306/img",
+      "description": "NUDE explores perceptions of nudity in art by chronicling the creative process of photographer David Bellemere as he's commissioned by NU Muses founder Steve Shaw to shoot a fine art calendar of nude photographs.",
+      "releaseInfo": 2017,
+      "imdbRating": 5.7
     },
     {
       "id": "tt2181831",
@@ -421,16 +421,6 @@
       "imdbRating": 8
     },
     {
-      "id": "tt28037987",
-      "type": "movie",
-      "name": "Saiyaara",
-      "poster": "https://images.metahub.space/poster/medium/tt28037987/img",
-      "background": "https://images.metahub.space/background/medium/tt28037987/img",
-      "description": "Plot under wraps.",
-      "releaseInfo": 2025,
-      "imdbRating": 6.3
-    },
-    {
       "id": "tt0120616",
       "type": "movie",
       "name": "The Mummy",
@@ -439,6 +429,16 @@
       "description": "Dashing legionnaire Rick O'Connell stumbles upon the hidden ruins of Hamunaptra while in the midst of a battle to claim the area in 1920s Egypt. It has been over three thousand years since former High Priest Imhotep suffered a fate worse than death as a punishment for a forbidden love—along with a curse that guarantees eternal doom upon the world if he is ever awoken.",
       "releaseInfo": 1999,
       "imdbRating": 7.1
+    },
+    {
+      "id": "tt28037987",
+      "type": "movie",
+      "name": "Saiyaara",
+      "poster": "https://images.metahub.space/poster/medium/tt28037987/img",
+      "background": "https://images.metahub.space/background/medium/tt28037987/img",
+      "description": "Plot under wraps.",
+      "releaseInfo": 2025,
+      "imdbRating": 6.3
     },
     {
       "id": "tt35727678",
