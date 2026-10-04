@@ -8,7 +8,7 @@
       "background": "https://images.metahub.space/background/medium/tt27050858/img",
       "description": "To protect his family and their dark secret, Georgekutty faces an organized new threat. As walls close in and cracks widen, how much more is he willing to sacrifice?",
       "releaseInfo": 2026,
-      "imdbRating": 8.1
+      "imdbRating": 8
     },
     {
       "id": "tt10886166",
@@ -68,7 +68,7 @@
       "background": "https://images.metahub.space/background/medium/tt30050236/img",
       "description": "Siddharth, an atheist skeptical of the supernatural, investigates a series of mysterious deaths in Mahendragiri attributed to the goddess Vaaraahi.",
       "releaseInfo": 2026,
-      "imdbRating": 7.4
+      "imdbRating": 7
     },
     {
       "id": "tt22890246",
@@ -241,16 +241,6 @@
       "imdbRating": 5.8
     },
     {
-      "id": "tt0087800",
-      "type": "movie",
-      "name": "A Nightmare on Elm Street",
-      "poster": "https://images.metahub.space/poster/medium/tt0087800/img",
-      "background": "https://images.metahub.space/background/medium/tt0087800/img",
-      "description": "Teenagers in a small town are dropping like flies, apparently in the grip of mass hysteria causing their suicides. A cop's daughter, Nancy Thompson, traces the cause to child molester Fred Krueger, who was burned alive by angry parents many years before. Krueger has now come back in the dreams of his killers' children, claiming their lives as his revenge. Nancy and her boyfriend, Glen, must devise a plan to lure the monster out of the realm of nightmares and into the real world...",
-      "releaseInfo": 1984,
-      "imdbRating": 7.4
-    },
-    {
       "id": "tt0103874",
       "type": "movie",
       "name": "Bram Stoker's Dracula",
@@ -258,6 +248,16 @@
       "background": "https://images.metahub.space/background/medium/tt0103874/img",
       "description": "Count Dracula, a 15th-century prince, is condemned to live off the blood of the living for eternity. Young lawyer Jonathan Harker is sent to Dracula's castle to finalise a land deal, but when the Count sees a photo of Harker's fiancée, Mina, the spitting image of his dead wife, he imprisons him and sets off for London to track her down.",
       "releaseInfo": 1992,
+      "imdbRating": 7.4
+    },
+    {
+      "id": "tt0087800",
+      "type": "movie",
+      "name": "A Nightmare on Elm Street",
+      "poster": "https://images.metahub.space/poster/medium/tt0087800/img",
+      "background": "https://images.metahub.space/background/medium/tt0087800/img",
+      "description": "Teenagers in a small town are dropping like flies, apparently in the grip of mass hysteria causing their suicides. A cop's daughter, Nancy Thompson, traces the cause to child molester Fred Krueger, who was burned alive by angry parents many years before. Krueger has now come back in the dreams of his killers' children, claiming their lives as his revenge. Nancy and her boyfriend, Glen, must devise a plan to lure the monster out of the realm of nightmares and into the real world...",
+      "releaseInfo": 1984,
       "imdbRating": 7.4
     },
     {
@@ -381,16 +381,6 @@
       "imdbRating": 6.5
     },
     {
-      "id": "tt0109686",
-      "type": "movie",
-      "name": "Dumb and Dumber",
-      "poster": "https://images.metahub.space/poster/medium/tt0109686/img",
-      "background": "https://images.metahub.space/background/medium/tt0109686/img",
-      "description": "Lloyd and Harry are two men whose stupidity is really indescribable. When Mary, a beautiful woman, loses an important suitcase with money before she leaves for Aspen, the two friends (who have found the suitcase) decide to return it to her. After some \"adventures\" they finally get to Aspen where, using the lost money they live it up and fight for Mary's heart.",
-      "releaseInfo": 1994,
-      "imdbRating": 7.3
-    },
-    {
       "id": "tt14452368",
       "type": "movie",
       "name": "Writer",
@@ -499,6 +489,16 @@
       "description": "After witnessing a mysterious woman brutally slay a homemaker, prostitute Liz Blake finds herself trapped in a dangerous situation. While the police thinks she is the murderer, the real killer is intent on silencing her only witness.",
       "releaseInfo": 1980,
       "imdbRating": 7
+    },
+    {
+      "id": "tt11112532",
+      "type": "movie",
+      "name": "Agra",
+      "poster": "https://images.metahub.space/poster/medium/tt11112532/img",
+      "background": "https://images.metahub.space/background/medium/tt11112532/img",
+      "description": "The story of a family and an exploration of space in an increasingly crowded world. It follows the quest for a sexual odyssey of an individual.",
+      "releaseInfo": 2025,
+      "imdbRating": 5.4
     }
   ]
 }
