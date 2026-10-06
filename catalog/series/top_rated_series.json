@@ -23,14 +23,14 @@
       "imdbRating": "9.0"
     },
     {
-      "id": "tt0388629",
+      "id": "tt12004706",
       "type": "series",
-      "name": "One Piece",
-      "poster": "https://images.metahub.space/poster/small/tt0388629/img",
-      "background": "https://images.metahub.space/background/medium/tt0388629/img",
-      "logo": "https://images.metahub.space/logo/medium/tt0388629/img",
-      "description": "Monkey D. Luffy, a pirate with rubber powers, forms the Straw Hat crew and sails the Grand Line, battling rivals and the World Government on a quest for the legendary treasure One Piece and the title of Pirate King.",
-      "releaseInfo": "1999–",
+      "name": "Panchayat",
+      "poster": "https://images.metahub.space/poster/small/tt12004706/img",
+      "background": "https://images.metahub.space/background/medium/tt12004706/img",
+      "logo": "https://images.metahub.space/logo/medium/tt12004706/img",
+      "description": "A comedy-drama, which captures the journey of an engineering graduate Abhishek, who for lack of a better job option joins as secretary of a Panchayat office in a remote village of Uttar Pradesh.",
+      "releaseInfo": "2020–",
       "imdbRating": "9.0"
     },
     {
@@ -43,6 +43,17 @@
       "description": "Samay Raina and the guest judges hilariously critique the untapped, undeniably entertaining \"latent\" talents of aspiring performers, testing their self-awareness with a unique scoring system.",
       "releaseInfo": "2024–",
       "imdbRating": "8.9"
+    },
+    {
+      "id": "tt7660850",
+      "type": "series",
+      "name": "Succession",
+      "poster": "https://images.metahub.space/poster/small/tt7660850/img",
+      "background": "https://images.metahub.space/background/medium/tt7660850/img",
+      "logo": "https://images.metahub.space/logo/medium/tt7660850/img",
+      "description": "The Roy family is known for controlling the biggest media and entertainment company in the world. However, their world changes when their father steps down from the company.",
+      "releaseInfo": "2018–2023",
+      "imdbRating": "8.8"
     },
     {
       "id": "tt10986410",
@@ -67,17 +78,6 @@
       "imdbRating": "8.7"
     },
     {
-      "id": "tt39368345",
-      "type": "series",
-      "name": "Four Hands, Two Sonatas",
-      "poster": "https://images.metahub.space/poster/small/tt39368345/img",
-      "background": "https://images.metahub.space/background/medium/tt39368345/img",
-      "logo": "https://images.metahub.space/logo/medium/tt39368345/img",
-      "description": "When two young pianists from completely different worlds meet at an elite music high school, the melodies of their lives become intimately intertwined.",
-      "releaseInfo": "2026–",
-      "imdbRating": "8.7"
-    },
-    {
       "id": "tt26743760",
       "type": "series",
       "name": "The Apothecary Diaries",
@@ -89,17 +89,6 @@
       "imdbRating": "8.6"
     },
     {
-      "id": "tt4574334",
-      "type": "series",
-      "name": "Stranger Things",
-      "poster": "https://images.metahub.space/poster/small/tt4574334/img",
-      "background": "https://images.metahub.space/background/medium/tt4574334/img",
-      "logo": "https://images.metahub.space/logo/medium/tt4574334/img",
-      "description": "In 1980s Indiana, a group of young friends witness supernatural forces and secret government exploits. As they search for answers, the children unravel a series of extraordinary mysteries.",
-      "releaseInfo": "2016–2025",
-      "imdbRating": "8.6"
-    },
-    {
       "id": "tt11280740",
       "type": "series",
       "name": "Severance",
@@ -108,6 +97,17 @@
       "logo": "https://images.metahub.space/logo/medium/tt11280740/img",
       "description": "Mark leads a team of office workers whose memories have been surgically divided between their work and personal lives. When a mysterious colleague appears outside of work, it begins a journey to discover the truth about their jobs.",
       "releaseInfo": "2022–",
+      "imdbRating": "8.6"
+    },
+    {
+      "id": "tt4574334",
+      "type": "series",
+      "name": "Stranger Things",
+      "poster": "https://images.metahub.space/poster/small/tt4574334/img",
+      "background": "https://images.metahub.space/background/medium/tt4574334/img",
+      "logo": "https://images.metahub.space/logo/medium/tt4574334/img",
+      "description": "In 1980s Indiana, a group of young friends witness supernatural forces and secret government exploits. As they search for answers, the children unravel a series of extraordinary mysteries.",
+      "releaseInfo": "2016–2025",
       "imdbRating": "8.6"
     },
     {
@@ -133,17 +133,6 @@
       "imdbRating": "8.5"
     },
     {
-      "id": "tt1439629",
-      "type": "series",
-      "name": "Community",
-      "poster": "https://images.metahub.space/poster/small/tt1439629/img",
-      "background": "https://images.metahub.space/background/medium/tt1439629/img",
-      "logo": "https://images.metahub.space/logo/medium/tt1439629/img",
-      "description": "A suspended lawyer is forced to enroll in a community college with an eccentric staff and student body.",
-      "releaseInfo": "2009–2015",
-      "imdbRating": "8.5"
-    },
-    {
       "id": "tt9335498",
       "type": "series",
       "name": "Demon Slayer: Kimetsu no Yaiba",
@@ -155,14 +144,25 @@
       "imdbRating": "8.5"
     },
     {
-      "id": "tt10802170",
+      "id": "tt1439629",
       "type": "series",
-      "name": "The Rehearsal",
-      "poster": "https://images.metahub.space/poster/small/tt10802170/img",
-      "background": "https://images.metahub.space/background/medium/tt10802170/img",
-      "logo": "https://images.metahub.space/logo/medium/tt10802170/img",
-      "description": "Nathan Fielder gives people a chance to rehearse for their own lives in a world where nothing ever works out as expected.",
-      "releaseInfo": "2022–",
+      "name": "Community",
+      "poster": "https://images.metahub.space/poster/small/tt1439629/img",
+      "background": "https://images.metahub.space/background/medium/tt1439629/img",
+      "logo": "https://images.metahub.space/logo/medium/tt1439629/img",
+      "description": "A suspended lawyer is forced to enroll in a community college with an eccentric staff and student body.",
+      "releaseInfo": "2009–2015",
+      "imdbRating": "8.5"
+    },
+    {
+      "id": "tt21209876",
+      "type": "series",
+      "name": "Solo Leveling",
+      "poster": "https://images.metahub.space/poster/small/tt21209876/img",
+      "background": "https://images.metahub.space/background/medium/tt21209876/img",
+      "logo": "https://images.metahub.space/logo/medium/tt21209876/img",
+      "description": "Follows the adventures of Sung Jinwoo in a world that is constantly threatened by monsters and evil forces. In his battles Sung transforms himself from the weakest hunter of all mankind to one of the strongest hunters in existence.",
+      "releaseInfo": "2024–",
       "imdbRating": "8.5"
     },
     {
@@ -177,14 +177,14 @@
       "imdbRating": "8.5"
     },
     {
-      "id": "tt21209876",
+      "id": "tt10802170",
       "type": "series",
-      "name": "Solo Leveling",
-      "poster": "https://images.metahub.space/poster/small/tt21209876/img",
-      "background": "https://images.metahub.space/background/medium/tt21209876/img",
-      "logo": "https://images.metahub.space/logo/medium/tt21209876/img",
-      "description": "Follows the adventures of Sung Jinwoo in a world that is constantly threatened by monsters and evil forces. In his battles Sung transforms himself from the weakest hunter of all mankind to one of the strongest hunters in existence.",
-      "releaseInfo": "2024–",
+      "name": "The Rehearsal",
+      "poster": "https://images.metahub.space/poster/small/tt10802170/img",
+      "background": "https://images.metahub.space/background/medium/tt10802170/img",
+      "logo": "https://images.metahub.space/logo/medium/tt10802170/img",
+      "description": "Nathan Fielder gives people a chance to rehearse for their own lives in a world where nothing ever works out as expected.",
+      "releaseInfo": "2022–",
       "imdbRating": "8.5"
     },
     {
@@ -210,17 +210,6 @@
       "imdbRating": "8.4"
     },
     {
-      "id": "tt5675620",
-      "type": "series",
-      "name": "The Punisher",
-      "poster": "https://images.metahub.space/poster/small/tt5675620/img",
-      "background": "https://images.metahub.space/background/medium/tt5675620/img",
-      "logo": "https://images.metahub.space/logo/medium/tt5675620/img",
-      "description": "After his revenge on those who murdered his family, aimless Marine veteran Frank Castle finds a new meaning in life as a vigilante known as \"The Punisher\".",
-      "releaseInfo": "2017–2019",
-      "imdbRating": "8.4"
-    },
-    {
       "id": "tt9059760",
       "type": "series",
       "name": "Normal People",
@@ -229,6 +218,17 @@
       "logo": "https://images.metahub.space/logo/medium/tt9059760/img",
       "description": "A man and a woman embark on an on-again/off-again romance that starts at school and continues through college, testing their relationship as they explore different versions of themselves.",
       "releaseInfo": "2020",
+      "imdbRating": "8.4"
+    },
+    {
+      "id": "tt5675620",
+      "type": "series",
+      "name": "The Punisher",
+      "poster": "https://images.metahub.space/poster/small/tt5675620/img",
+      "background": "https://images.metahub.space/background/medium/tt5675620/img",
+      "logo": "https://images.metahub.space/logo/medium/tt5675620/img",
+      "description": "After his revenge on those who murdered his family, aimless Marine veteran Frank Castle finds a new meaning in life as a vigilante known as \"The Punisher\".",
+      "releaseInfo": "2017–2019",
       "imdbRating": "8.4"
     },
     {
@@ -254,6 +254,17 @@
       "imdbRating": "8.3"
     },
     {
+      "id": "tt33014623",
+      "type": "series",
+      "name": "In the Eye of the Storm",
+      "poster": "https://images.metahub.space/poster/small/tt33014623/img",
+      "background": "https://images.metahub.space/background/medium/tt33014623/img",
+      "logo": "https://images.metahub.space/logo/medium/tt33014623/img",
+      "description": "From tornadoes to wildfires, immersive footage captures the epicentre of shocking natural disasters in real-time like never before.",
+      "releaseInfo": "2024–2025",
+      "imdbRating": "8.3"
+    },
+    {
       "id": "tt31510819",
       "type": "series",
       "name": "MobLand",
@@ -262,28 +273,6 @@
       "logo": "https://images.metahub.space/logo/medium/tt31510819/img",
       "description": "Power is up for grabs as two warring crime families clash in a battle that threatens to topple empires. In the crossfire stands Harry Da Souza, a street-smart 'fixer' who knows too well where loyalties lie when opposing forces col...",
       "releaseInfo": "2025–",
-      "imdbRating": "8.3"
-    },
-    {
-      "id": "tt0496424",
-      "type": "series",
-      "name": "30 Rock",
-      "poster": "https://images.metahub.space/poster/small/tt0496424/img",
-      "background": "https://images.metahub.space/background/medium/tt0496424/img",
-      "logo": "https://images.metahub.space/logo/medium/tt0496424/img",
-      "description": "Liz Lemon, head writer of the sketch-comedy show \"TGS with Tracy Jordan\", must deal with an arrogant new boss and a crazy new star while trying to run a successful television show without losing her mind.",
-      "releaseInfo": "2006–2013",
-      "imdbRating": "8.3"
-    },
-    {
-      "id": "tt0455275",
-      "type": "series",
-      "name": "Prison Break",
-      "poster": "https://images.metahub.space/poster/small/tt0455275/img",
-      "background": "https://images.metahub.space/background/medium/tt0455275/img",
-      "logo": "https://images.metahub.space/logo/medium/tt0455275/img",
-      "description": "A structural engineer installs himself in a prison his company helped design, to save his falsely accused brother from a death sentence by breaking both of them out from the inside.",
-      "releaseInfo": "2005–2017",
       "imdbRating": "8.3"
     },
     {
@@ -320,17 +309,6 @@
       "imdbRating": "8.2"
     },
     {
-      "id": "tt11815682",
-      "type": "series",
-      "name": "Hacks",
-      "poster": "https://images.metahub.space/poster/small/tt11815682/img",
-      "background": "https://images.metahub.space/background/medium/tt11815682/img",
-      "logo": "https://images.metahub.space/logo/medium/tt11815682/img",
-      "description": "Explores a dark mentorship that forms between Deborah Vance, a legendary Las Vegas comedian, and an entitled, outcast 25-year-old.",
-      "releaseInfo": "2021–2026",
-      "imdbRating": "8.2"
-    },
-    {
       "id": "tt8772296",
       "type": "series",
       "name": "Euphoria",
@@ -342,14 +320,14 @@
       "imdbRating": "8.2"
     },
     {
-      "id": "tt15469618",
+      "id": "tt11815682",
       "type": "series",
-      "name": "Bad Sisters",
-      "poster": "https://images.metahub.space/poster/small/tt15469618/img",
-      "background": "https://images.metahub.space/background/medium/tt15469618/img",
-      "logo": "https://images.metahub.space/logo/medium/tt15469618/img",
-      "description": "The Garvey sisters are bound together by their parents' deaths and a promise to always protect one another.",
-      "releaseInfo": "2022–",
+      "name": "Hacks",
+      "poster": "https://images.metahub.space/poster/small/tt11815682/img",
+      "background": "https://images.metahub.space/background/medium/tt11815682/img",
+      "logo": "https://images.metahub.space/logo/medium/tt11815682/img",
+      "description": "Explores a dark mentorship that forms between Deborah Vance, a legendary Las Vegas comedian, and an entitled, outcast 25-year-old.",
+      "releaseInfo": "2021–2026",
       "imdbRating": "8.2"
     },
     {
@@ -364,6 +342,17 @@
       "imdbRating": "8.2"
     },
     {
+      "id": "tt15469618",
+      "type": "series",
+      "name": "Bad Sisters",
+      "poster": "https://images.metahub.space/poster/small/tt15469618/img",
+      "background": "https://images.metahub.space/background/medium/tt15469618/img",
+      "logo": "https://images.metahub.space/logo/medium/tt15469618/img",
+      "description": "The Garvey sisters are bound together by their parents' deaths and a promise to always protect one another.",
+      "releaseInfo": "2022–",
+      "imdbRating": "8.2"
+    },
+    {
       "id": "tt13911628",
       "type": "series",
       "name": "Lessons in Chemistry",
@@ -373,28 +362,6 @@
       "description": "In the 1950s, Elizabeth Zott's dream of being a scientist is challenged by a society that says women belong in the domestic sphere; she accepts a job on a TV cooking show and sets out to teach a nation of housewives way more than ...",
       "releaseInfo": "2023",
       "imdbRating": "8.2"
-    },
-    {
-      "id": "tt9140554",
-      "type": "series",
-      "name": "Loki",
-      "poster": "https://images.metahub.space/poster/small/tt9140554/img",
-      "background": "https://images.metahub.space/background/medium/tt9140554/img",
-      "logo": "https://images.metahub.space/logo/medium/tt9140554/img",
-      "description": "The mercurial villain Loki resumes his role as the God of Mischief in a new series that takes place after the events of “Avengers: Endgame.”",
-      "releaseInfo": "2021–2023",
-      "imdbRating": "8.2"
-    },
-    {
-      "id": "tt0758790",
-      "type": "series",
-      "name": "The Tudors",
-      "poster": "https://images.metahub.space/poster/small/tt0758790/img",
-      "background": "https://images.metahub.space/background/medium/tt0758790/img",
-      "logo": "https://images.metahub.space/logo/medium/tt0758790/img",
-      "description": "Epic series reveals the scandalous life of a young king whose affairs and obsession with producing a male heir changed marriage, the church, and the world.",
-      "releaseInfo": "2007–2010",
-      "imdbRating": "8.1"
     },
     {
       "id": "tt7772588",
@@ -427,6 +394,28 @@
       "logo": "https://images.metahub.space/logo/medium/tt14688458/img",
       "description": "Men and women live in a giant silo underground with several regulations which they believe are in place to protect them from the toxic and ruined world on the surface.",
       "releaseInfo": "2023–",
+      "imdbRating": "8.1"
+    },
+    {
+      "id": "tt0758790",
+      "type": "series",
+      "name": "The Tudors",
+      "poster": "https://images.metahub.space/poster/small/tt0758790/img",
+      "background": "https://images.metahub.space/background/medium/tt0758790/img",
+      "logo": "https://images.metahub.space/logo/medium/tt0758790/img",
+      "description": "Epic series reveals the scandalous life of a young king whose affairs and obsession with producing a male heir changed marriage, the church, and the world.",
+      "releaseInfo": "2007–2010",
+      "imdbRating": "8.1"
+    },
+    {
+      "id": "tt0883772",
+      "type": "series",
+      "name": "Man vs. Wild",
+      "poster": "https://images.metahub.space/poster/small/tt0883772/img",
+      "background": "https://images.metahub.space/background/medium/tt0883772/img",
+      "logo": "https://images.metahub.space/logo/medium/tt0883772/img",
+      "description": "Bear Grylls travels the world in search of challenges to his survival skills.",
+      "releaseInfo": "2006–2020",
       "imdbRating": "8.1"
     },
     {
@@ -463,25 +452,25 @@
       "imdbRating": "8.1"
     },
     {
-      "id": "tt0883772",
+      "id": "tt1520211",
       "type": "series",
-      "name": "Man vs. Wild",
-      "poster": "https://images.metahub.space/poster/small/tt0883772/img",
-      "background": "https://images.metahub.space/background/medium/tt0883772/img",
-      "logo": "https://images.metahub.space/logo/medium/tt0883772/img",
-      "description": "Bear Grylls travels the world in search of challenges to his survival skills.",
-      "releaseInfo": "2006–2020",
+      "name": "The Walking Dead",
+      "poster": "https://images.metahub.space/poster/small/tt1520211/img",
+      "background": "https://images.metahub.space/background/medium/tt1520211/img",
+      "logo": "https://images.metahub.space/logo/medium/tt1520211/img",
+      "description": "Sheriff Deputy Rick Grimes wakes up from a coma to learn the world is in ruins and must lead a group of survivors to stay alive.",
+      "releaseInfo": "2010–2022",
       "imdbRating": "8.1"
     },
     {
-      "id": "tt2805096",
+      "id": "tt26915338",
       "type": "series",
-      "name": "Chicago P.D.",
-      "poster": "https://images.metahub.space/poster/small/tt2805096/img",
-      "background": "https://images.metahub.space/background/medium/tt2805096/img",
-      "logo": "https://images.metahub.space/logo/medium/tt2805096/img",
-      "description": "Follows the lives of the personnel of the fictional 21st District, which houses both uniformed officers and the department's elite Intelligence Unit as they fight every day to keep the city of Chicago, Illinois safe.",
-      "releaseInfo": "2014–",
+      "name": "Gyaarah Gyaarah",
+      "poster": "https://images.metahub.space/poster/small/tt26915338/img",
+      "background": "https://images.metahub.space/background/medium/tt26915338/img",
+      "logo": "https://images.metahub.space/logo/medium/tt26915338/img",
+      "description": "Investigative drama following events in 1990, 2001, 2016. Intertwining storylines blending mysticism, science and mystery across the decades.",
+      "releaseInfo": "2024–",
       "imdbRating": "8.1"
     },
     {
@@ -504,17 +493,6 @@
       "logo": "https://images.metahub.space/logo/medium/tt0092400/img",
       "description": "Al is the quintessential working class dad. Peggy, his wife, always wants more from him. With their children, they go through the highs and lows of ordinary life.",
       "releaseInfo": "1987–1997",
-      "imdbRating": "8.1"
-    },
-    {
-      "id": "tt1520211",
-      "type": "series",
-      "name": "The Walking Dead",
-      "poster": "https://images.metahub.space/poster/small/tt1520211/img",
-      "background": "https://images.metahub.space/background/medium/tt1520211/img",
-      "logo": "https://images.metahub.space/logo/medium/tt1520211/img",
-      "description": "Sheriff Deputy Rick Grimes wakes up from a coma to learn the world is in ruins and must lead a group of survivors to stay alive.",
-      "releaseInfo": "2010–2022",
       "imdbRating": "8.1"
     },
     {
@@ -549,6 +527,28 @@
       "description": "A suburban mother faces her cancer diagnosis while trying to find humor and happiness as well.",
       "releaseInfo": "2010–2013",
       "imdbRating": "8.1"
+    },
+    {
+      "id": "tt20096840",
+      "type": "series",
+      "name": "The Messiah",
+      "poster": "https://images.metahub.space/poster/small/tt20096840/img",
+      "background": "https://images.metahub.space/background/medium/tt20096840/img",
+      "logo": "https://images.metahub.space/logo/medium/tt20096840/img",
+      "description": "It tells the story of Enric, who is heavily impacted by a viral video of a Christian pop band made up of five sisters.",
+      "releaseInfo": "2023",
+      "imdbRating": "8.0"
+    },
+    {
+      "id": "tt9288030",
+      "type": "series",
+      "name": "Reacher",
+      "poster": "https://images.metahub.space/poster/small/tt9288030/img",
+      "background": "https://images.metahub.space/background/medium/tt9288030/img",
+      "logo": "https://images.metahub.space/logo/medium/tt9288030/img",
+      "description": "Itinerant former military policeman Jack Reacher solves crimes and metes out his own brand of street justice. Based on the novels by Lee Child.",
+      "releaseInfo": "2022–",
+      "imdbRating": "8.0"
     }
   ]
 }
