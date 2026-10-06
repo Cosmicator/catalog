@@ -48,7 +48,7 @@
       "background": "https://images.metahub.space/background/medium/tt30050236/img",
       "description": "Siddharth, an atheist skeptical of the supernatural, investigates a series of mysterious deaths in Mahendragiri attributed to the goddess Vaaraahi.",
       "releaseInfo": 2026,
-      "imdbRating": 7
+      "imdbRating": 6.7
     },
     {
       "id": "tt9248952",
@@ -68,7 +68,7 @@
       "background": "https://images.metahub.space/background/medium/tt28541577/img",
       "description": "Follows spy Sardar's origin story in flashback while his son Inspector Vijay confronts a villain known as Black Dagger in the present day.",
       "releaseInfo": 2026,
-      "imdbRating": 5.7
+      "imdbRating": 5.6
     },
     {
       "id": "tt35836025",
@@ -158,7 +158,7 @@
       "background": "https://images.metahub.space/background/medium/tt41971399/img",
       "description": "An entrepreneur hoping to make money off romance ends up falling in love. But when she blocks him on social media, he tries to reignite their spark.",
       "releaseInfo": 2026,
-      "imdbRating": 5.2
+      "imdbRating": 5
     },
     {
       "id": "tt14527204",
@@ -371,6 +371,16 @@
       "imdbRating": 6.6
     },
     {
+      "id": "tt42481138",
+      "type": "movie",
+      "name": "Bombay Stories",
+      "poster": "https://images.metahub.space/poster/medium/tt42481138/img",
+      "background": "https://images.metahub.space/background/medium/tt42481138/img",
+      "description": "Adapted from the short stories of Pakistani writer Saadat Hasan Manto, the film interweaves the lives of three sex workers and their pimps.",
+      "releaseInfo": 2026,
+      "imdbRating": 6
+    },
+    {
       "id": "tt6718170",
       "type": "movie",
       "name": "The Super Mario Bros. Movie",
@@ -481,24 +491,14 @@
       "imdbRating": 5.2
     },
     {
-      "id": "tt27196021",
+      "id": "tt0181689",
       "type": "movie",
-      "name": "Small Things Like These",
-      "poster": "https://images.metahub.space/poster/medium/tt27196021/img",
-      "background": "https://images.metahub.space/background/medium/tt27196021/img",
-      "description": "In 1985, while working as a coal merchant to support his family, Bill Furlong discovers disturbing secrets kept by the local convent and uncovers truths of his own; forcing him to confront his past and the complicit silence of a small Irish town controlled by the Catholic Church.",
-      "releaseInfo": 2024,
-      "imdbRating": 6.7
-    },
-    {
-      "id": "tt28037987",
-      "type": "movie",
-      "name": "Saiyaara",
-      "poster": "https://images.metahub.space/poster/medium/tt28037987/img",
-      "background": "https://images.metahub.space/background/medium/tt28037987/img",
-      "description": "Plot under wraps.",
-      "releaseInfo": 2025,
-      "imdbRating": 6.3
+      "name": "Minority Report",
+      "poster": "https://images.metahub.space/poster/medium/tt0181689/img",
+      "background": "https://images.metahub.space/background/medium/tt0181689/img",
+      "description": "The chief of a police unit that can accurately predict and prevent crimes goes on the run after he's accused of a future murder himself.",
+      "releaseInfo": 2002,
+      "imdbRating": 7.6
     }
   ]
 }
