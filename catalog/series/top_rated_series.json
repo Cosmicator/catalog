@@ -100,17 +100,6 @@
       "imdbRating": "8.6"
     },
     {
-      "id": "tt21211770",
-      "type": "series",
-      "name": "Solo Leveling",
-      "poster": "https://images.metahub.space/poster/small/tt21211770/img",
-      "background": "https://images.metahub.space/background/medium/tt21211770/img",
-      "logo": "https://images.metahub.space/logo/medium/tt21211770/img",
-      "description": "Follows the adventures of Sung Jinwoo in a world that is constantly threatened by monsters and evil forces. In his battles Sung transforms himself from the weakest hunter of all mankind to one of the strongest hunters in existence.",
-      "releaseInfo": "2024–",
-      "imdbRating": "8.6"
-    },
-    {
       "id": "tt3526078",
       "type": "series",
       "name": "Schitt's Creek",
@@ -152,6 +141,17 @@
       "logo": "https://images.metahub.space/logo/medium/tt1439629/img",
       "description": "A suspended lawyer is forced to enroll in a community college with an eccentric staff and student body.",
       "releaseInfo": "2009–2015",
+      "imdbRating": "8.5"
+    },
+    {
+      "id": "tt21209876",
+      "type": "series",
+      "name": "Solo Leveling",
+      "poster": "https://images.metahub.space/poster/small/tt21209876/img",
+      "background": "https://images.metahub.space/background/medium/tt21209876/img",
+      "logo": "https://images.metahub.space/logo/medium/tt21209876/img",
+      "description": "Follows the adventures of Sung Jinwoo in a world that is constantly threatened by monsters and evil forces. In his battles Sung transforms himself from the weakest hunter of all mankind to one of the strongest hunters in existence.",
+      "releaseInfo": "2024–",
       "imdbRating": "8.5"
     },
     {
@@ -229,17 +229,6 @@
       "logo": "https://images.metahub.space/logo/medium/tt5875444/img",
       "description": "A dysfunctional team of MI5 agents navigate the espionage world's smoke and mirrors to defend the UK from sinister forces.",
       "releaseInfo": "2022–",
-      "imdbRating": "8.3"
-    },
-    {
-      "id": "tt33014623",
-      "type": "series",
-      "name": "In the Eye of the Storm",
-      "poster": "https://images.metahub.space/poster/small/tt33014623/img",
-      "background": "https://images.metahub.space/background/medium/tt33014623/img",
-      "logo": "https://images.metahub.space/logo/medium/tt33014623/img",
-      "description": "From tornadoes to wildfires, immersive footage captures the epicentre of shocking natural disasters in real-time like never before.",
-      "releaseInfo": "2024–2025",
       "imdbRating": "8.3"
     },
     {
@@ -463,17 +452,6 @@
       "imdbRating": "8.1"
     },
     {
-      "id": "tt0092400",
-      "type": "series",
-      "name": "Married... with Children",
-      "poster": "https://images.metahub.space/poster/small/tt0092400/img",
-      "background": "https://images.metahub.space/background/medium/tt0092400/img",
-      "logo": "https://images.metahub.space/logo/medium/tt0092400/img",
-      "description": "Al is the quintessential working class dad. Peggy, his wife, always wants more from him. With their children, they go through the highs and lows of ordinary life.",
-      "releaseInfo": "1987–1997",
-      "imdbRating": "8.1"
-    },
-    {
       "id": "tt7203552",
       "type": "series",
       "name": "The Morning Show",
@@ -482,6 +460,17 @@
       "logo": "https://images.metahub.space/logo/medium/tt7203552/img",
       "description": "An inside look at the lives of the people who help America wake up in the morning, exploring the unique challenges faced by the team.",
       "releaseInfo": "2019–",
+      "imdbRating": "8.1"
+    },
+    {
+      "id": "tt0092400",
+      "type": "series",
+      "name": "Married... with Children",
+      "poster": "https://images.metahub.space/poster/small/tt0092400/img",
+      "background": "https://images.metahub.space/background/medium/tt0092400/img",
+      "logo": "https://images.metahub.space/logo/medium/tt0092400/img",
+      "description": "Al is the quintessential working class dad. Peggy, his wife, always wants more from him. With their children, they go through the highs and lows of ordinary life.",
+      "releaseInfo": "1987–1997",
       "imdbRating": "8.1"
     },
     {
@@ -545,6 +534,17 @@
       "name": "Titoo",
       "description": "Titoo is an animated kids' comedy show that follows the daily escapades of eight-year-old boy Titoo. Though, he is a good-hearted, intelligent kid who loves to help everyone, but inadvertently manages to brew even more trouble.",
       "releaseInfo": "2020–",
+      "imdbRating": "8.0"
+    },
+    {
+      "id": "tt2712740",
+      "type": "series",
+      "name": "The Goldbergs",
+      "poster": "https://images.metahub.space/poster/small/tt2712740/img",
+      "background": "https://images.metahub.space/background/medium/tt2712740/img",
+      "logo": "https://images.metahub.space/logo/medium/tt2712740/img",
+      "description": "This ABC show takes place in Jenkintown, Pennsylvania in the 1980s and follows the lives of a family named The Goldbergs.",
+      "releaseInfo": "2013–2023",
       "imdbRating": "8.0"
     }
   ]

@@ -471,11 +471,11 @@
       "imdbRating": 7.4
     },
     {
-      "id": "tt21211770",
+      "id": "tt21209876",
       "type": "series",
       "name": "Solo Leveling",
-      "poster": "https://images.metahub.space/poster/medium/tt21211770/img",
-      "background": "https://images.metahub.space/background/medium/tt21211770/img",
+      "poster": "https://images.metahub.space/poster/medium/tt21209876/img",
+      "background": "https://images.metahub.space/background/medium/tt21209876/img",
       "description": "Follows the adventures of Sung Jinwoo in a world that is constantly threatened by monsters and evil forces. In his battles Sung transforms himself from the weakest hunter of all mankind to one of the strongest hunters in existence.",
       "releaseInfo": 2024,
       "imdbRating": 8.5
@@ -491,14 +491,14 @@
       "imdbRating": 8.6
     },
     {
-      "id": "tt0883772",
+      "id": "tt5016504",
       "type": "series",
-      "name": "Man vs. Wild",
-      "poster": "https://images.metahub.space/poster/medium/tt0883772/img",
-      "background": "https://images.metahub.space/background/medium/tt0883772/img",
-      "description": "Bear strands himself in popular wilderness destinations where tourists often find themselves lost or in danger.",
-      "releaseInfo": 2006,
-      "imdbRating": 8.1
+      "name": "Preacher",
+      "poster": "https://images.metahub.space/poster/medium/tt5016504/img",
+      "background": "https://images.metahub.space/background/medium/tt5016504/img",
+      "description": "A preacher sets out on a mission to make the almighty himself confess his sin of abandoning the world. With his best friend Cassidy, an alcoholic Irish vampire, his love Tulip, a red blooded gun towing Texan, and the power of genesis, an unholy child born from an angel and a devil, Jesse gives up everything to set the world straight with its creator.",
+      "releaseInfo": 2016,
+      "imdbRating": 7.9
     }
   ]
 }
