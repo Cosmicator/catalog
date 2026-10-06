@@ -11,6 +11,16 @@
       "imdbRating": 6.6
     },
     {
+      "id": "tt37535100",
+      "type": "movie",
+      "name": "Bethlehem Kudumba Unit",
+      "poster": "https://images.metahub.space/poster/medium/tt37535100/img",
+      "background": "https://images.metahub.space/background/medium/tt37535100/img",
+      "description": "Ashley's homecoming from abroad takes an emotional turn when a wedding next door stirs memories of her first love, Justin.",
+      "releaseInfo": 2026,
+      "imdbRating": 8.1
+    },
+    {
       "id": "tt22084616",
       "type": "movie",
       "name": "Spider-Man: Brand New Day",
@@ -68,7 +78,7 @@
       "background": "https://images.metahub.space/background/medium/tt30050236/img",
       "description": "Siddharth, an atheist skeptical of the supernatural, investigates a series of mysterious deaths in Mahendragiri attributed to the goddess Vaaraahi.",
       "releaseInfo": 2026,
-      "imdbRating": 6.7
+      "imdbRating": 6.6
     },
     {
       "id": "tt35836025",
@@ -99,16 +109,6 @@
       "description": "Three British teenage girls go on a rites-of-passage holiday - drinking, clubbing and hooking up, in what should be the best summer of their lives.",
       "releaseInfo": 2023,
       "imdbRating": 6.4
-    },
-    {
-      "id": "tt33379543",
-      "type": "movie",
-      "name": "Jana Nayagan",
-      "poster": "https://images.metahub.space/poster/medium/tt33379543/img",
-      "background": "https://images.metahub.space/background/medium/tt33379543/img",
-      "description": "A clash of ideologies. One stands for the people, the other feeds on control. Their paths collided once before. Years later, a child’s silent fear ignites the past, drawing a former police officer into a battle far bigger than personal revenge.",
-      "releaseInfo": 2026,
-      "imdbRating": 5.2
     },
     {
       "id": "tt37287335",
@@ -159,6 +159,16 @@
       "description": "An espionage agent who is branded a traitor returns from exile to take down a dubious water project and safeguard the country.",
       "releaseInfo": 2022,
       "imdbRating": 7.5
+    },
+    {
+      "id": "tt33379543",
+      "type": "movie",
+      "name": "Jana Nayagan",
+      "poster": "https://images.metahub.space/poster/medium/tt33379543/img",
+      "background": "https://images.metahub.space/background/medium/tt33379543/img",
+      "description": "A clash of ideologies. One stands for the people, the other feeds on control. Their paths collided once before. Years later, a child’s silent fear ignites the past, drawing a former police officer into a battle far bigger than personal revenge.",
+      "releaseInfo": 2026,
+      "imdbRating": 5.2
     },
     {
       "id": "tt12908150",
@@ -249,16 +259,6 @@
       "description": "A live broadcast of a late-night talk show in 1977 goes horribly wrong, unleashing evil into the nation's living rooms.",
       "releaseInfo": 2024,
       "imdbRating": 7
-    },
-    {
-      "id": "tt0087363",
-      "type": "movie",
-      "name": "Gremlins",
-      "poster": "https://images.metahub.space/poster/medium/tt0087363/img",
-      "background": "https://images.metahub.space/background/medium/tt0087363/img",
-      "description": "After receiving an exotic small animal as a Christmas gift, a young man inadvertently breaks three important rules concerning his new pet, which unleashes a horde of malevolently mischievous creatures on a small town.",
-      "releaseInfo": 1984,
-      "imdbRating": 7.3
     },
     {
       "id": "tt37654096",
@@ -388,17 +388,17 @@
       "background": "https://images.metahub.space/background/medium/tt32820897/img",
       "description": "The Demon Slayer Corps are drawn into the Infinity Castle, where Tanjiro, Nezuko, and the Hashira face terrifying Upper Rank demons in a desperate fight as the final battle against Muzan Kibutsuji begins.",
       "releaseInfo": 2025,
-      "imdbRating": 8.4
+      "imdbRating": 8.3
     },
     {
-      "id": "tt14452368",
+      "id": "tt0087363",
       "type": "movie",
-      "name": "Writer",
-      "poster": "https://images.metahub.space/poster/medium/tt14452368/img",
-      "background": "https://images.metahub.space/background/medium/tt14452368/img",
-      "description": "A writer at a police station gets trapped in an illegal custody case involving an innocent PHD student. With his guilt and regret looming large, can he save the young man?",
-      "releaseInfo": 2021,
-      "imdbRating": 7.6
+      "name": "Gremlins",
+      "poster": "https://images.metahub.space/poster/medium/tt0087363/img",
+      "background": "https://images.metahub.space/background/medium/tt0087363/img",
+      "description": "After receiving an exotic small animal as a Christmas gift, a young man inadvertently breaks three important rules concerning his new pet, which unleashes a horde of malevolently mischievous creatures on a small town.",
+      "releaseInfo": 1984,
+      "imdbRating": 7.3
     },
     {
       "id": "tt31723358",
@@ -441,6 +441,16 @@
       "imdbRating": 6
     },
     {
+      "id": "tt6718170",
+      "type": "movie",
+      "name": "The Super Mario Bros. Movie",
+      "poster": "https://images.metahub.space/poster/medium/tt6718170/img",
+      "background": "https://images.metahub.space/background/medium/tt6718170/img",
+      "description": "While working underground to fix a water main, Brooklyn plumbers—and brothers—Mario and Luigi are transported down a mysterious pipe and wander into a magical new world. But when the brothers are separated, Mario embarks on an epic quest to find Luigi.",
+      "releaseInfo": 2023,
+      "imdbRating": 7
+    },
+    {
       "id": "tt27543632",
       "type": "movie",
       "name": "The Housemaid",
@@ -479,16 +489,6 @@
       "description": "Skeptical young detective Ichabod Crane gets transferred to the hamlet of Sleepy Hollow, New York, where he is tasked with investigating the decapitations of three people – murders the townsfolk attribute to a legendary specter, The Headless Horseman.",
       "releaseInfo": 1999,
       "imdbRating": 7.3
-    },
-    {
-      "id": "tt37544992",
-      "type": "movie",
-      "name": "Baby Do Die Do",
-      "poster": "https://images.metahub.space/poster/medium/tt37544992/img",
-      "background": "https://images.metahub.space/background/medium/tt37544992/img",
-      "description": "A deaf and mute serial killer in Mumbai can only hear her dead sister's voice as she commits murders for mysterious reasons.",
-      "releaseInfo": 2026,
-      "imdbRating": 5.9
     },
     {
       "id": "tt0414387",
