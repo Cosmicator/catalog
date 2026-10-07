@@ -111,6 +111,17 @@
       "imdbRating": "8.7"
     },
     {
+      "id": "tt26743760",
+      "type": "series",
+      "name": "The Apothecary Diaries",
+      "poster": "https://images.metahub.space/poster/small/tt26743760/img",
+      "background": "https://images.metahub.space/background/medium/tt26743760/img",
+      "logo": "https://images.metahub.space/logo/medium/tt26743760/img",
+      "description": "A young maiden is kidnapped and sold into servitude at the emperor's palace, where she secretly employs her pharmacist skills with the help of the head eunuch to unravel medical mysteries in the inner court.",
+      "releaseInfo": "2023–",
+      "imdbRating": "8.6"
+    },
+    {
       "id": "tt11280740",
       "type": "series",
       "name": "Severance",
@@ -119,6 +130,17 @@
       "logo": "https://images.metahub.space/logo/medium/tt11280740/img",
       "description": "Mark leads a team of office workers whose memories have been surgically divided between their work and personal lives. When a mysterious colleague appears outside of work, it begins a journey to discover the truth about their jobs.",
       "releaseInfo": "2022–",
+      "imdbRating": "8.6"
+    },
+    {
+      "id": "tt0106179",
+      "type": "series",
+      "name": "The X-Files",
+      "poster": "https://images.metahub.space/poster/small/tt0106179/img",
+      "background": "https://images.metahub.space/background/medium/tt0106179/img",
+      "logo": "https://images.metahub.space/logo/medium/tt0106179/img",
+      "description": "FBI Special Agents Fox Mulder and Dana Scully investigate unsolved unexplained cases known as X-Files.",
+      "releaseInfo": "1993–2018",
       "imdbRating": "8.6"
     },
     {
@@ -152,17 +174,6 @@
       "logo": "https://images.metahub.space/logo/medium/tt8317568/img",
       "description": "Veer and Sameera, strangers with opposite personalities, are left heartbroken after losing loves they thought would last forever. When fate gives the damaged souls a second chance, a beautiful love story unfolds.",
       "releaseInfo": "2018–",
-      "imdbRating": "8.5"
-    },
-    {
-      "id": "tt1758429",
-      "type": "series",
-      "name": "Spartacus: Gods of the Arena",
-      "poster": "https://images.metahub.space/poster/small/tt1758429/img",
-      "background": "https://images.metahub.space/background/medium/tt1758429/img",
-      "logo": "https://images.metahub.space/logo/medium/tt1758429/img",
-      "description": "In the time before the arrival of Spartacus, the House of Batiatus faces many challenges from competitors, and within its own household.",
-      "releaseInfo": "2011",
       "imdbRating": "8.5"
     },
     {
@@ -221,6 +232,17 @@
       "imdbRating": "8.5"
     },
     {
+      "id": "tt5875444",
+      "type": "series",
+      "name": "Slow Horses",
+      "poster": "https://images.metahub.space/poster/small/tt5875444/img",
+      "background": "https://images.metahub.space/background/medium/tt5875444/img",
+      "logo": "https://images.metahub.space/logo/medium/tt5875444/img",
+      "description": "A dysfunctional team of MI5 agents navigate the espionage world's smoke and mirrors to defend the UK from sinister forces.",
+      "releaseInfo": "2022–",
+      "imdbRating": "8.4"
+    },
+    {
       "id": "tt26545992",
       "type": "series",
       "name": "Lanterns",
@@ -254,6 +276,17 @@
       "imdbRating": "8.4"
     },
     {
+      "id": "tt1442449",
+      "type": "series",
+      "name": "Spartacus",
+      "poster": "https://images.metahub.space/poster/small/tt1442449/img",
+      "background": "https://images.metahub.space/background/medium/tt1442449/img",
+      "logo": "https://images.metahub.space/logo/medium/tt1442449/img",
+      "description": "The life of Spartacus, the gladiator who led a rebellion against the Romans.",
+      "releaseInfo": "2010–2013",
+      "imdbRating": "8.4"
+    },
+    {
       "id": "tt5675620",
       "type": "series",
       "name": "The Punisher",
@@ -265,24 +298,13 @@
       "imdbRating": "8.4"
     },
     {
-      "id": "tt40197357",
+      "id": "tt11198330",
       "type": "series",
-      "name": "Scrubs",
-      "poster": "https://images.metahub.space/poster/small/tt40197357/img",
-      "background": "https://images.metahub.space/background/medium/tt40197357/img",
-      "logo": "https://images.metahub.space/logo/medium/tt40197357/img",
-      "description": "JD and Turk scrub in together after a long break. Medicine and interns have evolved, but their friendship remains strong. New and familiar faces at Sacred Heart bring laughs, emotion, and unexpected moments.",
-      "releaseInfo": "2026–",
-      "imdbRating": "8.4"
-    },
-    {
-      "id": "tt5875444",
-      "type": "series",
-      "name": "Slow Horses",
-      "poster": "https://images.metahub.space/poster/small/tt5875444/img",
-      "background": "https://images.metahub.space/background/medium/tt5875444/img",
-      "logo": "https://images.metahub.space/logo/medium/tt5875444/img",
-      "description": "A dysfunctional team of MI5 agents navigate the espionage world's smoke and mirrors to defend the UK from sinister forces.",
+      "name": "House of the Dragon",
+      "poster": "https://images.metahub.space/poster/small/tt11198330/img",
+      "background": "https://images.metahub.space/background/medium/tt11198330/img",
+      "logo": "https://images.metahub.space/logo/medium/tt11198330/img",
+      "description": "An internal succession war within House Targaryen at the height of its power, 172 years before the birth of Daenerys Targaryen.",
       "releaseInfo": "2022–",
       "imdbRating": "8.3"
     },
@@ -331,6 +353,17 @@
       "imdbRating": "8.2"
     },
     {
+      "id": "tt40197357",
+      "type": "series",
+      "name": "Scrubs",
+      "poster": "https://images.metahub.space/poster/small/tt40197357/img",
+      "background": "https://images.metahub.space/background/medium/tt40197357/img",
+      "logo": "https://images.metahub.space/logo/medium/tt40197357/img",
+      "description": "JD and Turk scrub in together after a long break. Medicine and interns have evolved, but their friendship remains strong. New and familiar faces at Sacred Heart bring laughs, emotion, and unexpected moments.",
+      "releaseInfo": "2026–",
+      "imdbRating": "8.2"
+    },
+    {
       "id": "tt6468322",
       "type": "series",
       "name": "Money Heist",
@@ -375,17 +408,6 @@
       "imdbRating": "8.2"
     },
     {
-      "id": "tt4305162",
-      "type": "series",
-      "name": "Expedition Unknown",
-      "poster": "https://images.metahub.space/poster/small/tt4305162/img",
-      "background": "https://images.metahub.space/background/medium/tt4305162/img",
-      "logo": "https://images.metahub.space/logo/medium/tt4305162/img",
-      "description": "An archeologist travels around the world looking for unknown and missing artifacts from throughout time.",
-      "releaseInfo": "2015–",
-      "imdbRating": "8.2"
-    },
-    {
       "id": "tt14688458",
       "type": "series",
       "name": "Silo",
@@ -405,6 +427,17 @@
       "logo": "https://images.metahub.space/logo/medium/tt7772588/img",
       "description": "In an alternative version of 1969, the Soviet Union beats the United States to the Moon, and the space race continues on for decades with still grander challenges and goals.",
       "releaseInfo": "2019–2027",
+      "imdbRating": "8.1"
+    },
+    {
+      "id": "tt38504111",
+      "type": "series",
+      "name": "Small Prophets",
+      "poster": "https://images.metahub.space/poster/small/tt38504111/img",
+      "background": "https://images.metahub.space/background/medium/tt38504111/img",
+      "logo": "https://images.metahub.space/logo/medium/tt38504111/img",
+      "description": "Eccentric Michael Sleep, whose darling partner, Clea, disappeared seven years ago, sets out to create Homunculi - magical prophesying spirits that can predict the future.",
+      "releaseInfo": "2026–",
       "imdbRating": "8.1"
     },
     {
@@ -459,7 +492,7 @@
       "background": "https://live.metahub.space/background/medium/tt40856520/img",
       "logo": "https://live.metahub.space/logo/medium/tt40856520/img",
       "description": "A relaxed principal tries to reform a failing public school, triggering a messy transformation as misfit teachers work to repair the system one lesson at a time.",
-      "releaseInfo": "2026–",
+      "releaseInfo": "2026–2026",
       "imdbRating": "8.1"
     },
     {
@@ -485,17 +518,6 @@
       "imdbRating": "8.1"
     },
     {
-      "id": "tt7203552",
-      "type": "series",
-      "name": "The Morning Show",
-      "poster": "https://images.metahub.space/poster/small/tt7203552/img",
-      "background": "https://images.metahub.space/background/medium/tt7203552/img",
-      "logo": "https://images.metahub.space/logo/medium/tt7203552/img",
-      "description": "An inside look at the lives of the people who help America wake up in the morning, exploring the unique challenges faced by the team.",
-      "releaseInfo": "2019–",
-      "imdbRating": "8.1"
-    },
-    {
       "id": "tt0914387",
       "type": "series",
       "name": "Damages",
@@ -504,6 +526,17 @@
       "logo": "https://images.metahub.space/logo/medium/tt0914387/img",
       "description": "A law school graduate becomes the protégée of a successful high-stakes litigator.",
       "releaseInfo": "2007–2012",
+      "imdbRating": "8.1"
+    },
+    {
+      "id": "tt7203552",
+      "type": "series",
+      "name": "The Morning Show",
+      "poster": "https://images.metahub.space/poster/small/tt7203552/img",
+      "background": "https://images.metahub.space/background/medium/tt7203552/img",
+      "logo": "https://images.metahub.space/logo/medium/tt7203552/img",
+      "description": "An inside look at the lives of the people who help America wake up in the morning, exploring the unique challenges faced by the team.",
+      "releaseInfo": "2019–",
       "imdbRating": "8.1"
     },
     {
@@ -516,39 +549,6 @@
       "description": "Al is the quintessential working class dad. Peggy, his wife, always wants more from him. With their children, they go through the highs and lows of ordinary life.",
       "releaseInfo": "1987–1997",
       "imdbRating": "8.1"
-    },
-    {
-      "id": "tt20096840",
-      "type": "series",
-      "name": "The Messiah",
-      "poster": "https://images.metahub.space/poster/small/tt20096840/img",
-      "background": "https://images.metahub.space/background/medium/tt20096840/img",
-      "logo": "https://images.metahub.space/logo/medium/tt20096840/img",
-      "description": "It tells the story of Enric, who is heavily impacted by a viral video of a Christian pop band made up of five sisters.",
-      "releaseInfo": "2023",
-      "imdbRating": "8.0"
-    },
-    {
-      "id": "tt9288030",
-      "type": "series",
-      "name": "Reacher",
-      "poster": "https://images.metahub.space/poster/small/tt9288030/img",
-      "background": "https://images.metahub.space/background/medium/tt9288030/img",
-      "logo": "https://images.metahub.space/logo/medium/tt9288030/img",
-      "description": "Itinerant former military policeman Jack Reacher solves crimes and metes out his own brand of street justice. Based on the novels by Lee Child.",
-      "releaseInfo": "2022–",
-      "imdbRating": "8.0"
-    },
-    {
-      "id": "tt5489746",
-      "type": "series",
-      "name": "Evil Lives Here",
-      "poster": "https://images.metahub.space/poster/small/tt5489746/img",
-      "background": "https://images.metahub.space/background/medium/tt5489746/img",
-      "logo": "https://images.metahub.space/logo/medium/tt5489746/img",
-      "description": "A TV series where individuals share their perspectives of loved ones who committed horrific crimes.",
-      "releaseInfo": "2016–",
-      "imdbRating": "8.0"
     }
   ]
 }
