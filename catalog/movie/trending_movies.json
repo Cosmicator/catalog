@@ -191,6 +191,16 @@
       "imdbRating": 8.2
     },
     {
+      "id": "tt0112642",
+      "type": "movie",
+      "name": "Casper",
+      "poster": "https://images.metahub.space/poster/medium/tt0112642/img",
+      "background": "https://images.metahub.space/background/medium/tt0112642/img",
+      "description": "Casper is a kind young ghost who peacefully haunts a mansion in Maine. When specialist James Harvey arrives to communicate with Casper and his fellow spirits, he brings along his teenage daughter, Kat. Casper quickly falls in love with Kat, but their budding relationship is complicated not only by his transparent state, but also by his troublemaking apparition uncles and their mischievous antics.",
+      "releaseInfo": 1995,
+      "imdbRating": 6.2
+    },
+    {
       "id": "tt0084516",
       "type": "movie",
       "name": "Poltergeist",
@@ -221,16 +231,6 @@
       "imdbRating": 6.5
     },
     {
-      "id": "tt0112642",
-      "type": "movie",
-      "name": "Casper",
-      "poster": "https://images.metahub.space/poster/medium/tt0112642/img",
-      "background": "https://images.metahub.space/background/medium/tt0112642/img",
-      "description": "Casper is a kind young ghost who peacefully haunts a mansion in Maine. When specialist James Harvey arrives to communicate with Casper and his fellow spirits, he brings along his teenage daughter, Kat. Casper quickly falls in love with Kat, but their budding relationship is complicated not only by his transparent state, but also by his troublemaking apparition uncles and their mischievous antics.",
-      "releaseInfo": 1995,
-      "imdbRating": 6.2
-    },
-    {
       "id": "tt6323306",
       "type": "movie",
       "name": "Nude",
@@ -259,6 +259,26 @@
       "description": "A newly dead New England couple seeks help from a deranged demon exorcist to scare an affluent New York family out of their home.",
       "releaseInfo": 1988,
       "imdbRating": 7.4
+    },
+    {
+      "id": "tt42481138",
+      "type": "movie",
+      "name": "Bombay Stories",
+      "poster": "https://images.metahub.space/poster/medium/tt42481138/img",
+      "background": "https://images.metahub.space/background/medium/tt42481138/img",
+      "description": "Adapted from the short stories of Pakistani writer Saadat Hasan Manto, the film interweaves the lives of three sex workers and their pimps.",
+      "releaseInfo": 2026,
+      "imdbRating": 5.4
+    },
+    {
+      "id": "tt0181689",
+      "type": "movie",
+      "name": "Minority Report",
+      "poster": "https://images.metahub.space/poster/medium/tt0181689/img",
+      "background": "https://images.metahub.space/background/medium/tt0181689/img",
+      "description": "The chief of a police unit that can accurately predict and prevent crimes goes on the run after he's accused of a future murder himself.",
+      "releaseInfo": 2002,
+      "imdbRating": 7.6
     },
     {
       "id": "tt40572470",
@@ -308,6 +328,16 @@
       "background": "https://images.metahub.space/background/medium/tt27543632/img",
       "description": "Millie a struggling young woman becomes live-in maid for a wealthy couple Nina and Andrew. She enters a mansion of secrets, manipulation, and escalating psychological games that pull her into a dangerous relationship dynamic.",
       "releaseInfo": 2025,
+      "imdbRating": 6.7
+    },
+    {
+      "id": "tt29268110",
+      "type": "movie",
+      "name": "Smile 2",
+      "poster": "https://images.metahub.space/poster/medium/tt29268110/img",
+      "background": "https://images.metahub.space/background/medium/tt29268110/img",
+      "description": "About to embark on a new world tour, global pop sensation Skye Riley begins experiencing increasingly terrifying and inexplicable events. Overwhelmed by the escalating horrors and the pressures of fame, Skye is forced to face her dark past to regain control of her life before it spirals out of control.",
+      "releaseInfo": 2024,
       "imdbRating": 6.7
     },
     {
@@ -441,16 +471,6 @@
       "imdbRating": 7.3
     },
     {
-      "id": "tt42481138",
-      "type": "movie",
-      "name": "Bombay Stories",
-      "poster": "https://images.metahub.space/poster/medium/tt42481138/img",
-      "background": "https://images.metahub.space/background/medium/tt42481138/img",
-      "description": "Adapted from the short stories of Pakistani writer Saadat Hasan Manto, the film interweaves the lives of three sex workers and their pimps.",
-      "releaseInfo": 2026,
-      "imdbRating": 5.4
-    },
-    {
       "id": "tt5431890",
       "type": "movie",
       "name": "Official Secrets",
@@ -479,26 +499,6 @@
       "description": "Lieutenant Troy Brennan's reconnaissance mission over Soviet territory goes awry, forcing him to crash-land and survive in Russian wilderness while evading capture or rescue.",
       "releaseInfo": 2026,
       "imdbRating": 6.8
-    },
-    {
-      "id": "tt32565993",
-      "type": "movie",
-      "name": "The Sheep Detectives",
-      "poster": "https://images.metahub.space/poster/medium/tt32565993/img",
-      "background": "https://images.metahub.space/background/medium/tt32565993/img",
-      "description": "George Hardy is a shepherd who reads detective novels to his beloved sheep every night, assuming they can't possibly understand. But when a mysterious incident disrupts life on the farm, the sheep realize they must become the detectives. As they follow the clues and investigate human suspects, they prove that even sheep can be brilliant crime-solvers.",
-      "releaseInfo": 2026,
-      "imdbRating": 7.4
-    },
-    {
-      "id": "tt1502407",
-      "type": "movie",
-      "name": "Halloween",
-      "poster": "https://images.metahub.space/poster/medium/tt1502407/img",
-      "background": "https://images.metahub.space/background/medium/tt1502407/img",
-      "description": "Laurie Strode comes to her final confrontation with Michael Myers, the masked figure who has haunted her since she narrowly escaped his killing spree on Halloween night four decades ago.",
-      "releaseInfo": 2018,
-      "imdbRating": 6.5
     }
   ]
 }
