@@ -11,16 +11,6 @@
       "imdbRating": 6.6
     },
     {
-      "id": "tt37535100",
-      "type": "movie",
-      "name": "Bethlehem Kudumba Unit",
-      "poster": "https://images.metahub.space/poster/medium/tt37535100/img",
-      "background": "https://images.metahub.space/background/medium/tt37535100/img",
-      "description": "Ashley's homecoming from abroad takes an emotional turn when a wedding next door stirs memories of her first love, Justin.",
-      "releaseInfo": 2026,
-      "imdbRating": 8.1
-    },
-    {
       "id": "tt22084616",
       "type": "movie",
       "name": "Spider-Man: Brand New Day",
@@ -29,6 +19,16 @@
       "description": "Fighting crime full-time as Spider-Man in a world that doesn't remember him—and the pressure of seeing his old friends move on without him—sparks a change in Peter Parker he may not have the power to control. But that transformation might also be the only thing that can stop a shocking new threat to the city and those he loves - a powerful villain no one can even see.",
       "releaseInfo": 2026,
       "imdbRating": 8
+    },
+    {
+      "id": "tt37535100",
+      "type": "movie",
+      "name": "Bethlehem Kudumba Unit",
+      "poster": "https://images.metahub.space/poster/medium/tt37535100/img",
+      "background": "https://images.metahub.space/background/medium/tt37535100/img",
+      "description": "Ashley's homecoming from abroad takes an emotional turn when a wedding next door stirs memories of her first love, Justin.",
+      "releaseInfo": 2026,
+      "imdbRating": 8.1
     },
     {
       "id": "tt15501640",
@@ -41,16 +41,6 @@
       "imdbRating": 8.2
     },
     {
-      "id": "tt10886166",
-      "type": "movie",
-      "name": "365 dni",
-      "poster": "https://images.metahub.space/poster/medium/tt10886166/img",
-      "background": "https://images.metahub.space/background/medium/tt10886166/img",
-      "description": "Massimo is a member of the Sicilian Mafia family and Laura is a sales director. She does not expect that on a trip to Sicily trying to save her relationship, Massimo will kidnap her and give her 365 days to fall in love with him.",
-      "releaseInfo": 2020,
-      "imdbRating": 3.3
-    },
-    {
       "id": "tt4430212",
       "type": "movie",
       "name": "Drishyam",
@@ -59,6 +49,16 @@
       "description": "When his family stares down the barrel of criminal charges, a commoner channels his street smarts and knowledge of action films to tie the long arm of the law into an investigative Gordian knot.",
       "releaseInfo": 2015,
       "imdbRating": 8.2
+    },
+    {
+      "id": "tt10886166",
+      "type": "movie",
+      "name": "365 dni",
+      "poster": "https://images.metahub.space/poster/medium/tt10886166/img",
+      "background": "https://images.metahub.space/background/medium/tt10886166/img",
+      "description": "Massimo is a member of the Sicilian Mafia family and Laura is a sales director. She does not expect that on a trip to Sicily trying to save her relationship, Massimo will kidnap her and give her 365 days to fall in love with him.",
+      "releaseInfo": 2020,
+      "imdbRating": 3.3
     },
     {
       "id": "tt28541577",
@@ -101,14 +101,14 @@
       "imdbRating": 6.2
     },
     {
-      "id": "tt22890246",
+      "id": "tt0117571",
       "type": "movie",
-      "name": "How to Have Sex",
-      "poster": "https://images.metahub.space/poster/medium/tt22890246/img",
-      "background": "https://images.metahub.space/background/medium/tt22890246/img",
-      "description": "Three British teenage girls go on a rites-of-passage holiday - drinking, clubbing and hooking up, in what should be the best summer of their lives.",
-      "releaseInfo": 2023,
-      "imdbRating": 6.4
+      "name": "Scream",
+      "poster": "https://images.metahub.space/poster/medium/tt0117571/img",
+      "background": "https://images.metahub.space/background/medium/tt0117571/img",
+      "description": "A year after the murder of her mother, a teenage girl is terrorized by a masked killer who targets her and her friends by using scary movies as part of a deadly game.",
+      "releaseInfo": 1996,
+      "imdbRating": 7.4
     },
     {
       "id": "tt37287335",
@@ -121,16 +121,6 @@
       "imdbRating": 7.8
     },
     {
-      "id": "tt0117571",
-      "type": "movie",
-      "name": "Scream",
-      "poster": "https://images.metahub.space/poster/medium/tt0117571/img",
-      "background": "https://images.metahub.space/background/medium/tt0117571/img",
-      "description": "A year after the murder of her mother, a teenage girl is terrorized by a masked killer who targets her and her friends by using scary movies as part of a deadly game.",
-      "releaseInfo": 1996,
-      "imdbRating": 7.4
-    },
-    {
       "id": "tt14527204",
       "type": "movie",
       "name": "Sardar",
@@ -141,24 +131,34 @@
       "imdbRating": 7.5
     },
     {
-      "id": "tt41971399",
+      "id": "tt22890246",
       "type": "movie",
-      "name": "Romanchakam",
-      "poster": "https://images.metahub.space/poster/medium/tt41971399/img",
-      "background": "https://images.metahub.space/background/medium/tt41971399/img",
-      "description": "An entrepreneur hoping to make money off romance ends up falling in love. But when she blocks him on social media, he tries to reignite their spark.",
-      "releaseInfo": 2026,
-      "imdbRating": 5
+      "name": "How to Have Sex",
+      "poster": "https://images.metahub.space/poster/medium/tt22890246/img",
+      "background": "https://images.metahub.space/background/medium/tt22890246/img",
+      "description": "Three British teenage girls go on a rites-of-passage holiday - drinking, clubbing and hooking up, in what should be the best summer of their lives.",
+      "releaseInfo": 2023,
+      "imdbRating": 6.4
     },
     {
-      "id": "tt33379543",
+      "id": "tt14966898",
       "type": "movie",
-      "name": "Jana Nayagan",
-      "poster": "https://images.metahub.space/poster/medium/tt33379543/img",
-      "background": "https://images.metahub.space/background/medium/tt33379543/img",
-      "description": "A clash of ideologies. One stands for the people, the other feeds on control. Their paths collided once before. Years later, a child’s silent fear ignites the past, drawing a former police officer into a battle far bigger than personal revenge.",
-      "releaseInfo": 2026,
-      "imdbRating": 5.2
+      "name": "Late Night with the Devil",
+      "poster": "https://images.metahub.space/poster/medium/tt14966898/img",
+      "background": "https://images.metahub.space/background/medium/tt14966898/img",
+      "description": "A live broadcast of a late-night talk show in 1977 goes horribly wrong, unleashing evil into the nation's living rooms.",
+      "releaseInfo": 2024,
+      "imdbRating": 7
+    },
+    {
+      "id": "tt9248952",
+      "type": "movie",
+      "name": "Jawaani Jaaneman",
+      "poster": "https://images.metahub.space/poster/medium/tt9248952/img",
+      "background": "https://images.metahub.space/background/medium/tt9248952/img",
+      "description": "The carefree life of a 40-year-old playboy comes to a standstill when he comes to know that he has a 20 something-year-old daughter.",
+      "releaseInfo": 2020,
+      "imdbRating": 6.5
     },
     {
       "id": "tt12908150",
@@ -171,43 +171,73 @@
       "imdbRating": 7.3
     },
     {
-      "id": "tt0087800",
+      "id": "tt41971399",
       "type": "movie",
-      "name": "A Nightmare on Elm Street",
-      "poster": "https://images.metahub.space/poster/medium/tt0087800/img",
-      "background": "https://images.metahub.space/background/medium/tt0087800/img",
-      "description": "Teenagers in a small town are dropping like flies, apparently in the grip of mass hysteria causing their suicides. A cop's daughter, Nancy Thompson, traces the cause to child molester Fred Krueger, who was burned alive by angry parents many years before. Krueger has now come back in the dreams of his killers' children, claiming their lives as his revenge. Nancy and her boyfriend, Glen, must devise a plan to lure the monster out of the realm of nightmares and into the real world...",
-      "releaseInfo": 1984,
-      "imdbRating": 7.4
-    },
-    {
-      "id": "tt6323306",
-      "type": "movie",
-      "name": "Nude",
-      "poster": "https://images.metahub.space/poster/medium/tt6323306/img",
-      "background": "https://images.metahub.space/background/medium/tt6323306/img",
-      "description": "NUDE explores perceptions of nudity in art by chronicling the creative process of photographer David Bellemere as he's commissioned by NU Muses founder Steve Shaw to shoot a fine art calendar of nude photographs.",
-      "releaseInfo": 2017,
-      "imdbRating": 5.7
-    },
-    {
-      "id": "tt40572470",
-      "type": "movie",
-      "name": "Deewana",
-      "poster": "https://images.metahub.space/poster/medium/tt40572470/img",
-      "background": "https://images.metahub.space/background/medium/tt40572470/img",
-      "description": "Follows a young man experiencing unrequited love as he navigates his longing and vulnerability toward Ammu.",
+      "name": "Romanchakam",
+      "poster": "https://images.metahub.space/poster/medium/tt41971399/img",
+      "background": "https://images.metahub.space/background/medium/tt41971399/img",
+      "description": "An entrepreneur hoping to make money off romance ends up falling in love. But when she blocks him on social media, he tries to reignite their spark.",
       "releaseInfo": 2026,
+      "imdbRating": 5
+    },
+    {
+      "id": "tt0083658",
+      "type": "movie",
+      "name": "Blade Runner",
+      "poster": "https://images.metahub.space/poster/medium/tt0083658/img",
+      "background": "https://images.metahub.space/background/medium/tt0083658/img",
+      "description": "In the smog-choked dystopian Los Angeles of 2019, blade runner Rick Deckard is called out of retirement to terminate a quartet of replicants who have escaped to Earth seeking their creator for a way to extend their short life spans.",
+      "releaseInfo": 1982,
       "imdbRating": 8.1
     },
     {
-      "id": "tt9248952",
+      "id": "tt2181831",
       "type": "movie",
-      "name": "Jawaani Jaaneman",
-      "poster": "https://images.metahub.space/poster/medium/tt9248952/img",
-      "background": "https://images.metahub.space/background/medium/tt9248952/img",
-      "description": "The carefree life of a 40-year-old playboy comes to a standstill when he comes to know that he has a 20 something-year-old daughter.",
-      "releaseInfo": 2020,
+      "name": "Shahid",
+      "poster": "https://images.metahub.space/poster/medium/tt2181831/img",
+      "background": "https://images.metahub.space/background/medium/tt2181831/img",
+      "description": "A story based on real-life human-rights and criminal lawyer, Shahid Azmi, who was slain while defending the wrongly accused by the law in terrorist activities.",
+      "releaseInfo": 2013,
+      "imdbRating": 8.2
+    },
+    {
+      "id": "tt0084516",
+      "type": "movie",
+      "name": "Poltergeist",
+      "poster": "https://images.metahub.space/poster/medium/tt0084516/img",
+      "background": "https://images.metahub.space/background/medium/tt0084516/img",
+      "description": "The Freelings' suburban home becomes the center of paranormal activity that opens a portal to the 'other side'. With help, they must cross over to get their daughter back.",
+      "releaseInfo": 1982,
+      "imdbRating": 7.3
+    },
+    {
+      "id": "tt0267913",
+      "type": "movie",
+      "name": "Scooby-Doo",
+      "poster": "https://images.metahub.space/poster/medium/tt0267913/img",
+      "background": "https://images.metahub.space/background/medium/tt0267913/img",
+      "description": "When the Mystery Inc. gang is invited to Spooky Island, a popular amusement park, they soon discover that the attractions aren't the only things that are spooky. Strange things are happening, and it's up to Scooby, Shaggy, Fred, Daphne, and Velma to uncover the truth behind the mysterious happenings.",
+      "releaseInfo": 2002,
+      "imdbRating": 5.4
+    },
+    {
+      "id": "tt33714084",
+      "type": "movie",
+      "name": "Reminders of Him",
+      "poster": "https://images.metahub.space/poster/medium/tt33714084/img",
+      "background": "https://images.metahub.space/background/medium/tt33714084/img",
+      "description": "When Diem's custodial grandparents adamantly refuse Kenna's attempts to see her daughter, Kenna discovers unexpected compassion, and then something truer and deeper, with former NFL player and local bar owner Ledger. As their secret romance develops, so do the dangers for both of them, leading Kenna toward heartbreak and, ultimately, the hope for a second chance.",
+      "releaseInfo": 2026,
+      "imdbRating": 6.3
+    },
+    {
+      "id": "tt34385135",
+      "type": "movie",
+      "name": "Gunche",
+      "poster": "https://images.metahub.space/poster/medium/tt34385135/img",
+      "background": "https://images.metahub.space/background/medium/tt34385135/img",
+      "description": "Professor Se Jeong attends a biotech conference, only to witness it spiral into catastrophe when a rapidly mutating virus is unleashed. As the outbreak spreads and the infected begin to transform, authorities seal off the entire facility.",
+      "releaseInfo": 2026,
       "imdbRating": 6.5
     },
     {
@@ -221,104 +251,14 @@
       "imdbRating": 6.2
     },
     {
-      "id": "tt0267913",
+      "id": "tt6323306",
       "type": "movie",
-      "name": "Scooby-Doo",
-      "poster": "https://images.metahub.space/poster/medium/tt0267913/img",
-      "background": "https://images.metahub.space/background/medium/tt0267913/img",
-      "description": "When the Mystery Inc. gang is invited to Spooky Island, a popular amusement park, they soon discover that the attractions aren't the only things that are spooky. Strange things are happening, and it's up to Scooby, Shaggy, Fred, Daphne, and Velma to uncover the truth behind the mysterious happenings.",
-      "releaseInfo": 2002,
-      "imdbRating": 5.4
-    },
-    {
-      "id": "tt34459219",
-      "type": "movie",
-      "name": "The Breadwinner",
-      "poster": "https://images.metahub.space/poster/medium/tt34459219/img",
-      "background": "https://images.metahub.space/background/medium/tt34459219/img",
-      "description": "After his wife Katie lands a once-in-a-lifetime deal on Shark Tank that takes her on a prolonged business trip - lifelong breadwinner Nate Wilcox now has to fend for his family as a first-time stay-at-home dad.",
-      "releaseInfo": 2026,
-      "imdbRating": 5.6
-    },
-    {
-      "id": "tt14966898",
-      "type": "movie",
-      "name": "Late Night with the Devil",
-      "poster": "https://images.metahub.space/poster/medium/tt14966898/img",
-      "background": "https://images.metahub.space/background/medium/tt14966898/img",
-      "description": "A live broadcast of a late-night talk show in 1977 goes horribly wrong, unleashing evil into the nation's living rooms.",
-      "releaseInfo": 2024,
-      "imdbRating": 7
-    },
-    {
-      "id": "tt37654096",
-      "type": "movie",
-      "name": "The Last Sunrise",
-      "poster": "https://images.metahub.space/poster/medium/tt37654096/img",
-      "background": "https://images.metahub.space/background/medium/tt37654096/img",
-      "description": "Ry, a college student with a chronic illness, escapes to Mallorca for the summer with her mother, where she unexpectedly falls for a local and begins to embrace living in the moment. But as her condition worsens and long-hidden family secrets come to light, everything she has found before summer's end is threatened.",
-      "releaseInfo": 2026,
-      "imdbRating": 5.6
-    },
-    {
-      "id": "tt0083658",
-      "type": "movie",
-      "name": "Blade Runner",
-      "poster": "https://images.metahub.space/poster/medium/tt0083658/img",
-      "background": "https://images.metahub.space/background/medium/tt0083658/img",
-      "description": "In the smog-choked dystopian Los Angeles of 2019, blade runner Rick Deckard is called out of retirement to terminate a quartet of replicants who have escaped to Earth seeking their creator for a way to extend their short life spans.",
-      "releaseInfo": 1982,
-      "imdbRating": 8.1
-    },
-    {
-      "id": "tt0103874",
-      "type": "movie",
-      "name": "Bram Stoker's Dracula",
-      "poster": "https://images.metahub.space/poster/medium/tt0103874/img",
-      "background": "https://images.metahub.space/background/medium/tt0103874/img",
-      "description": "Count Dracula, a 15th-century prince, is condemned to live off the blood of the living for eternity. Young lawyer Jonathan Harker is sent to Dracula's castle to finalise a land deal, but when the Count sees a photo of Harker's fiancée, Mina, the spitting image of his dead wife, he imprisons him and sets off for London to track her down.",
-      "releaseInfo": 1992,
-      "imdbRating": 7.4
-    },
-    {
-      "id": "tt2181831",
-      "type": "movie",
-      "name": "Shahid",
-      "poster": "https://images.metahub.space/poster/medium/tt2181831/img",
-      "background": "https://images.metahub.space/background/medium/tt2181831/img",
-      "description": "A story based on real-life human-rights and criminal lawyer, Shahid Azmi, who was slain while defending the wrongly accused by the law in terrorist activities.",
-      "releaseInfo": 2013,
-      "imdbRating": 8.2
-    },
-    {
-      "id": "tt34385135",
-      "type": "movie",
-      "name": "Gunche",
-      "poster": "https://images.metahub.space/poster/medium/tt34385135/img",
-      "background": "https://images.metahub.space/background/medium/tt34385135/img",
-      "description": "Professor Se Jeong attends a biotech conference, only to witness it spiral into catastrophe when a rapidly mutating virus is unleashed. As the outbreak spreads and the infected begin to transform, authorities seal off the entire facility.",
-      "releaseInfo": 2026,
-      "imdbRating": 6.5
-    },
-    {
-      "id": "tt0084516",
-      "type": "movie",
-      "name": "Poltergeist",
-      "poster": "https://images.metahub.space/poster/medium/tt0084516/img",
-      "background": "https://images.metahub.space/background/medium/tt0084516/img",
-      "description": "The Freelings' suburban home becomes the center of paranormal activity that opens a portal to the 'other side'. With help, they must cross over to get their daughter back.",
-      "releaseInfo": 1982,
-      "imdbRating": 7.3
-    },
-    {
-      "id": "tt12042730",
-      "type": "movie",
-      "name": "Project Hail Mary",
-      "poster": "https://images.metahub.space/poster/medium/tt12042730/img",
-      "background": "https://images.metahub.space/background/medium/tt12042730/img",
-      "description": "Science teacher Ryland Grace wakes up on a spaceship light years from home with no recollection of who he is or how he got there. As his memory returns, he begins to uncover his mission: solve the riddle of the mysterious substance causing the sun to die out. He must call on his scientific knowledge and unorthodox ideas to save everything on Earth from extinction.",
-      "releaseInfo": 2026,
-      "imdbRating": 8.2
+      "name": "Nude",
+      "poster": "https://images.metahub.space/poster/medium/tt6323306/img",
+      "background": "https://images.metahub.space/background/medium/tt6323306/img",
+      "description": "NUDE explores perceptions of nudity in art by chronicling the creative process of photographer David Bellemere as he's commissioned by NU Muses founder Steve Shaw to shoot a fine art calendar of nude photographs.",
+      "releaseInfo": 2017,
+      "imdbRating": 5.7
     },
     {
       "id": "tt37853455",
@@ -331,26 +271,6 @@
       "imdbRating": 6
     },
     {
-      "id": "tt10698680",
-      "type": "movie",
-      "name": "K.G.F: Chapter 2",
-      "poster": "https://images.metahub.space/poster/medium/tt10698680/img",
-      "background": "https://images.metahub.space/background/medium/tt10698680/img",
-      "description": "In the blood-soaked Kolar Gold Fields, Rocky's name strikes fear into his foes, while the government sees him as a threat to law and order. Rocky must battle threats from all sides for unchallenged supremacy.",
-      "releaseInfo": 2022,
-      "imdbRating": 8.2
-    },
-    {
-      "id": "tt28443655",
-      "type": "movie",
-      "name": "Death of a Unicorn",
-      "poster": "https://images.metahub.space/poster/medium/tt28443655/img",
-      "background": "https://images.metahub.space/background/medium/tt28443655/img",
-      "description": "A father and daughter accidentally hit and kill a unicorn while en route to a weekend retreat, where his billionaire boss seeks to exploit the creature’s miraculous curative properties.",
-      "releaseInfo": 2025,
-      "imdbRating": 5.8
-    },
-    {
       "id": "tt0094721",
       "type": "movie",
       "name": "Beetlejuice",
@@ -361,94 +281,54 @@
       "imdbRating": 7.4
     },
     {
-      "id": "tt0107688",
+      "id": "tt10698680",
       "type": "movie",
-      "name": "The Nightmare Before Christmas",
-      "poster": "https://images.metahub.space/poster/medium/tt0107688/img",
-      "background": "https://images.metahub.space/background/medium/tt0107688/img",
-      "description": "Tired of scaring humans every October 31 with the same old bag of tricks, Jack Skellington, the spindly king of Halloween Town, kidnaps Santa Claus and plans to deliver shrunken heads and other ghoulish gifts to children on Christmas morning. But as Christmas approaches, Jack's rag-doll girlfriend, Sally, tries to foil his misguided plans.",
-      "releaseInfo": 1993,
-      "imdbRating": 7.9
+      "name": "K.G.F: Chapter 2",
+      "poster": "https://images.metahub.space/poster/medium/tt10698680/img",
+      "background": "https://images.metahub.space/background/medium/tt10698680/img",
+      "description": "In the blood-soaked Kolar Gold Fields, Rocky's name strikes fear into his foes, while the government sees him as a threat to law and order. Rocky must battle threats from all sides for unchallenged supremacy.",
+      "releaseInfo": 2022,
+      "imdbRating": 8.2
     },
     {
-      "id": "tt32820897",
+      "id": "tt40572470",
       "type": "movie",
-      "name": "Demon Slayer: Kimetsu no Yaiba Infinity Castle",
-      "poster": "https://images.metahub.space/poster/medium/tt32820897/img",
-      "background": "https://images.metahub.space/background/medium/tt32820897/img",
-      "description": "The Demon Slayer Corps are drawn into the Infinity Castle, where Tanjiro, Nezuko, and the Hashira face terrifying Upper Rank demons in a desperate fight as the final battle against Muzan Kibutsuji begins.",
-      "releaseInfo": 2025,
-      "imdbRating": 8.3
-    },
-    {
-      "id": "tt0087363",
-      "type": "movie",
-      "name": "Gremlins",
-      "poster": "https://images.metahub.space/poster/medium/tt0087363/img",
-      "background": "https://images.metahub.space/background/medium/tt0087363/img",
-      "description": "After receiving an exotic small animal as a Christmas gift, a young man inadvertently breaks three important rules concerning his new pet, which unleashes a horde of malevolently mischievous creatures on a small town.",
-      "releaseInfo": 1984,
-      "imdbRating": 7.3
-    },
-    {
-      "id": "tt31723358",
-      "type": "movie",
-      "name": "Tell Me What You Want",
-      "poster": "https://images.metahub.space/poster/medium/tt31723358/img",
-      "background": "https://images.metahub.space/background/medium/tt31723358/img",
-      "description": "After his father's death, Eric Zimmerman travels to Spain to oversee his company's branches. In Madrid, he falls for Judith and engage in an intense, erotic relationship full of exploration. However, Eric fears his secret may end their affair.",
-      "releaseInfo": 2024,
-      "imdbRating": 4.1
-    },
-    {
-      "id": "tt4154796",
-      "type": "movie",
-      "name": "Avengers: Endgame",
-      "poster": "https://images.metahub.space/poster/medium/tt4154796/img",
-      "background": "https://images.metahub.space/background/medium/tt4154796/img",
-      "description": "After the devastating events of Avengers: Infinity War, the universe is in ruins due to the efforts of the Mad Titan, Thanos. With the help of remaining allies, the Avengers must assemble once more in order to undo Thanos' actions and restore order to the universe once and for all, no matter what consequences may be in store.",
-      "releaseInfo": 2019,
-      "imdbRating": 8.4
-    },
-    {
-      "id": "tt15574270",
-      "type": "movie",
-      "name": "I Saw the TV Glow",
-      "poster": "https://images.metahub.space/poster/medium/tt15574270/img",
-      "background": "https://images.metahub.space/background/medium/tt15574270/img",
-      "description": "In late-90s suburbia, a lonely teenager meets a girl at school who introduces him to a mysterious late-night T.V. show — a vision of a supernatural world pulsing beneath their own. As time goes on, however, questions begin to arise about why the show sometimes seems more real than their own lives. In the pale glow of the television, their view of reality begins to crack.",
-      "releaseInfo": 2024,
-      "imdbRating": 5.8
-    },
-    {
-      "id": "tt42481138",
-      "type": "movie",
-      "name": "Bombay Stories",
-      "poster": "https://images.metahub.space/poster/medium/tt42481138/img",
-      "background": "https://images.metahub.space/background/medium/tt42481138/img",
-      "description": "Adapted from the short stories of Pakistani writer Saadat Hasan Manto, the film interweaves the lives of three sex workers and their pimps.",
+      "name": "Deewana",
+      "poster": "https://images.metahub.space/poster/medium/tt40572470/img",
+      "background": "https://images.metahub.space/background/medium/tt40572470/img",
+      "description": "Follows a young man experiencing unrequited love as he navigates his longing and vulnerability toward Ammu.",
       "releaseInfo": 2026,
-      "imdbRating": 6
+      "imdbRating": 8.1
     },
     {
-      "id": "tt16539454",
+      "id": "tt37654096",
       "type": "movie",
-      "name": "Pushpa: The Rule - Part 2",
-      "poster": "https://images.metahub.space/poster/medium/tt16539454/img",
-      "background": "https://images.metahub.space/background/medium/tt16539454/img",
-      "description": "As his smuggling empire grows, a brazen Pushpa longs for power and respect on his vengeful journey, while facing old rivals and new.",
-      "releaseInfo": 2024,
-      "imdbRating": 6
+      "name": "The Last Sunrise",
+      "poster": "https://images.metahub.space/poster/medium/tt37654096/img",
+      "background": "https://images.metahub.space/background/medium/tt37654096/img",
+      "description": "Ry, a college student with a chronic illness, escapes to Mallorca for the summer with her mother, where she unexpectedly falls for a local and begins to embrace living in the moment. But as her condition worsens and long-hidden family secrets come to light, everything she has found before summer's end is threatened.",
+      "releaseInfo": 2026,
+      "imdbRating": 5.6
     },
     {
-      "id": "tt6718170",
+      "id": "tt12042730",
       "type": "movie",
-      "name": "The Super Mario Bros. Movie",
-      "poster": "https://images.metahub.space/poster/medium/tt6718170/img",
-      "background": "https://images.metahub.space/background/medium/tt6718170/img",
-      "description": "While working underground to fix a water main, Brooklyn plumbers—and brothers—Mario and Luigi are transported down a mysterious pipe and wander into a magical new world. But when the brothers are separated, Mario embarks on an epic quest to find Luigi.",
-      "releaseInfo": 2023,
-      "imdbRating": 7
+      "name": "Project Hail Mary",
+      "poster": "https://images.metahub.space/poster/medium/tt12042730/img",
+      "background": "https://images.metahub.space/background/medium/tt12042730/img",
+      "description": "Science teacher Ryland Grace wakes up on a spaceship light years from home with no recollection of who he is or how he got there. As his memory returns, he begins to uncover his mission: solve the riddle of the mysterious substance causing the sun to die out. He must call on his scientific knowledge and unorthodox ideas to save everything on Earth from extinction.",
+      "releaseInfo": 2026,
+      "imdbRating": 8.2
+    },
+    {
+      "id": "tt5606664",
+      "type": "movie",
+      "name": "Doctor Sleep",
+      "poster": "https://images.metahub.space/poster/medium/tt5606664/img",
+      "background": "https://images.metahub.space/background/medium/tt5606664/img",
+      "description": "Still scarred by the trauma he endured as a child at the Overlook Hotel, Dan Torrance faces the ghosts of the past when he meets Abra, a courageous teen who desperately needs his help -- and who possesses a powerful extrasensory ability called the \"shine\".",
+      "releaseInfo": 2019,
+      "imdbRating": 7.3
     },
     {
       "id": "tt27543632",
@@ -461,6 +341,46 @@
       "imdbRating": 6.7
     },
     {
+      "id": "tt28443655",
+      "type": "movie",
+      "name": "Death of a Unicorn",
+      "poster": "https://images.metahub.space/poster/medium/tt28443655/img",
+      "background": "https://images.metahub.space/background/medium/tt28443655/img",
+      "description": "A father and daughter accidentally hit and kill a unicorn while en route to a weekend retreat, where his billionaire boss seeks to exploit the creature’s miraculous curative properties.",
+      "releaseInfo": 2025,
+      "imdbRating": 5.8
+    },
+    {
+      "id": "tt29268110",
+      "type": "movie",
+      "name": "Smile 2",
+      "poster": "https://images.metahub.space/poster/medium/tt29268110/img",
+      "background": "https://images.metahub.space/background/medium/tt29268110/img",
+      "description": "About to embark on a new world tour, global pop sensation Skye Riley begins experiencing increasingly terrifying and inexplicable events. Overwhelmed by the escalating horrors and the pressures of fame, Skye is forced to face her dark past to regain control of her life before it spirals out of control.",
+      "releaseInfo": 2024,
+      "imdbRating": 6.7
+    },
+    {
+      "id": "tt31723358",
+      "type": "movie",
+      "name": "Tell Me What You Want",
+      "poster": "https://images.metahub.space/poster/medium/tt31723358/img",
+      "background": "https://images.metahub.space/background/medium/tt31723358/img",
+      "description": "After his father's death, Eric Zimmerman travels to Spain to oversee his company's branches. In Madrid, he falls for Judith and engage in an intense, erotic relationship full of exploration. However, Eric fears his secret may end their affair.",
+      "releaseInfo": 2024,
+      "imdbRating": 4.1
+    },
+    {
+      "id": "tt0103874",
+      "type": "movie",
+      "name": "Bram Stoker's Dracula",
+      "poster": "https://images.metahub.space/poster/medium/tt0103874/img",
+      "background": "https://images.metahub.space/background/medium/tt0103874/img",
+      "description": "Count Dracula, a 15th-century prince, is condemned to live off the blood of the living for eternity. Young lawyer Jonathan Harker is sent to Dracula's castle to finalise a land deal, but when the Count sees a photo of Harker's fiancée, Mina, the spitting image of his dead wife, he imprisons him and sets off for London to track her down.",
+      "releaseInfo": 1992,
+      "imdbRating": 7.4
+    },
+    {
       "id": "tt0091419",
       "type": "movie",
       "name": "Little Shop of Horrors",
@@ -471,14 +391,14 @@
       "imdbRating": 7.1
     },
     {
-      "id": "tt35727678",
+      "id": "tt0082495",
       "type": "movie",
-      "name": "Ek Deewane Ki Deewaniyat",
-      "poster": "https://images.metahub.space/poster/medium/tt35727678/img",
-      "background": "https://images.metahub.space/background/medium/tt35727678/img",
-      "description": "When Vikramaditya, a powerful politician falls  for a strong-willed superstar Adaa , their passionate romance quickly spirals into a dangerous game of obsession and pride. As emotions clash and tempers rise, Adaa makes a life-altering choice.",
-      "releaseInfo": 2025,
-      "imdbRating": 4.7
+      "name": "Halloween II",
+      "poster": "https://images.metahub.space/poster/medium/tt0082495/img",
+      "background": "https://images.metahub.space/background/medium/tt0082495/img",
+      "description": "After failing to kill stubborn survivor Laurie and taking a bullet or six from former psychiatrist Dr. Sam Loomis, Michael Myers has followed Laurie to the Haddonfield Memorial Hospital, where she's been admitted for Myers' attempt on her life. The institution proves to be particularly suited to serial killers, however, as Myers cuts, stabs and slashes his way through hospital staff to reach his favorite victim.",
+      "releaseInfo": 1981,
+      "imdbRating": 6.5
     },
     {
       "id": "tt0162661",
@@ -491,14 +411,94 @@
       "imdbRating": 7.3
     },
     {
-      "id": "tt0414387",
+      "id": "tt0087363",
       "type": "movie",
-      "name": "Pride & Prejudice",
-      "poster": "https://images.metahub.space/poster/medium/tt0414387/img",
-      "background": "https://images.metahub.space/background/medium/tt0414387/img",
-      "description": "A story of love and life among the landed English gentry during the Georgian era. Mr. Bennet is a gentleman living in Hertfordshire with his overbearing wife and five daughters, but if he dies their house will be inherited by a distant cousin whom they have never met, so the family's future happiness and security is dependent on the daughters making good marriages.",
-      "releaseInfo": 2005,
-      "imdbRating": 7.8
+      "name": "Gremlins",
+      "poster": "https://images.metahub.space/poster/medium/tt0087363/img",
+      "background": "https://images.metahub.space/background/medium/tt0087363/img",
+      "description": "After receiving an exotic small animal as a Christmas gift, a young man inadvertently breaks three important rules concerning his new pet, which unleashes a horde of malevolently mischievous creatures on a small town.",
+      "releaseInfo": 1984,
+      "imdbRating": 7.3
+    },
+    {
+      "id": "tt33379543",
+      "type": "movie",
+      "name": "Jana Nayagan",
+      "poster": "https://images.metahub.space/poster/medium/tt33379543/img",
+      "background": "https://images.metahub.space/background/medium/tt33379543/img",
+      "description": "A clash of ideologies. One stands for the people, the other feeds on control. Their paths collided once before. Years later, a child’s silent fear ignites the past, drawing a former police officer into a battle far bigger than personal revenge.",
+      "releaseInfo": 2026,
+      "imdbRating": 5.2
+    },
+    {
+      "id": "tt32393988",
+      "type": "movie",
+      "name": "Insidious: Out of the Further",
+      "poster": "https://images.metahub.space/poster/medium/tt32393988/img",
+      "background": "https://images.metahub.space/background/medium/tt32393988/img",
+      "description": "Gemma, a young mother raising her daughter in the house she grew up in, discovers she can travel into The Further, where she possesses an ability to bring what lives there back to the real world.",
+      "releaseInfo": 2026,
+      "imdbRating": 6.2
+    },
+    {
+      "id": "tt0119081",
+      "type": "movie",
+      "name": "Event Horizon",
+      "poster": "https://images.metahub.space/poster/medium/tt0119081/img",
+      "background": "https://images.metahub.space/background/medium/tt0119081/img",
+      "description": "In 2047, a group of astronauts are sent to investigate and salvage the starship Event Horizon which disappeared mysteriously seven years before on its maiden voyage. However, it soon becomes evident that something sinister resides in its corridors.",
+      "releaseInfo": 1997,
+      "imdbRating": 6.6
+    },
+    {
+      "id": "tt0085636",
+      "type": "movie",
+      "name": "Halloween III: Season of the Witch",
+      "poster": "https://images.metahub.space/poster/medium/tt0085636/img",
+      "background": "https://images.metahub.space/background/medium/tt0085636/img",
+      "description": "After a terrified toy salesman is mysteriously attacked and brought to the hospital clutching the year's most popular Halloween mask, Dr. Daniel Challis sets out to investigate the strange events and finds himself thrust into a nightmarish conspiracy.",
+      "releaseInfo": 1982,
+      "imdbRating": 5.2
+    },
+    {
+      "id": "tt35521922",
+      "type": "movie",
+      "name": "Good Boy",
+      "poster": "https://images.metahub.space/poster/medium/tt35521922/img",
+      "background": "https://images.metahub.space/background/medium/tt35521922/img",
+      "description": "A loyal dog moves to a rural family home with his owner Todd, only to discover supernatural forces lurking in the shadows. As dark entities threaten his human companion, the brave pup must fight to protect the one he loves most.",
+      "releaseInfo": 2025,
+      "imdbRating": 6.1
+    },
+    {
+      "id": "tt16539454",
+      "type": "movie",
+      "name": "Pushpa: The Rule - Part 2",
+      "poster": "https://images.metahub.space/poster/medium/tt16539454/img",
+      "background": "https://images.metahub.space/background/medium/tt16539454/img",
+      "description": "As his smuggling empire grows, a brazen Pushpa longs for power and respect on his vengeful journey, while facing old rivals and new.",
+      "releaseInfo": 2024,
+      "imdbRating": 6
+    },
+    {
+      "id": "tt0083907",
+      "type": "movie",
+      "name": "The Evil Dead",
+      "poster": "https://images.metahub.space/poster/medium/tt0083907/img",
+      "background": "https://images.metahub.space/background/medium/tt0083907/img",
+      "description": "In 1979, a group of college students find a Sumerian Book of the Dead in an old wilderness cabin they've rented for a weekend getaway.",
+      "releaseInfo": 1981,
+      "imdbRating": 7.3
+    },
+    {
+      "id": "tt42481138",
+      "type": "movie",
+      "name": "Bombay Stories",
+      "poster": "https://images.metahub.space/poster/medium/tt42481138/img",
+      "background": "https://images.metahub.space/background/medium/tt42481138/img",
+      "description": "Adapted from the short stories of Pakistani writer Saadat Hasan Manto, the film interweaves the lives of three sex workers and their pimps.",
+      "releaseInfo": 2026,
+      "imdbRating": 5.4
     }
   ]
 }

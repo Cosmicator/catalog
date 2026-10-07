@@ -12,6 +12,17 @@
       "imdbRating": "9.2"
     },
     {
+      "id": "tt12004706",
+      "type": "series",
+      "name": "Panchayat",
+      "poster": "https://images.metahub.space/poster/small/tt12004706/img",
+      "background": "https://images.metahub.space/background/medium/tt12004706/img",
+      "logo": "https://images.metahub.space/logo/medium/tt12004706/img",
+      "description": "A comedy-drama, which captures the journey of an engineering graduate Abhishek, who for lack of a better job option joins as secretary of a Panchayat office in a remote village of Uttar Pradesh.",
+      "releaseInfo": "2020–",
+      "imdbRating": "9.0"
+    },
+    {
       "id": "tt1475582",
       "type": "series",
       "name": "Sherlock",
@@ -23,14 +34,14 @@
       "imdbRating": "9.0"
     },
     {
-      "id": "tt12004706",
+      "id": "tt0388629",
       "type": "series",
-      "name": "Panchayat",
-      "poster": "https://images.metahub.space/poster/small/tt12004706/img",
-      "background": "https://images.metahub.space/background/medium/tt12004706/img",
-      "logo": "https://images.metahub.space/logo/medium/tt12004706/img",
-      "description": "A comedy-drama, which captures the journey of an engineering graduate Abhishek, who for lack of a better job option joins as secretary of a Panchayat office in a remote village of Uttar Pradesh.",
-      "releaseInfo": "2020–",
+      "name": "One Piece",
+      "poster": "https://images.metahub.space/poster/small/tt0388629/img",
+      "background": "https://images.metahub.space/background/medium/tt0388629/img",
+      "logo": "https://images.metahub.space/logo/medium/tt0388629/img",
+      "description": "Monkey D. Luffy, a pirate with rubber powers, forms the Straw Hat crew and sails the Grand Line, battling rivals and the World Government on a quest for the legendary treasure One Piece and the title of Pirate King.",
+      "releaseInfo": "1999–",
       "imdbRating": "9.0"
     },
     {
@@ -45,14 +56,14 @@
       "imdbRating": "8.9"
     },
     {
-      "id": "tt7660850",
+      "id": "tt35495073",
       "type": "series",
-      "name": "Succession",
-      "poster": "https://images.metahub.space/poster/small/tt7660850/img",
-      "background": "https://images.metahub.space/background/medium/tt7660850/img",
-      "logo": "https://images.metahub.space/logo/medium/tt7660850/img",
-      "description": "The Roy family is known for controlling the biggest media and entertainment company in the world. However, their world changes when their father steps down from the company.",
-      "releaseInfo": "2018–2023",
+      "name": "Heated Rivalry",
+      "poster": "https://images.metahub.space/poster/small/tt35495073/img",
+      "background": "https://images.metahub.space/background/medium/tt35495073/img",
+      "logo": "https://images.metahub.space/logo/medium/tt35495073/img",
+      "description": "Two rival hockey stars at the top of their game face an unexpected challenge when they develop feelings for each other, complicating their careers and the sport's expectations.",
+      "releaseInfo": "2025–",
       "imdbRating": "8.8"
     },
     {
@@ -75,6 +86,28 @@
       "logo": "https://images.metahub.space/logo/medium/tt5753856/img",
       "description": "A family saga with a supernatural twist, set in a German town where the disappearance of two young children exposes the relationships among four families.",
       "releaseInfo": "2017–2020",
+      "imdbRating": "8.7"
+    },
+    {
+      "id": "tt0988824",
+      "type": "series",
+      "name": "Naruto: Shippuden",
+      "poster": "https://images.metahub.space/poster/small/tt0988824/img",
+      "background": "https://images.metahub.space/background/medium/tt0988824/img",
+      "logo": "https://images.metahub.space/logo/medium/tt0988824/img",
+      "description": "Naruto Uzumaki, is a loud, hyperactive, adolescent ninja who constantly searches for approval and recognition, as well as to become Hokage, who is acknowledged as the leader and strongest of all ninja in the village.",
+      "releaseInfo": "2007–2017",
+      "imdbRating": "8.7"
+    },
+    {
+      "id": "tt0412142",
+      "type": "series",
+      "name": "House",
+      "poster": "https://images.metahub.space/poster/small/tt0412142/img",
+      "background": "https://images.metahub.space/background/medium/tt0412142/img",
+      "logo": "https://images.metahub.space/logo/medium/tt0412142/img",
+      "description": "Using a crack team of doctors and his wits, an antisocial maverick doctor specializing in diagnostic medicine does whatever it takes to solve puzzling cases that come his way.",
+      "releaseInfo": "2004–2012",
       "imdbRating": "8.7"
     },
     {
@@ -122,6 +155,17 @@
       "imdbRating": "8.5"
     },
     {
+      "id": "tt1758429",
+      "type": "series",
+      "name": "Spartacus: Gods of the Arena",
+      "poster": "https://images.metahub.space/poster/small/tt1758429/img",
+      "background": "https://images.metahub.space/background/medium/tt1758429/img",
+      "logo": "https://images.metahub.space/logo/medium/tt1758429/img",
+      "description": "In the time before the arrival of Spartacus, the House of Batiatus faces many challenges from competitors, and within its own household.",
+      "releaseInfo": "2011",
+      "imdbRating": "8.5"
+    },
+    {
       "id": "tt9335498",
       "type": "series",
       "name": "Demon Slayer: Kimetsu no Yaiba",
@@ -166,14 +210,14 @@
       "imdbRating": "8.5"
     },
     {
-      "id": "tt10802170",
+      "id": "tt11854694",
       "type": "series",
-      "name": "The Rehearsal",
-      "poster": "https://images.metahub.space/poster/small/tt10802170/img",
-      "background": "https://images.metahub.space/background/medium/tt10802170/img",
-      "logo": "https://images.metahub.space/logo/medium/tt10802170/img",
-      "description": "Nathan Fielder gives people a chance to rehearse for their own lives in a world where nothing ever works out as expected.",
-      "releaseInfo": "2022–",
+      "name": "Special OPS",
+      "poster": "https://images.metahub.space/poster/small/tt11854694/img",
+      "background": "https://images.metahub.space/background/medium/tt11854694/img",
+      "logo": "https://images.metahub.space/logo/medium/tt11854694/img",
+      "description": "A relentless hero and a terror mastermind are engaged in a high-stakes race against time, as Himmat Singh and his team embark on a mission to end a 19-year-long manhunt.",
+      "releaseInfo": "2020–2025",
       "imdbRating": "8.5"
     },
     {
@@ -218,6 +262,17 @@
       "logo": "https://images.metahub.space/logo/medium/tt5675620/img",
       "description": "After his revenge on those who murdered his family, aimless Marine veteran Frank Castle finds a new meaning in life as a vigilante known as \"The Punisher\".",
       "releaseInfo": "2017–2019",
+      "imdbRating": "8.4"
+    },
+    {
+      "id": "tt40197357",
+      "type": "series",
+      "name": "Scrubs",
+      "poster": "https://images.metahub.space/poster/small/tt40197357/img",
+      "background": "https://images.metahub.space/background/medium/tt40197357/img",
+      "logo": "https://images.metahub.space/logo/medium/tt40197357/img",
+      "description": "JD and Turk scrub in together after a long break. Medicine and interns have evolved, but their friendship remains strong. New and familiar faces at Sacred Heart bring laughs, emotion, and unexpected moments.",
+      "releaseInfo": "2026–",
       "imdbRating": "8.4"
     },
     {
@@ -276,28 +331,6 @@
       "imdbRating": "8.2"
     },
     {
-      "id": "tt8772296",
-      "type": "series",
-      "name": "Euphoria",
-      "poster": "https://images.metahub.space/poster/small/tt8772296/img",
-      "background": "https://images.metahub.space/background/medium/tt8772296/img",
-      "logo": "https://images.metahub.space/logo/medium/tt8772296/img",
-      "description": "A group of teenagers experience the ups and downs of love and friendship in a world of social networks, sex, drugs, and violence.",
-      "releaseInfo": "2019–2026",
-      "imdbRating": "8.2"
-    },
-    {
-      "id": "tt11815682",
-      "type": "series",
-      "name": "Hacks",
-      "poster": "https://images.metahub.space/poster/small/tt11815682/img",
-      "background": "https://images.metahub.space/background/medium/tt11815682/img",
-      "logo": "https://images.metahub.space/logo/medium/tt11815682/img",
-      "description": "Explores a dark mentorship that forms between Deborah Vance, a legendary Las Vegas comedian, and an entitled, outcast 25-year-old.",
-      "releaseInfo": "2021–2026",
-      "imdbRating": "8.2"
-    },
-    {
       "id": "tt6468322",
       "type": "series",
       "name": "Money Heist",
@@ -306,6 +339,17 @@
       "logo": "https://live.metahub.space/logo/medium/tt6468322/img",
       "description": "To carry out the biggest heist in history, a mysterious man called The Professor recruits a band of eight robbers who have a single characteristic: none of them has anything to lose. Five months of seclusion - memorizing every step, every detail, every probability - culminate in eleven days locked up in the National Coinage and Stamp Factory of Spain, surrounded by police forces and with dozens of hostages in their power, to find out whether their suicide wager will lead to everything or nothing.",
       "releaseInfo": "2017–2021",
+      "imdbRating": "8.2"
+    },
+    {
+      "id": "tt8772296",
+      "type": "series",
+      "name": "Euphoria",
+      "poster": "https://images.metahub.space/poster/small/tt8772296/img",
+      "background": "https://images.metahub.space/background/medium/tt8772296/img",
+      "logo": "https://images.metahub.space/logo/medium/tt8772296/img",
+      "description": "A group of teenagers experience the ups and downs of love and friendship in a world of social networks, sex, drugs, and violence.",
+      "releaseInfo": "2019–2026",
       "imdbRating": "8.2"
     },
     {
@@ -331,26 +375,15 @@
       "imdbRating": "8.2"
     },
     {
-      "id": "tt7772588",
+      "id": "tt4305162",
       "type": "series",
-      "name": "For All Mankind",
-      "poster": "https://images.metahub.space/poster/small/tt7772588/img",
-      "background": "https://images.metahub.space/background/medium/tt7772588/img",
-      "logo": "https://images.metahub.space/logo/medium/tt7772588/img",
-      "description": "In an alternative version of 1969, the Soviet Union beats the United States to the Moon, and the space race continues on for decades with still grander challenges and goals.",
-      "releaseInfo": "2019–2027",
-      "imdbRating": "8.1"
-    },
-    {
-      "id": "tt15677150",
-      "type": "series",
-      "name": "Shrinking",
-      "poster": "https://images.metahub.space/poster/small/tt15677150/img",
-      "background": "https://images.metahub.space/background/medium/tt15677150/img",
-      "logo": "https://images.metahub.space/logo/medium/tt15677150/img",
-      "description": "A grieving therapist starts to tell his clients exactly what he thinks. Ignoring his training and ethics, he finds himself making huge changes to people's lives - including his own.",
-      "releaseInfo": "2023–",
-      "imdbRating": "8.1"
+      "name": "Expedition Unknown",
+      "poster": "https://images.metahub.space/poster/small/tt4305162/img",
+      "background": "https://images.metahub.space/background/medium/tt4305162/img",
+      "logo": "https://images.metahub.space/logo/medium/tt4305162/img",
+      "description": "An archeologist travels around the world looking for unknown and missing artifacts from throughout time.",
+      "releaseInfo": "2015–",
+      "imdbRating": "8.2"
     },
     {
       "id": "tt14688458",
@@ -364,6 +397,17 @@
       "imdbRating": "8.1"
     },
     {
+      "id": "tt7772588",
+      "type": "series",
+      "name": "For All Mankind",
+      "poster": "https://images.metahub.space/poster/small/tt7772588/img",
+      "background": "https://images.metahub.space/background/medium/tt7772588/img",
+      "logo": "https://images.metahub.space/logo/medium/tt7772588/img",
+      "description": "In an alternative version of 1969, the Soviet Union beats the United States to the Moon, and the space race continues on for decades with still grander challenges and goals.",
+      "releaseInfo": "2019–2027",
+      "imdbRating": "8.1"
+    },
+    {
       "id": "tt0758790",
       "type": "series",
       "name": "The Tudors",
@@ -372,6 +416,17 @@
       "logo": "https://images.metahub.space/logo/medium/tt0758790/img",
       "description": "Epic series reveals the scandalous life of a young king whose affairs and obsession with producing a male heir changed marriage, the church, and the world.",
       "releaseInfo": "2007–2010",
+      "imdbRating": "8.1"
+    },
+    {
+      "id": "tt15677150",
+      "type": "series",
+      "name": "Shrinking",
+      "poster": "https://images.metahub.space/poster/small/tt15677150/img",
+      "background": "https://images.metahub.space/background/medium/tt15677150/img",
+      "logo": "https://images.metahub.space/logo/medium/tt15677150/img",
+      "description": "A grieving therapist starts to tell his clients exactly what he thinks. Ignoring his training and ethics, he finds himself making huge changes to people's lives - including his own.",
+      "releaseInfo": "2023–",
       "imdbRating": "8.1"
     },
     {
@@ -404,7 +459,7 @@
       "background": "https://live.metahub.space/background/medium/tt40856520/img",
       "logo": "https://live.metahub.space/logo/medium/tt40856520/img",
       "description": "A relaxed principal tries to reform a failing public school, triggering a messy transformation as misfit teachers work to repair the system one lesson at a time.",
-      "releaseInfo": "2026–2026",
+      "releaseInfo": "2026–",
       "imdbRating": "8.1"
     },
     {
@@ -419,17 +474,6 @@
       "imdbRating": "8.1"
     },
     {
-      "id": "tt1520211",
-      "type": "series",
-      "name": "The Walking Dead",
-      "poster": "https://images.metahub.space/poster/small/tt1520211/img",
-      "background": "https://images.metahub.space/background/medium/tt1520211/img",
-      "logo": "https://images.metahub.space/logo/medium/tt1520211/img",
-      "description": "Sheriff Deputy Rick Grimes wakes up from a coma to learn the world is in ruins and must lead a group of survivors to stay alive.",
-      "releaseInfo": "2010–2022",
-      "imdbRating": "8.1"
-    },
-    {
       "id": "tt26915338",
       "type": "series",
       "name": "Gyaarah Gyaarah",
@@ -438,17 +482,6 @@
       "logo": "https://images.metahub.space/logo/medium/tt26915338/img",
       "description": "Investigative drama following events in 1990, 2001, 2016. Intertwining storylines blending mysticism, science and mystery across the decades.",
       "releaseInfo": "2024–",
-      "imdbRating": "8.1"
-    },
-    {
-      "id": "tt0914387",
-      "type": "series",
-      "name": "Damages",
-      "poster": "https://images.metahub.space/poster/small/tt0914387/img",
-      "background": "https://images.metahub.space/background/medium/tt0914387/img",
-      "logo": "https://images.metahub.space/logo/medium/tt0914387/img",
-      "description": "A law school graduate becomes the protégée of a successful high-stakes litigator.",
-      "releaseInfo": "2007–2012",
       "imdbRating": "8.1"
     },
     {
@@ -463,6 +496,17 @@
       "imdbRating": "8.1"
     },
     {
+      "id": "tt0914387",
+      "type": "series",
+      "name": "Damages",
+      "poster": "https://images.metahub.space/poster/small/tt0914387/img",
+      "background": "https://images.metahub.space/background/medium/tt0914387/img",
+      "logo": "https://images.metahub.space/logo/medium/tt0914387/img",
+      "description": "A law school graduate becomes the protégée of a successful high-stakes litigator.",
+      "releaseInfo": "2007–2012",
+      "imdbRating": "8.1"
+    },
+    {
       "id": "tt0092400",
       "type": "series",
       "name": "Married... with Children",
@@ -471,17 +515,6 @@
       "logo": "https://images.metahub.space/logo/medium/tt0092400/img",
       "description": "Al is the quintessential working class dad. Peggy, his wife, always wants more from him. With their children, they go through the highs and lows of ordinary life.",
       "releaseInfo": "1987–1997",
-      "imdbRating": "8.1"
-    },
-    {
-      "id": "tt29615330",
-      "type": "series",
-      "name": "The New Years",
-      "poster": "https://images.metahub.space/poster/small/tt29615330/img",
-      "background": "https://images.metahub.space/background/medium/tt29615330/img",
-      "logo": "https://images.metahub.space/logo/medium/tt29615330/img",
-      "description": "Oscar, stuck with a crappy medical contract, is still hooked on his ex. Ana, without a partner or a job, feels lost and plans to move away. Over the next ten years, they will have to face the passage of time and the decisions they...",
-      "releaseInfo": "2024",
       "imdbRating": "8.1"
     },
     {
@@ -515,36 +548,6 @@
       "logo": "https://images.metahub.space/logo/medium/tt5489746/img",
       "description": "A TV series where individuals share their perspectives of loved ones who committed horrific crimes.",
       "releaseInfo": "2016–",
-      "imdbRating": "8.0"
-    },
-    {
-      "id": "tt10982034",
-      "type": "series",
-      "name": "Trying",
-      "poster": "https://images.metahub.space/poster/small/tt10982034/img",
-      "background": "https://images.metahub.space/background/medium/tt10982034/img",
-      "logo": "https://images.metahub.space/logo/medium/tt10982034/img",
-      "description": "All Jason and Nikki want is a baby, but it's the one thing they just can't have. So, they decide to adopt. With their dysfunctional friends, screwball family and chaotic lives will the adoption panel think they're ready to be pare...",
-      "releaseInfo": "2020–",
-      "imdbRating": "8.0"
-    },
-    {
-      "id": "tt15404764",
-      "type": "series",
-      "name": "Titoo",
-      "description": "Titoo is an animated kids' comedy show that follows the daily escapades of eight-year-old boy Titoo. Though, he is a good-hearted, intelligent kid who loves to help everyone, but inadvertently manages to brew even more trouble.",
-      "releaseInfo": "2020–",
-      "imdbRating": "8.0"
-    },
-    {
-      "id": "tt2712740",
-      "type": "series",
-      "name": "The Goldbergs",
-      "poster": "https://images.metahub.space/poster/small/tt2712740/img",
-      "background": "https://images.metahub.space/background/medium/tt2712740/img",
-      "logo": "https://images.metahub.space/logo/medium/tt2712740/img",
-      "description": "This ABC show takes place in Jenkintown, Pennsylvania in the 1980s and follows the lives of a family named The Goldbergs.",
-      "releaseInfo": "2013–2023",
       "imdbRating": "8.0"
     }
   ]
