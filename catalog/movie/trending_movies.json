@@ -121,16 +121,6 @@
       "imdbRating": 7.4
     },
     {
-      "id": "tt14526318",
-      "type": "movie",
-      "name": "Sardar",
-      "poster": "https://images.metahub.space/poster/medium/tt14526318/img",
-      "background": "https://images.metahub.space/background/medium/tt14526318/img",
-      "description": "An espionage agent who is branded a traitor returns from exile to take down a dubious water project and safeguard the country.",
-      "releaseInfo": 2022,
-      "imdbRating": 7.4
-    },
-    {
       "id": "tt22890246",
       "type": "movie",
       "name": "How to Have Sex",
@@ -139,6 +129,16 @@
       "description": "Three British teenage girls go on a rites-of-passage holiday - drinking, clubbing and hooking up, in what should be the best summer of their lives.",
       "releaseInfo": 2023,
       "imdbRating": 6.4
+    },
+    {
+      "id": "tt14526318",
+      "type": "movie",
+      "name": "Sardar",
+      "poster": "https://images.metahub.space/poster/medium/tt14526318/img",
+      "background": "https://images.metahub.space/background/medium/tt14526318/img",
+      "description": "An espionage agent who is branded a traitor returns from exile to take down a dubious water project and safeguard the country.",
+      "releaseInfo": 2022,
+      "imdbRating": 7.4
     },
     {
       "id": "tt12908150",
@@ -171,16 +171,6 @@
       "imdbRating": 7.3
     },
     {
-      "id": "tt41971399",
-      "type": "movie",
-      "name": "Romanchakam",
-      "poster": "https://images.metahub.space/poster/medium/tt41971399/img",
-      "background": "https://images.metahub.space/background/medium/tt41971399/img",
-      "description": "An entrepreneur hoping to make money off romance ends up falling in love. But when she blocks him on social media, he tries to reignite their spark.",
-      "releaseInfo": 2026,
-      "imdbRating": 5
-    },
-    {
       "id": "tt0083658",
       "type": "movie",
       "name": "Blade Runner",
@@ -201,14 +191,14 @@
       "imdbRating": 5.7
     },
     {
-      "id": "tt2181831",
+      "id": "tt41971399",
       "type": "movie",
-      "name": "Shahid",
-      "poster": "https://images.metahub.space/poster/medium/tt2181831/img",
-      "background": "https://images.metahub.space/background/medium/tt2181831/img",
-      "description": "A story based on real-life human-rights and criminal lawyer, Shahid Azmi, who was slain while defending the wrongly accused by the law in terrorist activities.",
-      "releaseInfo": 2013,
-      "imdbRating": 8.2
+      "name": "Romanchakam",
+      "poster": "https://images.metahub.space/poster/medium/tt41971399/img",
+      "background": "https://images.metahub.space/background/medium/tt41971399/img",
+      "description": "An entrepreneur hoping to make money off romance ends up falling in love. But when she blocks him on social media, he tries to reignite their spark.",
+      "releaseInfo": 2026,
+      "imdbRating": 4.9
     },
     {
       "id": "tt32393988",
@@ -216,7 +206,7 @@
       "name": "Insidious: Out of the Further",
       "poster": "https://images.metahub.space/poster/medium/tt32393988/img",
       "background": "https://images.metahub.space/background/medium/tt32393988/img",
-      "description": "Gemma, a young mother raising her daughter in the house she grew up in, discovers she can travel into The Further, where she possesses an ability to bring what lives there back to the real world.",
+      "description": "Gemma, a young mother raising her daughter in the house she grew up in, discovers she can travel into The Further, the purgatorial realm of lost souls at the heart of the Insidious universe. When something evil comes after her, Gemma discovers an ability that changes everything: she doesn't just enter The Further, she can bring what lives there back to the real world. Once the demons realize her power, our world becomes their playground.",
       "releaseInfo": 2026,
       "imdbRating": 6.1
     },
@@ -271,24 +261,14 @@
       "imdbRating": 7.4
     },
     {
-      "id": "tt40572470",
+      "id": "tt2181831",
       "type": "movie",
-      "name": "Deewana",
-      "poster": "https://images.metahub.space/poster/medium/tt40572470/img",
-      "background": "https://images.metahub.space/background/medium/tt40572470/img",
-      "description": "Follows a young man experiencing unrequited love as he navigates his longing and vulnerability toward Ammu.",
-      "releaseInfo": 2026,
-      "imdbRating": 8.1
-    },
-    {
-      "id": "tt0082495",
-      "type": "movie",
-      "name": "Halloween II",
-      "poster": "https://images.metahub.space/poster/medium/tt0082495/img",
-      "background": "https://images.metahub.space/background/medium/tt0082495/img",
-      "description": "After failing to kill stubborn survivor Laurie and taking a bullet or six from former psychiatrist Dr. Sam Loomis, Michael Myers has followed Laurie to the Haddonfield Memorial Hospital, where she's been admitted for Myers' attempt on her life. The institution proves to be particularly suited to serial killers, however, as Myers cuts, stabs and slashes his way through hospital staff to reach his favorite victim.",
-      "releaseInfo": 1981,
-      "imdbRating": 6.5
+      "name": "Shahid",
+      "poster": "https://images.metahub.space/poster/medium/tt2181831/img",
+      "background": "https://images.metahub.space/background/medium/tt2181831/img",
+      "description": "A story based on real-life human-rights and criminal lawyer, Shahid Azmi, who was slain while defending the wrongly accused by the law in terrorist activities.",
+      "releaseInfo": 2013,
+      "imdbRating": 8.2
     },
     {
       "id": "tt0162661",
@@ -311,6 +291,16 @@
       "imdbRating": 7.9
     },
     {
+      "id": "tt0091419",
+      "type": "movie",
+      "name": "Little Shop of Horrors",
+      "poster": "https://images.metahub.space/poster/medium/tt0091419/img",
+      "background": "https://images.metahub.space/background/medium/tt0091419/img",
+      "description": "Seymour Krelborn is a nerdy orphan working at Mushnik's, a flower shop in urban Skid Row. He harbors a crush on fellow co-worker, Audrey Fulquard, and is berated by Mr. Mushnik daily. One day, Seymour finds a very mysterious unidentified plant which he calls Audrey II. The plant seems to have a craving for blood and soon begins to sing for its supper.",
+      "releaseInfo": 1986,
+      "imdbRating": 7.1
+    },
+    {
       "id": "tt0103874",
       "type": "movie",
       "name": "Bram Stoker's Dracula",
@@ -319,16 +309,6 @@
       "description": "Count Dracula, a 15th-century prince, is condemned to live off the blood of the living for eternity. Young lawyer Jonathan Harker is sent to Dracula's castle to finalise a land deal, but when the Count sees a photo of Harker's fiancée, Mina, the spitting image of his dead wife, he imprisons him and sets off for London to track her down.",
       "releaseInfo": 1992,
       "imdbRating": 7.4
-    },
-    {
-      "id": "tt5431890",
-      "type": "movie",
-      "name": "Official Secrets",
-      "poster": "https://images.metahub.space/poster/medium/tt5431890/img",
-      "background": "https://images.metahub.space/background/medium/tt5431890/img",
-      "description": "The true story of British intelligence whistleblower Katharine Gun who—prior to the 2003 Iraq invasion—leaked a top-secret NSA memo exposing a joint US-UK illegal spying operation against members of the UN Security Council. The memo proposed blackmailing member states into voting for war.",
-      "releaseInfo": 2019,
-      "imdbRating": 7.3
     },
     {
       "id": "tt12042730",
@@ -391,16 +371,6 @@
       "imdbRating": 7.3
     },
     {
-      "id": "tt0085636",
-      "type": "movie",
-      "name": "Halloween III: Season of the Witch",
-      "poster": "https://images.metahub.space/poster/medium/tt0085636/img",
-      "background": "https://images.metahub.space/background/medium/tt0085636/img",
-      "description": "After a terrified toy salesman is mysteriously attacked and brought to the hospital clutching the year's most popular Halloween mask, Dr. Daniel Challis sets out to investigate the strange events and finds himself thrust into a nightmarish conspiracy.",
-      "releaseInfo": 1982,
-      "imdbRating": 5.2
-    },
-    {
       "id": "tt28014327",
       "type": "movie",
       "name": "Mayday",
@@ -421,14 +391,24 @@
       "imdbRating": 6.7
     },
     {
-      "id": "tt4094724",
+      "id": "tt0082495",
       "type": "movie",
-      "name": "The Purge: Election Year",
-      "poster": "https://images.metahub.space/poster/medium/tt4094724/img",
-      "background": "https://images.metahub.space/background/medium/tt4094724/img",
-      "description": "Two years after choosing not to kill the man who killed his son, former police sergeant Leo Barnes has become head of security for Senator Charlene Roan, the front runner in the next Presidential election due to her vow to eliminate the Purge. On the night of what should be the final Purge, a betrayal from within the government forces Barnes and Roan out onto the street where they must fight to survive the night.",
-      "releaseInfo": 2016,
-      "imdbRating": 6
+      "name": "Halloween II",
+      "poster": "https://images.metahub.space/poster/medium/tt0082495/img",
+      "background": "https://images.metahub.space/background/medium/tt0082495/img",
+      "description": "After failing to kill stubborn survivor Laurie and taking a bullet or six from former psychiatrist Dr. Sam Loomis, Michael Myers has followed Laurie to the Haddonfield Memorial Hospital, where she's been admitted for Myers' attempt on her life. The institution proves to be particularly suited to serial killers, however, as Myers cuts, stabs and slashes his way through hospital staff to reach his favorite victim.",
+      "releaseInfo": 1981,
+      "imdbRating": 6.5
+    },
+    {
+      "id": "tt0085636",
+      "type": "movie",
+      "name": "Halloween III: Season of the Witch",
+      "poster": "https://images.metahub.space/poster/medium/tt0085636/img",
+      "background": "https://images.metahub.space/background/medium/tt0085636/img",
+      "description": "After a terrified toy salesman is mysteriously attacked and brought to the hospital clutching the year's most popular Halloween mask, Dr. Daniel Challis sets out to investigate the strange events and finds himself thrust into a nightmarish conspiracy.",
+      "releaseInfo": 1982,
+      "imdbRating": 5.2
     },
     {
       "id": "tt2070649",
@@ -451,14 +431,34 @@
       "imdbRating": 6.7
     },
     {
-      "id": "tt0091419",
+      "id": "tt5431890",
       "type": "movie",
-      "name": "Little Shop of Horrors",
-      "poster": "https://images.metahub.space/poster/medium/tt0091419/img",
-      "background": "https://images.metahub.space/background/medium/tt0091419/img",
-      "description": "Seymour Krelborn is a nerdy orphan working at Mushnik's, a flower shop in urban Skid Row. He harbors a crush on fellow co-worker, Audrey Fulquard, and is berated by Mr. Mushnik daily. One day, Seymour finds a very mysterious unidentified plant which he calls Audrey II. The plant seems to have a craving for blood and soon begins to sing for its supper.",
-      "releaseInfo": 1986,
-      "imdbRating": 7.1
+      "name": "Official Secrets",
+      "poster": "https://images.metahub.space/poster/medium/tt5431890/img",
+      "background": "https://images.metahub.space/background/medium/tt5431890/img",
+      "description": "The true story of British intelligence whistleblower Katharine Gun who—prior to the 2003 Iraq invasion—leaked a top-secret NSA memo exposing a joint US-UK illegal spying operation against members of the UN Security Council. The memo proposed blackmailing member states into voting for war.",
+      "releaseInfo": 2019,
+      "imdbRating": 7.3
+    },
+    {
+      "id": "tt1502407",
+      "type": "movie",
+      "name": "Halloween",
+      "poster": "https://images.metahub.space/poster/medium/tt1502407/img",
+      "background": "https://images.metahub.space/background/medium/tt1502407/img",
+      "description": "Laurie Strode comes to her final confrontation with Michael Myers, the masked figure who has haunted her since she narrowly escaped his killing spree on Halloween night four decades ago.",
+      "releaseInfo": 2018,
+      "imdbRating": 6.5
+    },
+    {
+      "id": "tt8488126",
+      "type": "movie",
+      "name": "The Inventor: Out for Blood in Silicon Valley",
+      "poster": "https://images.metahub.space/poster/medium/tt8488126/img",
+      "background": "https://images.metahub.space/background/medium/tt8488126/img",
+      "description": "With a magical new invention that promised to revolutionize blood testing, Elizabeth Holmes became the world’s youngest self-made billionaire, heralded as the next Steve Jobs. Then, overnight, her 10-billion-dollar company dissolved. The rise and fall of Theranos is a window into the psychology of fraud.",
+      "releaseInfo": 2019,
+      "imdbRating": 7.2
     },
     {
       "id": "tt35254624",
