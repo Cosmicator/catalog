@@ -131,14 +131,14 @@
       "imdbRating": 6.4
     },
     {
-      "id": "tt14526318",
+      "id": "tt14527204",
       "type": "movie",
       "name": "Sardar",
-      "poster": "https://images.metahub.space/poster/medium/tt14526318/img",
-      "background": "https://images.metahub.space/background/medium/tt14526318/img",
+      "poster": "https://images.metahub.space/poster/medium/tt14527204/img",
+      "background": "https://images.metahub.space/background/medium/tt14527204/img",
       "description": "An espionage agent who is branded a traitor returns from exile to take down a dubious water project and safeguard the country.",
       "releaseInfo": 2022,
-      "imdbRating": 7.4
+      "imdbRating": 7.5
     },
     {
       "id": "tt12908150",
@@ -179,6 +179,16 @@
       "description": "In the smog-choked dystopian Los Angeles of 2019, blade runner Rick Deckard is called out of retirement to terminate a quartet of replicants who have escaped to Earth seeking their creator for a way to extend their short life spans.",
       "releaseInfo": 1982,
       "imdbRating": 8.1
+    },
+    {
+      "id": "tt36596965",
+      "type": "movie",
+      "name": "Mandaadi",
+      "poster": "https://images.metahub.space/poster/medium/tt36596965/img",
+      "background": "https://images.metahub.space/background/medium/tt36596965/img",
+      "description": "A fishing captain applies his maritime knowledge in a traditional boat race along Tamil Nadu's coast during a festival, leading a six-person team against other crews.",
+      "releaseInfo": 2026,
+      "imdbRating": 8.9
     },
     {
       "id": "tt6323306",
@@ -231,16 +241,6 @@
       "imdbRating": 5.4
     },
     {
-      "id": "tt0112642",
-      "type": "movie",
-      "name": "Casper",
-      "poster": "https://images.metahub.space/poster/medium/tt0112642/img",
-      "background": "https://images.metahub.space/background/medium/tt0112642/img",
-      "description": "Casper is a kind young ghost who peacefully haunts a mansion in Maine. When specialist James Harvey arrives to communicate with Casper and his fellow spirits, he brings along his teenage daughter, Kat. Casper quickly falls in love with Kat, but their budding relationship is complicated not only by his transparent state, but also by his troublemaking apparition uncles and their mischievous antics.",
-      "releaseInfo": 1995,
-      "imdbRating": 6.2
-    },
-    {
       "id": "tt34385135",
       "type": "movie",
       "name": "Gunche",
@@ -291,6 +291,26 @@
       "imdbRating": 7.9
     },
     {
+      "id": "tt0112642",
+      "type": "movie",
+      "name": "Casper",
+      "poster": "https://images.metahub.space/poster/medium/tt0112642/img",
+      "background": "https://images.metahub.space/background/medium/tt0112642/img",
+      "description": "Casper is a kind young ghost who peacefully haunts a mansion in Maine. When specialist James Harvey arrives to communicate with Casper and his fellow spirits, he brings along his teenage daughter, Kat. Casper quickly falls in love with Kat, but their budding relationship is complicated not only by his transparent state, but also by his troublemaking apparition uncles and their mischievous antics.",
+      "releaseInfo": 1995,
+      "imdbRating": 6.2
+    },
+    {
+      "id": "tt42481138",
+      "type": "movie",
+      "name": "Bombay Stories",
+      "poster": "https://images.metahub.space/poster/medium/tt42481138/img",
+      "background": "https://images.metahub.space/background/medium/tt42481138/img",
+      "description": "Adapted from the short stories of Pakistani writer Saadat Hasan Manto, the film interweaves the lives of three sex workers and their pimps.",
+      "releaseInfo": 2026,
+      "imdbRating": 5.1
+    },
+    {
       "id": "tt0091419",
       "type": "movie",
       "name": "Little Shop of Horrors",
@@ -301,6 +321,16 @@
       "imdbRating": 7.1
     },
     {
+      "id": "tt0181689",
+      "type": "movie",
+      "name": "Minority Report",
+      "poster": "https://images.metahub.space/poster/medium/tt0181689/img",
+      "background": "https://images.metahub.space/background/medium/tt0181689/img",
+      "description": "The chief of a police unit that can accurately predict and prevent crimes goes on the run after he's accused of a future murder himself.",
+      "releaseInfo": 2002,
+      "imdbRating": 7.6
+    },
+    {
       "id": "tt0103874",
       "type": "movie",
       "name": "Bram Stoker's Dracula",
@@ -309,6 +339,16 @@
       "description": "Count Dracula, a 15th-century prince, is condemned to live off the blood of the living for eternity. Young lawyer Jonathan Harker is sent to Dracula's castle to finalise a land deal, but when the Count sees a photo of Harker's fiancée, Mina, the spitting image of his dead wife, he imprisons him and sets off for London to track her down.",
       "releaseInfo": 1992,
       "imdbRating": 7.4
+    },
+    {
+      "id": "tt5431890",
+      "type": "movie",
+      "name": "Official Secrets",
+      "poster": "https://images.metahub.space/poster/medium/tt5431890/img",
+      "background": "https://images.metahub.space/background/medium/tt5431890/img",
+      "description": "The true story of British intelligence whistleblower Katharine Gun who—prior to the 2003 Iraq invasion—leaked a top-secret NSA memo exposing a joint US-UK illegal spying operation against members of the UN Security Council. The memo proposed blackmailing member states into voting for war.",
+      "releaseInfo": 2019,
+      "imdbRating": 7.3
     },
     {
       "id": "tt12042730",
@@ -431,16 +471,6 @@
       "imdbRating": 6.7
     },
     {
-      "id": "tt5431890",
-      "type": "movie",
-      "name": "Official Secrets",
-      "poster": "https://images.metahub.space/poster/medium/tt5431890/img",
-      "background": "https://images.metahub.space/background/medium/tt5431890/img",
-      "description": "The true story of British intelligence whistleblower Katharine Gun who—prior to the 2003 Iraq invasion—leaked a top-secret NSA memo exposing a joint US-UK illegal spying operation against members of the UN Security Council. The memo proposed blackmailing member states into voting for war.",
-      "releaseInfo": 2019,
-      "imdbRating": 7.3
-    },
-    {
       "id": "tt1502407",
       "type": "movie",
       "name": "Halloween",
@@ -469,36 +499,6 @@
       "description": "A teenage boy searches for his missing mother following a turbulent childhood and her subsequent disappearance, exploring his search for closure and the truth about his past.",
       "releaseInfo": 2026,
       "imdbRating": 8
-    },
-    {
-      "id": "tt0117951",
-      "type": "movie",
-      "name": "Trainspotting",
-      "poster": "https://images.metahub.space/poster/medium/tt0117951/img",
-      "background": "https://images.metahub.space/background/medium/tt0117951/img",
-      "description": "Heroin addict Mark Renton stumbles through bad ideas and sobriety attempts with his unreliable friends --Sick Boy, Begbie, Spud and Tommy. He also has an underage girlfriend, Diane, along for the ride. After cleaning up and moving from Edinburgh to London, Mark finds he can't escape the life he left behind as Begbie and Sick Boy come knocking.",
-      "releaseInfo": 1996,
-      "imdbRating": 8.1
-    },
-    {
-      "id": "tt0460791",
-      "type": "movie",
-      "name": "The Fall",
-      "poster": "https://images.metahub.space/poster/medium/tt0460791/img",
-      "background": "https://images.metahub.space/background/medium/tt0460791/img",
-      "description": "In a hospital on the outskirts of 1920s Los Angeles, an injured stuntman begins to tell a fellow patient, a little girl with a broken arm, a fantastic story about 5 mythical heroes. Thanks to his fractured state of mind and her vivid imagination, the line between fiction and reality starts to blur as the tale advances.",
-      "releaseInfo": 2008,
-      "imdbRating": 7.8
-    },
-    {
-      "id": "tt36626888",
-      "type": "movie",
-      "name": "Ohh My Dog",
-      "poster": "https://images.metahub.space/poster/medium/tt36626888/img",
-      "background": "https://images.metahub.space/background/medium/tt36626888/img",
-      "description": "A young child forms an unexpected bond with a stray dog, embarking on an adventure that reveals the profound ways animals and humans can heal each other's hearts.",
-      "releaseInfo": 2026,
-      "imdbRating": 7.7
     }
   ]
 }
