@@ -1,28 +1,6 @@
 {
   "metas": [
     {
-      "id": "tt30050236",
-      "type": "movie",
-      "name": "Mahendragiri Varahi",
-      "poster": "https://live.metahub.space/poster/small/tt30050236/img",
-      "background": "https://live.metahub.space/background/medium/tt30050236/img",
-      "logo": "https://live.metahub.space/logo/medium/tt30050236/img",
-      "description": "Siddharth, an atheist and skeptic, is drawn into a mysterious journey surrounding the ancient Varahi temple at Mahendragiri. As he uncovers secrets connected to the sacred site, he is forced to confront forces beyond his understanding, challenging his beliefs and changing his perception of faith, destiny, and the supernatural.",
-      "releaseInfo": "2026",
-      "imdbRating": "9.1"
-    },
-    {
-      "id": "tt0249795",
-      "type": "movie",
-      "name": "Mayabazar",
-      "poster": "https://images.metahub.space/poster/small/tt0249795/img",
-      "background": "https://images.metahub.space/background/medium/tt0249795/img",
-      "logo": "https://images.metahub.space/logo/medium/tt0249795/img",
-      "description": "Balarama promises Subhadra to get his daughter married to her son. But when the Pandavas loses their kingdom to the Kaurava's, Balarama breaks his promise.",
-      "releaseInfo": "1957",
-      "imdbRating": "9.1"
-    },
-    {
       "id": "tt36596965",
       "type": "movie",
       "name": "Mandaadi",
@@ -31,7 +9,7 @@
       "logo": "https://live.metahub.space/logo/medium/tt36596965/img",
       "description": "A fishing captain applies his maritime knowledge in a traditional boat race along Tamil Nadu's coast during a festival, leading a six-person team against other crews.",
       "releaseInfo": "2026",
-      "imdbRating": "8.9"
+      "imdbRating": "9.0"
     },
     {
       "id": "tt0816692",
@@ -45,6 +23,17 @@
       "imdbRating": "8.7"
     },
     {
+      "id": "tt10811166",
+      "type": "movie",
+      "name": "The Kashmir Files",
+      "poster": "https://images.metahub.space/poster/small/tt10811166/img",
+      "background": "https://images.metahub.space/background/medium/tt10811166/img",
+      "logo": "https://images.metahub.space/logo/medium/tt10811166/img",
+      "description": "A heart-wrenching tale that captures the pain, suffering, and struggle of the Kashmiri Pandit community in 1990 and leads Krishna, a young college student, to set out on a quest to uncover the truth.",
+      "releaseInfo": "2022",
+      "imdbRating": "8.6"
+    },
+    {
       "id": "tt39139925",
       "type": "movie",
       "name": "Dhurandhar The Revenge",
@@ -56,6 +45,28 @@
       "imdbRating": "8.5"
     },
     {
+      "id": "tt12361178",
+      "type": "movie",
+      "name": "Drishyam 2",
+      "poster": "https://images.metahub.space/poster/small/tt12361178/img",
+      "background": "https://images.metahub.space/background/medium/tt12361178/img",
+      "logo": "https://images.metahub.space/logo/medium/tt12361178/img",
+      "description": "A gripping tale of an investigation and a family which is threatened by it. Will Georgekutty be able to protect his family this time?",
+      "releaseInfo": "2021",
+      "imdbRating": "8.4"
+    },
+    {
+      "id": "tt0376127",
+      "type": "movie",
+      "name": "Anniyan",
+      "poster": "https://images.metahub.space/poster/small/tt0376127/img",
+      "background": "https://images.metahub.space/background/medium/tt0376127/img",
+      "logo": "https://images.metahub.space/logo/medium/tt0376127/img",
+      "description": "Ramanujam, who suffers from multiple personality disorder, works as a lawyer by day and a vigilante at night, using tips from the 'Garuda Purana' as his tools to punish various antisocial elements.",
+      "releaseInfo": "2005",
+      "imdbRating": "8.3"
+    },
+    {
       "id": "tt32820897",
       "type": "movie",
       "name": "Demon Slayer: Kimetsu No Yaiba Infinity Castle",
@@ -64,6 +75,17 @@
       "logo": "https://images.metahub.space/logo/medium/tt32820897/img",
       "description": "The Demon Slayer Corps are drawn into the Infinity Castle, where Tanjiro and the Hashira face terrifying Upper Rank Hindi mein demons in a desperate fight as the final battle against Muzan Kibutsuji begins.",
       "releaseInfo": "2025",
+      "imdbRating": "8.3"
+    },
+    {
+      "id": "tt13391710",
+      "type": "movie",
+      "name": "Jana Gana Mana",
+      "poster": "https://images.metahub.space/poster/small/tt13391710/img",
+      "background": "https://images.metahub.space/background/medium/tt13391710/img",
+      "logo": "https://images.metahub.space/logo/medium/tt13391710/img",
+      "description": "As a college professor's brutal murder sparks student unrest, a cop launches an investigation while a lawyer seeks justice in the the courtroom.",
+      "releaseInfo": "2022",
       "imdbRating": "8.3"
     },
     {
@@ -111,17 +133,6 @@
       "imdbRating": "8.2"
     },
     {
-      "id": "tt10431500",
-      "type": "movie",
-      "name": "Miracle in Cell No. 7",
-      "poster": "https://images.metahub.space/poster/small/tt10431500/img",
-      "background": "https://images.metahub.space/background/medium/tt10431500/img",
-      "logo": "https://images.metahub.space/logo/medium/tt10431500/img",
-      "description": "A story of love between a mentally-ill father who was wrongly accused of murder and his lovely six year old daughter. Prison will be their home. Based on the 2013 Korean movie Miracle in Cell No. 7 (2013).",
-      "releaseInfo": "2019",
-      "imdbRating": "8.2"
-    },
-    {
       "id": "tt0083658",
       "type": "movie",
       "name": "Blade Runner",
@@ -130,28 +141,6 @@
       "logo": "https://images.metahub.space/logo/medium/tt0083658/img",
       "description": "A blade runner must pursue and terminate four replicants who stole a ship in space and have returned to Earth to find their creator.",
       "releaseInfo": "1982",
-      "imdbRating": "8.1"
-    },
-    {
-      "id": "tt11651550",
-      "type": "movie",
-      "name": "Operation Java",
-      "poster": "https://images.metahub.space/poster/small/tt11651550/img",
-      "background": "https://images.metahub.space/background/medium/tt11651550/img",
-      "logo": "https://images.metahub.space/logo/medium/tt11651550/img",
-      "description": "The story revolves around a group of officers and a series of mysteries, events and cases reported before them in the Cyber Cell. It is also about how they plan and execute their operations.",
-      "releaseInfo": "2021",
-      "imdbRating": "8.1"
-    },
-    {
-      "id": "tt36626888",
-      "type": "movie",
-      "name": "Ohh My Dog",
-      "poster": "https://live.metahub.space/poster/small/tt36626888/img",
-      "background": "https://live.metahub.space/background/medium/tt36626888/img",
-      "logo": "https://live.metahub.space/logo/medium/tt36626888/img",
-      "description": "In Assam, 14-year-old Apu embarks on a desperate quest to rescue his beloved dog, Momo, after he is kidnapped. Elsewhere, in Bihar, a devoted dog named Oscar sets out on a perilous journey to find his kidnapped owner, a 15-year-old child labourer. As their journeys unfold, it becomes clear that the two kidnappings may be connected to a larger, sinister plan.",
-      "releaseInfo": "2026",
       "imdbRating": "8.1"
     },
     {
@@ -188,14 +177,14 @@
       "imdbRating": "8.0"
     },
     {
-      "id": "tt11322920",
+      "id": "tt1261047",
       "type": "movie",
-      "name": "Ayyappanum Koshiyum",
-      "poster": "https://images.metahub.space/poster/small/tt11322920/img",
-      "background": "https://images.metahub.space/background/medium/tt11322920/img",
-      "logo": "https://images.metahub.space/logo/medium/tt11322920/img",
-      "description": "The story revolves around the clash between Ayyappan, a senior police officer who serves at the Attappadi Police Station and Havildar Koshi, who comes to the village with a motive.",
-      "releaseInfo": "2020",
+      "name": "Gulaal",
+      "poster": "https://images.metahub.space/poster/small/tt1261047/img",
+      "background": "https://images.metahub.space/background/medium/tt1261047/img",
+      "logo": "https://images.metahub.space/logo/medium/tt1261047/img",
+      "description": "A law student witnesses deception, homicide, and crime after being elected as General Secretary of his college.",
+      "releaseInfo": "2009",
       "imdbRating": "8.0"
     },
     {
@@ -232,17 +221,6 @@
       "imdbRating": "7.9"
     },
     {
-      "id": "tt0066070",
-      "type": "movie",
-      "name": "Mera Naam Joker",
-      "poster": "https://images.metahub.space/poster/small/tt0066070/img",
-      "background": "https://images.metahub.space/background/medium/tt0066070/img",
-      "logo": "https://images.metahub.space/logo/medium/tt0066070/img",
-      "description": "Raju is a joker, a clown. It is what he is and what he always shall be. As his life story unfolds in three chapters, from his school days to the circus to the streets, he must always make people laugh and be happy, no matter how u...",
-      "releaseInfo": "1970",
-      "imdbRating": "7.9"
-    },
-    {
       "id": "tt27503384",
       "type": "movie",
       "name": "Perfect Days",
@@ -254,15 +232,15 @@
       "imdbRating": "7.9"
     },
     {
-      "id": "tt0107688",
+      "id": "tt5764096",
       "type": "movie",
-      "name": "The Nightmare Before Christmas",
-      "poster": "https://images.metahub.space/poster/small/tt0107688/img",
-      "background": "https://images.metahub.space/background/medium/tt0107688/img",
-      "logo": "https://images.metahub.space/logo/medium/tt0107688/img",
-      "description": "Jack Skellington, king of Halloween Town, discovers Christmas Town, but his attempts to bring Christmas to his home causes confusion.",
-      "releaseInfo": "1993",
-      "imdbRating": "7.9"
+      "name": "Hindi Medium",
+      "poster": "https://images.metahub.space/poster/small/tt5764096/img",
+      "background": "https://images.metahub.space/background/medium/tt5764096/img",
+      "logo": "https://images.metahub.space/logo/medium/tt5764096/img",
+      "description": "A couple from Chandni Chowk aspire to give their daughter the best education and thus be a part of and accepted by the elite of Delhi.",
+      "releaseInfo": "2017",
+      "imdbRating": "7.8"
     },
     {
       "id": "tt0087332",
@@ -298,14 +276,25 @@
       "imdbRating": "7.8"
     },
     {
-      "id": "tt28007064",
+      "id": "tt36626888",
       "type": "movie",
-      "name": "Superboys of Malegaon",
-      "poster": "https://live.metahub.space/poster/small/tt28007064/img",
-      "background": "https://live.metahub.space/background/medium/tt28007064/img",
-      "logo": "https://live.metahub.space/logo/medium/tt28007064/img",
-      "description": "The residents of Malegaon look to Bollywood cinema for a much-needed escape from daily drudgery. Amateur filmmaker Nasir Shaikh gets inspired to make a film for the people of Malegaon, by the people of Malegaon. He bands together his ragtag group of friends to bring his vision to life, thereby bringing a fresh lease of life into the town.",
-      "releaseInfo": "2025",
+      "name": "Ohh My Dog",
+      "poster": "https://live.metahub.space/poster/small/tt36626888/img",
+      "background": "https://live.metahub.space/background/medium/tt36626888/img",
+      "logo": "https://live.metahub.space/logo/medium/tt36626888/img",
+      "description": "In Assam, 14-year-old Apu embarks on a desperate quest to rescue his beloved dog, Momo, after he is kidnapped. Elsewhere, in Bihar, a devoted dog named Oscar sets out on a perilous journey to find his kidnapped owner, a 15-year-old child labourer. As their journeys unfold, it becomes clear that the two kidnappings may be connected to a larger, sinister plan.",
+      "releaseInfo": "2026",
+      "imdbRating": "7.7"
+    },
+    {
+      "id": "tt20561198",
+      "type": "movie",
+      "name": "The Promised Land",
+      "poster": "https://images.metahub.space/poster/small/tt20561198/img",
+      "background": "https://images.metahub.space/background/medium/tt20561198/img",
+      "logo": "https://images.metahub.space/logo/medium/tt20561198/img",
+      "description": "The story of Danish soldier and explorer Ludvig Kahlen, who explored and cultivated Denmark's wild Jutland, which now comprises the vast majority of the country, in the mid-18th century.",
+      "releaseInfo": "2023",
       "imdbRating": "7.7"
     },
     {
@@ -331,17 +320,6 @@
       "imdbRating": "7.7"
     },
     {
-      "id": "tt0089218",
-      "type": "movie",
-      "name": "The Goonies",
-      "poster": "https://images.metahub.space/poster/small/tt0089218/img",
-      "background": "https://images.metahub.space/background/medium/tt0089218/img",
-      "logo": "https://images.metahub.space/logo/medium/tt0089218/img",
-      "description": "A group of young misfits called The Goonies discover an ancient map and set out on an adventure to find a legendary pirate's long-lost treasure.",
-      "releaseInfo": "1985",
-      "imdbRating": "7.7"
-    },
-    {
       "id": "tt0241527",
       "type": "movie",
       "name": "Harry Potter and the Sorcerer's Stone",
@@ -353,14 +331,58 @@
       "imdbRating": "7.7"
     },
     {
-      "id": "tt1451409",
+      "id": "tt0089218",
       "type": "movie",
-      "name": "Pokkiri",
-      "poster": "https://images.metahub.space/poster/small/tt1451409/img",
-      "background": "https://images.metahub.space/background/medium/tt1451409/img",
-      "logo": "https://images.metahub.space/logo/medium/tt1451409/img",
-      "description": "Thamizh is a killer for hire with no ties and who will do any dirty job for money. He has a girlfriend who loves him but also detests his violent nature. But is Thamizh really what he purports to be?",
-      "releaseInfo": "2007",
+      "name": "The Goonies",
+      "poster": "https://images.metahub.space/poster/small/tt0089218/img",
+      "background": "https://images.metahub.space/background/medium/tt0089218/img",
+      "logo": "https://images.metahub.space/logo/medium/tt0089218/img",
+      "description": "A group of young misfits called The Goonies discover an ancient map and set out on an adventure to find a legendary pirate's long-lost treasure.",
+      "releaseInfo": "1985",
+      "imdbRating": "7.7"
+    },
+    {
+      "id": "tt5310090",
+      "type": "movie",
+      "name": "Irudhi Suttru",
+      "poster": "https://images.metahub.space/poster/small/tt5310090/img",
+      "background": "https://images.metahub.space/background/medium/tt5310090/img",
+      "logo": "https://images.metahub.space/logo/medium/tt5310090/img",
+      "description": "The story of a former boxer who quits boxing following a fallout with the authorities over the underlying politics but goes on to coach a fisherwoman to fulfill his dream through her.",
+      "releaseInfo": "2016",
+      "imdbRating": "7.6"
+    },
+    {
+      "id": "tt0109555",
+      "type": "movie",
+      "name": "Darr",
+      "poster": "https://images.metahub.space/poster/small/tt0109555/img",
+      "background": "https://images.metahub.space/background/medium/tt0109555/img",
+      "logo": "https://images.metahub.space/logo/medium/tt0109555/img",
+      "description": "Rahul is obsessed with Kiran and stalks her constantly. However, Rahul goes berserk when she gets engaged to Sunil, a navy officer, and he decides to forcefully claim Kiran for himself.",
+      "releaseInfo": "1993",
+      "imdbRating": "7.6"
+    },
+    {
+      "id": "tt18951176",
+      "type": "movie",
+      "name": "Gulmohar",
+      "poster": "https://images.metahub.space/poster/small/tt18951176/img",
+      "background": "https://images.metahub.space/background/medium/tt18951176/img",
+      "logo": "https://images.metahub.space/logo/medium/tt18951176/img",
+      "description": "Follows the final four days of the Batra family living in their 31-year-old family home as they move to a new city.",
+      "releaseInfo": "2023",
+      "imdbRating": "7.6"
+    },
+    {
+      "id": "tt0110222",
+      "type": "movie",
+      "name": "Kabhi Haan Kabhi Naa",
+      "poster": "https://images.metahub.space/poster/small/tt0110222/img",
+      "background": "https://images.metahub.space/background/medium/tt0110222/img",
+      "logo": "https://images.metahub.space/logo/medium/tt0110222/img",
+      "description": "A dreamer falls for a girl who is in love with someone else and tries to create a rift between her and the man she loves.",
+      "releaseInfo": "1994",
       "imdbRating": "7.6"
     },
     {
@@ -375,6 +397,17 @@
       "imdbRating": "7.6"
     },
     {
+      "id": "tt3203910",
+      "type": "movie",
+      "name": "Raja Rani",
+      "poster": "https://images.metahub.space/poster/small/tt3203910/img",
+      "background": "https://images.metahub.space/background/medium/tt3203910/img",
+      "logo": "https://images.metahub.space/logo/medium/tt3203910/img",
+      "description": "John and Regina, who dislike each other, are forced to get married and lead troubled lives. However, things take a turn when the couple suffers a sudden tragedy.",
+      "releaseInfo": "2013",
+      "imdbRating": "7.6"
+    },
+    {
       "id": "tt0181689",
       "type": "movie",
       "name": "Minority Report",
@@ -386,48 +419,37 @@
       "imdbRating": "7.6"
     },
     {
-      "id": "tt8385474",
+      "id": "tt1951264",
       "type": "movie",
-      "name": "A Dog's Journey",
-      "poster": "https://images.metahub.space/poster/small/tt8385474/img",
-      "background": "https://images.metahub.space/background/medium/tt8385474/img",
-      "logo": "https://images.metahub.space/logo/medium/tt8385474/img",
-      "description": "A dog finds the meaning of his own existence through the lives of the humans he meets.",
-      "releaseInfo": "2019",
+      "name": "The Hunger Games: Catching Fire",
+      "poster": "https://images.metahub.space/poster/small/tt1951264/img",
+      "background": "https://images.metahub.space/background/medium/tt1951264/img",
+      "logo": "https://images.metahub.space/logo/medium/tt1951264/img",
+      "description": "Katniss Everdeen and Peeta Mellark become targets of the Capitol after their victory in the 74th Hunger Games sparks a rebellion in the Districts of Panem.",
+      "releaseInfo": "2013",
       "imdbRating": "7.5"
     },
     {
-      "id": "tt0117913",
+      "id": "tt15654262",
       "type": "movie",
-      "name": "A Time to Kill",
-      "poster": "https://images.metahub.space/poster/small/tt0117913/img",
-      "background": "https://images.metahub.space/background/medium/tt0117913/img",
-      "logo": "https://images.metahub.space/logo/medium/tt0117913/img",
-      "description": "A young Mississippi lawyer defends a black man who killed the two white men that raped his preteen daughter.",
-      "releaseInfo": "1996",
+      "name": "Chup",
+      "poster": "https://images.metahub.space/poster/small/tt15654262/img",
+      "background": "https://images.metahub.space/background/medium/tt15654262/img",
+      "logo": "https://images.metahub.space/logo/medium/tt15654262/img",
+      "description": "A lonesome florist with a new-found love interest and a psychopath killer who targets film critics in Mumbai. Are the two related? Inspector Arvind Mathur and Dr. Zenobia are about to find out.",
+      "releaseInfo": "2022",
       "imdbRating": "7.5"
     },
     {
-      "id": "tt0233422",
+      "id": "tt3337550",
       "type": "movie",
-      "name": "Chachi 420",
-      "poster": "https://images.metahub.space/poster/small/tt0233422/img",
-      "background": "https://images.metahub.space/background/medium/tt0233422/img",
-      "logo": "https://images.metahub.space/logo/medium/tt0233422/img",
-      "description": "Desperation to be with his only child forces a divorced man to take the guise of the child's nanny. Situations get really messy when the child's grandfather (the man's ex-father-in-law) falls in love with his disguised ex-son-in-law.",
-      "releaseInfo": "1997",
-      "imdbRating": "7.4"
-    },
-    {
-      "id": "tt13885428",
-      "type": "movie",
-      "name": "Anweshippin Kandethum",
-      "poster": "https://images.metahub.space/poster/small/tt13885428/img",
-      "background": "https://images.metahub.space/background/medium/tt13885428/img",
-      "logo": "https://images.metahub.space/logo/medium/tt13885428/img",
-      "description": "Revolves around two major crimes that shook kerala and the subsequent inquiry into the cases by sop.",
-      "releaseInfo": "2024",
-      "imdbRating": "7.4"
+      "name": "Rahasya",
+      "poster": "https://images.metahub.space/poster/small/tt3337550/img",
+      "background": "https://images.metahub.space/background/medium/tt3337550/img",
+      "logo": "https://images.metahub.space/logo/medium/tt3337550/img",
+      "description": "A Doctor stands accused of killing his own eighteen-year old daughter. While this aggrieved father protests his innocence, all evidence points towards him irrefutably.",
+      "releaseInfo": "2015",
+      "imdbRating": "7.5"
     },
     {
       "id": "tt14527204",
@@ -436,17 +458,6 @@
       "background": "https://m.media-amazon.com/images/M/MV5BNjQ1MzZjMGEtNDAzZi00MGRhLThiNjUtNWExMDM3MzY4YzUwXkEyXkFqcGc@._V1_.jpg",
       "description": "A spy, who is estranged from his family due to a mission, suddenly meets his police officer son.",
       "releaseInfo": "2022",
-      "imdbRating": "7.4"
-    },
-    {
-      "id": "tt1756476",
-      "type": "movie",
-      "name": "Dookudu",
-      "poster": "https://images.metahub.space/poster/small/tt1756476/img",
-      "background": "https://images.metahub.space/background/medium/tt1756476/img",
-      "logo": "https://images.metahub.space/logo/medium/tt1756476/img",
-      "description": "Ajay, (Mahesh Babu) an undercover cop, is assigned to catch a dangerous mafia don with whom he has a personal score to settle.",
-      "releaseInfo": "2011",
       "imdbRating": "7.4"
     },
     {
@@ -472,17 +483,6 @@
       "imdbRating": "7.4"
     },
     {
-      "id": "tt7159382",
-      "type": "movie",
-      "name": "Fidaa",
-      "poster": "https://images.metahub.space/poster/small/tt7159382/img",
-      "background": "https://images.metahub.space/background/medium/tt7159382/img",
-      "logo": "https://images.metahub.space/logo/medium/tt7159382/img",
-      "description": "Varun and Bhanu, both from different worlds, face challenges in their relationship.",
-      "releaseInfo": "2017",
-      "imdbRating": "7.4"
-    },
-    {
       "id": "tt32565993",
       "type": "movie",
       "name": "The Sheep Detectives",
@@ -491,17 +491,6 @@
       "logo": "https://images.metahub.space/logo/medium/tt32565993/img",
       "description": "Every night a shepherd reads aloud a murder mystery, pretending his sheep can understand. When he is found dead, the sheep realize at once that it was a murder and think they know everything about how to go about solving it.",
       "releaseInfo": "2026",
-      "imdbRating": "7.4"
-    },
-    {
-      "id": "tt1790885",
-      "type": "movie",
-      "name": "Zero Dark Thirty",
-      "poster": "https://images.metahub.space/poster/small/tt1790885/img",
-      "background": "https://images.metahub.space/background/medium/tt1790885/img",
-      "logo": "https://images.metahub.space/logo/medium/tt1790885/img",
-      "description": "A chronicle of the decade-long hunt for al-Qaeda terrorist leader Osama bin Laden after the September 2001 attacks, and his death at the hands of the Navy S.E.A.L.s Team 6 in May 2011.",
-      "releaseInfo": "2013",
       "imdbRating": "7.4"
     },
     {
@@ -527,14 +516,22 @@
       "imdbRating": "7.4"
     },
     {
-      "id": "tt8055888",
+      "id": "tt0995718",
       "type": "movie",
-      "name": "The Man Who Feels No Pain",
-      "poster": "https://images.metahub.space/poster/small/tt8055888/img",
-      "background": "https://images.metahub.space/background/medium/tt8055888/img",
-      "logo": "https://images.metahub.space/logo/medium/tt8055888/img",
-      "description": "It is a story of a young boy Surya who has a rare condition of Congenital Insensitivity to pain meaning he can not feel pain, and he sets out to learn martial arts and hunt down muggers.",
-      "releaseInfo": "2018",
+      "name": "Ek Chalis Ki Last Local",
+      "poster": "https://images.metahub.space/poster/small/tt0995718/img",
+      "background": "https://images.metahub.space/background/medium/tt0995718/img",
+      "logo": "https://images.metahub.space/logo/medium/tt0995718/img",
+      "description": "A comic thriller about two people who miss the last local train at 1:40 am and how missing of their train changes their course of life forever.",
+      "releaseInfo": "2007",
+      "imdbRating": "7.3"
+    },
+    {
+      "id": "tt10840884",
+      "type": "movie",
+      "name": "Taish",
+      "description": "A story of friendship and loss of innocence when two worlds clash amid a wedding when a secret exposes a betrayal, and innocent friends converge with dangerous criminals and intense violence.",
+      "releaseInfo": "2020",
       "imdbRating": "7.3"
     },
     {

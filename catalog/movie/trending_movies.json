@@ -371,6 +371,16 @@
       "imdbRating": 7.1
     },
     {
+      "id": "tt1951264",
+      "type": "movie",
+      "name": "The Hunger Games: Catching Fire",
+      "poster": "https://images.metahub.space/poster/medium/tt1951264/img",
+      "background": "https://images.metahub.space/background/medium/tt1951264/img",
+      "description": "After surviving the Hunger Games, Katniss and Peeta struggle with the consequences of their victory as unrest spreads across Panem. Forced back into the spotlight, they become symbols of hope and resistance while the Capitol prepares a new and deadly challenge that will change the future of the nation forever.",
+      "releaseInfo": 2013,
+      "imdbRating": 7.5
+    },
+    {
       "id": "tt36626888",
       "type": "movie",
       "name": "Ohh My Dog",
@@ -419,6 +429,16 @@
       "description": "The host of a popular paranormal podcast becomes haunted by terrifying recordings mysteriously sent her way.",
       "releaseInfo": 2026,
       "imdbRating": 5.9
+    },
+    {
+      "id": "tt20561198",
+      "type": "movie",
+      "name": "The Promised Land",
+      "poster": "https://images.metahub.space/poster/medium/tt20561198/img",
+      "background": "https://images.metahub.space/background/medium/tt20561198/img",
+      "description": "Denmark, 1755. Captain Ludvig Kahlen sets out to conquer a Danish heath reputed to be uncultivable, with an impossible goal: to establish a colony in the name of the king, in exchange for a royal title. A single-minded ambition that the ruthless lord of the region will relentlessly seek to put down. Kahlen's fate hangs in the balance: will his endevours bring him wealth and honour, or cost him his life...?",
+      "releaseInfo": 2023,
+      "imdbRating": 7.7
     },
     {
       "id": "tt0082495",
@@ -479,26 +499,6 @@
       "description": "In this enchantingly cracked fairy tale, the beautiful Princess Buttercup and the dashing Westley must overcome staggering odds to find happiness amid six-fingered swordsmen, murderous princes, Sicilians and rodents of unusual size. But even death can't stop these true lovebirds from triumphing.",
       "releaseInfo": 1987,
       "imdbRating": 8
-    },
-    {
-      "id": "tt10428316",
-      "type": "movie",
-      "name": "Natsamrat",
-      "poster": "https://images.metahub.space/poster/medium/tt10428316/img",
-      "background": "https://images.metahub.space/background/medium/tt10428316/img",
-      "description": "Harindra Pathak is the protagonist who goes on to realize that his popularity & importance stay valid & relevant only till he is onstage. Let down by circumstances & his own blood, Harindra eventually retires to a life of complete obscurity and alienation.  It is a remake of 2016 Marathi film of the same name starring Nana Patekar, which is based on a Marathi play by Kusumagraj (V. V. Shirwadkar).",
-      "releaseInfo": 2018,
-      "imdbRating": 7.9
-    },
-    {
-      "id": "tt28014327",
-      "type": "movie",
-      "name": "Mayday",
-      "poster": "https://images.metahub.space/poster/medium/tt28014327/img",
-      "background": "https://images.metahub.space/background/medium/tt28014327/img",
-      "description": "Lieutenant Troy Brennan's reconnaissance mission over Soviet territory goes awry, forcing him to crash-land and survive in Russian wilderness while evading capture or rescue.",
-      "releaseInfo": 2026,
-      "imdbRating": 6.8
     }
   ]
 }

@@ -341,24 +341,14 @@
       "imdbRating": 7.8
     },
     {
-      "id": "tt12004706",
+      "id": "tt15203646",
       "type": "series",
-      "name": "Panchayat",
-      "poster": "https://images.metahub.space/poster/medium/tt12004706/img",
-      "background": "https://images.metahub.space/background/medium/tt12004706/img",
-      "description": "A comedy-drama, which captures the journey of an engineering graduate Abhishek, who for lack of a better job option joins as secretary of a Panchayat office in a remote village of Uttar Pradesh.",
-      "releaseInfo": 2020,
-      "imdbRating": 9
-    },
-    {
-      "id": "tt1442550",
-      "type": "series",
-      "name": "Shark Tank",
-      "poster": "https://images.metahub.space/poster/medium/tt1442550/img",
-      "background": "https://images.metahub.space/background/medium/tt1442550/img",
-      "description": "Entrepreneurs pitch innovative products and businesses to a panel of wealthy investors, hoping to win funding, guidance, and a life-changing deal.",
-      "releaseInfo": 2009,
-      "imdbRating": 7.6
+      "name": "Bad Monkey",
+      "poster": "https://images.metahub.space/poster/medium/tt15203646/img",
+      "background": "https://images.metahub.space/background/medium/tt15203646/img",
+      "description": "A detective turned restaurant inspector in Key West is pulled into a world of greed and corruption after a tourist finds a severed arm while fishing. And yes, there's a monkey.",
+      "releaseInfo": 2024,
+      "imdbRating": 7.4
     },
     {
       "id": "tt8772296",
@@ -371,26 +361,6 @@
       "imdbRating": 8.1
     },
     {
-      "id": "tt14417718",
-      "type": "series",
-      "name": "The Crowded Room",
-      "poster": "https://images.metahub.space/poster/medium/tt14417718/img",
-      "background": "https://images.metahub.space/background/medium/tt14417718/img",
-      "description": "In 1979 Manhattan, a young man is arrested for a shocking crime — and an unlikely investigator must solve the mystery behind it.",
-      "releaseInfo": 2023,
-      "imdbRating": 7.7
-    },
-    {
-      "id": "tt0413573",
-      "type": "series",
-      "name": "Grey's Anatomy",
-      "poster": "https://images.metahub.space/poster/medium/tt0413573/img",
-      "background": "https://images.metahub.space/background/medium/tt0413573/img",
-      "description": "A drama centered on the personal and professional lives of five surgical interns and their supervisors.",
-      "releaseInfo": 2005,
-      "imdbRating": 7.6
-    },
-    {
       "id": "tt6468322",
       "type": "series",
       "name": "Money Heist",
@@ -399,36 +369,6 @@
       "description": "To carry out the biggest heist in history, a mysterious man called The Professor recruits a band of eight robbers who have a single characteristic: none of them has anything to lose. Five months of seclusion - memorizing every step, every detail, every probability - culminate in eleven days locked up in the National Coinage and Stamp Factory of Spain, surrounded by police forces and with dozens of hostages in their power, to find out whether their suicide wager will lead to everything or nothing.",
       "releaseInfo": 2017,
       "imdbRating": 8.2
-    },
-    {
-      "id": "tt15203646",
-      "type": "series",
-      "name": "Bad Monkey",
-      "poster": "https://images.metahub.space/poster/medium/tt15203646/img",
-      "background": "https://images.metahub.space/background/medium/tt15203646/img",
-      "description": "A detective turned restaurant inspector in Key West is pulled into a world of greed and corruption after a tourist finds a severed arm while fishing. And yes, there's a monkey.",
-      "releaseInfo": 2024,
-      "imdbRating": 7.4
-    },
-    {
-      "id": "tt9140554",
-      "type": "series",
-      "name": "Loki",
-      "poster": "https://images.metahub.space/poster/medium/tt9140554/img",
-      "background": "https://images.metahub.space/background/medium/tt9140554/img",
-      "description": "The mercurial villain Loki resumes his role as the God of Mischief in a new series that takes place after the events of “Avengers: Endgame.”",
-      "releaseInfo": 2021,
-      "imdbRating": 8.2
-    },
-    {
-      "id": "tt11905720",
-      "type": "series",
-      "name": "She",
-      "poster": "https://images.metahub.space/poster/medium/tt11905720/img",
-      "background": "https://images.metahub.space/background/medium/tt11905720/img",
-      "description": "An undercover assignment to expose a drug ring becomes a timid Mumbai constable's road to empowerment as she realizes her dormant sexuality's potential.",
-      "releaseInfo": 2020,
-      "imdbRating": 6.4
     },
     {
       "id": "tt11846996",
@@ -441,14 +381,44 @@
       "imdbRating": 7.4
     },
     {
-      "id": "tt0106179",
+      "id": "tt0413573",
       "type": "series",
-      "name": "The X-Files",
-      "poster": "https://images.metahub.space/poster/medium/tt0106179/img",
-      "background": "https://images.metahub.space/background/medium/tt0106179/img",
-      "description": "The exploits of FBI Special Agents Fox Mulder and Dana Scully who investigate X-Files: marginalized, unsolved cases involving paranormal phenomena. Mulder believes in the existence of aliens and the paranormal while Scully, a skeptic, is assigned to make scientific analyses of Mulder's discoveries that debunk Mulder's work and thus return him to mainstream cases.",
-      "releaseInfo": 1993,
-      "imdbRating": 8.6
+      "name": "Grey's Anatomy",
+      "poster": "https://images.metahub.space/poster/medium/tt0413573/img",
+      "background": "https://images.metahub.space/background/medium/tt0413573/img",
+      "description": "A drama centered on the personal and professional lives of five surgical interns and their supervisors.",
+      "releaseInfo": 2005,
+      "imdbRating": 7.6
+    },
+    {
+      "id": "tt11905720",
+      "type": "series",
+      "name": "She",
+      "poster": "https://images.metahub.space/poster/medium/tt11905720/img",
+      "background": "https://images.metahub.space/background/medium/tt11905720/img",
+      "description": "An undercover assignment to expose a drug ring becomes a timid Mumbai constable's road to empowerment as she realizes her dormant sexuality's potential.",
+      "releaseInfo": 2020,
+      "imdbRating": 6.4
+    },
+    {
+      "id": "tt6111130",
+      "type": "series",
+      "name": "S.W.A.T.",
+      "poster": "https://images.metahub.space/poster/medium/tt6111130/img",
+      "background": "https://images.metahub.space/background/medium/tt6111130/img",
+      "description": "Follows a Los Angeles Police Department (LAPD) Special Weapons and Tactics (SWAT) team as they battle crime in Los Angeles, California.",
+      "releaseInfo": 2017,
+      "imdbRating": 7.2
+    },
+    {
+      "id": "tt9140554",
+      "type": "series",
+      "name": "Loki",
+      "poster": "https://images.metahub.space/poster/medium/tt9140554/img",
+      "background": "https://images.metahub.space/background/medium/tt9140554/img",
+      "description": "The mercurial villain Loki resumes his role as the God of Mischief in a new series that takes place after the events of “Avengers: Endgame.”",
+      "releaseInfo": 2021,
+      "imdbRating": 8.2
     },
     {
       "id": "tt20883126",
@@ -461,12 +431,32 @@
       "imdbRating": 6.8
     },
     {
-      "id": "tt6111130",
+      "id": "tt1442550",
       "type": "series",
-      "name": "S.W.A.T.",
-      "poster": "https://images.metahub.space/poster/medium/tt6111130/img",
-      "background": "https://images.metahub.space/background/medium/tt6111130/img",
-      "description": "Follows a Los Angeles Police Department (LAPD) Special Weapons and Tactics (SWAT) team as they battle crime in Los Angeles, California.",
+      "name": "Shark Tank",
+      "poster": "https://images.metahub.space/poster/medium/tt1442550/img",
+      "background": "https://images.metahub.space/background/medium/tt1442550/img",
+      "description": "Entrepreneurs pitch innovative products and businesses to a panel of wealthy investors, hoping to win funding, guidance, and a life-changing deal.",
+      "releaseInfo": 2009,
+      "imdbRating": 7.6
+    },
+    {
+      "id": "tt0106179",
+      "type": "series",
+      "name": "The X-Files",
+      "poster": "https://images.metahub.space/poster/medium/tt0106179/img",
+      "background": "https://images.metahub.space/background/medium/tt0106179/img",
+      "description": "The exploits of FBI Special Agents Fox Mulder and Dana Scully who investigate X-Files: marginalized, unsolved cases involving paranormal phenomena. Mulder believes in the existence of aliens and the paranormal while Scully, a skeptic, is assigned to make scientific analyses of Mulder's discoveries that debunk Mulder's work and thus return him to mainstream cases.",
+      "releaseInfo": 1993,
+      "imdbRating": 8.6
+    },
+    {
+      "id": "tt5711280",
+      "type": "series",
+      "name": "Philip K. Dick's Electric Dreams",
+      "poster": "https://images.metahub.space/poster/medium/tt5711280/img",
+      "background": "https://images.metahub.space/background/medium/tt5711280/img",
+      "description": "A diverse anthology of ambitious, moving tales inspired by Philip K Dick's short stories.",
       "releaseInfo": 2017,
       "imdbRating": 7.2
     },
@@ -481,14 +471,24 @@
       "imdbRating": 7.1
     },
     {
-      "id": "tt5711280",
+      "id": "tt12004706",
       "type": "series",
-      "name": "Philip K. Dick's Electric Dreams",
-      "poster": "https://images.metahub.space/poster/medium/tt5711280/img",
-      "background": "https://images.metahub.space/background/medium/tt5711280/img",
-      "description": "A diverse anthology of ambitious, moving tales inspired by Philip K Dick's short stories.",
-      "releaseInfo": 2017,
-      "imdbRating": 7.2
+      "name": "Panchayat",
+      "poster": "https://images.metahub.space/poster/medium/tt12004706/img",
+      "background": "https://images.metahub.space/background/medium/tt12004706/img",
+      "description": "A comedy-drama, which captures the journey of an engineering graduate Abhishek, who for lack of a better job option joins as secretary of a Panchayat office in a remote village of Uttar Pradesh.",
+      "releaseInfo": 2020,
+      "imdbRating": 9
+    },
+    {
+      "id": "tt33184638",
+      "type": "series",
+      "name": "Paris Has Fallen",
+      "poster": "https://images.metahub.space/poster/medium/tt33184638/img",
+      "background": "https://images.metahub.space/background/medium/tt33184638/img",
+      "description": "A protection officer and an MI6 operative team up after a terrorist attack. They suspect a mole as they race to thwart a larger conspiracy threatening Paris.",
+      "releaseInfo": 2024,
+      "imdbRating": 6.5
     },
     {
       "id": "tt11198330",
