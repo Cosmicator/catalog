@@ -1,26 +1,15 @@
 {
   "metas": [
     {
-      "id": "tt30050236",
+      "id": "tt7391996",
       "type": "movie",
-      "name": "Mahendragiri Vaaraahi",
-      "poster": "https://live.metahub.space/poster/small/tt30050236/img",
-      "background": "https://live.metahub.space/background/medium/tt30050236/img",
-      "logo": "https://live.metahub.space/logo/medium/tt30050236/img",
-      "description": "Siddharth, an atheist and skeptic, is drawn into a mysterious journey surrounding the ancient Varahi temple at Mahendragiri. As he uncovers secrets connected to the sacred site, he is forced to confront forces beyond his understanding, challenging his beliefs and changing his perception of faith, destiny, and the supernatural.",
-      "releaseInfo": "2026",
-      "imdbRating": "9.1"
-    },
-    {
-      "id": "tt0259534",
-      "type": "movie",
-      "name": "Ramayana: The Legend of Prince Rama",
-      "poster": "https://images.metahub.space/poster/small/tt0259534/img",
-      "background": "https://images.metahub.space/background/medium/tt0259534/img",
-      "logo": "https://images.metahub.space/logo/medium/tt0259534/img",
-      "description": "An anime adaptation of the Hindu epic the Ramayana, where Lord Ram combats the wicked king Ravana.",
-      "releaseInfo": "1993",
-      "imdbRating": "9.1"
+      "name": "C/o Kancharapalem",
+      "poster": "https://images.metahub.space/poster/small/tt7391996/img",
+      "background": "https://images.metahub.space/background/medium/tt7391996/img",
+      "logo": "https://images.metahub.space/logo/medium/tt7391996/img",
+      "description": "Four unconventional love stories set in the town and including the people of Kancherapalem.",
+      "releaseInfo": "2018",
+      "imdbRating": "8.8"
     },
     {
       "id": "tt0816692",
@@ -34,6 +23,17 @@
       "imdbRating": "8.7"
     },
     {
+      "id": "tt10811166",
+      "type": "movie",
+      "name": "The Kashmir Files",
+      "poster": "https://images.metahub.space/poster/small/tt10811166/img",
+      "background": "https://images.metahub.space/background/medium/tt10811166/img",
+      "logo": "https://images.metahub.space/logo/medium/tt10811166/img",
+      "description": "A heart-wrenching tale that captures the pain, suffering, and struggle of the Kashmiri Pandit community in 1990 and leads Krishna, a young college student, to set out on a quest to uncover the truth.",
+      "releaseInfo": "2022",
+      "imdbRating": "8.6"
+    },
+    {
       "id": "tt0088763",
       "type": "movie",
       "name": "Back to the Future",
@@ -45,36 +45,25 @@
       "imdbRating": "8.5"
     },
     {
-      "id": "tt1187043",
+      "id": "tt0079221",
       "type": "movie",
-      "name": "3 Idiots",
-      "poster": "https://images.metahub.space/poster/small/tt1187043/img",
-      "background": "https://images.metahub.space/background/medium/tt1187043/img",
-      "logo": "https://images.metahub.space/logo/medium/tt1187043/img",
-      "description": "Two friends are searching for their long lost companion. They revisit their college days and recall the memories of their friend who inspired them to think differently, even as the rest of the world called them \"idiots\".",
-      "releaseInfo": "2009",
-      "imdbRating": "8.4"
+      "name": "Gol Maal",
+      "poster": "https://images.metahub.space/poster/small/tt0079221/img",
+      "background": "https://images.metahub.space/background/medium/tt0079221/img",
+      "logo": "https://images.metahub.space/logo/medium/tt0079221/img",
+      "description": "A man's simple lie to secure his job escalates into more complex lies when his orthodox boss gets suspicious.",
+      "releaseInfo": "1979",
+      "imdbRating": "8.5"
     },
     {
-      "id": "tt0086250",
+      "id": "tt1517561",
       "type": "movie",
-      "name": "Scarface",
-      "poster": "https://images.metahub.space/poster/small/tt0086250/img",
-      "background": "https://images.metahub.space/background/medium/tt0086250/img",
-      "logo": "https://images.metahub.space/logo/medium/tt0086250/img",
-      "description": "In the 1980s, a determined criminal-minded Cuban immigrant becomes the biggest drug smuggler in Miami, and is eventually undone by his own drug addiction.",
-      "releaseInfo": "1983",
-      "imdbRating": "8.3"
-    },
-    {
-      "id": "tt0215517",
-      "type": "movie",
-      "name": "Angoor",
-      "poster": "https://images.metahub.space/poster/small/tt0215517/img",
-      "background": "https://images.metahub.space/background/medium/tt0215517/img",
-      "logo": "https://images.metahub.space/logo/medium/tt0215517/img",
-      "description": "Based on Shakespeare's 'A Comedy of Errors', this is a story of identical twins (2 pairs) and mistaken identities.",
-      "releaseInfo": "1982",
+      "name": "Thulladha Manamum Thullum",
+      "poster": "https://images.metahub.space/poster/small/tt1517561/img",
+      "background": "https://images.metahub.space/background/medium/tt1517561/img",
+      "logo": "https://images.metahub.space/logo/medium/tt1517561/img",
+      "description": "Kutty is a good-hearted soul, but unfortunate incidents tend to portray his ruffian side whenever he encounters the girl he loves. A bizarre incident brings them closer and yet keeps them apart.",
+      "releaseInfo": "1999",
       "imdbRating": "8.3"
     },
     {
@@ -100,17 +89,6 @@
       "imdbRating": "8.2"
     },
     {
-      "id": "tt1180583",
-      "type": "movie",
-      "name": "Vaaranam Aayiram",
-      "poster": "https://images.metahub.space/poster/small/tt1180583/img",
-      "background": "https://images.metahub.space/background/medium/tt1180583/img",
-      "logo": "https://images.metahub.space/logo/medium/tt1180583/img",
-      "description": "A father and son help each other through growing up, romance, tragedy, and adventure.",
-      "releaseInfo": "2008",
-      "imdbRating": "8.2"
-    },
-    {
       "id": "tt29623480",
       "type": "movie",
       "name": "The Wild Robot",
@@ -133,14 +111,25 @@
       "imdbRating": "8.2"
     },
     {
-      "id": "tt36626888",
+      "id": "tt0048956",
       "type": "movie",
-      "name": "Ohh My Dog",
-      "poster": "https://live.metahub.space/poster/small/tt36626888/img",
-      "background": "https://live.metahub.space/background/medium/tt36626888/img",
-      "logo": "https://live.metahub.space/logo/medium/tt36626888/img",
-      "description": "In Assam, 14-year-old Apu embarks on a desperate quest to rescue his beloved dog, Momo, after he is kidnapped. Elsewhere, in Bihar, a devoted dog named Oscar sets out on a perilous journey to find his kidnapped owner, a 15-year-old child labourer. As their journeys unfold, it becomes clear that the two kidnappings may be connected to a larger, sinister plan.",
-      "releaseInfo": "2026",
+      "name": "Aparajito",
+      "poster": "https://images.metahub.space/poster/small/tt0048956/img",
+      "background": "https://images.metahub.space/background/medium/tt0048956/img",
+      "logo": "https://images.metahub.space/logo/medium/tt0048956/img",
+      "description": "Following his father's death, a boy leaves home to study in Calcutta, while his mother must face a life alone.",
+      "releaseInfo": "1956",
+      "imdbRating": "8.2"
+    },
+    {
+      "id": "tt21261388",
+      "type": "movie",
+      "name": "Gargi",
+      "poster": "https://images.metahub.space/poster/small/tt21261388/img",
+      "background": "https://images.metahub.space/background/medium/tt21261388/img",
+      "logo": "https://images.metahub.space/logo/medium/tt21261388/img",
+      "description": "The journey of a young school teacher to prove her father's innocence with the help of a juvenile advocate who's never even seen the interiors of a court hall.",
+      "releaseInfo": "2022",
       "imdbRating": "8.1"
     },
     {
@@ -152,6 +141,17 @@
       "logo": "https://images.metahub.space/logo/medium/tt10872600/img",
       "description": "Peter Parker turns to Doctor Strange after his identity destroys the life he knows, but a magical mistake draws powerful outsiders into his world and forces him to confront what being Spider Man really means.",
       "releaseInfo": "2021",
+      "imdbRating": "8.1"
+    },
+    {
+      "id": "tt0258490",
+      "type": "movie",
+      "name": "Khushi",
+      "poster": "https://images.metahub.space/poster/small/tt0258490/img",
+      "background": "https://images.metahub.space/background/medium/tt0258490/img",
+      "logo": "https://images.metahub.space/logo/medium/tt0258490/img",
+      "description": "While playing matchmaker to a pair of their friends, two young university students begin developing feelings for each other.",
+      "releaseInfo": "2001",
       "imdbRating": "8.1"
     },
     {
@@ -177,14 +177,25 @@
       "imdbRating": "8.0"
     },
     {
-      "id": "tt3390572",
+      "id": "tt36626888",
       "type": "movie",
-      "name": "Haider",
-      "poster": "https://images.metahub.space/poster/small/tt3390572/img",
-      "background": "https://images.metahub.space/background/medium/tt3390572/img",
-      "logo": "https://images.metahub.space/logo/medium/tt3390572/img",
-      "description": "A young man returns to Kashmir after his father's disappearance to confront his uncle, whom he suspects of playing a role in his father's fate.",
-      "releaseInfo": "2014",
+      "name": "Ohh My Dog",
+      "poster": "https://live.metahub.space/poster/small/tt36626888/img",
+      "background": "https://live.metahub.space/background/medium/tt36626888/img",
+      "logo": "https://live.metahub.space/logo/medium/tt36626888/img",
+      "description": "In Assam, 14-year-old Apu embarks on a desperate quest to rescue his beloved dog, Momo, after he is kidnapped. Elsewhere, in Bihar, a devoted dog named Oscar sets out on a perilous journey to find his kidnapped owner, a 15-year-old child labourer. As their journeys unfold, it becomes clear that the two kidnappings may be connected to a larger, sinister plan.",
+      "releaseInfo": "2026",
+      "imdbRating": "8.0"
+    },
+    {
+      "id": "tt1773764",
+      "type": "movie",
+      "name": "Ship of Theseus",
+      "poster": "https://images.metahub.space/poster/small/tt1773764/img",
+      "background": "https://images.metahub.space/background/medium/tt1773764/img",
+      "logo": "https://images.metahub.space/logo/medium/tt1773764/img",
+      "description": "The film explores questions of identity, justice, beauty, meaning and death through an experimental photographer, an ailing monk and a young stockbroker.",
+      "releaseInfo": "2012",
       "imdbRating": "8.0"
     },
     {
@@ -199,6 +210,17 @@
       "imdbRating": "7.9"
     },
     {
+      "id": "tt0118751",
+      "type": "movie",
+      "name": "Border",
+      "poster": "https://images.metahub.space/poster/small/tt0118751/img",
+      "background": "https://images.metahub.space/background/medium/tt0118751/img",
+      "logo": "https://images.metahub.space/logo/medium/tt0118751/img",
+      "description": "In 1971, along the border region of Longewala, a small battalion of Indian soldiers goes up against a large Pakistani strike force.",
+      "releaseInfo": "1997",
+      "imdbRating": "7.9"
+    },
+    {
       "id": "tt0083866",
       "type": "movie",
       "name": "E.T. the Extra-Terrestrial",
@@ -207,6 +229,17 @@
       "logo": "https://images.metahub.space/logo/medium/tt0083866/img",
       "description": "A troubled child summons the courage to help a friendly alien escape from Earth and return to his home planet.",
       "releaseInfo": "1982",
+      "imdbRating": "7.9"
+    },
+    {
+      "id": "tt7725596",
+      "type": "movie",
+      "name": "Badhaai Ho",
+      "poster": "https://images.metahub.space/poster/small/tt7725596/img",
+      "background": "https://images.metahub.space/background/medium/tt7725596/img",
+      "logo": "https://images.metahub.space/logo/medium/tt7725596/img",
+      "description": "A man is embarrassed when he finds out his mother is pregnant.",
+      "releaseInfo": "2018",
       "imdbRating": "7.9"
     },
     {
@@ -219,17 +252,6 @@
       "description": "Hirayama cleans public toilets in Tokyo, lives his life in simplicity and daily tranquility. Some encounters also lead him to reflect on himself.",
       "releaseInfo": "2023",
       "imdbRating": "7.9"
-    },
-    {
-      "id": "tt13206926",
-      "type": "movie",
-      "name": "Joji",
-      "poster": "https://images.metahub.space/poster/small/tt13206926/img",
-      "background": "https://images.metahub.space/background/medium/tt13206926/img",
-      "logo": "https://images.metahub.space/logo/medium/tt13206926/img",
-      "description": "Joji, an engineering dropout and the youngest son of a rich family lives with his aspirations of becoming super wealthy. Driven by greed and blind ambition, he decides to execute his plans following an unexpected event in the family.",
-      "releaseInfo": "2021",
-      "imdbRating": "7.8"
     },
     {
       "id": "tt37287335",
@@ -265,17 +287,6 @@
       "imdbRating": "7.7"
     },
     {
-      "id": "tt7998242",
-      "type": "movie",
-      "name": "Avane Srimannarayana",
-      "poster": "https://images.metahub.space/poster/small/tt7998242/img",
-      "background": "https://images.metahub.space/background/medium/tt7998242/img",
-      "logo": "https://images.metahub.space/logo/medium/tt7998242/img",
-      "description": "In the pursuit of solving an ancient mystery of Amaravati, Narayana, a corrupt cop must battle the dangerous clan of dacoits and it's fierce leader.",
-      "releaseInfo": "2019",
-      "imdbRating": "7.7"
-    },
-    {
       "id": "tt27431598",
       "type": "movie",
       "name": "Bramayugam",
@@ -284,6 +295,17 @@
       "logo": "https://images.metahub.space/logo/medium/tt27431598/img",
       "description": "Thevan, a folk singer of the Paanan caste, has a fateful encounter when escaping slavery, leading to him discovering an ancient traditional mansion altering his destiny.",
       "releaseInfo": "2024",
+      "imdbRating": "7.7"
+    },
+    {
+      "id": "tt0089218",
+      "type": "movie",
+      "name": "The Goonies",
+      "poster": "https://images.metahub.space/poster/small/tt0089218/img",
+      "background": "https://images.metahub.space/background/medium/tt0089218/img",
+      "logo": "https://images.metahub.space/logo/medium/tt0089218/img",
+      "description": "A group of young misfits called The Goonies discover an ancient map and set out on an adventure to find a legendary pirate's long-lost treasure.",
+      "releaseInfo": "1985",
       "imdbRating": "7.7"
     },
     {
@@ -309,39 +331,6 @@
       "imdbRating": "7.6"
     },
     {
-      "id": "tt7919680",
-      "type": "movie",
-      "name": "Karwaan",
-      "poster": "https://images.metahub.space/poster/small/tt7919680/img",
-      "background": "https://images.metahub.space/background/medium/tt7919680/img",
-      "logo": "https://images.metahub.space/logo/medium/tt7919680/img",
-      "description": "Two friends and a chirpy teenager take a road trip from Bangalore to Kochi.",
-      "releaseInfo": "2018",
-      "imdbRating": "7.6"
-    },
-    {
-      "id": "tt28494851",
-      "type": "movie",
-      "name": "Stolen",
-      "poster": "https://images.metahub.space/poster/small/tt28494851/img",
-      "background": "https://images.metahub.space/background/medium/tt28494851/img",
-      "logo": "https://images.metahub.space/logo/medium/tt28494851/img",
-      "description": "Two urbane brothers witness a baby being kidnapped from an impoverished mother at a railway station in rural India. One guided by moral duty, convinces the other to help the mother and join a perilous investigation to find the baby.",
-      "releaseInfo": "2023",
-      "imdbRating": "7.5"
-    },
-    {
-      "id": "tt5098128",
-      "type": "movie",
-      "name": "To Father with Love",
-      "poster": "https://images.metahub.space/poster/small/tt5098128/img",
-      "background": "https://images.metahub.space/background/medium/tt5098128/img",
-      "logo": "https://images.metahub.space/logo/medium/tt5098128/img",
-      "description": "An intelligent son of a former entrepreneur takes revenge on a powerful and rich businessman who is as smart as he is.",
-      "releaseInfo": "2016",
-      "imdbRating": "7.5"
-    },
-    {
       "id": "tt1951264",
       "type": "movie",
       "name": "The Hunger Games: Catching Fire",
@@ -353,36 +342,25 @@
       "imdbRating": "7.5"
     },
     {
-      "id": "tt8108274",
+      "id": "tt2652092",
       "type": "movie",
-      "name": "Tanhaji: The Unsung Warrior",
-      "poster": "https://images.metahub.space/poster/small/tt8108274/img",
-      "background": "https://images.metahub.space/background/medium/tt8108274/img",
-      "logo": "https://images.metahub.space/logo/medium/tt8108274/img",
-      "description": "Tanhaji Malusare, a military chieftain in the army of the Maratha king Shivaji, leads the charge to capture the strategically important Kondhana fort guarded by the army of the fierce Rajput chieftain Udaybhan Rathod.",
-      "releaseInfo": "2020",
-      "imdbRating": "7.5"
-    },
-    {
-      "id": "tt23790740",
-      "type": "movie",
-      "name": "Srikanth",
-      "poster": "https://images.metahub.space/poster/small/tt23790740/img",
-      "background": "https://images.metahub.space/background/medium/tt23790740/img",
-      "logo": "https://images.metahub.space/logo/medium/tt23790740/img",
-      "description": "Blind Srikanth gets into MIT, founds Bollant Industries. Pursues goals for visually impaired while facing entrepreneurial challenges, navigating personal sacrifices. Highlights obstacles overcome by the blind in academics and busi...",
-      "releaseInfo": "2024",
+      "name": "The Good Lie",
+      "poster": "https://images.metahub.space/poster/small/tt2652092/img",
+      "background": "https://images.metahub.space/background/medium/tt2652092/img",
+      "logo": "https://images.metahub.space/logo/medium/tt2652092/img",
+      "description": "A group of Sudanese refugees, given the chance to resettle in the U.S., arrive in Kansas City, Missouri, where their encounter with an employment agency counselor forever changes all of their lives.",
+      "releaseInfo": "2014",
       "imdbRating": "7.4"
     },
     {
-      "id": "tt13381376",
+      "id": "tt1262426",
       "type": "movie",
-      "name": "Welcome Home",
-      "poster": "https://images.metahub.space/poster/small/tt13381376/img",
-      "background": "https://images.metahub.space/background/medium/tt13381376/img",
-      "logo": "https://images.metahub.space/logo/medium/tt13381376/img",
-      "description": "A census report leads two female government teachers to an isolated house, in which resides a family with twisted secrets they never imagined to recover.",
-      "releaseInfo": "2020",
+      "name": "Wicked",
+      "poster": "https://images.metahub.space/poster/small/tt1262426/img",
+      "background": "https://images.metahub.space/background/medium/tt1262426/img",
+      "logo": "https://images.metahub.space/logo/medium/tt1262426/img",
+      "description": "Elphaba, a young woman ridiculed for her green skin, and Galinda, a popular girl, become friends at Shiz University in the Land of Oz. After an encounter with the Wonderful Wizard of Oz, their friendship reaches a crossroads.",
+      "releaseInfo": "2024",
       "imdbRating": "7.4"
     },
     {
@@ -397,12 +375,34 @@
       "imdbRating": "7.4"
     },
     {
+      "id": "tt15477504",
+      "type": "movie",
+      "name": "Nanpakal Nerathu Mayakkam",
+      "poster": "https://images.metahub.space/poster/small/tt15477504/img",
+      "background": "https://images.metahub.space/background/medium/tt15477504/img",
+      "logo": "https://images.metahub.space/logo/medium/tt15477504/img",
+      "description": "James wakes up irritable on a bus, believing he is Sundaram, a man who vanished from a quiet village years prior.",
+      "releaseInfo": "2022",
+      "imdbRating": "7.4"
+    },
+    {
       "id": "tt14527204",
       "type": "movie",
       "name": "Sardar",
       "background": "https://m.media-amazon.com/images/M/MV5BNjQ1MzZjMGEtNDAzZi00MGRhLThiNjUtNWExMDM3MzY4YzUwXkEyXkFqcGc@._V1_.jpg",
       "description": "A spy, who is estranged from his family due to a mission, suddenly meets his police officer son.",
       "releaseInfo": "2022",
+      "imdbRating": "7.4"
+    },
+    {
+      "id": "tt2123129",
+      "type": "movie",
+      "name": "3",
+      "poster": "https://images.metahub.space/poster/small/tt2123129/img",
+      "background": "https://images.metahub.space/background/medium/tt2123129/img",
+      "logo": "https://images.metahub.space/logo/medium/tt2123129/img",
+      "description": "Ram and Janani are high school sweethearts who eventually get married. However, Janani is mystified when Ram commits suicide all of a sudden and she tries to find out the truth behind his death.",
+      "releaseInfo": "2012",
       "imdbRating": "7.4"
     },
     {
@@ -417,17 +417,6 @@
       "imdbRating": "7.4"
     },
     {
-      "id": "tt3678782",
-      "type": "movie",
-      "name": "Badlapur",
-      "poster": "https://images.metahub.space/poster/small/tt3678782/img",
-      "background": "https://images.metahub.space/background/medium/tt3678782/img",
-      "logo": "https://images.metahub.space/logo/medium/tt3678782/img",
-      "description": "Raghu begins walking a fine line between good and evil as he exacts violent revenge on two criminals who killed his family 15 years ago.",
-      "releaseInfo": "2015",
-      "imdbRating": "7.4"
-    },
-    {
       "id": "tt2250912",
       "type": "movie",
       "name": "Spider-Man: Homecoming",
@@ -439,14 +428,14 @@
       "imdbRating": "7.4"
     },
     {
-      "id": "tt15464390",
+      "id": "tt32565993",
       "type": "movie",
-      "name": "Mastaney",
-      "poster": "https://live.metahub.space/poster/small/tt15464390/img",
-      "background": "https://live.metahub.space/background/medium/tt15464390/img",
-      "logo": "https://live.metahub.space/logo/medium/tt15464390/img",
-      "description": "Set in 1739, Nader Shah's undefeated army is attacked by Sikh rebellions. Nadar demands their arrest to no avail. Five civilians are hired to play Sikh rebels but over time, they learn the Sikh way.",
-      "releaseInfo": "2023",
+      "name": "The Sheep Detectives",
+      "poster": "https://images.metahub.space/poster/small/tt32565993/img",
+      "background": "https://images.metahub.space/background/medium/tt32565993/img",
+      "logo": "https://images.metahub.space/logo/medium/tt32565993/img",
+      "description": "Every night a shepherd reads aloud a murder mystery, pretending his sheep can understand. When he is found dead, the sheep realize at once that it was a murder and think they know everything about how to go about solving it.",
+      "releaseInfo": "2026",
       "imdbRating": "7.4"
     },
     {
@@ -483,14 +472,25 @@
       "imdbRating": "7.3"
     },
     {
-      "id": "tt13143988",
+      "id": "tt6173990",
       "type": "movie",
-      "name": "Nail Polish",
-      "poster": "https://images.metahub.space/poster/small/tt13143988/img",
-      "background": "https://images.metahub.space/background/medium/tt13143988/img",
-      "logo": "https://images.metahub.space/logo/medium/tt13143988/img",
-      "description": "Nail Polish, written and directed by Bugs Bhargava Krishna, stars Arjun Rampal, Manav Kaul, Anand Tiwari and Rajit Kapur. It's a legal thriller that explores the uncertainty of the human mind.",
-      "releaseInfo": "2021",
+      "name": "Gold",
+      "poster": "https://images.metahub.space/poster/small/tt6173990/img",
+      "background": "https://images.metahub.space/background/medium/tt6173990/img",
+      "logo": "https://images.metahub.space/logo/medium/tt6173990/img",
+      "description": "The journey of a man who was instrumental in making India win its first Olympic gold medal as a free nation.",
+      "releaseInfo": "2018",
+      "imdbRating": "7.3"
+    },
+    {
+      "id": "tt0093437",
+      "type": "movie",
+      "name": "The Lost Boys",
+      "poster": "https://images.metahub.space/poster/small/tt0093437/img",
+      "background": "https://images.metahub.space/background/medium/tt0093437/img",
+      "logo": "https://images.metahub.space/logo/medium/tt0093437/img",
+      "description": "When a recently divorced mother and her two teenage boys move to a coastal town to stay with her father, it doesn't take long for the brothers to realize the area is a haven for something much more sinister than party-going surfers.",
+      "releaseInfo": "1987",
       "imdbRating": "7.2"
     },
     {
@@ -502,17 +502,6 @@
       "logo": "https://images.metahub.space/logo/medium/tt0114558/img",
       "description": "A black-marketeer tries to save a woman in 1999 Los Angeles.",
       "releaseInfo": "1995",
-      "imdbRating": "7.2"
-    },
-    {
-      "id": "tt0093437",
-      "type": "movie",
-      "name": "The Lost Boys",
-      "poster": "https://images.metahub.space/poster/small/tt0093437/img",
-      "background": "https://images.metahub.space/background/medium/tt0093437/img",
-      "logo": "https://images.metahub.space/logo/medium/tt0093437/img",
-      "description": "When a recently divorced mother and her two teenage boys move to a coastal town to stay with her father, it doesn't take long for the brothers to realize the area is a haven for something much more sinister than party-going surfers.",
-      "releaseInfo": "1987",
       "imdbRating": "7.2"
     },
     {
@@ -538,15 +527,26 @@
       "imdbRating": "7.2"
     },
     {
-      "id": "tt1836912",
+      "id": "tt0347473",
       "type": "movie",
-      "name": "Shaitan",
-      "poster": "https://images.metahub.space/poster/small/tt1836912/img",
-      "background": "https://images.metahub.space/background/medium/tt1836912/img",
-      "logo": "https://images.metahub.space/logo/medium/tt1836912/img",
-      "description": "Five substance-abusing friends decide to fake a kidnapping in order to bribe a police constable for covering-up a hit-and-run accident.",
-      "releaseInfo": "2011",
-      "imdbRating": "7.2"
+      "name": "Main Hoon Na",
+      "poster": "https://images.metahub.space/poster/small/tt0347473/img",
+      "background": "https://images.metahub.space/background/medium/tt0347473/img",
+      "logo": "https://images.metahub.space/logo/medium/tt0347473/img",
+      "description": "An army major goes undercover as a college student. His mission is both professional and personal: to protect his general's daughter from a radical militant, and to find his estranged half-brother.",
+      "releaseInfo": "2004",
+      "imdbRating": "7.1"
+    },
+    {
+      "id": "tt0488798",
+      "type": "movie",
+      "name": "Welcome",
+      "poster": "https://images.metahub.space/poster/small/tt0488798/img",
+      "background": "https://images.metahub.space/background/medium/tt0488798/img",
+      "logo": "https://images.metahub.space/logo/medium/tt0488798/img",
+      "description": "A man falls in love with a beautiful woman, but later discovers that her brothers are gangsters.",
+      "releaseInfo": "2007",
+      "imdbRating": "7.1"
     }
   ]
 }

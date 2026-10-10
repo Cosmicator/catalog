@@ -122,17 +122,6 @@
       "imdbRating": "8.6"
     },
     {
-      "id": "tt4574334",
-      "type": "series",
-      "name": "Stranger Things",
-      "poster": "https://images.metahub.space/poster/small/tt4574334/img",
-      "background": "https://images.metahub.space/background/medium/tt4574334/img",
-      "logo": "https://images.metahub.space/logo/medium/tt4574334/img",
-      "description": "In 1980s Indiana, a group of young friends witness supernatural forces and secret government exploits. As they search for answers, the children unravel a series of extraordinary mysteries.",
-      "releaseInfo": "2016–2025",
-      "imdbRating": "8.6"
-    },
-    {
       "id": "tt3526078",
       "type": "series",
       "name": "Schitt's Creek",
@@ -141,17 +130,6 @@
       "logo": "https://images.metahub.space/logo/medium/tt3526078/img",
       "description": "After being a victim of fraud, Johnny Rose and his family go from extremely wealthy to penniless overnight. The only asset left to them is a small, unsophisticated town: Schitt's Creek. They relocate there. Culture shock ensues.",
       "releaseInfo": "2015–2020",
-      "imdbRating": "8.5"
-    },
-    {
-      "id": "tt4093826",
-      "type": "series",
-      "name": "Twin Peaks",
-      "poster": "https://images.metahub.space/poster/small/tt4093826/img",
-      "background": "https://images.metahub.space/background/medium/tt4093826/img",
-      "logo": "https://images.metahub.space/logo/medium/tt4093826/img",
-      "description": "Picks up 25 years after the inhabitants of a quaint northwestern town are stunned when their homecoming queen is murdered.",
-      "releaseInfo": "2017",
       "imdbRating": "8.5"
     },
     {
@@ -166,6 +144,17 @@
       "imdbRating": "8.5"
     },
     {
+      "id": "tt11854694",
+      "type": "series",
+      "name": "Special OPS",
+      "poster": "https://images.metahub.space/poster/small/tt11854694/img",
+      "background": "https://images.metahub.space/background/medium/tt11854694/img",
+      "logo": "https://images.metahub.space/logo/medium/tt11854694/img",
+      "description": "A relentless hero and a terror mastermind are engaged in a high-stakes race against time, as Himmat Singh and his team embark on a mission to end a 19-year-long manhunt.",
+      "releaseInfo": "2020–2025",
+      "imdbRating": "8.5"
+    },
+    {
       "id": "tt11912196",
       "type": "series",
       "name": "Asur: Welcome to Your Dark Side",
@@ -174,6 +163,17 @@
       "logo": "https://images.metahub.space/logo/medium/tt11912196/img",
       "description": "Shubh returns for revenge and this season he takes the challenge to a whole new level. With the heroes fallen apart, will a desolate Dhananjay Rajpoot and a torn Nikhil Nair be able to stop him?",
       "releaseInfo": "2020–",
+      "imdbRating": "8.5"
+    },
+    {
+      "id": "tt4093826",
+      "type": "series",
+      "name": "Twin Peaks",
+      "poster": "https://images.metahub.space/poster/small/tt4093826/img",
+      "background": "https://images.metahub.space/background/medium/tt4093826/img",
+      "logo": "https://images.metahub.space/logo/medium/tt4093826/img",
+      "description": "Picks up 25 years after the inhabitants of a quaint northwestern town are stunned when their homecoming queen is murdered.",
+      "releaseInfo": "2017",
       "imdbRating": "8.5"
     },
     {
@@ -188,17 +188,6 @@
       "imdbRating": "8.5"
     },
     {
-      "id": "tt11854694",
-      "type": "series",
-      "name": "Special OPS",
-      "poster": "https://images.metahub.space/poster/small/tt11854694/img",
-      "background": "https://images.metahub.space/background/medium/tt11854694/img",
-      "logo": "https://images.metahub.space/logo/medium/tt11854694/img",
-      "description": "A relentless hero and a terror mastermind are engaged in a high-stakes race against time, as Himmat Singh and his team embark on a mission to end a 19-year-long manhunt.",
-      "releaseInfo": "2020–2025",
-      "imdbRating": "8.5"
-    },
-    {
       "id": "tt1839578",
       "type": "series",
       "name": "Person of Interest",
@@ -207,17 +196,6 @@
       "logo": "https://images.metahub.space/logo/medium/tt1839578/img",
       "description": "An off-the-grid and presumed-dead former CIA agent, John Reese, is hired by a mysterious tech billionaire software genius, Harold Finch, to prevent violent crimes before they happen in New York City via an advanced surveillance so...",
       "releaseInfo": "2011–2016",
-      "imdbRating": "8.5"
-    },
-    {
-      "id": "tt1190634",
-      "type": "series",
-      "name": "The Boys",
-      "poster": "https://images.metahub.space/poster/small/tt1190634/img",
-      "background": "https://images.metahub.space/background/medium/tt1190634/img",
-      "logo": "https://images.metahub.space/logo/medium/tt1190634/img",
-      "description": "A group of vigilantes set out to take down corrupt superheroes who abuse their superpowers.",
-      "releaseInfo": "2019–2026",
       "imdbRating": "8.5"
     },
     {
@@ -452,17 +430,6 @@
       "imdbRating": "8.1"
     },
     {
-      "id": "tt23649128",
-      "type": "series",
-      "name": "The Studio",
-      "poster": "https://images.metahub.space/poster/small/tt23649128/img",
-      "background": "https://images.metahub.space/background/medium/tt23649128/img",
-      "logo": "https://images.metahub.space/logo/medium/tt23649128/img",
-      "description": "Follows a legacy Hollywood movie studio striving to survive in a world where it is increasingly difficult for art and business to live together.",
-      "releaseInfo": "2025–",
-      "imdbRating": "8.1"
-    },
-    {
       "id": "tt0914387",
       "type": "series",
       "name": "Damages",
@@ -518,6 +485,17 @@
       "imdbRating": "8.1"
     },
     {
+      "id": "tt1515193",
+      "type": "series",
+      "name": "The Big C",
+      "poster": "https://images.metahub.space/poster/small/tt1515193/img",
+      "background": "https://images.metahub.space/background/medium/tt1515193/img",
+      "logo": "https://images.metahub.space/logo/medium/tt1515193/img",
+      "description": "A suburban mother faces her cancer diagnosis while trying to find humor and happiness as well.",
+      "releaseInfo": "2010–2013",
+      "imdbRating": "8.1"
+    },
+    {
       "id": "tt9288030",
       "type": "series",
       "name": "Reacher",
@@ -526,6 +504,14 @@
       "logo": "https://images.metahub.space/logo/medium/tt9288030/img",
       "description": "Itinerant former military policeman Jack Reacher solves crimes and metes out his own brand of street justice. Based on the novels by Lee Child.",
       "releaseInfo": "2022–",
+      "imdbRating": "8.0"
+    },
+    {
+      "id": "tt15404764",
+      "type": "series",
+      "name": "Titoo",
+      "description": "Titoo is an animated kids' comedy show that follows the daily escapades of eight-year-old boy Titoo. Though, he is a good-hearted, intelligent kid who loves to help everyone, but inadvertently manages to brew even more trouble.",
+      "releaseInfo": "2020–",
       "imdbRating": "8.0"
     },
     {
@@ -540,12 +526,26 @@
       "imdbRating": "8.0"
     },
     {
-      "id": "tt15404764",
+      "id": "tt4643084",
       "type": "series",
-      "name": "Titoo",
-      "description": "Titoo is an animated kids' comedy show that follows the daily escapades of eight-year-old boy Titoo. Though, he is a good-hearted, intelligent kid who loves to help everyone, but inadvertently manages to brew even more trouble.",
-      "releaseInfo": "2020–",
+      "name": "Counterpart",
+      "poster": "https://images.metahub.space/poster/small/tt4643084/img",
+      "background": "https://images.metahub.space/background/medium/tt4643084/img",
+      "logo": "https://images.metahub.space/logo/medium/tt4643084/img",
+      "description": "A cog in a bureaucratic agency discovers his agency is guarding a crossing to a parallel dimension.",
+      "releaseInfo": "2017–2019",
       "imdbRating": "8.0"
+    },
+    {
+      "id": "tt5016504",
+      "type": "series",
+      "name": "Preacher",
+      "poster": "https://images.metahub.space/poster/small/tt5016504/img",
+      "background": "https://images.metahub.space/background/medium/tt5016504/img",
+      "logo": "https://images.metahub.space/logo/medium/tt5016504/img",
+      "description": "After a supernatural event at his church, a preacher enlists the help of a vampire and his ex to find God.",
+      "releaseInfo": "2016–2019",
+      "imdbRating": "7.9"
     }
   ]
 }
