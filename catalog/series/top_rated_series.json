@@ -265,17 +265,6 @@
       "imdbRating": "8.4"
     },
     {
-      "id": "tt37819415",
-      "type": "series",
-      "name": "Irreplaceable",
-      "poster": "https://live.metahub.space/poster/small/tt37819415/img",
-      "background": "https://live.metahub.space/background/medium/tt37819415/img",
-      "logo": "https://live.metahub.space/logo/medium/tt37819415/img",
-      "description": "After witnessing her mother's suicide following a divorce, Xu Chi defies her tragic fate by rising from an ordinary graduate to a sharp-witted top consultant. Drawn into the covert revenge scheme of seasoned partner Ye Xinzhi, who mentors her while navigating their growing mutual attraction, the duo confronts a crossroads when professional upheavals collide with their evolving bond.",
-      "releaseInfo": "2026–",
-      "imdbRating": "8.4"
-    },
-    {
       "id": "tt11198330",
       "type": "series",
       "name": "House of the Dragon",
@@ -441,17 +430,6 @@
       "imdbRating": "8.1"
     },
     {
-      "id": "tt5111414",
-      "type": "series",
-      "name": "Harley and the Davidsons",
-      "poster": "https://images.metahub.space/poster/small/tt5111414/img",
-      "background": "https://images.metahub.space/background/medium/tt5111414/img",
-      "logo": "https://images.metahub.space/logo/medium/tt5111414/img",
-      "description": "Bill Harley joins Walter and Arthur Davidson to risk their fortunes and livelihoods launching the now-iconic motorcycle company. Each has his own challenges to overcome, but they are united by their dreams and ambitions.",
-      "releaseInfo": "2016",
-      "imdbRating": "8.1"
-    },
-    {
       "id": "tt7203552",
       "type": "series",
       "name": "The Morning Show",
@@ -460,6 +438,17 @@
       "logo": "https://images.metahub.space/logo/medium/tt7203552/img",
       "description": "An inside look at the lives of the people who help America wake up in the morning, exploring the unique challenges faced by the team.",
       "releaseInfo": "2019–",
+      "imdbRating": "8.1"
+    },
+    {
+      "id": "tt5111414",
+      "type": "series",
+      "name": "Harley and the Davidsons",
+      "poster": "https://images.metahub.space/poster/small/tt5111414/img",
+      "background": "https://images.metahub.space/background/medium/tt5111414/img",
+      "logo": "https://images.metahub.space/logo/medium/tt5111414/img",
+      "description": "Bill Harley joins Walter and Arthur Davidson to risk their fortunes and livelihoods launching the now-iconic motorcycle company. Each has his own challenges to overcome, but they are united by their dreams and ambitions.",
+      "releaseInfo": "2016",
       "imdbRating": "8.1"
     },
     {
@@ -545,6 +534,17 @@
       "logo": "https://images.metahub.space/logo/medium/tt5016504/img",
       "description": "After a supernatural event at his church, a preacher enlists the help of a vampire and his ex to find God.",
       "releaseInfo": "2016–2019",
+      "imdbRating": "7.9"
+    },
+    {
+      "id": "tt5489746",
+      "type": "series",
+      "name": "Evil Lives Here",
+      "poster": "https://images.metahub.space/poster/small/tt5489746/img",
+      "background": "https://images.metahub.space/background/medium/tt5489746/img",
+      "logo": "https://images.metahub.space/logo/medium/tt5489746/img",
+      "description": "A TV series where individuals share their perspectives of loved ones who committed horrific crimes.",
+      "releaseInfo": "2016–",
       "imdbRating": "7.9"
     }
   ]
