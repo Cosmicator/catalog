@@ -101,16 +101,6 @@
       "imdbRating": 6.6
     },
     {
-      "id": "tt0162661",
-      "type": "movie",
-      "name": "Sleepy Hollow",
-      "poster": "https://images.metahub.space/poster/medium/tt0162661/img",
-      "background": "https://images.metahub.space/background/medium/tt0162661/img",
-      "description": "Skeptical young detective Ichabod Crane gets transferred to the hamlet of Sleepy Hollow, New York, where he is tasked with investigating the decapitations of three people – murders the townsfolk attribute to a legendary specter, The Headless Horseman.",
-      "releaseInfo": 1999,
-      "imdbRating": 7.3
-    },
-    {
       "id": "tt31049299",
       "type": "movie",
       "name": "Animals",
@@ -119,6 +109,16 @@
       "description": "When the son of an L.A. mayoral candidate is kidnapped, he and his wife have a few hours to come up with the ransom payment. With most of their money spent on his political campaign, they have to get their hands dirty and expose a side of their lives they never intended to see the light of day.",
       "releaseInfo": 2026,
       "imdbRating": 0
+    },
+    {
+      "id": "tt0162661",
+      "type": "movie",
+      "name": "Sleepy Hollow",
+      "poster": "https://images.metahub.space/poster/medium/tt0162661/img",
+      "background": "https://images.metahub.space/background/medium/tt0162661/img",
+      "description": "Skeptical young detective Ichabod Crane gets transferred to the hamlet of Sleepy Hollow, New York, where he is tasked with investigating the decapitations of three people – murders the townsfolk attribute to a legendary specter, The Headless Horseman.",
+      "releaseInfo": 1999,
+      "imdbRating": 7.3
     },
     {
       "id": "tt32393988",
@@ -191,6 +191,16 @@
       "imdbRating": 6.2
     },
     {
+      "id": "tt35521922",
+      "type": "movie",
+      "name": "Good Boy",
+      "poster": "https://images.metahub.space/poster/medium/tt35521922/img",
+      "background": "https://images.metahub.space/background/medium/tt35521922/img",
+      "description": "A loyal dog moves to a rural family home with his owner Todd, only to discover supernatural forces lurking in the shadows. As dark entities threaten his human companion, the brave pup must fight to protect the one he loves most.",
+      "releaseInfo": 2025,
+      "imdbRating": 6.1
+    },
+    {
       "id": "tt36626888",
       "type": "movie",
       "name": "Ohh My Dog",
@@ -199,6 +209,16 @@
       "description": "A young child forms an unexpected bond with a stray dog, embarking on an adventure that reveals the profound ways animals and humans can heal each other's hearts.",
       "releaseInfo": 2026,
       "imdbRating": 7.7
+    },
+    {
+      "id": "tt28498219",
+      "type": "movie",
+      "name": "Matchbox the Movie",
+      "poster": "https://images.metahub.space/poster/medium/tt28498219/img",
+      "background": "https://images.metahub.space/background/medium/tt28498219/img",
+      "description": "When a group of former childhood friends reconnect, their reunion takes a wild turn as they stumble upon a dangerous international plot—and must save the world.",
+      "releaseInfo": 2026,
+      "imdbRating": 0
     },
     {
       "id": "tt34385135",
@@ -229,16 +249,6 @@
       "description": "A year after the murder of her mother, a teenage girl is terrorized by a masked killer who targets her and her friends by using scary movies as part of a deadly game.",
       "releaseInfo": 1996,
       "imdbRating": 7.4
-    },
-    {
-      "id": "tt28498219",
-      "type": "movie",
-      "name": "Matchbox the Movie",
-      "poster": "https://images.metahub.space/poster/medium/tt28498219/img",
-      "background": "https://images.metahub.space/background/medium/tt28498219/img",
-      "description": "When a group of former childhood friends reconnect, their reunion takes a wild turn as they stumble upon a dangerous international plot—and must save the world.",
-      "releaseInfo": 2026,
-      "imdbRating": 0
     },
     {
       "id": "tt0094721",
@@ -339,16 +349,6 @@
       "description": "In the smog-choked dystopian Los Angeles of 2019, blade runner Rick Deckard is called out of retirement to terminate a quartet of replicants who have escaped to Earth seeking their creator for a way to extend their short life spans.",
       "releaseInfo": 1982,
       "imdbRating": 8.1
-    },
-    {
-      "id": "tt29268110",
-      "type": "movie",
-      "name": "Smile 2",
-      "poster": "https://images.metahub.space/poster/medium/tt29268110/img",
-      "background": "https://images.metahub.space/background/medium/tt29268110/img",
-      "description": "About to embark on a new world tour, global pop sensation Skye Riley begins experiencing increasingly terrifying and inexplicable events. Overwhelmed by the escalating horrors and the pressures of fame, Skye is forced to face her dark past to regain control of her life before it spirals out of control.",
-      "releaseInfo": 2024,
-      "imdbRating": 6.7
     },
     {
       "id": "tt0089218",
