@@ -23,17 +23,6 @@
       "imdbRating": "9.2"
     },
     {
-      "id": "tt12392504",
-      "type": "series",
-      "name": "Scam 1992: The Harshad Mehta Story",
-      "poster": "https://images.metahub.space/poster/small/tt12392504/img",
-      "background": "https://images.metahub.space/background/medium/tt12392504/img",
-      "logo": "https://images.metahub.space/logo/medium/tt12392504/img",
-      "description": "The rise and fall of Harshad Mehta, a stockbroker who single-handedly took the stock market to great heights, is depicted.",
-      "releaseInfo": "2020",
-      "imdbRating": "9.2"
-    },
-    {
       "id": "tt1475582",
       "type": "series",
       "name": "Sherlock",
@@ -56,28 +45,6 @@
       "imdbRating": "9.0"
     },
     {
-      "id": "tt0388629",
-      "type": "series",
-      "name": "One Piece",
-      "poster": "https://images.metahub.space/poster/small/tt0388629/img",
-      "background": "https://images.metahub.space/background/medium/tt0388629/img",
-      "logo": "https://images.metahub.space/logo/medium/tt0388629/img",
-      "description": "Monkey D. Luffy, a pirate with rubber powers, forms the Straw Hat crew and sails the Grand Line, battling rivals and the World Government on a quest for the legendary treasure One Piece and the title of Pirate King.",
-      "releaseInfo": "1999–",
-      "imdbRating": "9.0"
-    },
-    {
-      "id": "tt35495073",
-      "type": "series",
-      "name": "Heated Rivalry",
-      "poster": "https://images.metahub.space/poster/small/tt35495073/img",
-      "background": "https://images.metahub.space/background/medium/tt35495073/img",
-      "logo": "https://images.metahub.space/logo/medium/tt35495073/img",
-      "description": "Two rival hockey stars at the top of their game face an unexpected challenge when they develop feelings for each other, complicating their careers and the sport's expectations.",
-      "releaseInfo": "2025–",
-      "imdbRating": "8.8"
-    },
-    {
       "id": "tt10986410",
       "type": "series",
       "name": "Ted Lasso",
@@ -86,17 +53,6 @@
       "logo": "https://images.metahub.space/logo/medium/tt10986410/img",
       "description": "American college football coach Ted Lasso is hired to manage AFC Richmond, a struggling English soccer club, and must win over skeptical players, staff, and fans.",
       "releaseInfo": "2020–",
-      "imdbRating": "8.7"
-    },
-    {
-      "id": "tt0988824",
-      "type": "series",
-      "name": "Naruto: Shippuden",
-      "poster": "https://images.metahub.space/poster/small/tt0988824/img",
-      "background": "https://images.metahub.space/background/medium/tt0988824/img",
-      "logo": "https://images.metahub.space/logo/medium/tt0988824/img",
-      "description": "Naruto Uzumaki, is a loud, hyperactive, adolescent ninja who constantly searches for approval and recognition, as well as to become Hokage, who is acknowledged as the leader and strongest of all ninja in the village.",
-      "releaseInfo": "2007–2017",
       "imdbRating": "8.7"
     },
     {
@@ -111,6 +67,17 @@
       "imdbRating": "8.7"
     },
     {
+      "id": "tt0988824",
+      "type": "series",
+      "name": "Naruto: Shippuden",
+      "poster": "https://images.metahub.space/poster/small/tt0988824/img",
+      "background": "https://images.metahub.space/background/medium/tt0988824/img",
+      "logo": "https://images.metahub.space/logo/medium/tt0988824/img",
+      "description": "Naruto Uzumaki, is a loud, hyperactive, adolescent ninja who constantly searches for approval and recognition, as well as to become Hokage, who is acknowledged as the leader and strongest of all ninja in the village.",
+      "releaseInfo": "2007–2017",
+      "imdbRating": "8.7"
+    },
+    {
       "id": "tt5753856",
       "type": "series",
       "name": "Dark",
@@ -120,17 +87,6 @@
       "description": "A family saga with a supernatural twist, set in a German town where the disappearance of two young children exposes the relationships among four families.",
       "releaseInfo": "2017–2020",
       "imdbRating": "8.7"
-    },
-    {
-      "id": "tt26743760",
-      "type": "series",
-      "name": "The Apothecary Diaries",
-      "poster": "https://images.metahub.space/poster/small/tt26743760/img",
-      "background": "https://images.metahub.space/background/medium/tt26743760/img",
-      "logo": "https://images.metahub.space/logo/medium/tt26743760/img",
-      "description": "A young maiden is kidnapped and sold into servitude at the emperor's palace, where she secretly employs her pharmacist skills with the help of the head eunuch to unravel medical mysteries in the inner court.",
-      "releaseInfo": "2023–",
-      "imdbRating": "8.6"
     },
     {
       "id": "tt11280740",
@@ -152,6 +108,17 @@
       "logo": "https://images.metahub.space/logo/medium/tt0106179/img",
       "description": "FBI Special Agents Fox Mulder and Dana Scully investigate unsolved unexplained cases known as X-Files.",
       "releaseInfo": "1993–2018",
+      "imdbRating": "8.6"
+    },
+    {
+      "id": "tt26743760",
+      "type": "series",
+      "name": "The Apothecary Diaries",
+      "poster": "https://images.metahub.space/poster/small/tt26743760/img",
+      "background": "https://images.metahub.space/background/medium/tt26743760/img",
+      "logo": "https://images.metahub.space/logo/medium/tt26743760/img",
+      "description": "A young maiden is kidnapped and sold into servitude at the emperor's palace, where she secretly employs her pharmacist skills with the help of the head eunuch to unravel medical mysteries in the inner court.",
+      "releaseInfo": "2023–",
       "imdbRating": "8.6"
     },
     {
@@ -177,6 +144,17 @@
       "imdbRating": "8.5"
     },
     {
+      "id": "tt4093826",
+      "type": "series",
+      "name": "Twin Peaks",
+      "poster": "https://images.metahub.space/poster/small/tt4093826/img",
+      "background": "https://images.metahub.space/background/medium/tt4093826/img",
+      "logo": "https://images.metahub.space/logo/medium/tt4093826/img",
+      "description": "Picks up 25 years after the inhabitants of a quaint northwestern town are stunned when their homecoming queen is murdered.",
+      "releaseInfo": "2017",
+      "imdbRating": "8.5"
+    },
+    {
       "id": "tt1439629",
       "type": "series",
       "name": "Community",
@@ -188,14 +166,14 @@
       "imdbRating": "8.5"
     },
     {
-      "id": "tt4093826",
+      "id": "tt11912196",
       "type": "series",
-      "name": "Twin Peaks",
-      "poster": "https://images.metahub.space/poster/small/tt4093826/img",
-      "background": "https://images.metahub.space/background/medium/tt4093826/img",
-      "logo": "https://images.metahub.space/logo/medium/tt4093826/img",
-      "description": "Picks up 25 years after the inhabitants of a quaint northwestern town are stunned when their homecoming queen is murdered.",
-      "releaseInfo": "2017",
+      "name": "Asur: Welcome to Your Dark Side",
+      "poster": "https://images.metahub.space/poster/small/tt11912196/img",
+      "background": "https://images.metahub.space/background/medium/tt11912196/img",
+      "logo": "https://images.metahub.space/logo/medium/tt11912196/img",
+      "description": "Shubh returns for revenge and this season he takes the challenge to a whole new level. With the heroes fallen apart, will a desolate Dhananjay Rajpoot and a torn Nikhil Nair be able to stop him?",
+      "releaseInfo": "2020–",
       "imdbRating": "8.5"
     },
     {
@@ -218,6 +196,39 @@
       "logo": "https://images.metahub.space/logo/medium/tt11854694/img",
       "description": "A relentless hero and a terror mastermind are engaged in a high-stakes race against time, as Himmat Singh and his team embark on a mission to end a 19-year-long manhunt.",
       "releaseInfo": "2020–2025",
+      "imdbRating": "8.5"
+    },
+    {
+      "id": "tt1839578",
+      "type": "series",
+      "name": "Person of Interest",
+      "poster": "https://images.metahub.space/poster/small/tt1839578/img",
+      "background": "https://images.metahub.space/background/medium/tt1839578/img",
+      "logo": "https://images.metahub.space/logo/medium/tt1839578/img",
+      "description": "An off-the-grid and presumed-dead former CIA agent, John Reese, is hired by a mysterious tech billionaire software genius, Harold Finch, to prevent violent crimes before they happen in New York City via an advanced surveillance so...",
+      "releaseInfo": "2011–2016",
+      "imdbRating": "8.5"
+    },
+    {
+      "id": "tt1190634",
+      "type": "series",
+      "name": "The Boys",
+      "poster": "https://images.metahub.space/poster/small/tt1190634/img",
+      "background": "https://images.metahub.space/background/medium/tt1190634/img",
+      "logo": "https://images.metahub.space/logo/medium/tt1190634/img",
+      "description": "A group of vigilantes set out to take down corrupt superheroes who abuse their superpowers.",
+      "releaseInfo": "2019–2026",
+      "imdbRating": "8.5"
+    },
+    {
+      "id": "tt9335498",
+      "type": "series",
+      "name": "Demon Slayer: Kimetsu no Yaiba",
+      "poster": "https://images.metahub.space/poster/small/tt9335498/img",
+      "background": "https://images.metahub.space/background/medium/tt9335498/img",
+      "logo": "https://images.metahub.space/logo/medium/tt9335498/img",
+      "description": "A family is attacked by demons and only two members survive - Tanjiro and his sister Nezuko, who is turning into a demon slowly. Tanjiro sets out to become a demon slayer to avenge his family and cure his sister.",
+      "releaseInfo": "2019–2024",
       "imdbRating": "8.5"
     },
     {
@@ -276,14 +287,14 @@
       "imdbRating": "8.4"
     },
     {
-      "id": "tt5675620",
+      "id": "tt37819415",
       "type": "series",
-      "name": "The Punisher",
-      "poster": "https://images.metahub.space/poster/small/tt5675620/img",
-      "background": "https://images.metahub.space/background/medium/tt5675620/img",
-      "logo": "https://images.metahub.space/logo/medium/tt5675620/img",
-      "description": "After his revenge on those who murdered his family, aimless Marine veteran Frank Castle finds a new meaning in life as a vigilante known as \"The Punisher\".",
-      "releaseInfo": "2017–2019",
+      "name": "Irreplaceable",
+      "poster": "https://live.metahub.space/poster/small/tt37819415/img",
+      "background": "https://live.metahub.space/background/medium/tt37819415/img",
+      "logo": "https://live.metahub.space/logo/medium/tt37819415/img",
+      "description": "After witnessing her mother's suicide following a divorce, Xu Chi defies her tragic fate by rising from an ordinary graduate to a sharp-witted top consultant. Drawn into the covert revenge scheme of seasoned partner Ye Xinzhi, who mentors her while navigating their growing mutual attraction, the duo confronts a crossroads when professional upheavals collide with their evolving bond.",
+      "releaseInfo": "2026–",
       "imdbRating": "8.4"
     },
     {
@@ -309,17 +320,6 @@
       "imdbRating": "8.2"
     },
     {
-      "id": "tt1196946",
-      "type": "series",
-      "name": "The Mentalist",
-      "poster": "https://images.metahub.space/poster/small/tt1196946/img",
-      "background": "https://images.metahub.space/background/medium/tt1196946/img",
-      "logo": "https://images.metahub.space/logo/medium/tt1196946/img",
-      "description": "Famous \"psychic\" Patrick Jane outs himself as a fake, and using his heightened observational skills and impeccable knowledge of the human psyche, he works with the police so he can find \"Red John\", the madman who killed his family.",
-      "releaseInfo": "2008–2015",
-      "imdbRating": "8.2"
-    },
-    {
       "id": "tt40197357",
       "type": "series",
       "name": "Scrubs",
@@ -328,6 +328,17 @@
       "logo": "https://images.metahub.space/logo/medium/tt40197357/img",
       "description": "JD and Turk scrub in together after a long break. Medicine and interns have evolved, but their friendship remains strong. New and familiar faces at Sacred Heart bring laughs, emotion, and unexpected moments.",
       "releaseInfo": "2026–",
+      "imdbRating": "8.2"
+    },
+    {
+      "id": "tt8772296",
+      "type": "series",
+      "name": "Euphoria",
+      "poster": "https://images.metahub.space/poster/small/tt8772296/img",
+      "background": "https://images.metahub.space/background/medium/tt8772296/img",
+      "logo": "https://images.metahub.space/logo/medium/tt8772296/img",
+      "description": "A group of teenagers experience the ups and downs of love and friendship in a world of social networks, sex, drugs, and violence.",
+      "releaseInfo": "2019–2026",
       "imdbRating": "8.2"
     },
     {
@@ -342,14 +353,14 @@
       "imdbRating": "8.2"
     },
     {
-      "id": "tt8772296",
+      "id": "tt1196946",
       "type": "series",
-      "name": "Euphoria",
-      "poster": "https://images.metahub.space/poster/small/tt8772296/img",
-      "background": "https://images.metahub.space/background/medium/tt8772296/img",
-      "logo": "https://images.metahub.space/logo/medium/tt8772296/img",
-      "description": "A group of teenagers experience the ups and downs of love and friendship in a world of social networks, sex, drugs, and violence.",
-      "releaseInfo": "2019–2026",
+      "name": "The Mentalist",
+      "poster": "https://images.metahub.space/poster/small/tt1196946/img",
+      "background": "https://images.metahub.space/background/medium/tt1196946/img",
+      "logo": "https://images.metahub.space/logo/medium/tt1196946/img",
+      "description": "Famous \"psychic\" Patrick Jane outs himself as a fake, and using his heightened observational skills and impeccable knowledge of the human psyche, he works with the police so he can find \"Red John\", the madman who killed his family.",
+      "releaseInfo": "2008–2015",
       "imdbRating": "8.2"
     },
     {
@@ -430,17 +441,6 @@
       "imdbRating": "8.1"
     },
     {
-      "id": "tt7772588",
-      "type": "series",
-      "name": "For All Mankind",
-      "poster": "https://images.metahub.space/poster/small/tt7772588/img",
-      "background": "https://images.metahub.space/background/medium/tt7772588/img",
-      "logo": "https://images.metahub.space/logo/medium/tt7772588/img",
-      "description": "In an alternative version of 1969, the Soviet Union beats the United States to the Moon, and the space race continues on for decades with still grander challenges and goals.",
-      "releaseInfo": "2019–2027",
-      "imdbRating": "8.1"
-    },
-    {
       "id": "tt0883772",
       "type": "series",
       "name": "Man vs. Wild",
@@ -474,17 +474,6 @@
       "imdbRating": "8.1"
     },
     {
-      "id": "tt7203552",
-      "type": "series",
-      "name": "The Morning Show",
-      "poster": "https://images.metahub.space/poster/small/tt7203552/img",
-      "background": "https://images.metahub.space/background/medium/tt7203552/img",
-      "logo": "https://images.metahub.space/logo/medium/tt7203552/img",
-      "description": "An inside look at the lives of the people who help America wake up in the morning, exploring the unique challenges faced by the team.",
-      "releaseInfo": "2019–",
-      "imdbRating": "8.1"
-    },
-    {
       "id": "tt5111414",
       "type": "series",
       "name": "Harley and the Davidsons",
@@ -496,14 +485,14 @@
       "imdbRating": "8.1"
     },
     {
-      "id": "tt0092400",
+      "id": "tt7203552",
       "type": "series",
-      "name": "Married... with Children",
-      "poster": "https://images.metahub.space/poster/small/tt0092400/img",
-      "background": "https://images.metahub.space/background/medium/tt0092400/img",
-      "logo": "https://images.metahub.space/logo/medium/tt0092400/img",
-      "description": "Al is the quintessential working class dad. Peggy, his wife, always wants more from him. With their children, they go through the highs and lows of ordinary life.",
-      "releaseInfo": "1987–1997",
+      "name": "The Morning Show",
+      "poster": "https://images.metahub.space/poster/small/tt7203552/img",
+      "background": "https://images.metahub.space/background/medium/tt7203552/img",
+      "logo": "https://images.metahub.space/logo/medium/tt7203552/img",
+      "description": "An inside look at the lives of the people who help America wake up in the morning, exploring the unique challenges faced by the team.",
+      "releaseInfo": "2019–",
       "imdbRating": "8.1"
     },
     {
@@ -518,14 +507,14 @@
       "imdbRating": "8.1"
     },
     {
-      "id": "tt4301160",
+      "id": "tt0092400",
       "type": "series",
-      "name": "Black Bird",
-      "poster": "https://images.metahub.space/poster/small/tt4301160/img",
-      "background": "https://images.metahub.space/background/medium/tt4301160/img",
-      "logo": "https://images.metahub.space/logo/medium/tt4301160/img",
-      "description": "Jimmy Keene is sentenced to 10 years in a minimum security prison but he cuts a deal with the FBI to befriend a suspected serial killer. Keene has to elicit a confession from Larry Hall to find the bodies of as many as eighteen wo...",
-      "releaseInfo": "2022",
+      "name": "Married... with Children",
+      "poster": "https://images.metahub.space/poster/small/tt0092400/img",
+      "background": "https://images.metahub.space/background/medium/tt0092400/img",
+      "logo": "https://images.metahub.space/logo/medium/tt0092400/img",
+      "description": "Al is the quintessential working class dad. Peggy, his wife, always wants more from him. With their children, they go through the highs and lows of ordinary life.",
+      "releaseInfo": "1987–1997",
       "imdbRating": "8.1"
     },
     {
@@ -547,6 +536,14 @@
       "background": "https://images.metahub.space/background/medium/tt10982034/img",
       "logo": "https://images.metahub.space/logo/medium/tt10982034/img",
       "description": "All Jason and Nikki want is a baby, but it's the one thing they just can't have. So, they decide to adopt. With their dysfunctional friends, screwball family and chaotic lives will the adoption panel think they're ready to be pare...",
+      "releaseInfo": "2020–",
+      "imdbRating": "8.0"
+    },
+    {
+      "id": "tt15404764",
+      "type": "series",
+      "name": "Titoo",
+      "description": "Titoo is an animated kids' comedy show that follows the daily escapades of eight-year-old boy Titoo. Though, he is a good-hearted, intelligent kid who loves to help everyone, but inadvertently manages to brew even more trouble.",
       "releaseInfo": "2020–",
       "imdbRating": "8.0"
     }
