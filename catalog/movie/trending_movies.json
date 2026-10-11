@@ -371,6 +371,16 @@
       "imdbRating": 7.7
     },
     {
+      "id": "tt39314786",
+      "type": "movie",
+      "name": "The Butcher's Blade",
+      "poster": "https://images.metahub.space/poster/medium/tt39314786/img",
+      "background": "https://images.metahub.space/background/medium/tt39314786/img",
+      "description": "Local constable Xue Buyi keeps his distance from corrupt colleagues until he is framed for the theft of thousands of dollars in relief funds. Now he must choose: fight to clear his name or uphold the law he's sworn to obey.",
+      "releaseInfo": 2026,
+      "imdbRating": 5.8
+    },
+    {
       "id": "tt0089218",
       "type": "movie",
       "name": "The Goonies",
@@ -489,16 +499,6 @@
       "description": "An abortion clinic worker with a special heritage is called upon to save the existence of humanity from being negated by two renegade angels trying to exploit a loophole and re-enter Heaven.",
       "releaseInfo": 1999,
       "imdbRating": 7.3
-    },
-    {
-      "id": "tt0117913",
-      "type": "movie",
-      "name": "A Time to Kill",
-      "poster": "https://images.metahub.space/poster/medium/tt0117913/img",
-      "background": "https://images.metahub.space/background/medium/tt0117913/img",
-      "description": "A young lawyer defends a black man accused of murdering two white men who raped his 10-year-old daughter, sparking a rebirth of the KKK.",
-      "releaseInfo": 1996,
-      "imdbRating": 7.5
     }
   ]
 }
