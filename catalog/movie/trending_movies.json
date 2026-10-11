@@ -211,16 +211,6 @@
       "imdbRating": 8.4
     },
     {
-      "id": "tt41971399",
-      "type": "movie",
-      "name": "Romanchakam",
-      "poster": "https://images.metahub.space/poster/medium/tt41971399/img",
-      "background": "https://images.metahub.space/background/medium/tt41971399/img",
-      "description": "An entrepreneur hoping to make money off romance ends up falling in love. But when she blocks him on social media, he tries to reignite their spark.",
-      "releaseInfo": 2026,
-      "imdbRating": 4.8
-    },
-    {
       "id": "tt34385135",
       "type": "movie",
       "name": "Gunche",
@@ -391,6 +381,16 @@
       "imdbRating": 7.7
     },
     {
+      "id": "tt2906216",
+      "type": "movie",
+      "name": "Dungeons & Dragons: Honor Among Thieves",
+      "poster": "https://images.metahub.space/poster/medium/tt2906216/img",
+      "background": "https://images.metahub.space/background/medium/tt2906216/img",
+      "description": "A charming thief and a band of unlikely adventurers undertake an epic heist to retrieve a lost relic, but things go dangerously awry when they run afoul of the wrong people.",
+      "releaseInfo": 2023,
+      "imdbRating": 7.2
+    },
+    {
       "id": "tt33100314",
       "type": "movie",
       "name": "Remarkably Bright Creatures",
@@ -491,14 +491,14 @@
       "imdbRating": 7.3
     },
     {
-      "id": "tt7984734",
+      "id": "tt0117913",
       "type": "movie",
-      "name": "The Lighthouse",
-      "poster": "https://images.metahub.space/poster/medium/tt7984734/img",
-      "background": "https://images.metahub.space/background/medium/tt7984734/img",
-      "description": "Two lighthouse keepers try to maintain their sanity while living on a remote and mysterious New England island in the 1890s.",
-      "releaseInfo": 2019,
-      "imdbRating": 7.3
+      "name": "A Time to Kill",
+      "poster": "https://images.metahub.space/poster/medium/tt0117913/img",
+      "background": "https://images.metahub.space/background/medium/tt0117913/img",
+      "description": "A young lawyer defends a black man accused of murdering two white men who raped his 10-year-old daughter, sparking a rebirth of the KKK.",
+      "releaseInfo": 1996,
+      "imdbRating": 7.5
     }
   ]
 }
