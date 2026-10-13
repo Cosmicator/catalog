@@ -381,16 +381,6 @@
       "imdbRating": 8.1
     },
     {
-      "id": "tt1853728",
-      "type": "movie",
-      "name": "Django Unchained",
-      "poster": "https://images.metahub.space/poster/medium/tt1853728/img",
-      "background": "https://images.metahub.space/background/medium/tt1853728/img",
-      "description": "With the help of a German bounty hunter, a freed slave sets out to rescue his wife from a brutal Mississippi plantation owner.",
-      "releaseInfo": 2012,
-      "imdbRating": 8.5
-    },
-    {
       "id": "tt33014583",
       "type": "movie",
       "name": "Dhurandhar",
@@ -499,6 +489,16 @@
       "description": "In a world divided into factions based on personality types, Tris learns that she's been classified as Divergent and won't fit in. When she discovers a plot to destroy Divergents, Tris and the mysterious Four must find out what makes Divergents dangerous before it's too late.",
       "releaseInfo": 2014,
       "imdbRating": 6.6
+    },
+    {
+      "id": "tt2382320",
+      "type": "movie",
+      "name": "No Time to Die",
+      "poster": "https://images.metahub.space/poster/medium/tt2382320/img",
+      "background": "https://images.metahub.space/background/medium/tt2382320/img",
+      "description": "Bond has left active service and is enjoying a tranquil life in Jamaica. His peace is short-lived when his old friend Felix Leiter from the CIA turns up asking for help. The mission to rescue a kidnapped scientist turns out to be far more treacherous than expected, leading Bond onto the trail of a mysterious villain armed with dangerous new technology.",
+      "releaseInfo": 2021,
+      "imdbRating": 7.3
     }
   ]
 }
