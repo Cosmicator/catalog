@@ -1,17 +1,6 @@
 {
   "metas": [
     {
-      "id": "tt0105575",
-      "type": "movie",
-      "name": "Thevar Magan",
-      "poster": "https://images.metahub.space/poster/small/tt0105575/img",
-      "background": "https://images.metahub.space/background/medium/tt0105575/img",
-      "logo": "https://images.metahub.space/logo/medium/tt0105575/img",
-      "description": "The urbane son of a village chieftain struggles between his personal aspirations and those of his family.",
-      "releaseInfo": "1992",
-      "imdbRating": "8.7"
-    },
-    {
       "id": "tt37537243",
       "type": "movie",
       "name": "Maremma",
@@ -78,6 +67,17 @@
       "imdbRating": "8.4"
     },
     {
+      "id": "tt11396310",
+      "type": "movie",
+      "name": "Viduthalai: Part 1",
+      "poster": "https://images.metahub.space/poster/small/tt11396310/img",
+      "background": "https://images.metahub.space/background/medium/tt11396310/img",
+      "logo": "https://images.metahub.space/logo/medium/tt11396310/img",
+      "description": "A police officer is recruited to capture the leader of a separatist group.",
+      "releaseInfo": "2023",
+      "imdbRating": "8.3"
+    },
+    {
       "id": "tt33014583",
       "type": "movie",
       "name": "Dhurandhar",
@@ -86,6 +86,17 @@
       "logo": "https://images.metahub.space/logo/medium/tt33014583/img",
       "description": "A mysterious traveler slips into the heart of Karachi's underbelly and rises through its ranks with lethal precision, only to tear the notorious ISI-Underworld nexus apart from within.",
       "releaseInfo": "2025",
+      "imdbRating": "8.3"
+    },
+    {
+      "id": "tt0072783",
+      "type": "movie",
+      "name": "Chupke Chupke",
+      "poster": "https://images.metahub.space/poster/small/tt0072783/img",
+      "background": "https://images.metahub.space/background/medium/tt0072783/img",
+      "logo": "https://images.metahub.space/logo/medium/tt0072783/img",
+      "description": "A newly wedded husband plays a practical joke on his wife's family with full support from his wife and friends.",
+      "releaseInfo": "1975",
       "imdbRating": "8.3"
     },
     {
@@ -122,28 +133,6 @@
       "imdbRating": "8.2"
     },
     {
-      "id": "tt11469744",
-      "type": "movie",
-      "name": "Mathu Vadalara",
-      "poster": "https://live.metahub.space/poster/small/tt11469744/img",
-      "background": "https://live.metahub.space/background/medium/tt11469744/img",
-      "logo": "https://live.metahub.space/logo/medium/tt11469744/img",
-      "description": "Babu is a delivery boy living with his friends Yesu and Abhi. Due to his meagre salary, he decides to quit, but then Yesu gives him an idea. The idea, however, soon spirals out of control and Babu finds himself deep in trouble. Will he survive the circumstances of his own actions?",
-      "releaseInfo": "2019",
-      "imdbRating": "8.2"
-    },
-    {
-      "id": "tt0169102",
-      "type": "movie",
-      "name": "Lagaan: Once Upon a Time in India",
-      "poster": "https://images.metahub.space/poster/small/tt0169102/img",
-      "background": "https://images.metahub.space/background/medium/tt0169102/img",
-      "logo": "https://images.metahub.space/logo/medium/tt0169102/img",
-      "description": "The people of a small village in Victorian India stake their future on a game of cricket against their ruthless British rulers.",
-      "releaseInfo": "2001",
-      "imdbRating": "8.1"
-    },
-    {
       "id": "tt29623480",
       "type": "movie",
       "name": "The Wild Robot",
@@ -152,6 +141,17 @@
       "logo": "https://images.metahub.space/logo/medium/tt29623480/img",
       "description": "A sentient robot stranded on an uninhabited island raises an orphaned gosling while trying to fit in with the local wildlife.",
       "releaseInfo": "2024",
+      "imdbRating": "8.1"
+    },
+    {
+      "id": "tt2075108",
+      "type": "movie",
+      "name": "22 Shey Shraban",
+      "poster": "https://images.metahub.space/poster/small/tt2075108/img",
+      "background": "https://images.metahub.space/background/medium/tt2075108/img",
+      "logo": "https://images.metahub.space/logo/medium/tt2075108/img",
+      "description": "An ex-cop is hired to track down a serial killer who carries out his killings according to Bengali poetry.",
+      "releaseInfo": "2011",
       "imdbRating": "8.1"
     },
     {
@@ -166,17 +166,6 @@
       "imdbRating": "8.1"
     },
     {
-      "id": "tt36626888",
-      "type": "movie",
-      "name": "Ohh My Dog",
-      "poster": "https://live.metahub.space/poster/small/tt36626888/img",
-      "background": "https://live.metahub.space/background/medium/tt36626888/img",
-      "logo": "https://live.metahub.space/logo/medium/tt36626888/img",
-      "description": "In Assam, 14-year-old Apu embarks on a desperate quest to rescue his beloved dog, Momo, after he is kidnapped. Elsewhere, in Bihar, a devoted dog named Oscar sets out on a perilous journey to find his kidnapped owner, a 15-year-old child labourer. As their journeys unfold, it becomes clear that the two kidnappings may be connected to a larger, sinister plan.",
-      "releaseInfo": "2026",
-      "imdbRating": "8.1"
-    },
-    {
       "id": "tt0892769",
       "type": "movie",
       "name": "How to Train Your Dragon",
@@ -188,14 +177,25 @@
       "imdbRating": "8.1"
     },
     {
-      "id": "tt8108268",
+      "id": "tt27007466",
       "type": "movie",
-      "name": "The Tashkent Files",
-      "poster": "https://images.metahub.space/poster/small/tt8108268/img",
-      "background": "https://images.metahub.space/background/medium/tt8108268/img",
-      "logo": "https://images.metahub.space/logo/medium/tt8108268/img",
-      "description": "Revolves around the mysterious death of India's 2nd Prime Minister Shri Lal Bahadur Shastri and attempts to uncover if he had actually died a natural death, or, as alleged, was assassinated.",
-      "releaseInfo": "2019",
+      "name": "Lubber Pandhu",
+      "poster": "https://images.metahub.space/poster/small/tt27007466/img",
+      "background": "https://images.metahub.space/background/medium/tt27007466/img",
+      "logo": "https://images.metahub.space/logo/medium/tt27007466/img",
+      "description": "Set against the rural backdrop, explores gully cricket stars Gethu and Anbu's intense rivalry. Anbu's romantic involvement with Gethu's daughter escalates the clash. Their skills and emotions are put to the ultimate test.",
+      "releaseInfo": "2024",
+      "imdbRating": "8.1"
+    },
+    {
+      "id": "tt0258490",
+      "type": "movie",
+      "name": "Khushi",
+      "poster": "https://images.metahub.space/poster/small/tt0258490/img",
+      "background": "https://images.metahub.space/background/medium/tt0258490/img",
+      "logo": "https://images.metahub.space/logo/medium/tt0258490/img",
+      "description": "While playing matchmaker to a pair of their friends, two young university students begin developing feelings for each other.",
+      "releaseInfo": "2001",
       "imdbRating": "8.1"
     },
     {
@@ -207,6 +207,17 @@
       "logo": "https://images.metahub.space/logo/medium/tt0117951/img",
       "description": "Renton, deeply immersed in the Edinburgh drug scene, tries to clean up and get out despite the allure of drugs and the influence of friends.",
       "releaseInfo": "1996",
+      "imdbRating": "8.1"
+    },
+    {
+      "id": "tt2187153",
+      "type": "movie",
+      "name": "Thuppakki",
+      "poster": "https://images.metahub.space/poster/small/tt2187153/img",
+      "background": "https://images.metahub.space/background/medium/tt2187153/img",
+      "logo": "https://images.metahub.space/logo/medium/tt2187153/img",
+      "description": "An army captain is on a mission to track down and destroy a terrorist gang and deactivate the sleeper cells under its command.",
+      "releaseInfo": "2012",
       "imdbRating": "8.1"
     },
     {
@@ -243,14 +254,25 @@
       "imdbRating": "7.9"
     },
     {
-      "id": "tt0411469",
+      "id": "tt3614516",
       "type": "movie",
-      "name": "Hazaaron Khwaishein Aisi",
-      "poster": "https://images.metahub.space/poster/small/tt0411469/img",
-      "background": "https://images.metahub.space/background/medium/tt0411469/img",
-      "logo": "https://images.metahub.space/logo/medium/tt0411469/img",
-      "description": "Set in the backdrop of Indian Emergency 1975, the story revolves around 3 friends whose lives changes drastically after the turn of events.",
-      "releaseInfo": "2003",
+      "name": "Ankhon Dekhi",
+      "poster": "https://images.metahub.space/poster/small/tt3614516/img",
+      "background": "https://images.metahub.space/background/medium/tt3614516/img",
+      "logo": "https://images.metahub.space/logo/medium/tt3614516/img",
+      "description": "After a distressing incident, a Delhi man vows to believe only what he can see, but his new ideals soon take his life in extreme directions.",
+      "releaseInfo": "2013",
+      "imdbRating": "7.9"
+    },
+    {
+      "id": "tt10717738",
+      "type": "movie",
+      "name": "Anjaam Pathiraa",
+      "poster": "https://images.metahub.space/poster/small/tt10717738/img",
+      "background": "https://images.metahub.space/background/medium/tt10717738/img",
+      "logo": "https://images.metahub.space/logo/medium/tt10717738/img",
+      "description": "The police are on the trail of a serial killer, but with the victims being fellow officers, will they be able to catch the killer and solve the case in time?",
+      "releaseInfo": "2020",
       "imdbRating": "7.9"
     },
     {
@@ -287,14 +309,14 @@
       "imdbRating": "7.8"
     },
     {
-      "id": "tt6027478",
+      "id": "tt36626888",
       "type": "movie",
-      "name": "Dhruva",
-      "poster": "https://images.metahub.space/poster/small/tt6027478/img",
-      "background": "https://images.metahub.space/background/medium/tt6027478/img",
-      "logo": "https://images.metahub.space/logo/medium/tt6027478/img",
-      "description": "A committed police officer is on a very dangerous mission to destroy the most corrupt person in the country, Siddharth Abhimanyu.",
-      "releaseInfo": "2016",
+      "name": "Ohh My Dog",
+      "poster": "https://live.metahub.space/poster/small/tt36626888/img",
+      "background": "https://live.metahub.space/background/medium/tt36626888/img",
+      "logo": "https://live.metahub.space/logo/medium/tt36626888/img",
+      "description": "In Assam, 14-year-old Apu embarks on a desperate quest to rescue his beloved dog, Momo, after he is kidnapped. Elsewhere, in Bihar, a devoted dog named Oscar sets out on a perilous journey to find his kidnapped owner, a 15-year-old child labourer. As their journeys unfold, it becomes clear that the two kidnappings may be connected to a larger, sinister plan.",
+      "releaseInfo": "2026",
       "imdbRating": "7.7"
     },
     {
@@ -320,14 +342,14 @@
       "imdbRating": "7.7"
     },
     {
-      "id": "tt11490170",
+      "id": "tt6484982",
       "type": "movie",
-      "name": "HIT",
-      "poster": "https://images.metahub.space/poster/small/tt11490170/img",
-      "background": "https://images.metahub.space/background/medium/tt11490170/img",
-      "logo": "https://images.metahub.space/logo/medium/tt11490170/img",
-      "description": "An officer of the 'Homicide Intervention Team' who frequently suffers from having his panic attacks does everything in his power to rescue a woman who went missing.",
-      "releaseInfo": "2020",
+      "name": "Newton",
+      "poster": "https://images.metahub.space/poster/small/tt6484982/img",
+      "background": "https://images.metahub.space/background/medium/tt6484982/img",
+      "logo": "https://images.metahub.space/logo/medium/tt6484982/img",
+      "description": "A government clerk on election duty in the conflict ridden jungle of Central India tries his best to conduct free and fair voting despite the apathy of security forces and the looming fear of guerrilla attacks by communist rebels.",
+      "releaseInfo": "2017",
       "imdbRating": "7.6"
     },
     {
@@ -342,17 +364,6 @@
       "imdbRating": "7.6"
     },
     {
-      "id": "tt13528564",
-      "type": "movie",
-      "name": "Ante Sundharaniki",
-      "poster": "https://images.metahub.space/poster/small/tt13528564/img",
-      "background": "https://images.metahub.space/background/medium/tt13528564/img",
-      "logo": "https://images.metahub.space/logo/medium/tt13528564/img",
-      "description": "A Hindu Brahmin falls for a Christian girl and they both lie to their parents, only for their lies to be revealed.",
-      "releaseInfo": "2022",
-      "imdbRating": "7.6"
-    },
-    {
       "id": "tt0452623",
       "type": "movie",
       "name": "Gone Baby Gone",
@@ -364,25 +375,25 @@
       "imdbRating": "7.6"
     },
     {
-      "id": "tt6826438",
+      "id": "tt7518786",
       "type": "movie",
-      "name": "Parmanu: The Story of Pokhran",
-      "poster": "https://images.metahub.space/poster/small/tt6826438/img",
-      "background": "https://images.metahub.space/background/medium/tt6826438/img",
-      "logo": "https://images.metahub.space/logo/medium/tt6826438/img",
-      "description": "Ashwat Raina and his teammates arrive in Pokhran to re-conduct a confidential nuclear test, where they face challenges from the American Lacrosse satellite and local spies.",
-      "releaseInfo": "2018",
-      "imdbRating": "7.6"
+      "name": "'83",
+      "poster": "https://images.metahub.space/poster/small/tt7518786/img",
+      "background": "https://images.metahub.space/background/medium/tt7518786/img",
+      "logo": "https://images.metahub.space/logo/medium/tt7518786/img",
+      "description": "On June 25, 1983, the Lord's Cricket Ground witnessed 14 men beat the two times World Champions West Indies, putting India back onto the cricket world stage.",
+      "releaseInfo": "2021",
+      "imdbRating": "7.5"
     },
     {
-      "id": "tt8108202",
+      "id": "tt29548562",
       "type": "movie",
-      "name": "Stree",
-      "poster": "https://images.metahub.space/poster/small/tt8108202/img",
-      "background": "https://images.metahub.space/background/medium/tt8108202/img",
-      "logo": "https://images.metahub.space/logo/medium/tt8108202/img",
-      "description": "In the small town of Chanderi, the menfolk live in fear of an evil spirit named \"Stree\" who abducts men in the night. Based on the urban legend of \"Nale Ba\" that went viral in Karnataka in the 1990s.",
-      "releaseInfo": "2018",
+      "name": "Pindam",
+      "poster": "https://images.metahub.space/poster/small/tt29548562/img",
+      "background": "https://images.metahub.space/background/medium/tt29548562/img",
+      "logo": "https://images.metahub.space/logo/medium/tt29548562/img",
+      "description": "A speech-impaired six-year-old girl becomes the vessel for a powerful spirit hell-bent on destruction.",
+      "releaseInfo": "2023",
       "imdbRating": "7.5"
     },
     {
@@ -397,6 +408,17 @@
       "imdbRating": "7.4"
     },
     {
+      "id": "tt29471573",
+      "type": "movie",
+      "name": "Sitaare Zameen Par",
+      "poster": "https://images.metahub.space/poster/small/tt29471573/img",
+      "background": "https://images.metahub.space/background/medium/tt29471573/img",
+      "logo": "https://images.metahub.space/logo/medium/tt29471573/img",
+      "description": "After a DUI, an arrogant basketball coach must train Neurodivergent adults for community service. His initial prejudice fades as his players show him a new perspective on life.",
+      "releaseInfo": "2025",
+      "imdbRating": "7.4"
+    },
+    {
       "id": "tt0094721",
       "type": "movie",
       "name": "Beetlejuice",
@@ -406,6 +428,28 @@
       "description": "The spirits of a deceased couple are harassed by an unbearable family that has moved into their home, and hire a malicious spirit to drive them out.",
       "releaseInfo": "1988",
       "imdbRating": "7.4"
+    },
+    {
+      "id": "tt10579952",
+      "type": "movie",
+      "name": "Master",
+      "poster": "https://images.metahub.space/poster/small/tt10579952/img",
+      "background": "https://images.metahub.space/background/medium/tt10579952/img",
+      "logo": "https://images.metahub.space/logo/medium/tt10579952/img",
+      "description": "An alcoholic professor is sent to a juvenile school, where he clashes with a gangster who uses the school children for criminal activities.",
+      "releaseInfo": "2021",
+      "imdbRating": "7.4"
+    },
+    {
+      "id": "tt15434074",
+      "type": "movie",
+      "name": "Kho Gaye Hum Kahan",
+      "poster": "https://images.metahub.space/poster/small/tt15434074/img",
+      "background": "https://images.metahub.space/background/medium/tt15434074/img",
+      "logo": "https://images.metahub.space/logo/medium/tt15434074/img",
+      "description": "Ahana, Neil and Imaad are three friends in their 20s trying to find meaning in the digital age. They lean on each other as they navigate complexities of relationships and self-discovery.",
+      "releaseInfo": "2023",
+      "imdbRating": "7.3"
     },
     {
       "id": "tt0162661",
@@ -430,6 +474,17 @@
       "imdbRating": "7.3"
     },
     {
+      "id": "tt9537292",
+      "type": "movie",
+      "name": "Ala Vaikunthapurramuloo",
+      "poster": "https://images.metahub.space/poster/small/tt9537292/img",
+      "background": "https://images.metahub.space/background/medium/tt9537292/img",
+      "logo": "https://images.metahub.space/logo/medium/tt9537292/img",
+      "description": "After growing up enduring criticism from his father, a young man finds his world shaken upon learning he was switched at birth with a millionaire's son.",
+      "releaseInfo": "2020",
+      "imdbRating": "7.3"
+    },
+    {
       "id": "tt2382320",
       "type": "movie",
       "name": "No Time to Die",
@@ -438,17 +493,6 @@
       "logo": "https://images.metahub.space/logo/medium/tt2382320/img",
       "description": "James Bond has left active service. His peace is short-lived when Felix Leiter, an old friend from the CIA, turns up asking for help, leading Bond onto the trail of a mysterious villain armed with dangerous new technology.",
       "releaseInfo": "2021",
-      "imdbRating": "7.3"
-    },
-    {
-      "id": "tt15145764",
-      "type": "movie",
-      "name": "Freddy",
-      "poster": "https://images.metahub.space/poster/small/tt15145764/img",
-      "background": "https://images.metahub.space/background/medium/tt15145764/img",
-      "logo": "https://images.metahub.space/logo/medium/tt15145764/img",
-      "description": "The lines between love and obsession blur in this romantic thriller packed with unpredictable twists and sharp turns.",
-      "releaseInfo": "2022",
       "imdbRating": "7.3"
     },
     {
@@ -463,14 +507,14 @@
       "imdbRating": "7.3"
     },
     {
-      "id": "tt0449869",
+      "id": "tt0807943",
       "type": "movie",
-      "name": "Chandramukhi",
-      "poster": "https://images.metahub.space/poster/small/tt0449869/img",
-      "background": "https://images.metahub.space/background/medium/tt0449869/img",
-      "logo": "https://images.metahub.space/logo/medium/tt0449869/img",
-      "description": "Creepy happenings in an abandoned mansion are attributed to the ghost of an ancient courtesan, back for revenge.",
-      "releaseInfo": "2005",
+      "name": "Dhee",
+      "poster": "https://images.metahub.space/poster/small/tt0807943/img",
+      "background": "https://images.metahub.space/background/medium/tt0807943/img",
+      "logo": "https://images.metahub.space/logo/medium/tt0807943/img",
+      "description": "A guy who is irresponsible was joined to a job of accountent in local rowdy by his farher.he loves the sister of the rowdy after knowing she is having a threat from another local rowdy hero makes a plan to marry her and kil that r...",
+      "releaseInfo": "2007",
       "imdbRating": "7.2"
     },
     {
@@ -504,50 +548,6 @@
       "logo": "https://images.metahub.space/logo/medium/tt0114558/img",
       "description": "A black-marketeer tries to save a woman in 1999 Los Angeles.",
       "releaseInfo": "1995",
-      "imdbRating": "7.2"
-    },
-    {
-      "id": "tt8999762",
-      "type": "movie",
-      "name": "The Brutalist",
-      "poster": "https://images.metahub.space/poster/small/tt8999762/img",
-      "background": "https://images.metahub.space/background/medium/tt8999762/img",
-      "logo": "https://images.metahub.space/logo/medium/tt8999762/img",
-      "description": "A visionary architect flees post-war Europe in 1947 for a brighter future in the United States and finds his life forever changed by a wealthy client.",
-      "releaseInfo": "2025",
-      "imdbRating": "7.2"
-    },
-    {
-      "id": "tt8488126",
-      "type": "movie",
-      "name": "The Inventor: Out for Blood in Silicon Valley",
-      "poster": "https://images.metahub.space/poster/small/tt8488126/img",
-      "background": "https://images.metahub.space/background/medium/tt8488126/img",
-      "logo": "https://images.metahub.space/logo/medium/tt8488126/img",
-      "description": "The story of Theranos, a multi-billion dollar tech company, its founder Elizabeth Holmes, the youngest self-made female billionaire, and the massive fraud that collapsed the company.",
-      "releaseInfo": "2019",
-      "imdbRating": "7.2"
-    },
-    {
-      "id": "tt0374271",
-      "type": "movie",
-      "name": "In Your Name",
-      "poster": "https://images.metahub.space/poster/small/tt0374271/img",
-      "background": "https://images.metahub.space/background/medium/tt0374271/img",
-      "logo": "https://images.metahub.space/logo/medium/tt0374271/img",
-      "description": "Radhe, a graduate jobless rowdy, falls in love with Nirjara, a first year college student. After initial hatred, when Nirjara reciprocates his love, a brutal attack renders him mentally unstable.",
-      "releaseInfo": "2003",
-      "imdbRating": "7.2"
-    },
-    {
-      "id": "tt2385104",
-      "type": "movie",
-      "name": "D-Day",
-      "poster": "https://images.metahub.space/poster/small/tt2385104/img",
-      "background": "https://images.metahub.space/background/medium/tt2385104/img",
-      "logo": "https://images.metahub.space/logo/medium/tt2385104/img",
-      "description": "A team of experts dispatched to bring in The Most Wanted Man in India almost achieve the unthinkable ... until something goes horribly wrong.",
-      "releaseInfo": "2013",
       "imdbRating": "7.2"
     }
   ]
