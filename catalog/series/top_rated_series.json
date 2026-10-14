@@ -243,17 +243,6 @@
       "imdbRating": "8.3"
     },
     {
-      "id": "tt43484024",
-      "type": "series",
-      "name": "Shayad Yahi Hai Pyaar",
-      "poster": "https://live.metahub.space/poster/small/tt43484024/img",
-      "background": "https://live.metahub.space/background/medium/tt43484024/img",
-      "logo": "https://live.metahub.space/logo/medium/tt43484024/img",
-      "description": "Escaping a toxic relationship, 35-year-old Preeti finds love and solace with Aarav. But the age gap stigma follows them everywhere! Can love overpower it all?",
-      "releaseInfo": "2026–",
-      "imdbRating": "8.3"
-    },
-    {
       "id": "tt15477488",
       "type": "series",
       "name": "Farzi",
@@ -546,6 +535,17 @@
       "description": "In a world overtaken by a mysterious wave of forced happiness, Carol Sturka, one of the immune few, must uncover what's really going on - and save humanity from its artificial bliss.",
       "releaseInfo": "2025–",
       "imdbRating": "7.9"
+    },
+    {
+      "id": "tt11540908",
+      "type": "series",
+      "name": "Carrie",
+      "poster": "https://images.metahub.space/poster/small/tt11540908/img",
+      "background": "https://images.metahub.space/background/medium/tt11540908/img",
+      "logo": "https://images.metahub.space/logo/medium/tt11540908/img",
+      "description": "After her father's sudden death, sheltered teenager Carrie White, raised by her domineering mother, enters public high school, where she faces a viral bullying scandal and the awakening of mysterious telekinetic powers.",
+      "releaseInfo": "2026–",
+      "imdbRating": "7.8"
     }
   ]
 }
