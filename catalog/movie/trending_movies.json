@@ -191,16 +191,6 @@
       "imdbRating": 7.3
     },
     {
-      "id": "tt0093779",
-      "type": "movie",
-      "name": "The Princess Bride",
-      "poster": "https://images.metahub.space/poster/medium/tt0093779/img",
-      "background": "https://images.metahub.space/background/medium/tt0093779/img",
-      "description": "In this enchantingly cracked fairy tale, the beautiful Princess Buttercup and the dashing Westley must overcome staggering odds to find happiness amid six-fingered swordsmen, murderous princes, Sicilians and rodents of unusual size. But even death can't stop these true lovebirds from triumphing.",
-      "releaseInfo": 1987,
-      "imdbRating": 8
-    },
-    {
       "id": "tt22890246",
       "type": "movie",
       "name": "How to Have Sex",
@@ -229,6 +219,26 @@
       "description": "Once a feared gangster, Shivam lives hidden away from his past, with no faith left in God or himself. But when fate pulls him into Bangkok's cartel war and forces him back into the darkness he swore never to return to, Shivam must choose what he is willing to live for, when there is nothing left to lose.",
       "releaseInfo": 2026,
       "imdbRating": 6
+    },
+    {
+      "id": "tt0087800",
+      "type": "movie",
+      "name": "A Nightmare on Elm Street",
+      "poster": "https://images.metahub.space/poster/medium/tt0087800/img",
+      "background": "https://images.metahub.space/background/medium/tt0087800/img",
+      "description": "Teenagers in a small town are dropping like flies, apparently in the grip of mass hysteria causing their suicides. A cop's daughter, Nancy Thompson, traces the cause to child molester Fred Krueger, who was burned alive by angry parents many years before. Krueger has now come back in the dreams of his killers' children, claiming their lives as his revenge. Nancy and her boyfriend, Glen, must devise a plan to lure the monster out of the realm of nightmares and into the real world...",
+      "releaseInfo": 1984,
+      "imdbRating": 7.4
+    },
+    {
+      "id": "tt0385880",
+      "type": "movie",
+      "name": "Monster House",
+      "poster": "https://images.metahub.space/poster/medium/tt0385880/img",
+      "background": "https://images.metahub.space/background/medium/tt0385880/img",
+      "description": "Monsters under the bed are scary enough, but what happens when an entire house is out to get you? Three teens aim to find out when they go up against a decrepit neighboring home and unlock its frightening secrets.",
+      "releaseInfo": 2006,
+      "imdbRating": 6.7
     },
     {
       "id": "tt36626888",
@@ -261,6 +271,16 @@
       "imdbRating": 6.6
     },
     {
+      "id": "tt0837562",
+      "type": "movie",
+      "name": "Hotel Transylvania",
+      "poster": "https://images.metahub.space/poster/medium/tt0837562/img",
+      "background": "https://images.metahub.space/background/medium/tt0837562/img",
+      "description": "Welcome to Hotel Transylvania, Dracula's lavish five-stake resort, where monsters and their families can live it up and no humans are allowed. One special weekend, Dracula has invited all his best friends to celebrate his beloved daughter Mavis's 118th birthday. For Dracula catering to all of these legendary monsters is no problem but the party really starts when one ordinary guy stumbles into the hotel and changes everything!",
+      "releaseInfo": 2012,
+      "imdbRating": 7.1
+    },
+    {
       "id": "tt4589218",
       "type": "movie",
       "name": "Five Nights at Freddy's",
@@ -291,14 +311,14 @@
       "imdbRating": 8.1
     },
     {
-      "id": "tt0837562",
+      "id": "tt0114388",
       "type": "movie",
-      "name": "Hotel Transylvania",
-      "poster": "https://images.metahub.space/poster/medium/tt0837562/img",
-      "background": "https://images.metahub.space/background/medium/tt0837562/img",
-      "description": "Welcome to Hotel Transylvania, Dracula's lavish five-stake resort, where monsters and their families can live it up and no humans are allowed. One special weekend, Dracula has invited all his best friends to celebrate his beloved daughter Mavis's 118th birthday. For Dracula catering to all of these legendary monsters is no problem but the party really starts when one ordinary guy stumbles into the hotel and changes everything!",
-      "releaseInfo": 2012,
-      "imdbRating": 7.1
+      "name": "Sense and Sensibility",
+      "poster": "https://images.metahub.space/poster/medium/tt0114388/img",
+      "background": "https://images.metahub.space/background/medium/tt0114388/img",
+      "description": "The Dashwood sisters, sensible Elinor and passionate Marianne, learn that their prospects of marriage seem doomed by their family's sudden loss of fortune. After Henry Dashwood dies unexpectedly, his estate must pass on by law to his son. These circumstances leave Mr. Dashwood's wife and daughters without a home and with barely enough money to live on. As Elinor and Marianne struggle to find romantic fulfillment in a society obsessed with financial and social status, they must learn to mix sense with sensibility in their dealings with both money and men.",
+      "releaseInfo": 1995,
+      "imdbRating": 7.7
     },
     {
       "id": "tt39314786",
@@ -321,6 +341,26 @@
       "imdbRating": 8.1
     },
     {
+      "id": "tt0093779",
+      "type": "movie",
+      "name": "The Princess Bride",
+      "poster": "https://images.metahub.space/poster/medium/tt0093779/img",
+      "background": "https://images.metahub.space/background/medium/tt0093779/img",
+      "description": "In this enchantingly cracked fairy tale, the beautiful Princess Buttercup and the dashing Westley must overcome staggering odds to find happiness amid six-fingered swordsmen, murderous princes, Sicilians and rodents of unusual size. But even death can't stop these true lovebirds from triumphing.",
+      "releaseInfo": 1987,
+      "imdbRating": 8
+    },
+    {
+      "id": "tt0884328",
+      "type": "movie",
+      "name": "The Mist",
+      "poster": "https://images.metahub.space/poster/medium/tt0884328/img",
+      "background": "https://images.metahub.space/background/medium/tt0884328/img",
+      "description": "After a violent storm, a dense cloud of mist envelops a small Maine town, trapping David Drayton and his five-year-old son in a local grocery store with other local residents. They soon discover that the mist conceals deadly horrors that threaten their lives, and worse, their sanity.",
+      "releaseInfo": 2007,
+      "imdbRating": 7.1
+    },
+    {
       "id": "tt27543632",
       "type": "movie",
       "name": "The Housemaid",
@@ -329,6 +369,16 @@
       "description": "Millie, a struggling young woman, becomes a live-in maid for a wealthy couple, Nina and Andrew. She enters a mansion of secrets, manipulation, and escalating psychological games that pull her into a dangerous relationship dynamic.",
       "releaseInfo": 2025,
       "imdbRating": 6.7
+    },
+    {
+      "id": "tt0213847",
+      "type": "movie",
+      "name": "Malena",
+      "poster": "https://images.metahub.space/poster/medium/tt0213847/img",
+      "background": "https://images.metahub.space/background/medium/tt0213847/img",
+      "description": "12-year-old Renato experiences three significant events on the same day: the beginning of the Second World War, getting a bike, and witnessing the arrival of the gorgeous Malèna. Through his eyes, we see the curse of beauty and loneliness of Malena, whose husband is presumed dead, and, through his soul, we see his love for her.",
+      "releaseInfo": 2000,
+      "imdbRating": 7.4
     },
     {
       "id": "tt28541577",
@@ -349,6 +399,16 @@
       "description": "Young teen Mikey Walsh and his friends set off on a quest to find Pirate One-Eyed Willie's treasure in hopes of saving their homes from demolition. However, on their quest to find the treasure, they run into a family of recently escaped criminals, determined to capture the kids and reach the treasure first.",
       "releaseInfo": 1985,
       "imdbRating": 7.7
+    },
+    {
+      "id": "tt0387564",
+      "type": "movie",
+      "name": "Saw",
+      "poster": "https://images.metahub.space/poster/medium/tt0387564/img",
+      "background": "https://images.metahub.space/background/medium/tt0387564/img",
+      "description": "Two men awaken to find themselves on the opposite sides of a dead body, each with specific instructions to kill the other, escape or face the consequences. These two are the latest contestants in Jigsaw's games.",
+      "releaseInfo": 2004,
+      "imdbRating": 7.6
     },
     {
       "id": "tt10872600",
@@ -381,26 +441,6 @@
       "imdbRating": 7
     },
     {
-      "id": "tt0387564",
-      "type": "movie",
-      "name": "Saw",
-      "poster": "https://images.metahub.space/poster/medium/tt0387564/img",
-      "background": "https://images.metahub.space/background/medium/tt0387564/img",
-      "description": "Two men awaken to find themselves on the opposite sides of a dead body, each with specific instructions to kill the other, escape or face the consequences. These two are the latest contestants in Jigsaw's games.",
-      "releaseInfo": 2004,
-      "imdbRating": 7.6
-    },
-    {
-      "id": "tt0094721",
-      "type": "movie",
-      "name": "Beetlejuice",
-      "poster": "https://images.metahub.space/poster/medium/tt0094721/img",
-      "background": "https://images.metahub.space/background/medium/tt0094721/img",
-      "description": "A newly dead New England couple seeks help from a deranged demon exorcist to scare an affluent New York family out of their home.",
-      "releaseInfo": 1988,
-      "imdbRating": 7.4
-    },
-    {
       "id": "tt36984281",
       "type": "movie",
       "name": "Video",
@@ -419,16 +459,6 @@
       "description": "Val McKee and Earl Bassett are in a fight for their lives when they discover that their desolate town has been infested with gigantic, man-eating creatures that live below the ground.",
       "releaseInfo": 1990,
       "imdbRating": 7.2
-    },
-    {
-      "id": "tt0892769",
-      "type": "movie",
-      "name": "How to Train Your Dragon",
-      "poster": "https://images.metahub.space/poster/medium/tt0892769/img",
-      "background": "https://images.metahub.space/background/medium/tt0892769/img",
-      "description": "As the son of a Viking leader on the cusp of manhood, shy Hiccup Horrendous Haddock III faces a rite of passage: he must kill a dragon to prove his warrior mettle. But after downing a feared dragon, he realizes that he no longer wants to destroy it, and instead befriends the beast – which he names Toothless – much to the chagrin of his warrior father.",
-      "releaseInfo": 2010,
-      "imdbRating": 8.1
     },
     {
       "id": "tt0181689",
@@ -451,6 +481,16 @@
       "imdbRating": 6.5
     },
     {
+      "id": "tt0094721",
+      "type": "movie",
+      "name": "Beetlejuice",
+      "poster": "https://images.metahub.space/poster/medium/tt0094721/img",
+      "background": "https://images.metahub.space/background/medium/tt0094721/img",
+      "description": "A newly dead New England couple seeks help from a deranged demon exorcist to scare an affluent New York family out of their home.",
+      "releaseInfo": 1988,
+      "imdbRating": 7.4
+    },
+    {
       "id": "tt1285016",
       "type": "movie",
       "name": "The Social Network",
@@ -459,46 +499,6 @@
       "description": "In 2003, Harvard undergrad and computer programmer Mark Zuckerberg begins work on a new concept that eventually turns into the global social network known as Facebook. Six years later, Mark is one of the youngest billionaires ever, but his unprecedented success leads to both personal and legal complications when he ends up on the receiving end of two lawsuits, one involving his former friend.",
       "releaseInfo": 2010,
       "imdbRating": 7.8
-    },
-    {
-      "id": "tt12042730",
-      "type": "movie",
-      "name": "Project Hail Mary",
-      "poster": "https://images.metahub.space/poster/medium/tt12042730/img",
-      "background": "https://images.metahub.space/background/medium/tt12042730/img",
-      "description": "Science teacher Ryland Grace wakes up on a spaceship light years from home with no recollection of who he is or how he got there. As his memory returns, he begins to uncover his mission: solve the riddle of the mysterious substance causing the sun to die out. He must call on his scientific knowledge and unorthodox ideas to save everything on Earth from extinction.",
-      "releaseInfo": 2026,
-      "imdbRating": 8.2
-    },
-    {
-      "id": "tt0469494",
-      "type": "movie",
-      "name": "There Will Be Blood",
-      "poster": "https://images.metahub.space/poster/medium/tt0469494/img",
-      "background": "https://images.metahub.space/background/medium/tt0469494/img",
-      "description": "Ruthless silver miner, turned oil prospector, Daniel Plainview, moves to oil-rich California. Using his son to project a trustworthy, family-man image, Plainview cons local landowners into selling him their valuable properties for a pittance. However, local preacher Eli Sunday suspects Plainview's motives and intentions, starting a slow-burning feud that threatens both their lives.",
-      "releaseInfo": 2007,
-      "imdbRating": 8.2
-    },
-    {
-      "id": "tt1840309",
-      "type": "movie",
-      "name": "Divergent",
-      "poster": "https://images.metahub.space/poster/medium/tt1840309/img",
-      "background": "https://images.metahub.space/background/medium/tt1840309/img",
-      "description": "In a world divided into factions based on personality types, Tris learns that she's been classified as Divergent and won't fit in. When she discovers a plot to destroy Divergents, Tris and the mysterious Four must find out what makes Divergents dangerous before it's too late.",
-      "releaseInfo": 2014,
-      "imdbRating": 6.6
-    },
-    {
-      "id": "tt2382320",
-      "type": "movie",
-      "name": "No Time to Die",
-      "poster": "https://images.metahub.space/poster/medium/tt2382320/img",
-      "background": "https://images.metahub.space/background/medium/tt2382320/img",
-      "description": "Bond has left active service and is enjoying a tranquil life in Jamaica. His peace is short-lived when his old friend Felix Leiter from the CIA turns up asking for help. The mission to rescue a kidnapped scientist turns out to be far more treacherous than expected, leading Bond onto the trail of a mysterious villain armed with dangerous new technology.",
-      "releaseInfo": 2021,
-      "imdbRating": 7.3
     }
   ]
 }
