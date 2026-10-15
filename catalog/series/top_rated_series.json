@@ -331,6 +331,17 @@
       "imdbRating": "8.2"
     },
     {
+      "id": "tt12327578",
+      "type": "series",
+      "name": "Star Trek: Strange New Worlds",
+      "poster": "https://images.metahub.space/poster/small/tt12327578/img",
+      "background": "https://images.metahub.space/background/medium/tt12327578/img",
+      "logo": "https://images.metahub.space/logo/medium/tt12327578/img",
+      "description": "A prequel to Star Trek (1966), this series follows the crew of the USS Enterprise under the command of Captain Christopher Pike.",
+      "releaseInfo": "2022–2027",
+      "imdbRating": "8.2"
+    },
+    {
       "id": "tt15469618",
       "type": "series",
       "name": "Bad Sisters",
@@ -534,17 +545,6 @@
       "logo": "https://images.metahub.space/logo/medium/tt33546863/img",
       "description": "A college-set romantic drama chronicling the unexpected love story between a music student and the university's star hockey player, exploring themes of love and the complexities of adulthood through deep friendships and enduring b...",
       "releaseInfo": "2026–",
-      "imdbRating": "7.8"
-    },
-    {
-      "id": "tt0098844",
-      "type": "series",
-      "name": "Law & Order",
-      "poster": "https://images.metahub.space/poster/small/tt0098844/img",
-      "background": "https://images.metahub.space/background/medium/tt0098844/img",
-      "logo": "https://images.metahub.space/logo/medium/tt0098844/img",
-      "description": "A two-part drama that focuses on the New York criminal-justice system by showing a violent crime investigated by police detectives in the first half and then the trial of the accused in court by prosecutors in the second half.",
-      "releaseInfo": "1990–",
       "imdbRating": "7.8"
     }
   ]

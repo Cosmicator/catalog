@@ -251,6 +251,16 @@
       "imdbRating": 6.7
     },
     {
+      "id": "tt33379543",
+      "type": "movie",
+      "name": "Jana Nayagan",
+      "poster": "https://images.metahub.space/poster/medium/tt33379543/img",
+      "background": "https://images.metahub.space/background/medium/tt33379543/img",
+      "description": "A clash of ideologies. One stands for the people, the other feeds on control. Their paths collided once before. Years later, a child’s silent fear ignites the past, drawing a former police officer into a battle far bigger than personal revenge.",
+      "releaseInfo": 2026,
+      "imdbRating": 5.1
+    },
+    {
       "id": "tt0103874",
       "type": "movie",
       "name": "Bram Stoker's Dracula",
@@ -291,6 +301,16 @@
       "imdbRating": 6.3
     },
     {
+      "id": "tt36984281",
+      "type": "movie",
+      "name": "Video",
+      "poster": "https://images.metahub.space/poster/medium/tt36984281/img",
+      "background": "https://images.metahub.space/background/medium/tt36984281/img",
+      "description": "Three months after a group of Bengaluru vloggers vanishes while exploring India's most terrifying location, a travelling couple stumbles upon their abandoned cameras unlocking the chilling mystery of what really happened to them.",
+      "releaseInfo": 2026,
+      "imdbRating": 6.2
+    },
+    {
       "id": "tt32393988",
       "type": "movie",
       "name": "Insidious: Out of the Further",
@@ -299,16 +319,6 @@
       "description": "Gemma, a young mother raising her daughter in the house she grew up in, discovers she can travel into The Further, the purgatorial realm of lost souls at the heart of the Insidious universe. When something evil comes after her, Gemma discovers an ability that changes everything: she doesn't just enter The Further, she can bring what lives there back to the real world. Once the demons realize her power, our world becomes their playground.",
       "releaseInfo": 2026,
       "imdbRating": 6.1
-    },
-    {
-      "id": "tt33379543",
-      "type": "movie",
-      "name": "Jana Nayagan",
-      "poster": "https://images.metahub.space/poster/medium/tt33379543/img",
-      "background": "https://images.metahub.space/background/medium/tt33379543/img",
-      "description": "A clash of ideologies. One stands for the people, the other feeds on control. Their paths collided once before. Years later, a child’s silent fear ignites the past, drawing a former police officer into a battle far bigger than personal revenge.",
-      "releaseInfo": 2026,
-      "imdbRating": 5.1
     },
     {
       "id": "tt0112642",
@@ -328,7 +338,7 @@
       "background": "https://images.metahub.space/background/medium/tt34384900/img",
       "description": "After a chance encounter sparks a sweeping romance, Maya's future is suddenly upended, sending her on an unexpected journey to love and live again.",
       "releaseInfo": 2026,
-      "imdbRating": 6.8
+      "imdbRating": 6.5
     },
     {
       "id": "tt27543632",
@@ -339,16 +349,6 @@
       "description": "Millie, a struggling young woman, becomes a live-in maid for a wealthy couple, Nina and Andrew. She enters a mansion of secrets, manipulation, and escalating psychological games that pull her into a dangerous relationship dynamic.",
       "releaseInfo": 2025,
       "imdbRating": 6.7
-    },
-    {
-      "id": "tt1051906",
-      "type": "movie",
-      "name": "The Invisible Man",
-      "poster": "https://images.metahub.space/poster/medium/tt1051906/img",
-      "background": "https://images.metahub.space/background/medium/tt1051906/img",
-      "description": "When Cecilia's abusive ex takes his own life and leaves her his fortune, she suspects his death was a hoax. As a series of coincidences turn lethal, Cecilia works to prove that she is being hunted by someone nobody can see.",
-      "releaseInfo": 2020,
-      "imdbRating": 7.1
     },
     {
       "id": "tt12042730",
@@ -471,6 +471,16 @@
       "imdbRating": 7.2
     },
     {
+      "id": "tt0093779",
+      "type": "movie",
+      "name": "The Princess Bride",
+      "poster": "https://images.metahub.space/poster/medium/tt0093779/img",
+      "background": "https://images.metahub.space/background/medium/tt0093779/img",
+      "description": "In this enchantingly cracked fairy tale, the beautiful Princess Buttercup and the dashing Westley must overcome staggering odds to find happiness amid six-fingered swordsmen, murderous princes, Sicilians and rodents of unusual size. But even death can't stop these true lovebirds from triumphing.",
+      "releaseInfo": 1987,
+      "imdbRating": 8
+    },
+    {
       "id": "tt37535100",
       "type": "movie",
       "name": "Bethlehem Kudumba Unit",
@@ -489,16 +499,6 @@
       "description": "Welcome to Hotel Transylvania, Dracula's lavish five-stake resort, where monsters and their families can live it up and no humans are allowed. One special weekend, Dracula has invited all his best friends to celebrate his beloved daughter Mavis's 118th birthday. For Dracula catering to all of these legendary monsters is no problem but the party really starts when one ordinary guy stumbles into the hotel and changes everything!",
       "releaseInfo": 2012,
       "imdbRating": 7.1
-    },
-    {
-      "id": "tt4627352",
-      "type": "movie",
-      "name": "Shepherds and Butchers",
-      "poster": "https://images.metahub.space/poster/medium/tt4627352/img",
-      "background": "https://images.metahub.space/background/medium/tt4627352/img",
-      "description": "A lawyer takes on a case of a prison guard in South Africa who is traumatized by the executions he's witnessed.",
-      "releaseInfo": 2017,
-      "imdbRating": 6.8
     }
   ]
 }
