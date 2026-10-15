@@ -258,7 +258,7 @@
       "background": "https://images.metahub.space/background/medium/tt33379543/img",
       "description": "A clash of ideologies. One stands for the people, the other feeds on control. Their paths collided once before. Years later, a child’s silent fear ignites the past, drawing a former police officer into a battle far bigger than personal revenge.",
       "releaseInfo": 2026,
-      "imdbRating": 5.1
+      "imdbRating": 5.2
     },
     {
       "id": "tt0103874",
@@ -269,16 +269,6 @@
       "description": "Count Dracula, a 15th-century prince, is condemned to live off the blood of the living for eternity. Young lawyer Jonathan Harker is sent to Dracula's castle to finalise a land deal, but when the Count sees a photo of Harker's fiancée, Mina, the spitting image of his dead wife, he imprisons him and sets off for London to track her down.",
       "releaseInfo": 1992,
       "imdbRating": 7.4
-    },
-    {
-      "id": "tt0884328",
-      "type": "movie",
-      "name": "The Mist",
-      "poster": "https://images.metahub.space/poster/medium/tt0884328/img",
-      "background": "https://images.metahub.space/background/medium/tt0884328/img",
-      "description": "After a violent storm, a dense cloud of mist envelops a small Maine town, trapping David Drayton and his five-year-old son in a local grocery store with other local residents. They soon discover that the mist conceals deadly horrors that threaten their lives, and worse, their sanity.",
-      "releaseInfo": 2007,
-      "imdbRating": 7.1
     },
     {
       "id": "tt32820897",
@@ -451,16 +441,6 @@
       "imdbRating": 7.3
     },
     {
-      "id": "tt4084744",
-      "type": "movie",
-      "name": "Battle for Sevastopol",
-      "poster": "https://images.metahub.space/poster/medium/tt4084744/img",
-      "background": "https://images.metahub.space/background/medium/tt4084744/img",
-      "description": "The story of Lyudmila Pavlichenko, the most successful female sniper in history.",
-      "releaseInfo": 2015,
-      "imdbRating": 7
-    },
-    {
       "id": "tt0114558",
       "type": "movie",
       "name": "Strange Days",
@@ -469,16 +449,6 @@
       "description": "In the last days of 1999, ex-cop turned street hustler Lenny Nero receives a disc which contains the memories of the murder of a prostitute. With the help of bodyguard Mace, he starts to investigate and is pulled deeper and deeper in a whirl of murder, blackmail and intrigue.",
       "releaseInfo": 1995,
       "imdbRating": 7.2
-    },
-    {
-      "id": "tt0093779",
-      "type": "movie",
-      "name": "The Princess Bride",
-      "poster": "https://images.metahub.space/poster/medium/tt0093779/img",
-      "background": "https://images.metahub.space/background/medium/tt0093779/img",
-      "description": "In this enchantingly cracked fairy tale, the beautiful Princess Buttercup and the dashing Westley must overcome staggering odds to find happiness amid six-fingered swordsmen, murderous princes, Sicilians and rodents of unusual size. But even death can't stop these true lovebirds from triumphing.",
-      "releaseInfo": 1987,
-      "imdbRating": 8
     },
     {
       "id": "tt37535100",
@@ -491,6 +461,16 @@
       "imdbRating": 8.1
     },
     {
+      "id": "tt0884328",
+      "type": "movie",
+      "name": "The Mist",
+      "poster": "https://images.metahub.space/poster/medium/tt0884328/img",
+      "background": "https://images.metahub.space/background/medium/tt0884328/img",
+      "description": "After a violent storm, a dense cloud of mist envelops a small Maine town, trapping David Drayton and his five-year-old son in a local grocery store with other local residents. They soon discover that the mist conceals deadly horrors that threaten their lives, and worse, their sanity.",
+      "releaseInfo": 2007,
+      "imdbRating": 7.1
+    },
+    {
       "id": "tt0837562",
       "type": "movie",
       "name": "Hotel Transylvania",
@@ -499,6 +479,26 @@
       "description": "Welcome to Hotel Transylvania, Dracula's lavish five-stake resort, where monsters and their families can live it up and no humans are allowed. One special weekend, Dracula has invited all his best friends to celebrate his beloved daughter Mavis's 118th birthday. For Dracula catering to all of these legendary monsters is no problem but the party really starts when one ordinary guy stumbles into the hotel and changes everything!",
       "releaseInfo": 2012,
       "imdbRating": 7.1
+    },
+    {
+      "id": "tt37287335",
+      "type": "movie",
+      "name": "Obsession",
+      "poster": "https://images.metahub.space/poster/medium/tt37287335/img",
+      "background": "https://images.metahub.space/background/medium/tt37287335/img",
+      "description": "After breaking the mysterious \"One Wish Willow\" to win his crush's heart, a hopeless romantic finds himself getting exactly what he asked for but soon discovers that some desires come at a dark, sinister price.",
+      "releaseInfo": 2026,
+      "imdbRating": 7.8
+    },
+    {
+      "id": "tt4589218",
+      "type": "movie",
+      "name": "Five Nights at Freddy's",
+      "poster": "https://images.metahub.space/poster/medium/tt4589218/img",
+      "background": "https://images.metahub.space/background/medium/tt4589218/img",
+      "description": "Recently fired and desperate for work, a troubled young man named Mike agrees to take a position as a night security guard at an abandoned theme restaurant: Freddy Fazbear's Pizzeria. But he soon discovers that nothing at Freddy's is what it seems.",
+      "releaseInfo": 2023,
+      "imdbRating": 5.4
     }
   ]
 }
