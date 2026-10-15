@@ -1,6 +1,28 @@
 {
   "metas": [
     {
+      "id": "tt0353975",
+      "type": "movie",
+      "name": "Sandhesam",
+      "poster": "https://live.metahub.space/poster/small/tt0353975/img",
+      "background": "https://live.metahub.space/background/medium/tt0353975/img",
+      "logo": "https://live.metahub.space/logo/medium/tt0353975/img",
+      "description": "After his retirement, Raghavan Nair (Thilakan) is back at his home. His long cherished dream to spend his retired life along with his family is thwarted after seeing his two sons brawling each other over their political differences.",
+      "releaseInfo": "1991",
+      "imdbRating": "9.0"
+    },
+    {
+      "id": "tt10534500",
+      "type": "movie",
+      "name": "#Home",
+      "poster": "https://images.metahub.space/poster/small/tt10534500/img",
+      "background": "https://images.metahub.space/background/medium/tt10534500/img",
+      "logo": "https://images.metahub.space/logo/medium/tt10534500/img",
+      "description": "Oliver Twist (Indrans) wants to be tech-savvy and become a better companion to his two sons, who spend more time on their phones than with their loved ones.",
+      "releaseInfo": "2021",
+      "imdbRating": "8.8"
+    },
+    {
       "id": "tt0133093",
       "type": "movie",
       "name": "The Matrix",
@@ -12,14 +34,14 @@
       "imdbRating": "8.7"
     },
     {
-      "id": "tt37537243",
+      "id": "tt0291855",
       "type": "movie",
-      "name": "Maremma",
-      "poster": "https://live.metahub.space/poster/small/tt37537243/img",
-      "background": "https://live.metahub.space/background/medium/tt37537243/img",
-      "logo": "https://live.metahub.space/logo/medium/tt37537243/img",
-      "description": "In a village bound by ancient traditions, the Maremma Goddess festival is a time of both reverence and fear. Every 12 years, a male bull is sacrificed to the deity, yet with each ceremony, calamity befalls the villagers. Despite their efforts, the elders fail to prevent disaster. Determined to break the cycle, they enact a new decree: any household whose bull bears a male calf in the next 100 days must offer it to the goddess. As the deadline approaches, the fate of the village hangs in the balance, and the true test of their resolve begins.",
-      "releaseInfo": "2026",
+      "name": "Devasuram",
+      "poster": "https://live.metahub.space/poster/small/tt0291855/img",
+      "background": "https://live.metahub.space/background/medium/tt0291855/img",
+      "logo": "https://live.metahub.space/logo/medium/tt0291855/img",
+      "description": "Neelakanthan squanders away the inheritance left by his father. However, his life turns upside down when his mother reveals a terrible secret on her deathbed that changes the course of his life.",
+      "releaseInfo": "1993",
       "imdbRating": "8.7"
     },
     {
@@ -34,6 +56,17 @@
       "imdbRating": "8.7"
     },
     {
+      "id": "tt37537243",
+      "type": "movie",
+      "name": "Maremma",
+      "poster": "https://live.metahub.space/poster/small/tt37537243/img",
+      "background": "https://live.metahub.space/background/medium/tt37537243/img",
+      "logo": "https://live.metahub.space/logo/medium/tt37537243/img",
+      "description": "In a village bound by ancient traditions, the Maremma Goddess festival is a time of both reverence and fear. Every 12 years, a male bull is sacrificed to the deity, yet with each ceremony, calamity befalls the villagers. Despite their efforts, the elders fail to prevent disaster. Determined to break the cycle, they enact a new decree: any household whose bull bears a male calf in the next 100 days must offer it to the goddess. As the deadline approaches, the fate of the village hangs in the balance, and the true test of their resolve begins.",
+      "releaseInfo": "2026",
+      "imdbRating": "8.7"
+    },
+    {
       "id": "tt39139925",
       "type": "movie",
       "name": "Dhurandhar The Revenge",
@@ -45,37 +78,26 @@
       "imdbRating": "8.5"
     },
     {
-      "id": "tt36984281",
+      "id": "tt4987556",
       "type": "movie",
-      "name": "Video",
-      "poster": "https://live.metahub.space/poster/small/tt36984281/img",
-      "background": "https://live.metahub.space/background/medium/tt36984281/img",
-      "logo": "https://live.metahub.space/logo/medium/tt36984281/img",
-      "description": "Video is a found footage, Docudrama by Srinidhi Bengaluru that stars Dheekshith Shetty, Bharatha, Jeevan Shivakumar, Tejesh S M, Priya J Achar, Nalme Nachiyar.",
-      "releaseInfo": "2026",
-      "imdbRating": "8.5"
+      "name": "Thani Oruvan",
+      "poster": "https://images.metahub.space/poster/small/tt4987556/img",
+      "background": "https://images.metahub.space/background/medium/tt4987556/img",
+      "logo": "https://images.metahub.space/logo/medium/tt4987556/img",
+      "description": "Siddharth Abimanyu, an influential scientist, is involved in various illegal medical practices. Mithran, an efficient IPS officer, decides to expose him.",
+      "releaseInfo": "2015",
+      "imdbRating": "8.4"
     },
     {
-      "id": "tt0376127",
+      "id": "tt0400234",
       "type": "movie",
-      "name": "Anniyan",
-      "poster": "https://images.metahub.space/poster/small/tt0376127/img",
-      "background": "https://images.metahub.space/background/medium/tt0376127/img",
-      "logo": "https://images.metahub.space/logo/medium/tt0376127/img",
-      "description": "Ramanujam, who suffers from multiple personality disorder, works as a lawyer by day and a vigilante at night, using tips from the 'Garuda Purana' as his tools to punish various antisocial elements.",
-      "releaseInfo": "2005",
-      "imdbRating": "8.3"
-    },
-    {
-      "id": "tt26548265",
-      "type": "movie",
-      "name": "Maharaja",
-      "poster": "https://images.metahub.space/poster/small/tt26548265/img",
-      "background": "https://images.metahub.space/background/medium/tt26548265/img",
-      "logo": "https://images.metahub.space/logo/medium/tt26548265/img",
-      "description": "A barber seeks vengeance after his home is burglarized, cryptically telling police his \"lakshmi\" has been taken, leaving them uncertain if it's a person or object. His quest to recover the elusive \"lakshmi\" unfolds.",
-      "releaseInfo": "2024",
-      "imdbRating": "8.3"
+      "name": "Black Friday",
+      "poster": "https://images.metahub.space/poster/small/tt0400234/img",
+      "background": "https://images.metahub.space/background/medium/tt0400234/img",
+      "logo": "https://images.metahub.space/logo/medium/tt0400234/img",
+      "description": "A film about the investigations following the 1993 serial Bombay bomb blasts, told through the different stories of the people involved --police, conspirators, victims, middlemen.",
+      "releaseInfo": "2004",
+      "imdbRating": "8.4"
     },
     {
       "id": "tt32820897",
@@ -100,6 +122,17 @@
       "imdbRating": "8.3"
     },
     {
+      "id": "tt9179430",
+      "type": "movie",
+      "name": "Vikram",
+      "poster": "https://images.metahub.space/poster/small/tt9179430/img",
+      "background": "https://images.metahub.space/background/medium/tt9179430/img",
+      "logo": "https://images.metahub.space/logo/medium/tt9179430/img",
+      "description": "A special investigator discovers a case of serial killings is not what it seems to be, and leading down this path is only going to end in a war between everyone involved.",
+      "releaseInfo": "2022",
+      "imdbRating": "8.3"
+    },
+    {
       "id": "tt0057012",
       "type": "movie",
       "name": "Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb",
@@ -111,17 +144,6 @@
       "imdbRating": "8.3"
     },
     {
-      "id": "tt1517561",
-      "type": "movie",
-      "name": "Thulladha Manamum Thullum",
-      "poster": "https://images.metahub.space/poster/small/tt1517561/img",
-      "background": "https://images.metahub.space/background/medium/tt1517561/img",
-      "logo": "https://images.metahub.space/logo/medium/tt1517561/img",
-      "description": "Kutty is a good-hearted soul, but unfortunate incidents tend to portray his ruffian side whenever he encounters the girl he loves. A bizarre incident brings them closer and yet keeps them apart.",
-      "releaseInfo": "1999",
-      "imdbRating": "8.3"
-    },
-    {
       "id": "tt8291224",
       "type": "movie",
       "name": "Uri: The Surgical Strike",
@@ -130,28 +152,6 @@
       "logo": "https://images.metahub.space/logo/medium/tt8291224/img",
       "description": "Indian army special forces execute a covert operation, avenging the killing of fellow army men at their base by a terrorist group.",
       "releaseInfo": "2019",
-      "imdbRating": "8.2"
-    },
-    {
-      "id": "tt26458038",
-      "type": "movie",
-      "name": "Manjummel Boys",
-      "poster": "https://images.metahub.space/poster/small/tt26458038/img",
-      "background": "https://images.metahub.space/background/medium/tt26458038/img",
-      "logo": "https://images.metahub.space/logo/medium/tt26458038/img",
-      "description": "A group of friends get into a daring rescue mission to save their friend from Guna Caves, a perilously deep pit from where nobody has ever been brought back.",
-      "releaseInfo": "2024",
-      "imdbRating": "8.2"
-    },
-    {
-      "id": "tt1180583",
-      "type": "movie",
-      "name": "Vaaranam Aayiram",
-      "poster": "https://images.metahub.space/poster/small/tt1180583/img",
-      "background": "https://images.metahub.space/background/medium/tt1180583/img",
-      "logo": "https://images.metahub.space/logo/medium/tt1180583/img",
-      "description": "A father and son help each other through growing up, romance, tragedy, and adventure.",
-      "releaseInfo": "2008",
       "imdbRating": "8.2"
     },
     {
@@ -188,6 +188,17 @@
       "imdbRating": "8.1"
     },
     {
+      "id": "tt0112553",
+      "type": "movie",
+      "name": "Bombay",
+      "poster": "https://images.metahub.space/poster/small/tt0112553/img",
+      "background": "https://images.metahub.space/background/medium/tt0112553/img",
+      "logo": "https://images.metahub.space/logo/medium/tt0112553/img",
+      "description": "A Hindu man and a Muslim woman fall in love in a small village and move to Mumbai, where they have two children. However, growing religious tensions and erupting riots threaten to tear the family apart.",
+      "releaseInfo": "1995",
+      "imdbRating": "8.1"
+    },
+    {
       "id": "tt29623480",
       "type": "movie",
       "name": "The Wild Robot",
@@ -196,17 +207,6 @@
       "logo": "https://images.metahub.space/logo/medium/tt29623480/img",
       "description": "A sentient robot stranded on an uninhabited island raises an orphaned gosling while trying to fit in with the local wildlife.",
       "releaseInfo": "2024",
-      "imdbRating": "8.1"
-    },
-    {
-      "id": "tt0054098",
-      "type": "movie",
-      "name": "Mughal-E-Azam",
-      "poster": "https://images.metahub.space/poster/small/tt0054098/img",
-      "background": "https://images.metahub.space/background/medium/tt0054098/img",
-      "logo": "https://images.metahub.space/logo/medium/tt0054098/img",
-      "description": "A 16th century prince falls in love with a court dancer and battles with his emperor father.",
-      "releaseInfo": "1960",
       "imdbRating": "8.1"
     },
     {
@@ -254,25 +254,14 @@
       "imdbRating": "8.0"
     },
     {
-      "id": "tt3449292",
+      "id": "tt3562110",
       "type": "movie",
-      "name": "Manjhi: The Mountain Man",
-      "poster": "https://images.metahub.space/poster/small/tt3449292/img",
-      "background": "https://images.metahub.space/background/medium/tt3449292/img",
-      "logo": "https://images.metahub.space/logo/medium/tt3449292/img",
-      "description": "Using only a hammer and a chisel, a man spends twenty-two years carving a road through a treacherous mountain.",
-      "releaseInfo": "2015",
-      "imdbRating": "8.0"
-    },
-    {
-      "id": "tt0366840",
-      "type": "movie",
-      "name": "Okkadu",
-      "poster": "https://images.metahub.space/poster/small/tt0366840/img",
-      "background": "https://images.metahub.space/background/medium/tt0366840/img",
-      "logo": "https://images.metahub.space/logo/medium/tt0366840/img",
-      "description": "A Kabbadi player rescues a young woman from an unwanted marriage and hides her in his home.",
-      "releaseInfo": "2003",
+      "name": "Kesari Chapter 2: The Untold Story of Jallianwala Bagh",
+      "poster": "https://images.metahub.space/poster/small/tt3562110/img",
+      "background": "https://images.metahub.space/background/medium/tt3562110/img",
+      "logo": "https://images.metahub.space/logo/medium/tt3562110/img",
+      "description": "After learning the truth behind the brutal massacre at the Jallianwala Bagh, C Sankaran Nair, a member of the Viceroy's Council, sets out to challenge the Crown and the military general responsible.",
+      "releaseInfo": "2025",
       "imdbRating": "8.0"
     },
     {
@@ -287,14 +276,14 @@
       "imdbRating": "7.9"
     },
     {
-      "id": "tt1851988",
+      "id": "tt0051792",
       "type": "movie",
-      "name": "Ko",
-      "poster": "https://images.metahub.space/poster/small/tt1851988/img",
-      "background": "https://images.metahub.space/background/medium/tt1851988/img",
-      "logo": "https://images.metahub.space/logo/medium/tt1851988/img",
-      "description": "Ashwin, a famous photographer, works with Renuka, an investigative journalist. When one of their colleagues, Saro, gets killed during a political meet, Ashwin and Renuka decide to investigate.",
-      "releaseInfo": "2011",
+      "name": "The Music Room",
+      "poster": "https://images.metahub.space/poster/small/tt0051792/img",
+      "background": "https://images.metahub.space/background/medium/tt0051792/img",
+      "logo": "https://images.metahub.space/logo/medium/tt0051792/img",
+      "description": "Depicts the end days of a decadent zamindar (landlord) in Bengal, and his efforts to uphold his family prestige even when faced with economic adversity.",
+      "releaseInfo": "1958",
       "imdbRating": "7.9"
     },
     {
@@ -307,6 +296,28 @@
       "description": "A mean lord exiles fairytale creatures to the swamp of a grumpy ogre, who must go on a quest and rescue a princess for the lord in order to get his land back.",
       "releaseInfo": "2001",
       "imdbRating": "7.9"
+    },
+    {
+      "id": "tt1077248",
+      "type": "movie",
+      "name": "Johnny Gaddaar",
+      "poster": "https://images.metahub.space/poster/small/tt1077248/img",
+      "background": "https://images.metahub.space/background/medium/tt1077248/img",
+      "logo": "https://images.metahub.space/logo/medium/tt1077248/img",
+      "description": "Police officers recount a tale of missing money which results in lies, deceit, betrayal and death.",
+      "releaseInfo": "2007",
+      "imdbRating": "7.9"
+    },
+    {
+      "id": "tt0402014",
+      "type": "movie",
+      "name": "Ab Tak Chhappan",
+      "poster": "https://images.metahub.space/poster/small/tt0402014/img",
+      "background": "https://images.metahub.space/background/medium/tt0402014/img",
+      "logo": "https://images.metahub.space/logo/medium/tt0402014/img",
+      "description": "Sadhu, an encounter specialist, is armed with a personal vendetta to find and kill the gangsters responsible for his wife's death.",
+      "releaseInfo": "2004",
+      "imdbRating": "7.8"
     },
     {
       "id": "tt0087332",
@@ -331,14 +342,14 @@
       "imdbRating": "7.8"
     },
     {
-      "id": "tt13206926",
+      "id": "tt0323013",
       "type": "movie",
-      "name": "Joji",
-      "poster": "https://images.metahub.space/poster/small/tt13206926/img",
-      "background": "https://images.metahub.space/background/medium/tt13206926/img",
-      "logo": "https://images.metahub.space/logo/medium/tt13206926/img",
-      "description": "Joji, an engineering dropout and the youngest son of a rich family lives with his aspirations of becoming super wealthy. Driven by greed and blind ambition, he decides to execute his plans following an unexpected event in the family.",
-      "releaseInfo": "2021",
+      "name": "Lakshya",
+      "poster": "https://images.metahub.space/poster/small/tt0323013/img",
+      "background": "https://images.metahub.space/background/medium/tt0323013/img",
+      "logo": "https://images.metahub.space/logo/medium/tt0323013/img",
+      "description": "An aimless, jobless, irresponsible grown man joins the army and matures into a battlefield hero.",
+      "releaseInfo": "2004",
       "imdbRating": "7.8"
     },
     {
@@ -353,25 +364,36 @@
       "imdbRating": "7.8"
     },
     {
-      "id": "tt0099652",
+      "id": "tt28007064",
       "type": "movie",
-      "name": "Ghayal",
-      "poster": "https://images.metahub.space/poster/small/tt0099652/img",
-      "background": "https://images.metahub.space/background/medium/tt0099652/img",
-      "logo": "https://images.metahub.space/logo/medium/tt0099652/img",
-      "description": "Ajay is framed by Balwant Rai for his brother's murder and sent to prison. Later, he befriends three convicts and sets out to seek revenge against Balwant Rai.",
-      "releaseInfo": "1990",
+      "name": "Superboys of Malegaon",
+      "poster": "https://live.metahub.space/poster/small/tt28007064/img",
+      "background": "https://live.metahub.space/background/medium/tt28007064/img",
+      "logo": "https://live.metahub.space/logo/medium/tt28007064/img",
+      "description": "The residents of Malegaon look to Bollywood cinema for a much-needed escape from daily drudgery. Amateur filmmaker Nasir Shaikh gets inspired to make a film for the people of Malegaon, by the people of Malegaon. He bands together his ragtag group of friends to bring his vision to life, thereby bringing a fresh lease of life into the town.",
+      "releaseInfo": "2025",
       "imdbRating": "7.7"
     },
     {
-      "id": "tt36626888",
+      "id": "tt7142506",
       "type": "movie",
-      "name": "Ohh My Dog",
-      "poster": "https://live.metahub.space/poster/small/tt36626888/img",
-      "background": "https://live.metahub.space/background/medium/tt36626888/img",
-      "logo": "https://live.metahub.space/logo/medium/tt36626888/img",
-      "description": "In Assam, 14-year-old Apu embarks on a desperate quest to rescue his beloved dog, Momo, after he is kidnapped. Elsewhere, in Bihar, a devoted dog named Oscar sets out on a perilous journey to find his kidnapped owner, a 15-year-old child labourer. As their journeys unfold, it becomes clear that the two kidnappings may be connected to a larger, sinister plan.",
-      "releaseInfo": "2026",
+      "name": "Sir",
+      "poster": "https://images.metahub.space/poster/small/tt7142506/img",
+      "background": "https://images.metahub.space/background/medium/tt7142506/img",
+      "logo": "https://images.metahub.space/logo/medium/tt7142506/img",
+      "description": "A prosperous young Indian man falls in love with his servant, a widow with the dream of becoming a fashion designer.",
+      "releaseInfo": "2018",
+      "imdbRating": "7.7"
+    },
+    {
+      "id": "tt0330373",
+      "type": "movie",
+      "name": "Harry Potter and the Goblet of Fire",
+      "poster": "https://images.metahub.space/poster/small/tt0330373/img",
+      "background": "https://images.metahub.space/background/medium/tt0330373/img",
+      "logo": "https://images.metahub.space/logo/medium/tt0330373/img",
+      "description": "Harry Potter finds himself competing in a hazardous tournament between rival schools of magic, but he is distracted by recurring nightmares.",
+      "releaseInfo": "2005",
       "imdbRating": "7.7"
     },
     {
@@ -386,25 +408,25 @@
       "imdbRating": "7.7"
     },
     {
-      "id": "tt10701074",
+      "id": "tt5286444",
       "type": "movie",
-      "name": "Ponniyin Selvan: Part I",
-      "poster": "https://images.metahub.space/poster/small/tt10701074/img",
-      "background": "https://images.metahub.space/background/medium/tt10701074/img",
-      "logo": "https://images.metahub.space/logo/medium/tt10701074/img",
-      "description": "Vandiyathevan crosses the Chola land to deliver a message from the Crown Prince Aditha Karikalan, while Kundavai attempts to establish political peace as vassals and petty chieftains plot against the throne.",
-      "releaseInfo": "2022",
+      "name": "Neerja",
+      "poster": "https://images.metahub.space/poster/small/tt5286444/img",
+      "background": "https://images.metahub.space/background/medium/tt5286444/img",
+      "logo": "https://images.metahub.space/logo/medium/tt5286444/img",
+      "description": "The story of courageous Neerja Bhanot, who sacrificed her life while protecting the lives of 359 passengers on Pan Am Flight 73 in 1986 when it was hijacked by a terrorist organization.",
+      "releaseInfo": "2016",
       "imdbRating": "7.6"
     },
     {
-      "id": "tt13028258",
+      "id": "tt3767372",
       "type": "movie",
-      "name": "A Thursday",
-      "poster": "https://images.metahub.space/poster/small/tt13028258/img",
-      "background": "https://images.metahub.space/background/medium/tt13028258/img",
-      "logo": "https://images.metahub.space/logo/medium/tt13028258/img",
-      "description": "Naina, a playschool teacher, takes 16 students hostage. Rattling the police and the leaders, her demands send shockwaves through the country.",
-      "releaseInfo": "2022",
+      "name": "Piku",
+      "poster": "https://images.metahub.space/poster/small/tt3767372/img",
+      "background": "https://images.metahub.space/background/medium/tt3767372/img",
+      "logo": "https://images.metahub.space/logo/medium/tt3767372/img",
+      "description": "A quirky comedy about the relationship between a daughter and her aging father, whose eccentricities drive everyone crazy.",
+      "releaseInfo": "2015",
       "imdbRating": "7.6"
     },
     {
@@ -419,6 +441,17 @@
       "imdbRating": "7.6"
     },
     {
+      "id": "tt36626888",
+      "type": "movie",
+      "name": "Ohh My Dog",
+      "poster": "https://live.metahub.space/poster/small/tt36626888/img",
+      "background": "https://live.metahub.space/background/medium/tt36626888/img",
+      "logo": "https://live.metahub.space/logo/medium/tt36626888/img",
+      "description": "In Assam, 14-year-old Apu embarks on a desperate quest to rescue his beloved dog, Momo, after he is kidnapped. Elsewhere, in Bihar, a devoted dog named Oscar sets out on a perilous journey to find his kidnapped owner, a 15-year-old child labourer. As their journeys unfold, it becomes clear that the two kidnappings may be connected to a larger, sinister plan.",
+      "releaseInfo": "2026",
+      "imdbRating": "7.6"
+    },
+    {
       "id": "tt13419036",
       "type": "movie",
       "name": "The Generation of Evil",
@@ -430,36 +463,25 @@
       "imdbRating": "7.6"
     },
     {
-      "id": "tt1526323",
+      "id": "tt7469726",
       "type": "movie",
-      "name": "Arya 2",
-      "poster": "https://images.metahub.space/poster/small/tt1526323/img",
-      "background": "https://images.metahub.space/background/medium/tt1526323/img",
-      "logo": "https://images.metahub.space/logo/medium/tt1526323/img",
-      "description": "Two childhood friends grow up differently to fall in love with the same woman.",
-      "releaseInfo": "2009",
+      "name": "Shaadi Mein Zaroor Aana",
+      "poster": "https://images.metahub.space/poster/small/tt7469726/img",
+      "background": "https://images.metahub.space/background/medium/tt7469726/img",
+      "logo": "https://images.metahub.space/logo/medium/tt7469726/img",
+      "description": "Satyendra Mishra \"Rajkumar Rao\" and Aarti Shukla \"Kriti Kharbanda\" agree to get married arranged by their parents, after Satyendra Mishra get government job. Aarti Shukla, run away from their marriage. What life waits for them ahead?",
+      "releaseInfo": "2017",
       "imdbRating": "7.5"
     },
     {
-      "id": "tt33294237",
+      "id": "tt0268380",
       "type": "movie",
-      "name": "Mura",
-      "poster": "https://images.metahub.space/poster/small/tt33294237/img",
-      "background": "https://images.metahub.space/background/medium/tt33294237/img",
-      "logo": "https://images.metahub.space/logo/medium/tt33294237/img",
-      "description": "Four friends from a humble background plan a heist, but past secrets and hidden motives emerge, testing their loyalties. As ambition collides with friendship, they face tough choices in their quest for revenge.",
-      "releaseInfo": "2024",
-      "imdbRating": "7.5"
-    },
-    {
-      "id": "tt15560626",
-      "type": "movie",
-      "name": "Bhoothakaalam",
-      "poster": "https://images.metahub.space/poster/small/tt15560626/img",
-      "background": "https://images.metahub.space/background/medium/tt15560626/img",
-      "logo": "https://images.metahub.space/logo/medium/tt15560626/img",
-      "description": "Following the death of a family member, a mother and son experience mysterious events which distort their sense of reality and make them question their sanity.",
-      "releaseInfo": "2022",
+      "name": "Ice Age",
+      "poster": "https://images.metahub.space/poster/small/tt0268380/img",
+      "background": "https://images.metahub.space/background/medium/tt0268380/img",
+      "logo": "https://images.metahub.space/logo/medium/tt0268380/img",
+      "description": "Manny the mammoth, Sid the loquacious sloth, and Diego the sabre-toothed tiger go on a comical quest to return a human baby back to his father, across a world on the brink of an ice age.",
+      "releaseInfo": "2002",
       "imdbRating": "7.5"
     },
     {
@@ -496,17 +518,6 @@
       "imdbRating": "7.4"
     },
     {
-      "id": "tt0145487",
-      "type": "movie",
-      "name": "Spider-Man",
-      "poster": "https://images.metahub.space/poster/small/tt0145487/img",
-      "background": "https://images.metahub.space/background/medium/tt0145487/img",
-      "logo": "https://images.metahub.space/logo/medium/tt0145487/img",
-      "description": "A shy teenager is bitten by a genetically modified spider and uses his new spider-like abilities to fight injustice as a masked superhero.",
-      "releaseInfo": "2002",
-      "imdbRating": "7.4"
-    },
-    {
       "id": "tt0213847",
       "type": "movie",
       "name": "Malena",
@@ -518,6 +529,17 @@
       "imdbRating": "7.4"
     },
     {
+      "id": "tt0145487",
+      "type": "movie",
+      "name": "Spider-Man",
+      "poster": "https://images.metahub.space/poster/small/tt0145487/img",
+      "background": "https://images.metahub.space/background/medium/tt0145487/img",
+      "logo": "https://images.metahub.space/logo/medium/tt0145487/img",
+      "description": "A shy teenager is bitten by a genetically modified spider and uses his new spider-like abilities to fight injustice as a masked superhero.",
+      "releaseInfo": "2002",
+      "imdbRating": "7.4"
+    },
+    {
       "id": "tt0162661",
       "type": "movie",
       "name": "Sleepy Hollow",
@@ -526,28 +548,6 @@
       "logo": "https://images.metahub.space/logo/medium/tt0162661/img",
       "description": "Ichabod Crane is sent to Sleepy Hollow to investigate the decapitations of three people; the culprit is legendary apparition The Headless Horseman.",
       "releaseInfo": "1999",
-      "imdbRating": "7.3"
-    },
-    {
-      "id": "tt7984734",
-      "type": "movie",
-      "name": "The Lighthouse",
-      "poster": "https://images.metahub.space/poster/small/tt7984734/img",
-      "background": "https://images.metahub.space/background/medium/tt7984734/img",
-      "logo": "https://images.metahub.space/logo/medium/tt7984734/img",
-      "description": "Two lighthouse keepers try to maintain their sanity while living on a remote and mysterious New England island in the 1890s.",
-      "releaseInfo": "2019",
-      "imdbRating": "7.3"
-    },
-    {
-      "id": "tt3495000",
-      "type": "movie",
-      "name": "Mardaani",
-      "poster": "https://images.metahub.space/poster/small/tt3495000/img",
-      "background": "https://images.metahub.space/background/medium/tt3495000/img",
-      "logo": "https://images.metahub.space/logo/medium/tt3495000/img",
-      "description": "A female cop Shivani Shivaji Roy, working at a Mumbai Crime Branch, who sets out to confront the mastermind behind a child trafficking mafia.",
-      "releaseInfo": "2014",
       "imdbRating": "7.3"
     }
   ]

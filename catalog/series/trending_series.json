@@ -271,14 +271,14 @@
       "imdbRating": 9
     },
     {
-      "id": "tt47743267",
+      "id": "tt33094114",
       "type": "series",
-      "name": "Ishqa Ishqa",
-      "poster": "https://images.metahub.space/poster/medium/tt47743267/img",
-      "background": "https://images.metahub.space/background/medium/tt47743267/img",
-      "description": "Successful writer Kabir dates Suhani, who brings peace to his life. While writing the sequel to his hit novel Ishqa Ishqa, inspired by childhood love Arohi, her return brings fresh inspiration but threatens his relationship with Suhani.",
-      "releaseInfo": 2026,
-      "imdbRating": 8.1
+      "name": "India's Got Latent",
+      "poster": "https://images.metahub.space/poster/medium/tt33094114/img",
+      "background": "https://images.metahub.space/background/medium/tt33094114/img",
+      "description": "India's Got Latent is an Indian Hindi comedy talent show hosted by Samay Raina on YouTube. Inspired by the international Got Talent franchise and Kill Tony, it features a wide variety of acts including singing, dancing, magic, and comedy.",
+      "releaseInfo": 2024,
+      "imdbRating": 8.8
     },
     {
       "id": "tt33332385",
@@ -301,14 +301,14 @@
       "imdbRating": 7.1
     },
     {
-      "id": "tt33094114",
+      "id": "tt47743267",
       "type": "series",
-      "name": "India's Got Latent",
-      "poster": "https://images.metahub.space/poster/medium/tt33094114/img",
-      "background": "https://images.metahub.space/background/medium/tt33094114/img",
-      "description": "India's Got Latent is an Indian Hindi comedy talent show hosted by Samay Raina on YouTube. Inspired by the international Got Talent franchise and Kill Tony, it features a wide variety of acts including singing, dancing, magic, and comedy.",
-      "releaseInfo": 2024,
-      "imdbRating": 8.8
+      "name": "Ishqa Ishqa",
+      "poster": "https://images.metahub.space/poster/medium/tt47743267/img",
+      "background": "https://images.metahub.space/background/medium/tt47743267/img",
+      "description": "Successful writer Kabir dates Suhani, who brings peace to his life. While writing the sequel to his hit novel Ishqa Ishqa, inspired by childhood love Arohi, her return brings fresh inspiration but threatens his relationship with Suhani.",
+      "releaseInfo": 2026,
+      "imdbRating": 8.1
     },
     {
       "id": "tt0758790",
@@ -421,16 +421,6 @@
       "imdbRating": 6.7
     },
     {
-      "id": "tt7768578",
-      "type": "series",
-      "name": "Shin Chan",
-      "poster": "https://images.metahub.space/poster/medium/tt7768578/img",
-      "background": "https://images.metahub.space/background/medium/tt7768578/img",
-      "description": "Shin-chan, the boy next door, is a walking disaster, creating chaos wherever he goes. With the body of a child and the mind of an adult, Shinchan is wreaking more havoc than any child before. Shin-chan is carefree, optimistic and gets excited about everything. This 5 year-old likes to do things his way.",
-      "releaseInfo": 1992,
-      "imdbRating": 8.4
-    },
-    {
       "id": "tt39201866",
       "type": "series",
       "name": "100 Days of Deception",
@@ -448,6 +438,16 @@
       "background": "https://images.metahub.space/background/medium/tt9059760/img",
       "description": "Marianne and Connell weave in and out of each other's lives in this exploration of sex, power and the desire to love and be loved.",
       "releaseInfo": 2020,
+      "imdbRating": 8.4
+    },
+    {
+      "id": "tt7768578",
+      "type": "series",
+      "name": "Shin Chan",
+      "poster": "https://images.metahub.space/poster/medium/tt7768578/img",
+      "background": "https://images.metahub.space/background/medium/tt7768578/img",
+      "description": "Shin-chan, the boy next door, is a walking disaster, creating chaos wherever he goes. With the body of a child and the mind of an adult, Shinchan is wreaking more havoc than any child before. Shin-chan is carefree, optimistic and gets excited about everything. This 5 year-old likes to do things his way.",
+      "releaseInfo": 1992,
       "imdbRating": 8.4
     },
     {

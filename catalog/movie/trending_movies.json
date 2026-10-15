@@ -131,16 +131,6 @@
       "imdbRating": 7.2
     },
     {
-      "id": "tt12583926",
-      "type": "movie",
-      "name": "Anniversary",
-      "poster": "https://images.metahub.space/poster/medium/tt12583926/img",
-      "background": "https://images.metahub.space/background/medium/tt12583926/img",
-      "description": "When Ellen and Paul’s son Josh introduces his new girlfriend at their 25th anniversary party, no one suspects that it is the beginning of the end for this happy family. The new girlfriend is Liz, Ellen’s former student, who left the university, some years before, after Ellen called her out in class for her radical ideology.",
-      "releaseInfo": 2025,
-      "imdbRating": 6.7
-    },
-    {
       "id": "tt29120307",
       "type": "movie",
       "name": "Vanvaas",
@@ -149,6 +139,16 @@
       "description": "Explores the dynamics of familial relationships, focusing on themes of sacrifice, emotional bonds, and the challenges of sustaining unity in modern times. The story delves into the lives of its central characters as they navigate conflicts and rediscover the importance of family values.",
       "releaseInfo": 2024,
       "imdbRating": 6.6
+    },
+    {
+      "id": "tt12583926",
+      "type": "movie",
+      "name": "Anniversary",
+      "poster": "https://images.metahub.space/poster/medium/tt12583926/img",
+      "background": "https://images.metahub.space/background/medium/tt12583926/img",
+      "description": "When Ellen and Paul’s son Josh introduces his new girlfriend at their 25th anniversary party, no one suspects that it is the beginning of the end for this happy family. The new girlfriend is Liz, Ellen’s former student, who left the university, some years before, after Ellen called her out in class for her radical ideology.",
+      "releaseInfo": 2025,
+      "imdbRating": 6.7
     },
     {
       "id": "tt0087800",
@@ -239,16 +239,6 @@
       "description": "If you found out we weren’t alone in the universe, would that frighten you?",
       "releaseInfo": 2026,
       "imdbRating": 6.4
-    },
-    {
-      "id": "tt37535100",
-      "type": "movie",
-      "name": "Bethlehem Kudumba Unit",
-      "poster": "https://images.metahub.space/poster/medium/tt37535100/img",
-      "background": "https://images.metahub.space/background/medium/tt37535100/img",
-      "description": "Ashley's homecoming from abroad takes an emotional turn when a wedding next door stirs memories of her first love, Justin.",
-      "releaseInfo": 2026,
-      "imdbRating": 8.1
     },
     {
       "id": "tt27032419",
@@ -391,6 +381,16 @@
       "imdbRating": 8.3
     },
     {
+      "id": "tt35727678",
+      "type": "movie",
+      "name": "Ek Deewane Ki Deewaniyat",
+      "poster": "https://images.metahub.space/poster/medium/tt35727678/img",
+      "background": "https://images.metahub.space/background/medium/tt35727678/img",
+      "description": "When Vikramaditya, a powerful politician falls  for a strong-willed superstar Adaa , their passionate romance quickly spirals into a dangerous game of obsession and pride. As emotions clash and tempers rise, Adaa makes a life-altering choice.",
+      "releaseInfo": 2025,
+      "imdbRating": 4.7
+    },
+    {
       "id": "tt10545296",
       "type": "movie",
       "name": "The Hunger Games: The Ballad of Songbirds & Snakes",
@@ -399,16 +399,6 @@
       "description": "Coriolanus Snow mentors and develops feelings for the female District 12 tribute during the 10th Hunger Games.",
       "releaseInfo": 2023,
       "imdbRating": 6.6
-    },
-    {
-      "id": "tt1517268",
-      "type": "movie",
-      "name": "Barbie",
-      "poster": "https://images.metahub.space/poster/medium/tt1517268/img",
-      "background": "https://images.metahub.space/background/medium/tt1517268/img",
-      "description": "Barbie and Ken are having the time of their lives in the colorful and seemingly perfect world of Barbie Land. However, when they get a chance to go to the real world, they soon discover the joys and perils of living among humans.",
-      "releaseInfo": 2023,
-      "imdbRating": 6.8
     },
     {
       "id": "tt27989067",
@@ -479,6 +469,16 @@
       "description": "In the last days of 1999, ex-cop turned street hustler Lenny Nero receives a disc which contains the memories of the murder of a prostitute. With the help of bodyguard Mace, he starts to investigate and is pulled deeper and deeper in a whirl of murder, blackmail and intrigue.",
       "releaseInfo": 1995,
       "imdbRating": 7.2
+    },
+    {
+      "id": "tt37535100",
+      "type": "movie",
+      "name": "Bethlehem Kudumba Unit",
+      "poster": "https://images.metahub.space/poster/medium/tt37535100/img",
+      "background": "https://images.metahub.space/background/medium/tt37535100/img",
+      "description": "Ashley's homecoming from abroad takes an emotional turn when a wedding next door stirs memories of her first love, Justin.",
+      "releaseInfo": 2026,
+      "imdbRating": 8.1
     },
     {
       "id": "tt0837562",
