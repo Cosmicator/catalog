@@ -1,16 +1,6 @@
 {
   "metas": [
     {
-      "id": "tt22084616",
-      "type": "movie",
-      "name": "Spider-Man: Brand New Day",
-      "poster": "https://images.metahub.space/poster/medium/tt22084616/img",
-      "background": "https://images.metahub.space/background/medium/tt22084616/img",
-      "description": "Fighting crime full-time as Spider-Man in a world that doesn't remember him—and the pressure of seeing his old friends move on without him—sparks a change in Peter Parker he may not have the power to control. But that transformation might also be the only thing that can stop a shocking new threat to the city and those he loves - a powerful villain no one can even see.",
-      "releaseInfo": 2026,
-      "imdbRating": 7.9
-    },
-    {
       "id": "tt38265603",
       "type": "movie",
       "name": "Pradhama Drishtiya Kuttakkar",
@@ -21,6 +11,16 @@
       "imdbRating": 7.5
     },
     {
+      "id": "tt22084616",
+      "type": "movie",
+      "name": "Spider-Man: Brand New Day",
+      "poster": "https://images.metahub.space/poster/medium/tt22084616/img",
+      "background": "https://images.metahub.space/background/medium/tt22084616/img",
+      "description": "Fighting crime full-time as Spider-Man in a world that doesn't remember him—and the pressure of seeing his old friends move on without him—sparks a change in Peter Parker he may not have the power to control. But that transformation might also be the only thing that can stop a shocking new threat to the city and those he loves - a powerful villain no one can even see.",
+      "releaseInfo": 2026,
+      "imdbRating": 7.9
+    },
+    {
       "id": "tt22797990",
       "type": "movie",
       "name": "Khalifa: The Ruler",
@@ -28,7 +28,7 @@
       "background": "https://images.metahub.space/background/medium/tt22797990/img",
       "description": "Aamir Ali, a notorious gold smuggling kingpin who inherited his multi-million dollar criminal enterprise from a lineage of gangsters, is drawn into a web of vengeance, legacy and power.",
       "releaseInfo": 2026,
-      "imdbRating": 6.2
+      "imdbRating": 6.1
     },
     {
       "id": "tt36596965",
@@ -38,7 +38,7 @@
       "background": "https://images.metahub.space/background/medium/tt36596965/img",
       "description": "A fishing captain applies his maritime knowledge in a traditional boat race along Tamil Nadu's coast during a festival, leading a six-person team against other crews.",
       "releaseInfo": 2026,
-      "imdbRating": 8.4
+      "imdbRating": 8.3
     },
     {
       "id": "tt31049299",
@@ -71,16 +71,6 @@
       "imdbRating": 5.7
     },
     {
-      "id": "tt14113634",
-      "type": "movie",
-      "name": "Drishyam 3",
-      "poster": "https://images.metahub.space/poster/medium/tt14113634/img",
-      "background": "https://images.metahub.space/background/medium/tt14113634/img",
-      "description": "To protect his family and their dark secret, Georgekutty faces an organized new threat. As walls close in and cracks widen, how much more is he willing to sacrifice?",
-      "releaseInfo": 2026,
-      "imdbRating": 6.6
-    },
-    {
       "id": "tt35448218",
       "type": "movie",
       "name": "Epic - First Semester",
@@ -88,7 +78,7 @@
       "background": "https://images.metahub.space/background/medium/tt35448218/img",
       "description": "Far from home, Aditya wrestles with family expectations, cultural differences and loneliness while studying in London – until he meets the lively Kadali.",
       "releaseInfo": 2026,
-      "imdbRating": 5.5
+      "imdbRating": 5.4
     },
     {
       "id": "tt6323306",
@@ -111,13 +101,13 @@
       "imdbRating": 6
     },
     {
-      "id": "tt0093437",
+      "id": "tt35836025",
       "type": "movie",
-      "name": "The Lost Boys",
-      "poster": "https://images.metahub.space/poster/medium/tt0093437/img",
-      "background": "https://images.metahub.space/background/medium/tt0093437/img",
-      "description": "When an unsuspecting town newcomer is drawn to local blood fiends, the Frog brothers and other unlikely heroes gear up to rescue him.",
-      "releaseInfo": 1987,
+      "name": "Vishwanath & Sons",
+      "poster": "https://images.metahub.space/poster/medium/tt35836025/img",
+      "background": "https://images.metahub.space/background/medium/tt35836025/img",
+      "description": "A celebrated Olympian shooter travels to America looking for a donor to help his sick child — but unexpected romance complicates his search.",
+      "releaseInfo": 2026,
       "imdbRating": 7.2
     },
     {
@@ -131,44 +121,24 @@
       "imdbRating": 7.3
     },
     {
-      "id": "tt0087332",
+      "id": "tt0093437",
       "type": "movie",
-      "name": "Ghostbusters",
-      "poster": "https://images.metahub.space/poster/medium/tt0087332/img",
-      "background": "https://images.metahub.space/background/medium/tt0087332/img",
-      "description": "After losing their university jobs, three parapsychologists start a ghost-catching business in New York City and uncover a supernatural threat that could destroy the world.",
-      "releaseInfo": 1984,
-      "imdbRating": 7.8
-    },
-    {
-      "id": "tt35836025",
-      "type": "movie",
-      "name": "Vishwanath & Sons",
-      "poster": "https://images.metahub.space/poster/medium/tt35836025/img",
-      "background": "https://images.metahub.space/background/medium/tt35836025/img",
-      "description": "A celebrated Olympian shooter travels to America looking for a donor to help his sick child — but unexpected romance complicates his search.",
-      "releaseInfo": 2026,
+      "name": "The Lost Boys",
+      "poster": "https://images.metahub.space/poster/medium/tt0093437/img",
+      "background": "https://images.metahub.space/background/medium/tt0093437/img",
+      "description": "When an unsuspecting town newcomer is drawn to local blood fiends, the Frog brothers and other unlikely heroes gear up to rescue him.",
+      "releaseInfo": 1987,
       "imdbRating": 7.2
     },
     {
-      "id": "tt0120655",
+      "id": "tt12583926",
       "type": "movie",
-      "name": "Dogma",
-      "poster": "https://images.metahub.space/poster/medium/tt0120655/img",
-      "background": "https://images.metahub.space/background/medium/tt0120655/img",
-      "description": "An abortion clinic worker with a special heritage is called upon to save the existence of humanity from being negated by two renegade angels trying to exploit a loophole and re-enter Heaven.",
-      "releaseInfo": 1999,
-      "imdbRating": 7.3
-    },
-    {
-      "id": "tt32393988",
-      "type": "movie",
-      "name": "Insidious: Out of the Further",
-      "poster": "https://images.metahub.space/poster/medium/tt32393988/img",
-      "background": "https://images.metahub.space/background/medium/tt32393988/img",
-      "description": "Gemma, a young mother raising her daughter in the house she grew up in, discovers she can travel into The Further, the purgatorial realm of lost souls at the heart of the Insidious universe. When something evil comes after her, Gemma discovers an ability that changes everything: she doesn't just enter The Further, she can bring what lives there back to the real world. Once the demons realize her power, our world becomes their playground.",
-      "releaseInfo": 2026,
-      "imdbRating": 6.1
+      "name": "Anniversary",
+      "poster": "https://images.metahub.space/poster/medium/tt12583926/img",
+      "background": "https://images.metahub.space/background/medium/tt12583926/img",
+      "description": "When Ellen and Paul’s son Josh introduces his new girlfriend at their 25th anniversary party, no one suspects that it is the beginning of the end for this happy family. The new girlfriend is Liz, Ellen’s former student, who left the university, some years before, after Ellen called her out in class for her radical ideology.",
+      "releaseInfo": 2025,
+      "imdbRating": 6.7
     },
     {
       "id": "tt29120307",
@@ -181,26 +151,6 @@
       "imdbRating": 6.6
     },
     {
-      "id": "tt22890246",
-      "type": "movie",
-      "name": "How to Have Sex",
-      "poster": "https://images.metahub.space/poster/medium/tt22890246/img",
-      "background": "https://images.metahub.space/background/medium/tt22890246/img",
-      "description": "Three British teenage girls go on a rites-of-passage holiday - drinking, clubbing and hooking up, in what should be the best summer of their lives.",
-      "releaseInfo": 2023,
-      "imdbRating": 6.4
-    },
-    {
-      "id": "tt10428316",
-      "type": "movie",
-      "name": "Natsamrat",
-      "poster": "https://images.metahub.space/poster/medium/tt10428316/img",
-      "background": "https://images.metahub.space/background/medium/tt10428316/img",
-      "description": "Harindra Pathak is the protagonist who goes on to realize that his popularity & importance stay valid & relevant only till he is onstage. Let down by circumstances & his own blood, Harindra eventually retires to a life of complete obscurity and alienation.  It is a remake of 2016 Marathi film of the same name starring Nana Patekar, which is based on a Marathi play by Kusumagraj (V. V. Shirwadkar).",
-      "releaseInfo": 2018,
-      "imdbRating": 7.9
-    },
-    {
       "id": "tt0087800",
       "type": "movie",
       "name": "A Nightmare on Elm Street",
@@ -211,14 +161,14 @@
       "imdbRating": 7.4
     },
     {
-      "id": "tt0103874",
+      "id": "tt22890246",
       "type": "movie",
-      "name": "Bram Stoker's Dracula",
-      "poster": "https://images.metahub.space/poster/medium/tt0103874/img",
-      "background": "https://images.metahub.space/background/medium/tt0103874/img",
-      "description": "Count Dracula, a 15th-century prince, is condemned to live off the blood of the living for eternity. Young lawyer Jonathan Harker is sent to Dracula's castle to finalise a land deal, but when the Count sees a photo of Harker's fiancée, Mina, the spitting image of his dead wife, he imprisons him and sets off for London to track her down.",
-      "releaseInfo": 1992,
-      "imdbRating": 7.4
+      "name": "How to Have Sex",
+      "poster": "https://images.metahub.space/poster/medium/tt22890246/img",
+      "background": "https://images.metahub.space/background/medium/tt22890246/img",
+      "description": "Three British teenage girls go on a rites-of-passage holiday - drinking, clubbing and hooking up, in what should be the best summer of their lives.",
+      "releaseInfo": 2023,
+      "imdbRating": 6.4
     },
     {
       "id": "tt0385880",
@@ -231,13 +181,43 @@
       "imdbRating": 6.7
     },
     {
-      "id": "tt37535100",
+      "id": "tt0087332",
       "type": "movie",
-      "name": "Bethlehem Kudumba Unit",
-      "poster": "https://images.metahub.space/poster/medium/tt37535100/img",
-      "background": "https://images.metahub.space/background/medium/tt37535100/img",
-      "description": "Ashley's homecoming from abroad takes an emotional turn when a wedding next door stirs memories of her first love, Justin.",
+      "name": "Ghostbusters",
+      "poster": "https://images.metahub.space/poster/medium/tt0087332/img",
+      "background": "https://images.metahub.space/background/medium/tt0087332/img",
+      "description": "After losing their university jobs, three parapsychologists start a ghost-catching business in New York City and uncover a supernatural threat that could destroy the world.",
+      "releaseInfo": 1984,
+      "imdbRating": 7.8
+    },
+    {
+      "id": "tt14113634",
+      "type": "movie",
+      "name": "Drishyam 3",
+      "poster": "https://images.metahub.space/poster/medium/tt14113634/img",
+      "background": "https://images.metahub.space/background/medium/tt14113634/img",
+      "description": "To protect his family and their dark secret, Georgekutty faces an organized new threat. As walls close in and cracks widen, how much more is he willing to sacrifice?",
       "releaseInfo": 2026,
+      "imdbRating": 6.6
+    },
+    {
+      "id": "tt10428316",
+      "type": "movie",
+      "name": "Natsamrat",
+      "poster": "https://images.metahub.space/poster/medium/tt10428316/img",
+      "background": "https://images.metahub.space/background/medium/tt10428316/img",
+      "description": "Harindra Pathak is the protagonist who goes on to realize that his popularity & importance stay valid & relevant only till he is onstage. Let down by circumstances & his own blood, Harindra eventually retires to a life of complete obscurity and alienation.  It is a remake of 2016 Marathi film of the same name starring Nana Patekar, which is based on a Marathi play by Kusumagraj (V. V. Shirwadkar).",
+      "releaseInfo": 2018,
+      "imdbRating": 7.9
+    },
+    {
+      "id": "tt0072684",
+      "type": "movie",
+      "name": "Barry Lyndon",
+      "poster": "https://images.metahub.space/poster/medium/tt0072684/img",
+      "background": "https://images.metahub.space/background/medium/tt0072684/img",
+      "description": "An Irish rogue uses his cunning and wit to work his way up the social classes of 18th century England, transforming himself from the humble Redmond Barry into the noble Barry Lyndon.",
+      "releaseInfo": 1975,
       "imdbRating": 8.1
     },
     {
@@ -251,24 +231,24 @@
       "imdbRating": 7
     },
     {
-      "id": "tt28037987",
+      "id": "tt15047880",
       "type": "movie",
-      "name": "Saiyaara",
-      "poster": "https://images.metahub.space/poster/medium/tt28037987/img",
-      "background": "https://images.metahub.space/background/medium/tt28037987/img",
-      "description": "Plot under wraps.",
-      "releaseInfo": 2025,
-      "imdbRating": 6.3
+      "name": "Disclosure Day",
+      "poster": "https://images.metahub.space/poster/medium/tt15047880/img",
+      "background": "https://images.metahub.space/background/medium/tt15047880/img",
+      "description": "If you found out we weren’t alone in the universe, would that frighten you?",
+      "releaseInfo": 2026,
+      "imdbRating": 6.4
     },
     {
-      "id": "tt0837562",
+      "id": "tt37535100",
       "type": "movie",
-      "name": "Hotel Transylvania",
-      "poster": "https://images.metahub.space/poster/medium/tt0837562/img",
-      "background": "https://images.metahub.space/background/medium/tt0837562/img",
-      "description": "Welcome to Hotel Transylvania, Dracula's lavish five-stake resort, where monsters and their families can live it up and no humans are allowed. One special weekend, Dracula has invited all his best friends to celebrate his beloved daughter Mavis's 118th birthday. For Dracula catering to all of these legendary monsters is no problem but the party really starts when one ordinary guy stumbles into the hotel and changes everything!",
-      "releaseInfo": 2012,
-      "imdbRating": 7.1
+      "name": "Bethlehem Kudumba Unit",
+      "poster": "https://images.metahub.space/poster/medium/tt37535100/img",
+      "background": "https://images.metahub.space/background/medium/tt37535100/img",
+      "description": "Ashley's homecoming from abroad takes an emotional turn when a wedding next door stirs memories of her first love, Justin.",
+      "releaseInfo": 2026,
+      "imdbRating": 8.1
     },
     {
       "id": "tt27032419",
@@ -281,64 +261,14 @@
       "imdbRating": 6.7
     },
     {
-      "id": "tt12583926",
+      "id": "tt0103874",
       "type": "movie",
-      "name": "Anniversary",
-      "poster": "https://images.metahub.space/poster/medium/tt12583926/img",
-      "background": "https://images.metahub.space/background/medium/tt12583926/img",
-      "description": "When Ellen and Paul’s son Josh introduces his new girlfriend at their 25th anniversary party, no one suspects that it is the beginning of the end for this happy family. The new girlfriend is Liz, Ellen’s former student, who left the university, some years before, after Ellen called her out in class for her radical ideology.",
-      "releaseInfo": 2025,
-      "imdbRating": 6.7
-    },
-    {
-      "id": "tt15501640",
-      "type": "movie",
-      "name": "Drishyam 2",
-      "poster": "https://images.metahub.space/poster/medium/tt15501640/img",
-      "background": "https://images.metahub.space/background/medium/tt15501640/img",
-      "description": "7 years after the case related to Vijay Salgaonkar and his family was closed, a series of unexpected events bring truth to light that threatens to change everything for the Salgaonkars. Can Vijay save his family this time?",
-      "releaseInfo": 2022,
-      "imdbRating": 8.2
-    },
-    {
-      "id": "tt0114388",
-      "type": "movie",
-      "name": "Sense and Sensibility",
-      "poster": "https://images.metahub.space/poster/medium/tt0114388/img",
-      "background": "https://images.metahub.space/background/medium/tt0114388/img",
-      "description": "The Dashwood sisters, sensible Elinor and passionate Marianne, learn that their prospects of marriage seem doomed by their family's sudden loss of fortune. After Henry Dashwood dies unexpectedly, his estate must pass on by law to his son. These circumstances leave Mr. Dashwood's wife and daughters without a home and with barely enough money to live on. As Elinor and Marianne struggle to find romantic fulfillment in a society obsessed with financial and social status, they must learn to mix sense with sensibility in their dealings with both money and men.",
-      "releaseInfo": 1995,
-      "imdbRating": 7.7
-    },
-    {
-      "id": "tt33379543",
-      "type": "movie",
-      "name": "Jana Nayagan",
-      "poster": "https://images.metahub.space/poster/medium/tt33379543/img",
-      "background": "https://images.metahub.space/background/medium/tt33379543/img",
-      "description": "A clash of ideologies. One stands for the people, the other feeds on control. Their paths collided once before. Years later, a child’s silent fear ignites the past, drawing a former police officer into a battle far bigger than personal revenge.",
-      "releaseInfo": 2026,
-      "imdbRating": 5.1
-    },
-    {
-      "id": "tt27543632",
-      "type": "movie",
-      "name": "The Housemaid",
-      "poster": "https://images.metahub.space/poster/medium/tt27543632/img",
-      "background": "https://images.metahub.space/background/medium/tt27543632/img",
-      "description": "Millie, a struggling young woman, becomes a live-in maid for a wealthy couple, Nina and Andrew. She enters a mansion of secrets, manipulation, and escalating psychological games that pull her into a dangerous relationship dynamic.",
-      "releaseInfo": 2025,
-      "imdbRating": 6.7
-    },
-    {
-      "id": "tt0093779",
-      "type": "movie",
-      "name": "The Princess Bride",
-      "poster": "https://images.metahub.space/poster/medium/tt0093779/img",
-      "background": "https://images.metahub.space/background/medium/tt0093779/img",
-      "description": "In this enchantingly cracked fairy tale, the beautiful Princess Buttercup and the dashing Westley must overcome staggering odds to find happiness amid six-fingered swordsmen, murderous princes, Sicilians and rodents of unusual size. But even death can't stop these true lovebirds from triumphing.",
-      "releaseInfo": 1987,
-      "imdbRating": 8
+      "name": "Bram Stoker's Dracula",
+      "poster": "https://images.metahub.space/poster/medium/tt0103874/img",
+      "background": "https://images.metahub.space/background/medium/tt0103874/img",
+      "description": "Count Dracula, a 15th-century prince, is condemned to live off the blood of the living for eternity. Young lawyer Jonathan Harker is sent to Dracula's castle to finalise a land deal, but when the Count sees a photo of Harker's fiancée, Mina, the spitting image of his dead wife, he imprisons him and sets off for London to track her down.",
+      "releaseInfo": 1992,
+      "imdbRating": 7.4
     },
     {
       "id": "tt0884328",
@@ -351,74 +281,84 @@
       "imdbRating": 7.1
     },
     {
-      "id": "tt0213847",
+      "id": "tt32820897",
       "type": "movie",
-      "name": "Malena",
-      "poster": "https://images.metahub.space/poster/medium/tt0213847/img",
-      "background": "https://images.metahub.space/background/medium/tt0213847/img",
-      "description": "12-year-old Renato experiences three significant events on the same day: the beginning of the Second World War, getting a bike, and witnessing the arrival of the gorgeous Malèna. Through his eyes, we see the curse of beauty and loneliness of Malena, whose husband is presumed dead, and, through his soul, we see his love for her.",
-      "releaseInfo": 2000,
-      "imdbRating": 7.4
+      "name": "Demon Slayer: Kimetsu no Yaiba Infinity Castle",
+      "poster": "https://images.metahub.space/poster/medium/tt32820897/img",
+      "background": "https://images.metahub.space/background/medium/tt32820897/img",
+      "description": "The Demon Slayer Corps are drawn into the Infinity Castle, where Tanjiro, Nezuko, and the Hashira face terrifying Upper Rank demons in a desperate fight as the final battle against Muzan Kibutsuji begins.",
+      "releaseInfo": 2025,
+      "imdbRating": 8.3
     },
     {
-      "id": "tt0387564",
+      "id": "tt28037987",
       "type": "movie",
-      "name": "Saw",
-      "poster": "https://images.metahub.space/poster/medium/tt0387564/img",
-      "background": "https://images.metahub.space/background/medium/tt0387564/img",
-      "description": "Two men awaken to find themselves on the opposite sides of a dead body, each with specific instructions to kill the other, escape or face the consequences. These two are the latest contestants in Jigsaw's games.",
-      "releaseInfo": 2004,
-      "imdbRating": 7.6
+      "name": "Saiyaara",
+      "poster": "https://images.metahub.space/poster/medium/tt28037987/img",
+      "background": "https://images.metahub.space/background/medium/tt28037987/img",
+      "description": "Plot under wraps.",
+      "releaseInfo": 2025,
+      "imdbRating": 6.3
     },
     {
-      "id": "tt4430212",
+      "id": "tt32393988",
       "type": "movie",
-      "name": "Drishyam",
-      "poster": "https://images.metahub.space/poster/medium/tt4430212/img",
-      "background": "https://images.metahub.space/background/medium/tt4430212/img",
-      "description": "When his family stares down the barrel of criminal charges, a commoner channels his street smarts and knowledge of action films to tie the long arm of the law into an investigative Gordian knot.",
-      "releaseInfo": 2015,
-      "imdbRating": 8.2
+      "name": "Insidious: Out of the Further",
+      "poster": "https://images.metahub.space/poster/medium/tt32393988/img",
+      "background": "https://images.metahub.space/background/medium/tt32393988/img",
+      "description": "Gemma, a young mother raising her daughter in the house she grew up in, discovers she can travel into The Further, the purgatorial realm of lost souls at the heart of the Insidious universe. When something evil comes after her, Gemma discovers an ability that changes everything: she doesn't just enter The Further, she can bring what lives there back to the real world. Once the demons realize her power, our world becomes their playground.",
+      "releaseInfo": 2026,
+      "imdbRating": 6.1
     },
     {
-      "id": "tt0117951",
+      "id": "tt33379543",
       "type": "movie",
-      "name": "Trainspotting",
-      "poster": "https://images.metahub.space/poster/medium/tt0117951/img",
-      "background": "https://images.metahub.space/background/medium/tt0117951/img",
-      "description": "Heroin addict Mark Renton stumbles through bad ideas and sobriety attempts with his unreliable friends --Sick Boy, Begbie, Spud and Tommy. He also has an underage girlfriend, Diane, along for the ride. After cleaning up and moving from Edinburgh to London, Mark finds he can't escape the life he left behind as Begbie and Sick Boy come knocking.",
-      "releaseInfo": 1996,
-      "imdbRating": 8.1
+      "name": "Jana Nayagan",
+      "poster": "https://images.metahub.space/poster/medium/tt33379543/img",
+      "background": "https://images.metahub.space/background/medium/tt33379543/img",
+      "description": "A clash of ideologies. One stands for the people, the other feeds on control. Their paths collided once before. Years later, a child’s silent fear ignites the past, drawing a former police officer into a battle far bigger than personal revenge.",
+      "releaseInfo": 2026,
+      "imdbRating": 5.1
     },
     {
-      "id": "tt0089218",
+      "id": "tt0112642",
       "type": "movie",
-      "name": "The Goonies",
-      "poster": "https://images.metahub.space/poster/medium/tt0089218/img",
-      "background": "https://images.metahub.space/background/medium/tt0089218/img",
-      "description": "Young teen Mikey Walsh and his friends set off on a quest to find Pirate One-Eyed Willie's treasure in hopes of saving their homes from demolition. However, on their quest to find the treasure, they run into a family of recently escaped criminals, determined to capture the kids and reach the treasure first.",
-      "releaseInfo": 1985,
-      "imdbRating": 7.7
+      "name": "Casper",
+      "poster": "https://images.metahub.space/poster/medium/tt0112642/img",
+      "background": "https://images.metahub.space/background/medium/tt0112642/img",
+      "description": "Casper is a kind young ghost who peacefully haunts a mansion in Maine. When specialist James Harvey arrives to communicate with Casper and his fellow spirits, he brings along his teenage daughter, Kat. Casper quickly falls in love with Kat, but their budding relationship is complicated not only by his transparent state, but also by his troublemaking apparition uncles and their mischievous antics.",
+      "releaseInfo": 1995,
+      "imdbRating": 6.2
     },
     {
-      "id": "tt10545296",
+      "id": "tt34384900",
       "type": "movie",
-      "name": "The Hunger Games: The Ballad of Songbirds & Snakes",
-      "poster": "https://images.metahub.space/poster/medium/tt10545296/img",
-      "background": "https://images.metahub.space/background/medium/tt10545296/img",
-      "description": "Coriolanus Snow mentors and develops feelings for the female District 12 tribute during the 10th Hunger Games.",
-      "releaseInfo": 2023,
-      "imdbRating": 6.6
+      "name": "Love of Your Life",
+      "poster": "https://images.metahub.space/poster/medium/tt34384900/img",
+      "background": "https://images.metahub.space/background/medium/tt34384900/img",
+      "description": "After a chance encounter sparks a sweeping romance, Maya's future is suddenly upended, sending her on an unexpected journey to love and live again.",
+      "releaseInfo": 2026,
+      "imdbRating": 6.8
     },
     {
-      "id": "tt4913966",
+      "id": "tt27543632",
       "type": "movie",
-      "name": "The Curse of La Llorona",
-      "poster": "https://images.metahub.space/poster/medium/tt4913966/img",
-      "background": "https://images.metahub.space/background/medium/tt4913966/img",
-      "description": "In 1970s Los Angeles, the legendary ghost La Llorona is stalking the night -- and the children. Ignoring the eerie warning of a troubled mother, a social worker and her own kids are drawn into a frightening supernatural realm. Their only hope of surviving La Llorona's deadly wrath is a disillusioned priest who practices mysticism to keep evil at bay.",
-      "releaseInfo": 2019,
-      "imdbRating": 5.3
+      "name": "The Housemaid",
+      "poster": "https://images.metahub.space/poster/medium/tt27543632/img",
+      "background": "https://images.metahub.space/background/medium/tt27543632/img",
+      "description": "Millie, a struggling young woman, becomes a live-in maid for a wealthy couple, Nina and Andrew. She enters a mansion of secrets, manipulation, and escalating psychological games that pull her into a dangerous relationship dynamic.",
+      "releaseInfo": 2025,
+      "imdbRating": 6.7
+    },
+    {
+      "id": "tt1051906",
+      "type": "movie",
+      "name": "The Invisible Man",
+      "poster": "https://images.metahub.space/poster/medium/tt1051906/img",
+      "background": "https://images.metahub.space/background/medium/tt1051906/img",
+      "description": "When Cecilia's abusive ex takes his own life and leaves her his fortune, she suspects his death was a hoax. As a series of coincidences turn lethal, Cecilia works to prove that she is being hunted by someone nobody can see.",
+      "releaseInfo": 2020,
+      "imdbRating": 7.1
     },
     {
       "id": "tt12042730",
@@ -431,24 +371,54 @@
       "imdbRating": 8.2
     },
     {
-      "id": "tt33014583",
+      "id": "tt0213847",
       "type": "movie",
-      "name": "Dhurandhar",
-      "poster": "https://images.metahub.space/poster/medium/tt33014583/img",
-      "background": "https://images.metahub.space/background/medium/tt33014583/img",
-      "description": "In the early 2000s, an undercover operative infiltrates Karachi's underworld, breaking into its inner circle to dismantle a violent nexus from within.",
-      "releaseInfo": 2025,
-      "imdbRating": 8.2
+      "name": "Malena",
+      "poster": "https://images.metahub.space/poster/medium/tt0213847/img",
+      "background": "https://images.metahub.space/background/medium/tt0213847/img",
+      "description": "12-year-old Renato experiences three significant events on the same day: the beginning of the Second World War, getting a bike, and witnessing the arrival of the gorgeous Malèna. Through his eyes, we see the curse of beauty and loneliness of Malena, whose husband is presumed dead, and, through his soul, we see his love for her.",
+      "releaseInfo": 2000,
+      "imdbRating": 7.4
     },
     {
-      "id": "tt7984734",
+      "id": "tt0057012",
       "type": "movie",
-      "name": "The Lighthouse",
-      "poster": "https://images.metahub.space/poster/medium/tt7984734/img",
-      "background": "https://images.metahub.space/background/medium/tt7984734/img",
-      "description": "Two lighthouse keepers try to maintain their sanity while living on a remote and mysterious New England island in the 1890s.",
-      "releaseInfo": 2019,
-      "imdbRating": 7.3
+      "name": "Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb",
+      "poster": "https://images.metahub.space/poster/medium/tt0057012/img",
+      "background": "https://images.metahub.space/background/medium/tt0057012/img",
+      "description": "After the insane General Jack D. Ripper initiates a nuclear strike on the Soviet Union, a war room full of politicians, generals and a Russian diplomat all frantically try to stop it.",
+      "releaseInfo": 1964,
+      "imdbRating": 8.3
+    },
+    {
+      "id": "tt10545296",
+      "type": "movie",
+      "name": "The Hunger Games: The Ballad of Songbirds & Snakes",
+      "poster": "https://images.metahub.space/poster/medium/tt10545296/img",
+      "background": "https://images.metahub.space/background/medium/tt10545296/img",
+      "description": "Coriolanus Snow mentors and develops feelings for the female District 12 tribute during the 10th Hunger Games.",
+      "releaseInfo": 2023,
+      "imdbRating": 6.6
+    },
+    {
+      "id": "tt1517268",
+      "type": "movie",
+      "name": "Barbie",
+      "poster": "https://images.metahub.space/poster/medium/tt1517268/img",
+      "background": "https://images.metahub.space/background/medium/tt1517268/img",
+      "description": "Barbie and Ken are having the time of their lives in the colorful and seemingly perfect world of Barbie Land. However, when they get a chance to go to the real world, they soon discover the joys and perils of living among humans.",
+      "releaseInfo": 2023,
+      "imdbRating": 6.8
+    },
+    {
+      "id": "tt27989067",
+      "type": "movie",
+      "name": "Lust Stories 2",
+      "poster": "https://images.metahub.space/poster/medium/tt27989067/img",
+      "background": "https://images.metahub.space/background/medium/tt27989067/img",
+      "description": "Four eminent Indian directors explore sex, desire and love through short films in this sequel to 2018's Emmy-nominated 'Lust Stories'.",
+      "releaseInfo": 2023,
+      "imdbRating": 5.7
     },
     {
       "id": "tt4786282",
@@ -461,44 +431,74 @@
       "imdbRating": 6.3
     },
     {
-      "id": "tt15047880",
+      "id": "tt0114388",
       "type": "movie",
-      "name": "Disclosure Day",
-      "poster": "https://images.metahub.space/poster/medium/tt15047880/img",
-      "background": "https://images.metahub.space/background/medium/tt15047880/img",
-      "description": "If you found out we weren’t alone in the universe, would that frighten you?",
-      "releaseInfo": 2026,
-      "imdbRating": 6.4
+      "name": "Sense and Sensibility",
+      "poster": "https://images.metahub.space/poster/medium/tt0114388/img",
+      "background": "https://images.metahub.space/background/medium/tt0114388/img",
+      "description": "The Dashwood sisters, sensible Elinor and passionate Marianne, learn that their prospects of marriage seem doomed by their family's sudden loss of fortune. After Henry Dashwood dies unexpectedly, his estate must pass on by law to his son. These circumstances leave Mr. Dashwood's wife and daughters without a home and with barely enough money to live on. As Elinor and Marianne struggle to find romantic fulfillment in a society obsessed with financial and social status, they must learn to mix sense with sensibility in their dealings with both money and men.",
+      "releaseInfo": 1995,
+      "imdbRating": 7.7
     },
     {
-      "id": "tt26787296",
+      "id": "tt0133093",
       "type": "movie",
-      "name": "Burning Betrayal",
-      "poster": "https://images.metahub.space/poster/medium/tt26787296/img",
-      "background": "https://images.metahub.space/background/medium/tt26787296/img",
-      "description": "Babi discovers a betrayal by her long-term partner and decides to embark on a new adventure in life. On this journey, she meets judge Marco and they begin to live a story permeated by a lot of sexual tension.",
-      "releaseInfo": 2023,
-      "imdbRating": 4.2
+      "name": "The Matrix",
+      "poster": "https://images.metahub.space/poster/medium/tt0133093/img",
+      "background": "https://images.metahub.space/background/medium/tt0133093/img",
+      "description": "Set in the 22nd century, The Matrix tells the story of a computer hacker who joins a group of underground insurgents fighting the vast and powerful computers who now rule the earth.",
+      "releaseInfo": 1999,
+      "imdbRating": 8.7
     },
     {
-      "id": "tt10327252",
+      "id": "tt0120655",
       "type": "movie",
-      "name": "The Forever Purge",
-      "poster": "https://images.metahub.space/poster/medium/tt10327252/img",
-      "background": "https://images.metahub.space/background/medium/tt10327252/img",
-      "description": "All the rules are broken as a sect of lawless marauders decides that the annual Purge does not stop at daybreak and instead should never end as they chase a group of immigrants who they want to punish because of their harsh historical past.",
-      "releaseInfo": 2021,
-      "imdbRating": 5.4
+      "name": "Dogma",
+      "poster": "https://images.metahub.space/poster/medium/tt0120655/img",
+      "background": "https://images.metahub.space/background/medium/tt0120655/img",
+      "description": "An abortion clinic worker with a special heritage is called upon to save the existence of humanity from being negated by two renegade angels trying to exploit a loophole and re-enter Heaven.",
+      "releaseInfo": 1999,
+      "imdbRating": 7.3
     },
     {
-      "id": "tt35521922",
+      "id": "tt4084744",
       "type": "movie",
-      "name": "Good Boy",
-      "poster": "https://images.metahub.space/poster/medium/tt35521922/img",
-      "background": "https://images.metahub.space/background/medium/tt35521922/img",
-      "description": "A loyal dog moves to a rural family home with his owner Todd, only to discover supernatural forces lurking in the shadows. As dark entities threaten his human companion, the brave pup must fight to protect the one he loves most.",
-      "releaseInfo": 2025,
-      "imdbRating": 6.1
+      "name": "Battle for Sevastopol",
+      "poster": "https://images.metahub.space/poster/medium/tt4084744/img",
+      "background": "https://images.metahub.space/background/medium/tt4084744/img",
+      "description": "The story of Lyudmila Pavlichenko, the most successful female sniper in history.",
+      "releaseInfo": 2015,
+      "imdbRating": 7
+    },
+    {
+      "id": "tt0114558",
+      "type": "movie",
+      "name": "Strange Days",
+      "poster": "https://images.metahub.space/poster/medium/tt0114558/img",
+      "background": "https://images.metahub.space/background/medium/tt0114558/img",
+      "description": "In the last days of 1999, ex-cop turned street hustler Lenny Nero receives a disc which contains the memories of the murder of a prostitute. With the help of bodyguard Mace, he starts to investigate and is pulled deeper and deeper in a whirl of murder, blackmail and intrigue.",
+      "releaseInfo": 1995,
+      "imdbRating": 7.2
+    },
+    {
+      "id": "tt0837562",
+      "type": "movie",
+      "name": "Hotel Transylvania",
+      "poster": "https://images.metahub.space/poster/medium/tt0837562/img",
+      "background": "https://images.metahub.space/background/medium/tt0837562/img",
+      "description": "Welcome to Hotel Transylvania, Dracula's lavish five-stake resort, where monsters and their families can live it up and no humans are allowed. One special weekend, Dracula has invited all his best friends to celebrate his beloved daughter Mavis's 118th birthday. For Dracula catering to all of these legendary monsters is no problem but the party really starts when one ordinary guy stumbles into the hotel and changes everything!",
+      "releaseInfo": 2012,
+      "imdbRating": 7.1
+    },
+    {
+      "id": "tt4627352",
+      "type": "movie",
+      "name": "Shepherds and Butchers",
+      "poster": "https://images.metahub.space/poster/medium/tt4627352/img",
+      "background": "https://images.metahub.space/background/medium/tt4627352/img",
+      "description": "A lawyer takes on a case of a prison guard in South Africa who is traumatized by the executions he's witnessed.",
+      "releaseInfo": 2017,
+      "imdbRating": 6.8
     }
   ]
 }
