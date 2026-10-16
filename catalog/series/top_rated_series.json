@@ -430,17 +430,6 @@
       "imdbRating": "8.1"
     },
     {
-      "id": "tt7203552",
-      "type": "series",
-      "name": "The Morning Show",
-      "poster": "https://images.metahub.space/poster/small/tt7203552/img",
-      "background": "https://images.metahub.space/background/medium/tt7203552/img",
-      "logo": "https://images.metahub.space/logo/medium/tt7203552/img",
-      "description": "An inside look at the lives of the people who help America wake up in the morning, exploring the unique challenges faced by the team.",
-      "releaseInfo": "2019–2027",
-      "imdbRating": "8.1"
-    },
-    {
       "id": "tt0883772",
       "type": "series",
       "name": "Man vs. Wild",
@@ -449,17 +438,6 @@
       "logo": "https://images.metahub.space/logo/medium/tt0883772/img",
       "description": "Bear Grylls travels the world in search of challenges to his survival skills.",
       "releaseInfo": "2006–2020",
-      "imdbRating": "8.1"
-    },
-    {
-      "id": "tt1515193",
-      "type": "series",
-      "name": "The Big C",
-      "poster": "https://images.metahub.space/poster/small/tt1515193/img",
-      "background": "https://images.metahub.space/background/medium/tt1515193/img",
-      "logo": "https://images.metahub.space/logo/medium/tt1515193/img",
-      "description": "A suburban mother faces her cancer diagnosis while trying to find humor and happiness as well.",
-      "releaseInfo": "2010–2013",
       "imdbRating": "8.1"
     },
     {
@@ -490,6 +468,17 @@
       "logo": "https://images.metahub.space/logo/medium/tt17491088/img",
       "description": "In the midst of an international crisis, Kate Wyler, a career diplomat, lands in a high-profile job for which she is not suited, with tectonic implications for her marriage and her political future.",
       "releaseInfo": "2023–",
+      "imdbRating": "8.0"
+    },
+    {
+      "id": "tt4643084",
+      "type": "series",
+      "name": "Counterpart",
+      "poster": "https://images.metahub.space/poster/small/tt4643084/img",
+      "background": "https://images.metahub.space/background/medium/tt4643084/img",
+      "logo": "https://images.metahub.space/logo/medium/tt4643084/img",
+      "description": "A cog in a bureaucratic agency discovers his agency is guarding a crossing to a parallel dimension.",
+      "releaseInfo": "2017–2019",
       "imdbRating": "8.0"
     },
     {
@@ -545,6 +534,17 @@
       "logo": "https://images.metahub.space/logo/medium/tt22202452/img",
       "description": "In a world overtaken by a mysterious wave of forced happiness, Carol Sturka, one of the immune few, must uncover what's really going on - and save humanity from its artificial bliss.",
       "releaseInfo": "2025–",
+      "imdbRating": "7.9"
+    },
+    {
+      "id": "tt5489746",
+      "type": "series",
+      "name": "Evil Lives Here",
+      "poster": "https://images.metahub.space/poster/small/tt5489746/img",
+      "background": "https://images.metahub.space/background/medium/tt5489746/img",
+      "logo": "https://images.metahub.space/logo/medium/tt5489746/img",
+      "description": "A TV series where individuals share their perspectives of loved ones who committed horrific crimes.",
+      "releaseInfo": "2016–",
       "imdbRating": "7.9"
     }
   ]
