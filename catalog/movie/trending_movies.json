@@ -28,7 +28,7 @@
       "background": "https://images.metahub.space/background/medium/tt22797990/img",
       "description": "Aamir Ali, a notorious gold smuggling kingpin who inherited his multi-million dollar criminal enterprise from a lineage of gangsters, is drawn into a web of vengeance, legacy and power.",
       "releaseInfo": 2026,
-      "imdbRating": 6.1
+      "imdbRating": 6
     },
     {
       "id": "tt36596965",
@@ -68,7 +68,7 @@
       "background": "https://images.metahub.space/background/medium/tt35448218/img",
       "description": "Far from home, Aditya wrestles with family expectations, cultural differences and loneliness while studying in London – until he meets the lively Kadali.",
       "releaseInfo": 2026,
-      "imdbRating": 5.4
+      "imdbRating": 5.3
     },
     {
       "id": "tt28498219",
@@ -98,7 +98,7 @@
       "background": "https://images.metahub.space/background/medium/tt36300841/img",
       "description": "Once a feared gangster, Shivam lives hidden away from his past, with no faith left in God or himself. But when fate pulls him into Bangkok's cartel war and forces him back into the darkness he swore never to return to, Shivam must choose what he is willing to live for, when there is nothing left to lose.",
       "releaseInfo": 2026,
-      "imdbRating": 6
+      "imdbRating": 5.9
     },
     {
       "id": "tt22890246",
@@ -481,6 +481,16 @@
       "imdbRating": 5.9
     },
     {
+      "id": "tt4786282",
+      "type": "movie",
+      "name": "Lights Out",
+      "poster": "https://images.metahub.space/poster/medium/tt4786282/img",
+      "background": "https://images.metahub.space/background/medium/tt4786282/img",
+      "description": "Rebecca must unlock the terror behind her little brother's experiences that once tested her sanity, bringing her face to face with a supernatural spirit attached to their mother.",
+      "releaseInfo": 2016,
+      "imdbRating": 6.3
+    },
+    {
       "id": "tt31184028",
       "type": "movie",
       "name": "Together",
@@ -489,16 +499,6 @@
       "description": "Years into their relationship, Tim and Millie find themselves at a crossroads as they move to the country, abandoning all that is familiar in their lives except each other. With tensions already flaring, a nightmarish encounter with a mysterious, unnatural force threatens to corrupt their lives, their love, and their flesh.",
       "releaseInfo": 2025,
       "imdbRating": 6.7
-    },
-    {
-      "id": "tt33014583",
-      "type": "movie",
-      "name": "Dhurandhar",
-      "poster": "https://images.metahub.space/poster/medium/tt33014583/img",
-      "background": "https://images.metahub.space/background/medium/tt33014583/img",
-      "description": "In the early 2000s, an undercover operative infiltrates Karachi's underworld, breaking into its inner circle to dismantle a violent nexus from within.",
-      "releaseInfo": 2025,
-      "imdbRating": 8.2
     }
   ]
 }
