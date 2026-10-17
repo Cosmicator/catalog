@@ -56,6 +56,17 @@
       "imdbRating": "9.0"
     },
     {
+      "id": "tt33094114",
+      "type": "series",
+      "name": "India's Got Latent",
+      "poster": "https://images.metahub.space/poster/small/tt33094114/img",
+      "background": "https://images.metahub.space/background/medium/tt33094114/img",
+      "logo": "https://images.metahub.space/logo/medium/tt33094114/img",
+      "description": "Samay Raina and the guest judges hilariously critique the untapped, undeniably entertaining \"latent\" talents of aspiring performers, testing their self-awareness with a unique scoring system.",
+      "releaseInfo": "2024–",
+      "imdbRating": "8.9"
+    },
+    {
       "id": "tt0472954",
       "type": "series",
       "name": "It's Always Sunny in Philadelphia",
@@ -441,6 +452,17 @@
       "imdbRating": "8.1"
     },
     {
+      "id": "tt1515193",
+      "type": "series",
+      "name": "The Big C",
+      "poster": "https://images.metahub.space/poster/small/tt1515193/img",
+      "background": "https://images.metahub.space/background/medium/tt1515193/img",
+      "logo": "https://images.metahub.space/logo/medium/tt1515193/img",
+      "description": "A suburban mother faces her cancer diagnosis while trying to find humor and happiness as well.",
+      "releaseInfo": "2010–2013",
+      "imdbRating": "8.1"
+    },
+    {
       "id": "tt7772588",
       "type": "series",
       "name": "For All Mankind",
@@ -496,14 +518,6 @@
       "imdbRating": "8.0"
     },
     {
-      "id": "tt15404764",
-      "type": "series",
-      "name": "Titoo",
-      "description": "Titoo is an animated kids' comedy show that follows the daily escapades of eight-year-old boy Titoo. Though, he is a good-hearted, intelligent kid who loves to help everyone, but inadvertently manages to brew even more trouble.",
-      "releaseInfo": "2020–",
-      "imdbRating": "8.0"
-    },
-    {
       "id": "tt7587890",
       "type": "series",
       "name": "The Rookie",
@@ -512,6 +526,14 @@
       "logo": "https://images.metahub.space/logo/medium/tt7587890/img",
       "description": "Starting over isn't easy, especially for John Nolan who, after a life-altering incident, is pursuing his dream of joining the LAPD. As their oldest rookie, he's met with skepticism from those who see him as just a walking midlife ...",
       "releaseInfo": "2018–",
+      "imdbRating": "8.0"
+    },
+    {
+      "id": "tt15404764",
+      "type": "series",
+      "name": "Titoo",
+      "description": "Titoo is an animated kids' comedy show that follows the daily escapades of eight-year-old boy Titoo. Though, he is a good-hearted, intelligent kid who loves to help everyone, but inadvertently manages to brew even more trouble.",
+      "releaseInfo": "2020–",
       "imdbRating": "8.0"
     },
     {
@@ -524,28 +546,6 @@
       "description": "All Jason and Nikki want is a baby, but it's the one thing they just can't have, so they decide to adopt. With their dysfunctional friends, screwball family, and chaotic lives, will the adoption panel think they're ready to be par...",
       "releaseInfo": "2020–",
       "imdbRating": "8.0"
-    },
-    {
-      "id": "tt23649128",
-      "type": "series",
-      "name": "The Studio",
-      "poster": "https://images.metahub.space/poster/small/tt23649128/img",
-      "background": "https://images.metahub.space/background/medium/tt23649128/img",
-      "logo": "https://images.metahub.space/logo/medium/tt23649128/img",
-      "description": "Follows a legacy Hollywood movie studio striving to survive in a world where it is increasingly difficult for art and business to live together.",
-      "releaseInfo": "2025–",
-      "imdbRating": "8.0"
-    },
-    {
-      "id": "tt2137109",
-      "type": "series",
-      "name": "Masters of Sex",
-      "poster": "https://images.metahub.space/poster/small/tt2137109/img",
-      "background": "https://images.metahub.space/background/medium/tt2137109/img",
-      "logo": "https://images.metahub.space/logo/medium/tt2137109/img",
-      "description": "Drama about the pioneers of the science of human sexuality whose research touched off the sexual revolution.",
-      "releaseInfo": "2013–2016",
-      "imdbRating": "7.9"
     }
   ]
 }
