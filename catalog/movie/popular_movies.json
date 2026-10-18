@@ -21,44 +21,14 @@
       "imdbRating": 5.7
     },
     {
-      "id": "tt27679608",
+      "id": "tt0376076",
       "type": "movie",
-      "name": "Fateh",
-      "poster": "https://images.metahub.space/poster/medium/tt27679608/img",
-      "background": "https://images.metahub.space/background/medium/tt27679608/img",
-      "description": "Follows an Ex-Special Ops officer who is asked to find a young woman. In order to locate her, he must employ all of his abilities while simultaneously attempting to learn the truth about the threats made against her.",
-      "releaseInfo": 2025,
-      "imdbRating": 6.2
-    },
-    {
-      "id": "tt22797990",
-      "type": "movie",
-      "name": "Khalifa: The Ruler",
-      "poster": "https://images.metahub.space/poster/medium/tt22797990/img",
-      "background": "https://images.metahub.space/background/medium/tt22797990/img",
-      "description": "Aamir Ali, a notorious gold smuggling kingpin who inherited his multi-million dollar criminal enterprise from a lineage of gangsters, is drawn into a web of vengeance, legacy and power.",
-      "releaseInfo": 2026,
-      "imdbRating": 6
-    },
-    {
-      "id": "tt22890246",
-      "type": "movie",
-      "name": "How to Have Sex",
-      "poster": "https://images.metahub.space/poster/medium/tt22890246/img",
-      "background": "https://images.metahub.space/background/medium/tt22890246/img",
-      "description": "Three British teenage girls go on a rites-of-passage holiday - drinking, clubbing and hooking up, in what should be the best summer of their lives.",
-      "releaseInfo": 2023,
-      "imdbRating": 6.4
-    },
-    {
-      "id": "tt10895556",
-      "type": "movie",
-      "name": "Rashmi Rocket",
-      "poster": "https://images.metahub.space/poster/medium/tt10895556/img",
-      "background": "https://images.metahub.space/background/medium/tt10895556/img",
-      "description": "A small-town girl overcomes all societal barriers to become a national-level athlete, but her glory is hindered when she is asked to undergo a gender test.",
-      "releaseInfo": 2021,
-      "imdbRating": 7.1
+      "name": "Pithamagan",
+      "poster": "https://images.metahub.space/poster/medium/tt0376076/img",
+      "background": "https://images.metahub.space/background/medium/tt0376076/img",
+      "description": "Chittan, a social outcast, has grown up in a cemetery. A drug dealer finds him a job in a cannabis farm. In prison, he meets a conman, Shakti. This friendship transforms him from his stony existence.",
+      "releaseInfo": 2003,
+      "imdbRating": 8.3
     },
     {
       "id": "tt10886166",
@@ -71,24 +41,54 @@
       "imdbRating": 3.3
     },
     {
-      "id": "tt33379543",
+      "id": "tt22890246",
       "type": "movie",
-      "name": "Jana Nayagan",
-      "poster": "https://images.metahub.space/poster/medium/tt33379543/img",
-      "background": "https://images.metahub.space/background/medium/tt33379543/img",
-      "description": "A clash of ideologies. One stands for the people, the other feeds on control. Their paths collided once before. Years later, a child’s silent fear ignites the past, drawing a former police officer into a battle far bigger than personal revenge.",
-      "releaseInfo": 2026,
-      "imdbRating": 5.2
+      "name": "How to Have Sex",
+      "poster": "https://images.metahub.space/poster/medium/tt22890246/img",
+      "background": "https://images.metahub.space/background/medium/tt22890246/img",
+      "description": "Three British teenage girls go on a rites-of-passage holiday - drinking, clubbing and hooking up, in what should be the best summer of their lives.",
+      "releaseInfo": 2023,
+      "imdbRating": 6.4
     },
     {
-      "id": "tt1667838",
+      "id": "tt13430858",
       "type": "movie",
-      "name": "I Hate Luv Storys",
-      "poster": "https://images.metahub.space/poster/medium/tt1667838/img",
-      "background": "https://images.metahub.space/background/medium/tt1667838/img",
-      "description": "Jay doesn't believe in love Stories, and Simran, is a girl who's in love with the idea of Love itself.",
-      "releaseInfo": 2010,
-      "imdbRating": 5.7
+      "name": "What's Love Got to Do with It?",
+      "poster": "https://images.metahub.space/poster/medium/tt13430858/img",
+      "background": "https://images.metahub.space/background/medium/tt13430858/img",
+      "description": "In London, an award-winning film-maker documents her best friend's journey into an assisted marriage in line with his family's Pakistani heritage. In the process, she challenges her own attitude towards relationships.",
+      "releaseInfo": 2022,
+      "imdbRating": 6.3
+    },
+    {
+      "id": "tt22797990",
+      "type": "movie",
+      "name": "Khalifa: The Ruler",
+      "poster": "https://images.metahub.space/poster/medium/tt22797990/img",
+      "background": "https://images.metahub.space/background/medium/tt22797990/img",
+      "description": "Aamir Ali, a notorious gold smuggling kingpin who inherited his multi-million dollar criminal enterprise from a lineage of gangsters, is drawn into a web of vengeance, legacy and power.",
+      "releaseInfo": 2026,
+      "imdbRating": 6
+    },
+    {
+      "id": "tt0107120",
+      "type": "movie",
+      "name": "Hocus Pocus",
+      "poster": "https://images.metahub.space/poster/medium/tt0107120/img",
+      "background": "https://images.metahub.space/background/medium/tt0107120/img",
+      "description": "After 300 years of slumber, three sister witches are accidentally resurrected in Salem on Halloween night, and it is up to three kids and their newfound feline friend to put an end to the witches' reign of terror once and for all.",
+      "releaseInfo": 1993,
+      "imdbRating": 6.9
+    },
+    {
+      "id": "tt11379988",
+      "type": "movie",
+      "name": "James",
+      "poster": "https://images.metahub.space/poster/medium/tt11379988/img",
+      "background": "https://images.metahub.space/background/medium/tt11379988/img",
+      "description": "James also called Santhosh Kumar, who works as a manager in a security company and finds himself up against the big bad guys.",
+      "releaseInfo": 2022,
+      "imdbRating": 7.3
     },
     {
       "id": "tt36596965",
@@ -101,24 +101,24 @@
       "imdbRating": 8.2
     },
     {
-      "id": "tt27032419",
+      "id": "tt33379543",
       "type": "movie",
-      "name": "Mrs.",
-      "poster": "https://images.metahub.space/poster/medium/tt27032419/img",
-      "background": "https://images.metahub.space/background/medium/tt27032419/img",
-      "description": "A newly wed finds herself in an overcooked and tasteless happily ever-after laced with patriarchal traditions.",
-      "releaseInfo": 2023,
-      "imdbRating": 6.7
+      "name": "Jana Nayagan",
+      "poster": "https://images.metahub.space/poster/medium/tt33379543/img",
+      "background": "https://images.metahub.space/background/medium/tt33379543/img",
+      "description": "A clash of ideologies. One stands for the people, the other feeds on control. Their paths collided once before. Years later, a child’s silent fear ignites the past, drawing a former police officer into a battle far bigger than personal revenge.",
+      "releaseInfo": 2026,
+      "imdbRating": 5.2
     },
     {
-      "id": "tt3731562",
+      "id": "tt12887178",
       "type": "movie",
-      "name": "Kong: Skull Island",
-      "poster": "https://images.metahub.space/poster/medium/tt3731562/img",
-      "background": "https://images.metahub.space/background/medium/tt3731562/img",
-      "description": "After the Vietnam war, a team of scientists explores an uncharted island in the Pacific, venturing into the domain of the mighty Kong and must fight to escape a primal Eden.",
-      "releaseInfo": 2017,
-      "imdbRating": 6.7
+      "name": "14 Phere",
+      "poster": "https://images.metahub.space/poster/medium/tt12887178/img",
+      "background": "https://images.metahub.space/background/medium/tt12887178/img",
+      "description": "Sanjay, a Rajput from Jahanabad, is in love with Aditi, a Jat from Jaipur. They want to get married, but don't want to hurt their families. So they plan to get married by arranging a fake set of parents. Will they succeed?",
+      "releaseInfo": 2021,
+      "imdbRating": 6.3
     },
     {
       "id": "tt35448218",
@@ -131,104 +131,24 @@
       "imdbRating": 5.3
     },
     {
-      "id": "tt0126029",
+      "id": "tt0435625",
       "type": "movie",
-      "name": "Shrek",
-      "poster": "https://images.metahub.space/poster/medium/tt0126029/img",
-      "background": "https://images.metahub.space/background/medium/tt0126029/img",
-      "description": "It ain't easy bein' green -- especially if you're a likable (albeit smelly) ogre named Shrek. On a mission to retrieve a gorgeous princess from the clutches of a fire-breathing dragon, Shrek teams up with an unlikely compatriot -- a wisecracking donkey.",
-      "releaseInfo": 2001,
-      "imdbRating": 7.9
-    },
-    {
-      "id": "tt3562110",
-      "type": "movie",
-      "name": "Kesari Chapter 2: The Untold Story of Jallianwala Bagh",
-      "poster": "https://images.metahub.space/poster/medium/tt3562110/img",
-      "background": "https://images.metahub.space/background/medium/tt3562110/img",
-      "description": "After learning the truth behind the brutal massacre at the Jallianwala Bagh, C Sankaran Nair, a member of the Viceroy's Council, sets out to challenge the Crown and the military general responsible.",
-      "releaseInfo": 2025,
-      "imdbRating": 8
-    },
-    {
-      "id": "tt31049299",
-      "type": "movie",
-      "name": "Animals",
-      "poster": "https://images.metahub.space/poster/medium/tt31049299/img",
-      "background": "https://images.metahub.space/background/medium/tt31049299/img",
-      "description": "When the son of an L.A. mayoral candidate is kidnapped, he and his wife have a few hours to come up with the ransom payment. With most of their money spent on his political campaign, they have to get their hands dirty and expose a side of their lives they never intended to see the light of day.",
-      "releaseInfo": 2026,
-      "imdbRating": 5.7
-    },
-    {
-      "id": "tt39139925",
-      "type": "movie",
-      "name": "Dhurandhar: The Revenge",
-      "poster": "https://images.metahub.space/poster/medium/tt39139925/img",
-      "background": "https://images.metahub.space/background/medium/tt39139925/img",
-      "description": "Jaskirat Singh Rangi descends deeper into his alias as Hamza Ali Mazari, rising through Karachi's criminal hierarchy to claim the feared title \"Sher-e-Baloch\" while balancing loyalty, betrayal, and survival in a ruthless underworld.",
-      "releaseInfo": 2026,
-      "imdbRating": 8.2
-    },
-    {
-      "id": "tt31945132",
-      "type": "movie",
-      "name": "Retro",
-      "poster": "https://images.metahub.space/poster/medium/tt31945132/img",
-      "background": "https://images.metahub.space/background/medium/tt31945132/img",
-      "description": "A gangster tries to avoid violence and lead a peaceful life after vowing to his wife.",
-      "releaseInfo": 2025,
-      "imdbRating": 6.6
-    },
-    {
-      "id": "tt35836025",
-      "type": "movie",
-      "name": "Vishwanath & Sons",
-      "poster": "https://images.metahub.space/poster/medium/tt35836025/img",
-      "background": "https://images.metahub.space/background/medium/tt35836025/img",
-      "description": "A celebrated Olympian shooter travels to America looking for a donor to help his sick child — but unexpected romance complicates his search.",
-      "releaseInfo": 2026,
+      "name": "The Descent",
+      "poster": "https://images.metahub.space/poster/medium/tt0435625/img",
+      "background": "https://images.metahub.space/background/medium/tt0435625/img",
+      "description": "After a personal tragedy, Sarah joins her friends on a caving expedition in the Appalachian Mountains. But when a rockfall traps them deep underground, their adventure turns into a nightmare. As they search for a way out, the group discovers they are not alone—lurking in the darkness are savage, cave-dwelling creatures. With rising tension and dwindling trust, the women must fight to survive against both the predators and each other.",
+      "releaseInfo": 2005,
       "imdbRating": 7.2
     },
     {
-      "id": "tt29120307",
+      "id": "tt7465992",
       "type": "movie",
-      "name": "Vanvaas",
-      "poster": "https://images.metahub.space/poster/medium/tt29120307/img",
-      "background": "https://images.metahub.space/background/medium/tt29120307/img",
-      "description": "Explores the dynamics of familial relationships, focusing on themes of sacrifice, emotional bonds, and the challenges of sustaining unity in modern times. The story delves into the lives of its central characters as they navigate conflicts and rediscover the importance of family values.",
-      "releaseInfo": 2024,
-      "imdbRating": 6.6
-    },
-    {
-      "id": "tt2075108",
-      "type": "movie",
-      "name": "Baishe Srabon",
-      "poster": "https://images.metahub.space/poster/medium/tt2075108/img",
-      "background": "https://images.metahub.space/background/medium/tt2075108/img",
-      "description": "An ex-cop is hired to track down a serial killer who carries out his killings according to Bengali poetry.",
-      "releaseInfo": 2011,
-      "imdbRating": 8.1
-    },
-    {
-      "id": "tt35727678",
-      "type": "movie",
-      "name": "Ek Deewane Ki Deewaniyat",
-      "poster": "https://images.metahub.space/poster/medium/tt35727678/img",
-      "background": "https://images.metahub.space/background/medium/tt35727678/img",
-      "description": "When Vikramaditya, a powerful politician falls  for a strong-willed superstar Adaa , their passionate romance quickly spirals into a dangerous game of obsession and pride. As emotions clash and tempers rise, Adaa makes a life-altering choice.",
-      "releaseInfo": 2025,
-      "imdbRating": 4.7
-    },
-    {
-      "id": "tt9104736",
-      "type": "movie",
-      "name": "Housefull 5",
-      "poster": "https://images.metahub.space/poster/medium/tt9104736/img",
-      "background": "https://images.metahub.space/background/medium/tt9104736/img",
-      "description": "In this murder mystery comedy, several imposters claiming to be the son of a recently deceased billionaire compete for his fortune aboard a luxury cruise ship.",
-      "releaseInfo": 2025,
-      "imdbRating": 3.4
+      "name": "Mahanati",
+      "poster": "https://images.metahub.space/poster/medium/tt7465992/img",
+      "background": "https://images.metahub.space/background/medium/tt7465992/img",
+      "description": "Biography of Savitri, an actress from South India movie industry, who ruled the industry for two decades during 50s and 60s.",
+      "releaseInfo": 2018,
+      "imdbRating": 8.4
     },
     {
       "id": "tt35672862",
@@ -241,24 +161,104 @@
       "imdbRating": 6.6
     },
     {
-      "id": "tt31723358",
+      "id": "tt31434030",
       "type": "movie",
-      "name": "Tell Me What You Want",
-      "poster": "https://images.metahub.space/poster/medium/tt31723358/img",
-      "background": "https://images.metahub.space/background/medium/tt31723358/img",
-      "description": "After his father's death, Eric Zimmerman travels to Spain to oversee his company's branches. In Madrid, he falls for Judith and engage in an intense, erotic relationship full of exploration. However, Eric fears his secret may end their affair.",
-      "releaseInfo": 2024,
-      "imdbRating": 4.1
+      "name": "Dracula: A Love Tale",
+      "poster": "https://images.metahub.space/poster/medium/tt31434030/img",
+      "background": "https://images.metahub.space/background/medium/tt31434030/img",
+      "description": "In late 15th-century Eastern Europe, Prince Vlad II’s bride is brutally murdered. As a result, he renounces God and damns Heaven itself. Cursed with eternal life, Vlad is reborn as Dracula, an immortal warlord who defies fate in a blood-soaked crusade to wrench his lost love back from death.",
+      "releaseInfo": 2025,
+      "imdbRating": 6.2
     },
     {
-      "id": "tt1288638",
+      "id": "tt7529298",
       "type": "movie",
-      "name": "Dasvidaniya",
-      "poster": "https://images.metahub.space/poster/medium/tt1288638/img",
-      "background": "https://images.metahub.space/background/medium/tt1288638/img",
-      "description": "A man who loves to make \"to-do lists\" makes one last bucket list when he realizes he is about to die.",
-      "releaseInfo": 2008,
-      "imdbRating": 7.8
+      "name": "Attack",
+      "poster": "https://images.metahub.space/poster/medium/tt7529298/img",
+      "background": "https://images.metahub.space/background/medium/tt7529298/img",
+      "description": "Witness the rise of an army soldier as he realizes his destiny and comes to terms to becoming India's first super soldier created to combat terrorists as he fights his inner demons and outer enemies.",
+      "releaseInfo": 2022,
+      "imdbRating": 6.8
+    },
+    {
+      "id": "tt27032419",
+      "type": "movie",
+      "name": "Mrs.",
+      "poster": "https://images.metahub.space/poster/medium/tt27032419/img",
+      "background": "https://images.metahub.space/background/medium/tt27032419/img",
+      "description": "A newly wed finds herself in an overcooked and tasteless happily ever-after laced with patriarchal traditions.",
+      "releaseInfo": 2023,
+      "imdbRating": 6.7
+    },
+    {
+      "id": "tt15944428",
+      "type": "movie",
+      "name": "Ghoomer",
+      "poster": "https://images.metahub.space/poster/medium/tt15944428/img",
+      "background": "https://images.metahub.space/background/medium/tt15944428/img",
+      "description": "A cricket prodigy loses her right hand before her debut. A bitter ex-player helps her reinvent herself as a bowler with an innovative technique called Ghoomer, leading to her comeback on India's team.",
+      "releaseInfo": 2023,
+      "imdbRating": 7.5
+    },
+    {
+      "id": "tt33095205",
+      "type": "movie",
+      "name": "Enna Vilai",
+      "poster": "https://images.metahub.space/poster/medium/tt33095205/img",
+      "background": "https://images.metahub.space/background/medium/tt33095205/img",
+      "description": "A humble fisherman from Rameswaram lives a quiet life with his family until he finds a gold pendant washed ashore. What initially seems like a blessing soon turns into a nightmare when false accusations threaten his peace and dignity, forcing him to stand up against a powerful system.",
+      "releaseInfo": 2026,
+      "imdbRating": 8.3
+    },
+    {
+      "id": "tt29120307",
+      "type": "movie",
+      "name": "Vanvaas",
+      "poster": "https://images.metahub.space/poster/medium/tt29120307/img",
+      "background": "https://images.metahub.space/background/medium/tt29120307/img",
+      "description": "Explores the dynamics of familial relationships, focusing on themes of sacrifice, emotional bonds, and the challenges of sustaining unity in modern times. The story delves into the lives of its central characters as they navigate conflicts and rediscover the importance of family values.",
+      "releaseInfo": 2024,
+      "imdbRating": 6.6
+    },
+    {
+      "id": "tt3668162",
+      "type": "movie",
+      "name": "Bangalore Days",
+      "poster": "https://images.metahub.space/poster/medium/tt3668162/img",
+      "background": "https://images.metahub.space/background/medium/tt3668162/img",
+      "description": "A fun roller coaster ride about three young people, Aju, Divya and Kuttan who are cousins, reach Bangalore to dream, discover and explore.",
+      "releaseInfo": 2014,
+      "imdbRating": 8.3
+    },
+    {
+      "id": "tt12583926",
+      "type": "movie",
+      "name": "Anniversary",
+      "poster": "https://images.metahub.space/poster/medium/tt12583926/img",
+      "background": "https://images.metahub.space/background/medium/tt12583926/img",
+      "description": "When Ellen and Paul’s son Josh introduces his new girlfriend at their 25th anniversary party, no one suspects that it is the beginning of the end for this happy family. The new girlfriend is Liz, Ellen’s former student, who left the university, some years before, after Ellen called her out in class for her radical ideology.",
+      "releaseInfo": 2025,
+      "imdbRating": 6.7
+    },
+    {
+      "id": "tt35727678",
+      "type": "movie",
+      "name": "Ek Deewane Ki Deewaniyat",
+      "poster": "https://images.metahub.space/poster/medium/tt35727678/img",
+      "background": "https://images.metahub.space/background/medium/tt35727678/img",
+      "description": "When Vikramaditya, a powerful politician falls  for a strong-willed superstar Adaa , their passionate romance quickly spirals into a dangerous game of obsession and pride. As emotions clash and tempers rise, Adaa makes a life-altering choice.",
+      "releaseInfo": 2025,
+      "imdbRating": 4.7
+    },
+    {
+      "id": "tt8902990",
+      "type": "movie",
+      "name": "The Sky Is Pink",
+      "poster": "https://images.metahub.space/poster/medium/tt8902990/img",
+      "background": "https://images.metahub.space/background/medium/tt8902990/img",
+      "description": "Based on the love story of a couple spanning 25 years and told through the lens of their spunky teenage daughter Aisha Chaudhary, who was diagnosed with pulmonary fibrosis.",
+      "releaseInfo": 2019,
+      "imdbRating": 7.6
     },
     {
       "id": "tt34384900",
@@ -271,24 +271,24 @@
       "imdbRating": 6.5
     },
     {
-      "id": "tt31184028",
+      "id": "tt1877830",
       "type": "movie",
-      "name": "Together",
-      "poster": "https://images.metahub.space/poster/medium/tt31184028/img",
-      "background": "https://images.metahub.space/background/medium/tt31184028/img",
-      "description": "Years into their relationship, Tim and Millie find themselves at a crossroads as they move to the country, abandoning all that is familiar in their lives except each other. With tensions already flaring, a nightmarish encounter with a mysterious, unnatural force threatens to corrupt their lives, their love, and their flesh.",
-      "releaseInfo": 2025,
-      "imdbRating": 6.7
+      "name": "The Batman",
+      "poster": "https://images.metahub.space/poster/medium/tt1877830/img",
+      "background": "https://images.metahub.space/background/medium/tt1877830/img",
+      "description": "In his second year of fighting crime, Batman uncovers corruption in Gotham City that connects to his own family while facing a serial killer known as the Riddler.",
+      "releaseInfo": 2022,
+      "imdbRating": 7.8
     },
     {
-      "id": "tt1146325",
+      "id": "tt1836912",
       "type": "movie",
-      "name": "Singh Is Kinng",
-      "poster": "https://images.metahub.space/poster/medium/tt1146325/img",
-      "background": "https://images.metahub.space/background/medium/tt1146325/img",
-      "description": "A comic caper about Happy Singh, a Punjabi villager who goes through a series of misadventures and eventually becomes the King of the Australian underworld.",
-      "releaseInfo": 2008,
-      "imdbRating": 5.8
+      "name": "Shaitan",
+      "poster": "https://images.metahub.space/poster/medium/tt1836912/img",
+      "background": "https://images.metahub.space/background/medium/tt1836912/img",
+      "description": "Five substance-abusing friends decide to fake a kidnapping in order to bribe a police constable for covering-up a hit-and-run accident.",
+      "releaseInfo": 2011,
+      "imdbRating": 7.2
     },
     {
       "id": "tt36300841",
@@ -301,24 +301,184 @@
       "imdbRating": 5.9
     },
     {
-      "id": "tt0298130",
+      "id": "tt39139925",
       "type": "movie",
-      "name": "The Ring",
-      "poster": "https://images.metahub.space/poster/medium/tt0298130/img",
-      "background": "https://images.metahub.space/background/medium/tt0298130/img",
-      "description": "Journalist Rachel Keller investigates a strange videotape that may be behind the untimely deaths of four teenagers. There is an urban legend about this tape: the viewer will die seven days after watching it. Rachel tracks down the video... and watches it. Now she has just seven days to unravel the mystery of the Ring in order to save herself and her son.",
-      "releaseInfo": 2002,
-      "imdbRating": 7.1
+      "name": "Dhurandhar: The Revenge",
+      "poster": "https://images.metahub.space/poster/medium/tt39139925/img",
+      "background": "https://images.metahub.space/background/medium/tt39139925/img",
+      "description": "Jaskirat Singh Rangi descends deeper into his alias as Hamza Ali Mazari, rising through Karachi's criminal hierarchy to claim the feared title \"Sher-e-Baloch\" while balancing loyalty, betrayal, and survival in a ruthless underworld.",
+      "releaseInfo": 2026,
+      "imdbRating": 8.2
     },
     {
-      "id": "tt1629715",
+      "id": "tt28282716",
       "type": "movie",
-      "name": "Miss Lovely",
-      "poster": "https://images.metahub.space/poster/medium/tt1629715/img",
-      "background": "https://images.metahub.space/background/medium/tt1629715/img",
-      "description": "A Hindi feature film set in the lower depths of Bombay's \"C\" grade film industry. Miss Lovely follows the devastating story of two brothers who produce sleazy horror films in the mid-1980s.",
-      "releaseInfo": 2012,
+      "name": "Trial Period",
+      "poster": "https://images.metahub.space/poster/medium/tt28282716/img",
+      "background": "https://images.metahub.space/background/medium/tt28282716/img",
+      "description": "A working single mother's world turns upside down when her inquisitive son demands a new papa on a 30-day 'Trial Period'.",
+      "releaseInfo": 2023,
+      "imdbRating": 7
+    },
+    {
+      "id": "tt35836025",
+      "type": "movie",
+      "name": "Vishwanath & Sons",
+      "poster": "https://images.metahub.space/poster/medium/tt35836025/img",
+      "background": "https://images.metahub.space/background/medium/tt35836025/img",
+      "description": "A celebrated Olympian shooter travels to America looking for a donor to help his sick child — but unexpected romance complicates his search.",
+      "releaseInfo": 2026,
+      "imdbRating": 7.2
+    },
+    {
+      "id": "tt31184028",
+      "type": "movie",
+      "name": "Together",
+      "poster": "https://images.metahub.space/poster/medium/tt31184028/img",
+      "background": "https://images.metahub.space/background/medium/tt31184028/img",
+      "description": "Years into their relationship, Tim and Millie find themselves at a crossroads as they move to the country, abandoning all that is familiar in their lives except each other. With tensions already flaring, a nightmarish encounter with a mysterious, unnatural force threatens to corrupt their lives, their love, and their flesh.",
+      "releaseInfo": 2025,
+      "imdbRating": 6.7
+    },
+    {
+      "id": "tt4435072",
+      "type": "movie",
+      "name": "Liger",
+      "poster": "https://images.metahub.space/poster/medium/tt4435072/img",
+      "background": "https://images.metahub.space/background/medium/tt4435072/img",
+      "description": "A story about martial arts, dreams and star crossed lovers. Liger is an MMA fighter who trains hard and rises up the ranks with one goal in mind, to fight like his idol, world renowned MMA fighter Mark Anderson and get noticed by him.",
+      "releaseInfo": 2022,
+      "imdbRating": 2.6
+    },
+    {
+      "id": "tt31170389",
+      "type": "movie",
+      "name": "Evil Dead Burn",
+      "poster": "https://images.metahub.space/poster/medium/tt31170389/img",
+      "background": "https://images.metahub.space/background/medium/tt31170389/img",
+      "description": "After her husband's abrupt death, Alice seeks solace with his remaining family — descendants of a leading researcher on demonic possession. As her in-laws transform one by one into creatures that feed on fear, she comes to discover that the vows she took in life survive even in death.",
+      "releaseInfo": 2026,
+      "imdbRating": 6.2
+    },
+    {
+      "id": "tt31723358",
+      "type": "movie",
+      "name": "Tell Me What You Want",
+      "poster": "https://images.metahub.space/poster/medium/tt31723358/img",
+      "background": "https://images.metahub.space/background/medium/tt31723358/img",
+      "description": "After his father's death, Eric Zimmerman travels to Spain to oversee his company's branches. In Madrid, he falls for Judith and engage in an intense, erotic relationship full of exploration. However, Eric fears his secret may end their affair.",
+      "releaseInfo": 2024,
+      "imdbRating": 4.1
+    },
+    {
+      "id": "tt2302966",
+      "type": "movie",
+      "name": "I",
+      "poster": "https://images.metahub.space/poster/medium/tt2302966/img",
+      "background": "https://images.metahub.space/background/medium/tt2302966/img",
+      "description": "A deformed hunchback kidnaps a bride and holds her hostage while his connection to her and his targets is revealed in a series of flashbacks that unfold as he starts seeking revenge.",
+      "releaseInfo": 2015,
       "imdbRating": 7.4
+    },
+    {
+      "id": "tt0091635",
+      "type": "movie",
+      "name": "Nine 1/2 Weeks",
+      "poster": "https://images.metahub.space/poster/medium/tt0091635/img",
+      "background": "https://images.metahub.space/background/medium/tt0091635/img",
+      "description": "An erotic story about a woman, the assistant of an art gallery, who gets involved in an impersonal affair with a man. She barely knows about his life, only about the sex games they play, so the relationship begins to get complicated.",
+      "releaseInfo": 1986,
+      "imdbRating": 5.9
+    },
+    {
+      "id": "tt0222012",
+      "type": "movie",
+      "name": "Hey Ram",
+      "poster": "https://images.metahub.space/poster/medium/tt0222012/img",
+      "background": "https://images.metahub.space/background/medium/tt0222012/img",
+      "description": "Saketh Ram's wife is raped and killed during direct action day riots in Calcutta. He is convinced that Mahatma Gandhi is responsible for all the problems happening in the country and sets out to kill him.",
+      "releaseInfo": 2000,
+      "imdbRating": 8
+    },
+    {
+      "id": "tt0126029",
+      "type": "movie",
+      "name": "Shrek",
+      "poster": "https://images.metahub.space/poster/medium/tt0126029/img",
+      "background": "https://images.metahub.space/background/medium/tt0126029/img",
+      "description": "It ain't easy bein' green -- especially if you're a likable (albeit smelly) ogre named Shrek. On a mission to retrieve a gorgeous princess from the clutches of a fire-breathing dragon, Shrek teams up with an unlikely compatriot -- a wisecracking donkey.",
+      "releaseInfo": 2001,
+      "imdbRating": 7.9
+    },
+    {
+      "id": "tt0101616",
+      "type": "movie",
+      "name": "Coolie No. 1",
+      "poster": "https://images.metahub.space/poster/medium/tt0101616/img",
+      "background": "https://images.metahub.space/background/medium/tt0101616/img",
+      "description": "In order to avenge his insult against wealthy Hoshiarchand Choudhary; Pandit Shaadiram Gharjodhe asks Raju; a coolie by profession to masquerade as a wealthy business tycoon so that he can get marry to Choudhary's daughter Malti.",
+      "releaseInfo": 1995,
+      "imdbRating": 6.6
+    },
+    {
+      "id": "tt32820897",
+      "type": "movie",
+      "name": "Demon Slayer: Kimetsu no Yaiba Infinity Castle",
+      "poster": "https://images.metahub.space/poster/medium/tt32820897/img",
+      "background": "https://images.metahub.space/background/medium/tt32820897/img",
+      "description": "The Demon Slayer Corps are drawn into the Infinity Castle, where Tanjiro, Nezuko, and the Hashira face terrifying Upper Rank demons in a desperate fight as the final battle against Muzan Kibutsuji begins.",
+      "releaseInfo": 2025,
+      "imdbRating": 8.3
+    },
+    {
+      "id": "tt0107688",
+      "type": "movie",
+      "name": "The Nightmare Before Christmas",
+      "poster": "https://images.metahub.space/poster/medium/tt0107688/img",
+      "background": "https://images.metahub.space/background/medium/tt0107688/img",
+      "description": "Tired of scaring humans every October 31 with the same old bag of tricks, Jack Skellington, the spindly king of Halloween Town, kidnaps Santa Claus and plans to deliver shrunken heads and other ghoulish gifts to children on Christmas morning. But as Christmas approaches, Jack's rag-doll girlfriend, Sally, tries to foil his misguided plans.",
+      "releaseInfo": 1993,
+      "imdbRating": 7.9
+    },
+    {
+      "id": "tt1266583",
+      "type": "movie",
+      "name": "Mumbai Meri Jaan",
+      "poster": "https://images.metahub.space/poster/medium/tt1266583/img",
+      "background": "https://images.metahub.space/background/medium/tt1266583/img",
+      "description": "A moving portrayal of the 2006 train bombings in Mumbai, this Indian drama follows the interconnected stories of several strangers.",
+      "releaseInfo": 2008,
+      "imdbRating": 7.7
+    },
+    {
+      "id": "tt1951265",
+      "type": "movie",
+      "name": "The Hunger Games: Mockingjay - Part 1",
+      "poster": "https://images.metahub.space/poster/medium/tt1951265/img",
+      "background": "https://images.metahub.space/background/medium/tt1951265/img",
+      "description": "After surviving the Quarter Quell, Katniss finds herself in the hidden stronghold of District 13, where the rebellion against the Capitol is gaining momentum. Struggling with the weight of becoming the symbol of resistance, she must navigate fragile alliances while trying to protect those she loves. As propaganda battles rage and Panem moves closer to full-scale war, Katniss is forced to confront the true cost of revolution.",
+      "releaseInfo": 2014,
+      "imdbRating": 6.6
+    },
+    {
+      "id": "tt0258463",
+      "type": "movie",
+      "name": "The Bourne Identity",
+      "poster": "https://images.metahub.space/poster/medium/tt0258463/img",
+      "background": "https://images.metahub.space/background/medium/tt0258463/img",
+      "description": "Wounded to the brink of death and suffering from amnesia, Jason Bourne is rescued at sea by a fisherman. With nothing to go on but a Swiss bank account number, he starts to reconstruct his life, but finds that many people he encounters want him dead. However, Bourne realizes that he has the combat and mental skills of a world-class spy—but who does he work for?",
+      "releaseInfo": 2002,
+      "imdbRating": 7.8
+    },
+    {
+      "id": "tt2555736",
+      "type": "movie",
+      "name": "The Second Best Exotic Marigold Hotel",
+      "poster": "https://images.metahub.space/poster/medium/tt2555736/img",
+      "background": "https://images.metahub.space/background/medium/tt2555736/img",
+      "description": "As the Best Exotic Marigold Hotel has only a single remaining vacancy, posing a rooming predicament for two fresh arrivals, Sonny Kapoor (Dev Patel) pursues his expansionist dream of opening a second hotel.",
+      "releaseInfo": 2015,
+      "imdbRating": 6.5
     },
     {
       "id": "tt39108319",
@@ -339,166 +499,6 @@
       "description": "In the early 2000s, an undercover operative infiltrates Karachi's underworld, breaking into its inner circle to dismantle a violent nexus from within.",
       "releaseInfo": 2025,
       "imdbRating": 8.2
-    },
-    {
-      "id": "tt15477504",
-      "type": "movie",
-      "name": "Nanpakal Nerathu Mayakkam",
-      "poster": "https://images.metahub.space/poster/medium/tt15477504/img",
-      "background": "https://images.metahub.space/background/medium/tt15477504/img",
-      "description": "James wakes up irritable on a bus, believing he is Sundaram, a man who vanished from a quiet village years prior.",
-      "releaseInfo": 2022,
-      "imdbRating": 7.4
-    },
-    {
-      "id": "tt1951265",
-      "type": "movie",
-      "name": "The Hunger Games: Mockingjay - Part 1",
-      "poster": "https://images.metahub.space/poster/medium/tt1951265/img",
-      "background": "https://images.metahub.space/background/medium/tt1951265/img",
-      "description": "After surviving the Quarter Quell, Katniss finds herself in the hidden stronghold of District 13, where the rebellion against the Capitol is gaining momentum. Struggling with the weight of becoming the symbol of resistance, she must navigate fragile alliances while trying to protect those she loves. As propaganda battles rage and Panem moves closer to full-scale war, Katniss is forced to confront the true cost of revolution.",
-      "releaseInfo": 2014,
-      "imdbRating": 6.6
-    },
-    {
-      "id": "tt0091635",
-      "type": "movie",
-      "name": "Nine 1/2 Weeks",
-      "poster": "https://images.metahub.space/poster/medium/tt0091635/img",
-      "background": "https://images.metahub.space/background/medium/tt0091635/img",
-      "description": "An erotic story about a woman, the assistant of an art gallery, who gets involved in an impersonal affair with a man. She barely knows about his life, only about the sex games they play, so the relationship begins to get complicated.",
-      "releaseInfo": 1986,
-      "imdbRating": 5.9
-    },
-    {
-      "id": "tt0241025",
-      "type": "movie",
-      "name": "Vanity Fair",
-      "poster": "https://images.metahub.space/poster/medium/tt0241025/img",
-      "background": "https://images.metahub.space/background/medium/tt0241025/img",
-      "description": "Growing up poor in London, Becky Sharp defies her poverty-stricken background and ascends the social ladder alongside her best friend, Amelia Sedley.",
-      "releaseInfo": 2004,
-      "imdbRating": 6.2
-    },
-    {
-      "id": "tt32820897",
-      "type": "movie",
-      "name": "Demon Slayer: Kimetsu no Yaiba Infinity Castle",
-      "poster": "https://images.metahub.space/poster/medium/tt32820897/img",
-      "background": "https://images.metahub.space/background/medium/tt32820897/img",
-      "description": "The Demon Slayer Corps are drawn into the Infinity Castle, where Tanjiro, Nezuko, and the Hashira face terrifying Upper Rank demons in a desperate fight as the final battle against Muzan Kibutsuji begins.",
-      "releaseInfo": 2025,
-      "imdbRating": 8.3
-    },
-    {
-      "id": "tt1877830",
-      "type": "movie",
-      "name": "The Batman",
-      "poster": "https://images.metahub.space/poster/medium/tt1877830/img",
-      "background": "https://images.metahub.space/background/medium/tt1877830/img",
-      "description": "In his second year of fighting crime, Batman uncovers corruption in Gotham City that connects to his own family while facing a serial killer known as the Riddler.",
-      "releaseInfo": 2022,
-      "imdbRating": 7.8
-    },
-    {
-      "id": "tt2476154",
-      "type": "movie",
-      "name": "Grand Masti",
-      "poster": "https://images.metahub.space/poster/medium/tt2476154/img",
-      "background": "https://images.metahub.space/background/medium/tt2476154/img",
-      "description": "Meet, Prem, and Amar look to have a blast at their college reunion, though they soon find themselves in another predicament.",
-      "releaseInfo": 2013,
-      "imdbRating": 4.5
-    },
-    {
-      "id": "tt12583926",
-      "type": "movie",
-      "name": "Anniversary",
-      "poster": "https://images.metahub.space/poster/medium/tt12583926/img",
-      "background": "https://images.metahub.space/background/medium/tt12583926/img",
-      "description": "When Ellen and Paul’s son Josh introduces his new girlfriend at their 25th anniversary party, no one suspects that it is the beginning of the end for this happy family. The new girlfriend is Liz, Ellen’s former student, who left the university, some years before, after Ellen called her out in class for her radical ideology.",
-      "releaseInfo": 2025,
-      "imdbRating": 6.7
-    },
-    {
-      "id": "tt37535100",
-      "type": "movie",
-      "name": "Bethlehem Kudumba Unit",
-      "poster": "https://images.metahub.space/poster/medium/tt37535100/img",
-      "background": "https://images.metahub.space/background/medium/tt37535100/img",
-      "description": "Ashley's homecoming from abroad takes an emotional turn when a wedding next door stirs memories of her first love, Justin.",
-      "releaseInfo": 2026,
-      "imdbRating": 8
-    },
-    {
-      "id": "tt0150433",
-      "type": "movie",
-      "name": "Earth",
-      "poster": "https://images.metahub.space/poster/medium/tt0150433/img",
-      "background": "https://images.metahub.space/background/medium/tt0150433/img",
-      "description": "It's 1947 and the borderlines between India and Pakistan are being drawn. A young girl witnesses tragedy as her ayah (nanny) is caught between the love of two men and the rising tide of political and religious violence.",
-      "releaseInfo": 1998,
-      "imdbRating": 7.6
-    },
-    {
-      "id": "tt12042730",
-      "type": "movie",
-      "name": "Project Hail Mary",
-      "poster": "https://images.metahub.space/poster/medium/tt12042730/img",
-      "background": "https://images.metahub.space/background/medium/tt12042730/img",
-      "description": "Science teacher Ryland Grace wakes up on a spaceship light years from home with no recollection of who he is or how he got there. As his memory returns, he begins to uncover his mission: solve the riddle of the mysterious substance causing the sun to die out. He must call on his scientific knowledge and unorthodox ideas to save everything on Earth from extinction.",
-      "releaseInfo": 2026,
-      "imdbRating": 8.2
-    },
-    {
-      "id": "tt33612209",
-      "type": "movie",
-      "name": "The Devil Wears Prada 2",
-      "poster": "https://images.metahub.space/poster/medium/tt33612209/img",
-      "background": "https://images.metahub.space/background/medium/tt33612209/img",
-      "description": "Andy Sachs returns to Runway as Miranda Priestly navigates a new media landscape and Runway's position within. The duo reconnect with former assistant Emily Charlton, now the head of a luxury brand that possesses funding which could ensure Runway's survival.",
-      "releaseInfo": 2026,
-      "imdbRating": 6.3
-    },
-    {
-      "id": "tt0105575",
-      "type": "movie",
-      "name": "Thevar Magan",
-      "poster": "https://images.metahub.space/poster/medium/tt0105575/img",
-      "background": "https://images.metahub.space/background/medium/tt0105575/img",
-      "description": "The urbane son of a village chieftain struggles between his personal aspirations and those of his family.",
-      "releaseInfo": 1992,
-      "imdbRating": 8.7
-    },
-    {
-      "id": "tt0103064",
-      "type": "movie",
-      "name": "Terminator 2: Judgment Day",
-      "poster": "https://images.metahub.space/poster/medium/tt0103064/img",
-      "background": "https://images.metahub.space/background/medium/tt0103064/img",
-      "description": "Ten years after the events of the original, a reprogrammed T-800 is sent back in time to protect young John Connor from the shape-shifting T-1000. Together with his mother Sarah, he fights to stop Skynet from triggering a nuclear apocalypse.",
-      "releaseInfo": 1991,
-      "imdbRating": 8.6
-    },
-    {
-      "id": "tt27714946",
-      "type": "movie",
-      "name": "The Monkey",
-      "poster": "https://images.metahub.space/poster/medium/tt27714946/img",
-      "background": "https://images.metahub.space/background/medium/tt27714946/img",
-      "description": "When twin brothers find a mysterious wind-up monkey, a series of outrageous deaths tear their family apart. Twenty-five years later, the monkey begins a new killing spree forcing the estranged brothers to confront the cursed toy.",
-      "releaseInfo": 2025,
-      "imdbRating": 5.9
-    },
-    {
-      "id": "tt11460992",
-      "type": "movie",
-      "name": "Runway 34",
-      "poster": "https://images.metahub.space/poster/medium/tt11460992/img",
-      "background": "https://images.metahub.space/background/medium/tt11460992/img",
-      "description": "Inspired by true incidents, \"Runway 34\" revolves around Captain Vikrant Khanna played by Ajay Devgn, a flying prodigy, whose flight takes a mysterious course after take-off from an international destination.",
-      "releaseInfo": 2022,
-      "imdbRating": 7
     }
   ]
 }

@@ -1,6 +1,17 @@
 {
   "metas": [
     {
+      "id": "tt0903747",
+      "type": "series",
+      "name": "Breaking Bad",
+      "poster": "https://images.metahub.space/poster/small/tt0903747/img",
+      "background": "https://images.metahub.space/background/medium/tt0903747/img",
+      "logo": "https://images.metahub.space/logo/medium/tt0903747/img",
+      "description": "A chemistry teacher diagnosed with inoperable lung cancer turns to manufacturing and selling methamphetamine with a former student to secure his family's future.",
+      "releaseInfo": "2008–2013",
+      "imdbRating": "9.5"
+    },
+    {
       "id": "tt6769208",
       "type": "series",
       "name": "Blue Planet II",
@@ -34,17 +45,6 @@
       "imdbRating": "9.2"
     },
     {
-      "id": "tt0388629",
-      "type": "series",
-      "name": "One Piece",
-      "poster": "https://images.metahub.space/poster/small/tt0388629/img",
-      "background": "https://images.metahub.space/background/medium/tt0388629/img",
-      "logo": "https://images.metahub.space/logo/medium/tt0388629/img",
-      "description": "A spirited young pirate sets sail with a growing crew in search of the legendary One Piece, facing dangerous seas and powerful rivals on his quest to become King of the Pirates.",
-      "releaseInfo": "1999–",
-      "imdbRating": "9.0"
-    },
-    {
       "id": "tt1475582",
       "type": "series",
       "name": "Sherlock",
@@ -53,6 +53,17 @@
       "logo": "https://images.metahub.space/logo/medium/tt1475582/img",
       "description": "In modern-day London, brilliant but eccentric detective Sherlock Holmes teams with war veteran Dr. John Watson to crack baffling crimes, outwit formidable foes, and aid Scotland Yard with razor-sharp deduction.",
       "releaseInfo": "2010–2017",
+      "imdbRating": "9.0"
+    },
+    {
+      "id": "tt0388629",
+      "type": "series",
+      "name": "One Piece",
+      "poster": "https://images.metahub.space/poster/small/tt0388629/img",
+      "background": "https://images.metahub.space/background/medium/tt0388629/img",
+      "logo": "https://images.metahub.space/logo/medium/tt0388629/img",
+      "description": "A spirited young pirate sets sail with a growing crew in search of the legendary One Piece, facing dangerous seas and powerful rivals on his quest to become King of the Pirates.",
+      "releaseInfo": "1999–",
       "imdbRating": "9.0"
     },
     {
@@ -100,17 +111,6 @@
       "imdbRating": "8.7"
     },
     {
-      "id": "tt0988824",
-      "type": "series",
-      "name": "Naruto: Shippuden",
-      "poster": "https://images.metahub.space/poster/small/tt0988824/img",
-      "background": "https://images.metahub.space/background/medium/tt0988824/img",
-      "logo": "https://images.metahub.space/logo/medium/tt0988824/img",
-      "description": "Naruto Uzumaki, is a loud, hyperactive, adolescent ninja who constantly searches for approval and recognition, as well as to become Hokage, who is acknowledged as the leader and strongest of all ninja in the village.",
-      "releaseInfo": "2007–2017",
-      "imdbRating": "8.7"
-    },
-    {
       "id": "tt0098936",
       "type": "series",
       "name": "Twin Peaks",
@@ -122,14 +122,14 @@
       "imdbRating": "8.7"
     },
     {
-      "id": "tt5687612",
+      "id": "tt0988824",
       "type": "series",
-      "name": "Fleabag",
-      "poster": "https://images.metahub.space/poster/small/tt5687612/img",
-      "background": "https://images.metahub.space/background/medium/tt5687612/img",
-      "logo": "https://images.metahub.space/logo/medium/tt5687612/img",
-      "description": "Series adapted from the award-winning play about a young woman trying to cope with life in London whilst coming to terms with a recent tragedy.",
-      "releaseInfo": "2016–2019",
+      "name": "Naruto: Shippuden",
+      "poster": "https://images.metahub.space/poster/small/tt0988824/img",
+      "background": "https://images.metahub.space/background/medium/tt0988824/img",
+      "logo": "https://images.metahub.space/logo/medium/tt0988824/img",
+      "description": "Naruto Uzumaki, is a loud, hyperactive, adolescent ninja who constantly searches for approval and recognition, as well as to become Hokage, who is acknowledged as the leader and strongest of all ninja in the village.",
+      "releaseInfo": "2007–2017",
       "imdbRating": "8.7"
     },
     {
@@ -188,17 +188,6 @@
       "imdbRating": "8.5"
     },
     {
-      "id": "tt4093826",
-      "type": "series",
-      "name": "Twin Peaks",
-      "poster": "https://images.metahub.space/poster/small/tt4093826/img",
-      "background": "https://images.metahub.space/background/medium/tt4093826/img",
-      "logo": "https://images.metahub.space/logo/medium/tt4093826/img",
-      "description": "Picks up 25 years after the inhabitants of a quaint northwestern town are stunned when their homecoming queen is murdered.",
-      "releaseInfo": "2017",
-      "imdbRating": "8.5"
-    },
-    {
       "id": "tt1439629",
       "type": "series",
       "name": "Community",
@@ -207,6 +196,28 @@
       "logo": "https://images.metahub.space/logo/medium/tt1439629/img",
       "description": "A suspended lawyer is forced to enroll in a community college with an eccentric staff and student body.",
       "releaseInfo": "2009–2015",
+      "imdbRating": "8.5"
+    },
+    {
+      "id": "tt12343534",
+      "type": "series",
+      "name": "Jujutsu Kaisen",
+      "poster": "https://images.metahub.space/poster/small/tt12343534/img",
+      "background": "https://images.metahub.space/background/medium/tt12343534/img",
+      "logo": "https://images.metahub.space/logo/medium/tt12343534/img",
+      "description": "After swallowing a cursed relic, kindhearted teenager Yuji Itadori becomes host to the King of Curses and joins a secret school of sorcerers battling monsters born from humanity's darkest emotions.",
+      "releaseInfo": "2020–",
+      "imdbRating": "8.5"
+    },
+    {
+      "id": "tt4093826",
+      "type": "series",
+      "name": "Twin Peaks",
+      "poster": "https://images.metahub.space/poster/small/tt4093826/img",
+      "background": "https://images.metahub.space/background/medium/tt4093826/img",
+      "logo": "https://images.metahub.space/logo/medium/tt4093826/img",
+      "description": "Picks up 25 years after the inhabitants of a quaint northwestern town are stunned when their homecoming queen is murdered.",
+      "releaseInfo": "2017",
       "imdbRating": "8.5"
     },
     {
@@ -221,17 +232,6 @@
       "imdbRating": "8.4"
     },
     {
-      "id": "tt6473300",
-      "type": "series",
-      "name": "Mirzapur",
-      "poster": "https://images.metahub.space/poster/small/tt6473300/img",
-      "background": "https://images.metahub.space/background/medium/tt6473300/img",
-      "logo": "https://images.metahub.space/logo/medium/tt6473300/img",
-      "description": "A shocking incident at a wedding procession ignites a series of events entangling the lives of two families in the lawless city of Mirzapur.",
-      "releaseInfo": "2018–",
-      "imdbRating": "8.4"
-    },
-    {
       "id": "tt1442449",
       "type": "series",
       "name": "Spartacus",
@@ -243,6 +243,17 @@
       "imdbRating": "8.4"
     },
     {
+      "id": "tt6473300",
+      "type": "series",
+      "name": "Mirzapur",
+      "poster": "https://images.metahub.space/poster/small/tt6473300/img",
+      "background": "https://images.metahub.space/background/medium/tt6473300/img",
+      "logo": "https://images.metahub.space/logo/medium/tt6473300/img",
+      "description": "A shocking incident at a wedding procession ignites a series of events entangling the lives of two families in the lawless city of Mirzapur.",
+      "releaseInfo": "2018–",
+      "imdbRating": "8.4"
+    },
+    {
       "id": "tt9059760",
       "type": "series",
       "name": "Normal People",
@@ -251,17 +262,6 @@
       "logo": "https://images.metahub.space/logo/medium/tt9059760/img",
       "description": "A man and a woman embark on an on-again/off-again romance that starts at school and continues through college, testing their relationship as they explore different versions of themselves.",
       "releaseInfo": "2020",
-      "imdbRating": "8.4"
-    },
-    {
-      "id": "tt0409591",
-      "type": "series",
-      "name": "Naruto",
-      "poster": "https://images.metahub.space/poster/small/tt0409591/img",
-      "background": "https://images.metahub.space/background/medium/tt0409591/img",
-      "logo": "https://images.metahub.space/logo/medium/tt0409591/img",
-      "description": "Naruto Uzumaki, a mischievous adolescent ninja, struggles as he searches for recognition and dreams of becoming the Hokage, the village's leader and strongest ninja.",
-      "releaseInfo": "2002–2007",
       "imdbRating": "8.4"
     },
     {
@@ -309,17 +309,6 @@
       "imdbRating": "8.2"
     },
     {
-      "id": "tt15677150",
-      "type": "series",
-      "name": "Shrinking",
-      "poster": "https://images.metahub.space/poster/small/tt15677150/img",
-      "background": "https://images.metahub.space/background/medium/tt15677150/img",
-      "logo": "https://images.metahub.space/logo/medium/tt15677150/img",
-      "description": "A grieving therapist starts to tell his clients exactly what he thinks. Ignoring his training and ethics, he finds himself making huge changes to people's lives - including his own.",
-      "releaseInfo": "2023–",
-      "imdbRating": "8.2"
-    },
-    {
       "id": "tt6468322",
       "type": "series",
       "name": "Money Heist",
@@ -328,6 +317,17 @@
       "logo": "https://live.metahub.space/logo/medium/tt6468322/img",
       "description": "To carry out the biggest heist in history, a mysterious man called The Professor recruits a band of eight robbers who have a single characteristic: none of them has anything to lose. Five months of seclusion - memorizing every step, every detail, every probability - culminate in eleven days locked up in the National Coinage and Stamp Factory of Spain, surrounded by police forces and with dozens of hostages in their power, to find out whether their suicide wager will lead to everything or nothing.",
       "releaseInfo": "2017–2021",
+      "imdbRating": "8.2"
+    },
+    {
+      "id": "tt15677150",
+      "type": "series",
+      "name": "Shrinking",
+      "poster": "https://images.metahub.space/poster/small/tt15677150/img",
+      "background": "https://images.metahub.space/background/medium/tt15677150/img",
+      "logo": "https://images.metahub.space/logo/medium/tt15677150/img",
+      "description": "A grieving therapist starts to tell his clients exactly what he thinks. Ignoring his training and ethics, he finds himself making huge changes to people's lives - including his own.",
+      "releaseInfo": "2023–",
       "imdbRating": "8.2"
     },
     {
@@ -342,6 +342,17 @@
       "imdbRating": "8.2"
     },
     {
+      "id": "tt13293588",
+      "type": "series",
+      "name": "Mushoku Tensei: Jobless Reincarnation",
+      "poster": "https://images.metahub.space/poster/small/tt13293588/img",
+      "background": "https://images.metahub.space/background/medium/tt13293588/img",
+      "logo": "https://images.metahub.space/logo/medium/tt13293588/img",
+      "description": "A 34-year-old underachiever gets run over by a bus, but his story isn't over. Reincarnated as an infant, he'll embark on an epic adventure.",
+      "releaseInfo": "2021–",
+      "imdbRating": "8.2"
+    },
+    {
       "id": "tt13911628",
       "type": "series",
       "name": "Lessons in Chemistry",
@@ -350,17 +361,6 @@
       "logo": "https://images.metahub.space/logo/medium/tt13911628/img",
       "description": "In the 1950s, Elizabeth Zott's dream of being a scientist is challenged by a society that says women belong in the domestic sphere; she accepts a job on a TV cooking show and sets out to teach a nation of housewives way more than ...",
       "releaseInfo": "2023",
-      "imdbRating": "8.2"
-    },
-    {
-      "id": "tt20873118",
-      "type": "series",
-      "name": "Suzhal - The Vortex",
-      "poster": "https://images.metahub.space/poster/small/tt20873118/img",
-      "background": "https://images.metahub.space/background/medium/tt20873118/img",
-      "logo": "https://images.metahub.space/logo/medium/tt20873118/img",
-      "description": "In a small South Indian town, a seemingly routine minor case explodes into a twisted crime thriller that rips apart its social fabric.",
-      "releaseInfo": "2022–",
       "imdbRating": "8.2"
     },
     {
@@ -386,28 +386,6 @@
       "imdbRating": "8.1"
     },
     {
-      "id": "tt38504111",
-      "type": "series",
-      "name": "Small Prophets",
-      "poster": "https://images.metahub.space/poster/small/tt38504111/img",
-      "background": "https://images.metahub.space/background/medium/tt38504111/img",
-      "logo": "https://images.metahub.space/logo/medium/tt38504111/img",
-      "description": "Eccentric Michael Sleep, whose darling partner, Clea, disappeared seven years ago, sets out to create Homunculi - magical prophesying spirits that can predict the future.",
-      "releaseInfo": "2026–",
-      "imdbRating": "8.1"
-    },
-    {
-      "id": "tt4301160",
-      "type": "series",
-      "name": "Black Bird",
-      "poster": "https://images.metahub.space/poster/small/tt4301160/img",
-      "background": "https://images.metahub.space/background/medium/tt4301160/img",
-      "logo": "https://images.metahub.space/logo/medium/tt4301160/img",
-      "description": "Jimmy Keene is sentenced to 10 years in a minimum security prison but he cuts a deal with the FBI to befriend a suspected serial killer. Keene has to elicit a confession from Larry Hall to find the bodies of as many as eighteen wo...",
-      "releaseInfo": "2022",
-      "imdbRating": "8.1"
-    },
-    {
       "id": "tt0758790",
       "type": "series",
       "name": "The Tudors",
@@ -430,25 +408,25 @@
       "imdbRating": "8.1"
     },
     {
-      "id": "tt8772296",
+      "id": "tt38504111",
       "type": "series",
-      "name": "Euphoria",
-      "poster": "https://images.metahub.space/poster/small/tt8772296/img",
-      "background": "https://images.metahub.space/background/medium/tt8772296/img",
-      "logo": "https://images.metahub.space/logo/medium/tt8772296/img",
-      "description": "A dark coming-of-age drama exploring love, addiction, friendship and identity in a world full of temptation and uncertainty.",
-      "releaseInfo": "2019–2026",
+      "name": "Small Prophets",
+      "poster": "https://images.metahub.space/poster/small/tt38504111/img",
+      "background": "https://images.metahub.space/background/medium/tt38504111/img",
+      "logo": "https://images.metahub.space/logo/medium/tt38504111/img",
+      "description": "Eccentric Michael Sleep, whose darling partner, Clea, disappeared seven years ago, sets out to create Homunculi - magical prophesying spirits that can predict the future.",
+      "releaseInfo": "2026–",
       "imdbRating": "8.1"
     },
     {
-      "id": "tt14688458",
+      "id": "tt4301160",
       "type": "series",
-      "name": "Silo",
-      "poster": "https://images.metahub.space/poster/small/tt14688458/img",
-      "background": "https://images.metahub.space/background/medium/tt14688458/img",
-      "logo": "https://images.metahub.space/logo/medium/tt14688458/img",
-      "description": "Men and women live in a giant silo underground with several regulations which they believe are in place to protect them from the toxic and ruined world on the surface.",
-      "releaseInfo": "2023–",
+      "name": "Black Bird",
+      "poster": "https://images.metahub.space/poster/small/tt4301160/img",
+      "background": "https://images.metahub.space/background/medium/tt4301160/img",
+      "logo": "https://images.metahub.space/logo/medium/tt4301160/img",
+      "description": "Jimmy Keene is sentenced to 10 years in a minimum security prison but he cuts a deal with the FBI to befriend a suspected serial killer. Keene has to elicit a confession from Larry Hall to find the bodies of as many as eighteen wo...",
+      "releaseInfo": "2022",
       "imdbRating": "8.1"
     },
     {
@@ -463,14 +441,14 @@
       "imdbRating": "8.1"
     },
     {
-      "id": "tt7772588",
+      "id": "tt8772296",
       "type": "series",
-      "name": "For All Mankind",
-      "poster": "https://images.metahub.space/poster/small/tt7772588/img",
-      "background": "https://images.metahub.space/background/medium/tt7772588/img",
-      "logo": "https://images.metahub.space/logo/medium/tt7772588/img",
-      "description": "In an alternative version of 1969, the Soviet Union beats the United States to the Moon, and the space race continues on for decades with still grander challenges and goals.",
-      "releaseInfo": "2019–2027",
+      "name": "Euphoria",
+      "poster": "https://images.metahub.space/poster/small/tt8772296/img",
+      "background": "https://images.metahub.space/background/medium/tt8772296/img",
+      "logo": "https://images.metahub.space/logo/medium/tt8772296/img",
+      "description": "A dark coming-of-age drama exploring love, addiction, friendship and identity in a world full of temptation and uncertainty.",
+      "releaseInfo": "2019–2026",
       "imdbRating": "8.1"
     },
     {
@@ -485,15 +463,26 @@
       "imdbRating": "8.1"
     },
     {
-      "id": "tt17491088",
+      "id": "tt7772588",
       "type": "series",
-      "name": "The Diplomat",
-      "poster": "https://images.metahub.space/poster/small/tt17491088/img",
-      "background": "https://images.metahub.space/background/medium/tt17491088/img",
-      "logo": "https://images.metahub.space/logo/medium/tt17491088/img",
-      "description": "In the midst of an international crisis, Kate Wyler, a career diplomat, lands in a high-profile job for which she is not suited, with tectonic implications for her marriage and her political future.",
-      "releaseInfo": "2023–",
-      "imdbRating": "8.0"
+      "name": "For All Mankind",
+      "poster": "https://images.metahub.space/poster/small/tt7772588/img",
+      "background": "https://images.metahub.space/background/medium/tt7772588/img",
+      "logo": "https://images.metahub.space/logo/medium/tt7772588/img",
+      "description": "In an alternative version of 1969, the Soviet Union beats the United States to the Moon, and the space race continues on for decades with still grander challenges and goals.",
+      "releaseInfo": "2019–2027",
+      "imdbRating": "8.1"
+    },
+    {
+      "id": "tt0914387",
+      "type": "series",
+      "name": "Damages",
+      "poster": "https://images.metahub.space/poster/small/tt0914387/img",
+      "background": "https://images.metahub.space/background/medium/tt0914387/img",
+      "logo": "https://images.metahub.space/logo/medium/tt0914387/img",
+      "description": "A law school graduate becomes the protégée of a successful high-stakes litigator.",
+      "releaseInfo": "2007–2012",
+      "imdbRating": "8.1"
     },
     {
       "id": "tt20096840",
@@ -507,14 +496,14 @@
       "imdbRating": "8.0"
     },
     {
-      "id": "tt47743267",
+      "id": "tt17491088",
       "type": "series",
-      "name": "Ishqa Ishqa",
-      "poster": "https://live.metahub.space/poster/small/tt47743267/img",
-      "background": "https://live.metahub.space/background/medium/tt47743267/img",
-      "logo": "https://live.metahub.space/logo/medium/tt47743267/img",
-      "description": "Kabir is a successful writer dating Suhani, who brings calm to his life. As he prepares for the sequel to his hit novel Ishqa Ishqa, inspired by Arohi, his childhood love, she is set to return to his life. Arohi brings the inspiration he needs for his writing, but her return threatens to disrupt the life Kabir has built with Suhani.",
-      "releaseInfo": "2026–",
+      "name": "The Diplomat",
+      "poster": "https://images.metahub.space/poster/small/tt17491088/img",
+      "background": "https://images.metahub.space/background/medium/tt17491088/img",
+      "logo": "https://images.metahub.space/logo/medium/tt17491088/img",
+      "description": "In the midst of an international crisis, Kate Wyler, a career diplomat, lands in a high-profile job for which she is not suited, with tectonic implications for her marriage and her political future.",
+      "releaseInfo": "2023–",
       "imdbRating": "8.0"
     },
     {
@@ -529,6 +518,14 @@
       "imdbRating": "8.0"
     },
     {
+      "id": "tt15404764",
+      "type": "series",
+      "name": "Titoo",
+      "description": "Titoo is an animated kids' comedy show that follows the daily escapades of eight-year-old boy Titoo. Though, he is a good-hearted, intelligent kid who loves to help everyone, but inadvertently manages to brew even more trouble.",
+      "releaseInfo": "2020–",
+      "imdbRating": "8.0"
+    },
+    {
       "id": "tt7587890",
       "type": "series",
       "name": "The Rookie",
@@ -540,10 +537,13 @@
       "imdbRating": "8.0"
     },
     {
-      "id": "tt15404764",
+      "id": "tt10982034",
       "type": "series",
-      "name": "Titoo",
-      "description": "Titoo is an animated kids' comedy show that follows the daily escapades of eight-year-old boy Titoo. Though, he is a good-hearted, intelligent kid who loves to help everyone, but inadvertently manages to brew even more trouble.",
+      "name": "Trying",
+      "poster": "https://images.metahub.space/poster/small/tt10982034/img",
+      "background": "https://images.metahub.space/background/medium/tt10982034/img",
+      "logo": "https://images.metahub.space/logo/medium/tt10982034/img",
+      "description": "All Jason and Nikki want is a baby, but it's the one thing they just can't have, so they decide to adopt. With their dysfunctional friends, screwball family, and chaotic lives, will the adoption panel think they're ready to be par...",
       "releaseInfo": "2020–",
       "imdbRating": "8.0"
     }
