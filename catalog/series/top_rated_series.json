@@ -430,17 +430,6 @@
       "imdbRating": "8.1"
     },
     {
-      "id": "tt1515193",
-      "type": "series",
-      "name": "The Big C",
-      "poster": "https://images.metahub.space/poster/small/tt1515193/img",
-      "background": "https://images.metahub.space/background/medium/tt1515193/img",
-      "logo": "https://images.metahub.space/logo/medium/tt1515193/img",
-      "description": "A suburban mother faces her cancer diagnosis while trying to find humor and happiness as well.",
-      "releaseInfo": "2010–2013",
-      "imdbRating": "8.1"
-    },
-    {
       "id": "tt8772296",
       "type": "series",
       "name": "Euphoria",
@@ -452,14 +441,14 @@
       "imdbRating": "8.1"
     },
     {
-      "id": "tt0883772",
+      "id": "tt1515193",
       "type": "series",
-      "name": "Man vs. Wild",
-      "poster": "https://images.metahub.space/poster/small/tt0883772/img",
-      "background": "https://images.metahub.space/background/medium/tt0883772/img",
-      "logo": "https://images.metahub.space/logo/medium/tt0883772/img",
-      "description": "Bear Grylls travels the world in search of challenges to his survival skills.",
-      "releaseInfo": "2006–2020",
+      "name": "The Big C",
+      "poster": "https://images.metahub.space/poster/small/tt1515193/img",
+      "background": "https://images.metahub.space/background/medium/tt1515193/img",
+      "logo": "https://images.metahub.space/logo/medium/tt1515193/img",
+      "description": "A suburban mother faces her cancer diagnosis while trying to find humor and happiness as well.",
+      "releaseInfo": "2010–2013",
       "imdbRating": "8.1"
     },
     {
@@ -474,14 +463,14 @@
       "imdbRating": "8.1"
     },
     {
-      "id": "tt0914387",
+      "id": "tt0883772",
       "type": "series",
-      "name": "Damages",
-      "poster": "https://images.metahub.space/poster/small/tt0914387/img",
-      "background": "https://images.metahub.space/background/medium/tt0914387/img",
-      "logo": "https://images.metahub.space/logo/medium/tt0914387/img",
-      "description": "A law school graduate becomes the protégée of a successful high-stakes litigator.",
-      "releaseInfo": "2007–2012",
+      "name": "Man vs. Wild",
+      "poster": "https://images.metahub.space/poster/small/tt0883772/img",
+      "background": "https://images.metahub.space/background/medium/tt0883772/img",
+      "logo": "https://images.metahub.space/logo/medium/tt0883772/img",
+      "description": "Bear Grylls travels the world in search of challenges to his survival skills.",
+      "releaseInfo": "2006–2020",
       "imdbRating": "8.1"
     },
     {
@@ -545,6 +534,17 @@
       "logo": "https://images.metahub.space/logo/medium/tt10982034/img",
       "description": "All Jason and Nikki want is a baby, but it's the one thing they just can't have, so they decide to adopt. With their dysfunctional friends, screwball family, and chaotic lives, will the adoption panel think they're ready to be par...",
       "releaseInfo": "2020–",
+      "imdbRating": "8.0"
+    },
+    {
+      "id": "tt23649128",
+      "type": "series",
+      "name": "The Studio",
+      "poster": "https://images.metahub.space/poster/small/tt23649128/img",
+      "background": "https://images.metahub.space/background/medium/tt23649128/img",
+      "logo": "https://images.metahub.space/logo/medium/tt23649128/img",
+      "description": "Follows a legacy Hollywood movie studio striving to survive in a world where it is increasingly difficult for art and business to live together.",
+      "releaseInfo": "2025–",
       "imdbRating": "8.0"
     }
   ]

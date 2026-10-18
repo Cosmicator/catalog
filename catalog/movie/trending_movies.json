@@ -6,7 +6,7 @@
       "name": "Pradhama Drishtiya Kuttakkar",
       "poster": "https://images.metahub.space/poster/medium/tt38265603/img",
       "background": "https://images.metahub.space/background/medium/tt38265603/img",
-      "description": "Follows a woman constable who joins the police force through appointment after the death of her husband.",
+      "description": "After her husband's tragic death, Aleena joins the police force through a compassionate appointment. What begins as a quiet new chapter soon turns into a high-stakes battle of wits and courage, testing everything she believes about justice, loyalty, and herself.",
       "releaseInfo": 2026,
       "imdbRating": 7.5
     },
@@ -341,16 +341,6 @@
       "imdbRating": 8.2
     },
     {
-      "id": "tt35727678",
-      "type": "movie",
-      "name": "Ek Deewane Ki Deewaniyat",
-      "poster": "https://images.metahub.space/poster/medium/tt35727678/img",
-      "background": "https://images.metahub.space/background/medium/tt35727678/img",
-      "description": "When Vikramaditya, a powerful politician falls  for a strong-willed superstar Adaa , their passionate romance quickly spirals into a dangerous game of obsession and pride. As emotions clash and tempers rise, Adaa makes a life-altering choice.",
-      "releaseInfo": 2025,
-      "imdbRating": 4.7
-    },
-    {
       "id": "tt1877830",
       "type": "movie",
       "name": "The Batman",
@@ -431,16 +421,6 @@
       "imdbRating": 6.2
     },
     {
-      "id": "tt23865918",
-      "type": "movie",
-      "name": "Peddi",
-      "poster": "https://images.metahub.space/poster/medium/tt23865918/img",
-      "background": "https://images.metahub.space/background/medium/tt23865918/img",
-      "description": "In a village that doesn't officially exist, a laborer's unmatched athletic talent becomes his weapon to fight for his people's right to be recognized.",
-      "releaseInfo": 2026,
-      "imdbRating": 5.2
-    },
-    {
       "id": "tt0091635",
       "type": "movie",
       "name": "Nine 1/2 Weeks",
@@ -449,16 +429,6 @@
       "description": "An erotic story about a woman, the assistant of an art gallery, who gets involved in an impersonal affair with a man. She barely knows about his life, only about the sex games they play, so the relationship begins to get complicated.",
       "releaseInfo": 1986,
       "imdbRating": 5.9
-    },
-    {
-      "id": "tt28037987",
-      "type": "movie",
-      "name": "Saiyaara",
-      "poster": "https://images.metahub.space/poster/medium/tt28037987/img",
-      "background": "https://images.metahub.space/background/medium/tt28037987/img",
-      "description": "Plot under wraps.",
-      "releaseInfo": 2025,
-      "imdbRating": 6.3
     },
     {
       "id": "tt0126029",
@@ -499,6 +469,36 @@
       "description": "When Rick, a past-his-prime wedding singer, meets fading boy-band star Danny during a gig, the two bond over music and a late-night jam session. But when Danny turns one of Rick’s songs into the hit that reignites his career, Rick sets out to reclaim the recognition he believes he deserves - even if it means risking everything he cares about.",
       "releaseInfo": 2026,
       "imdbRating": 6.7
+    },
+    {
+      "id": "tt28037987",
+      "type": "movie",
+      "name": "Saiyaara",
+      "poster": "https://images.metahub.space/poster/medium/tt28037987/img",
+      "background": "https://images.metahub.space/background/medium/tt28037987/img",
+      "description": "Plot under wraps.",
+      "releaseInfo": 2025,
+      "imdbRating": 6.3
+    },
+    {
+      "id": "tt27989067",
+      "type": "movie",
+      "name": "Lust Stories 2",
+      "poster": "https://images.metahub.space/poster/medium/tt27989067/img",
+      "background": "https://images.metahub.space/background/medium/tt27989067/img",
+      "description": "Four eminent Indian directors explore sex, desire and love through short films in this sequel to 2018's Emmy-nominated 'Lust Stories'.",
+      "releaseInfo": 2023,
+      "imdbRating": 5.7
+    },
+    {
+      "id": "tt1939659",
+      "type": "movie",
+      "name": "Carrie",
+      "poster": "https://images.metahub.space/poster/medium/tt1939659/img",
+      "background": "https://images.metahub.space/background/medium/tt1939659/img",
+      "description": "An awkward, telekinetic teenage girl is the object of relentless bullying at school and an oppressively religious mother at home.",
+      "releaseInfo": 2013,
+      "imdbRating": 5.8
     }
   ]
 }
