@@ -51,16 +51,6 @@
       "imdbRating": 8.2
     },
     {
-      "id": "tt35448218",
-      "type": "movie",
-      "name": "Epic - First Semester",
-      "poster": "https://images.metahub.space/poster/medium/tt35448218/img",
-      "background": "https://images.metahub.space/background/medium/tt35448218/img",
-      "description": "Far from home, Aditya wrestles with family expectations, cultural differences and loneliness while studying in London – until he meets the lively Kadali.",
-      "releaseInfo": 2026,
-      "imdbRating": 5.3
-    },
-    {
       "id": "tt35672862",
       "type": "movie",
       "name": "Hokum",
@@ -81,16 +71,6 @@
       "imdbRating": 6.5
     },
     {
-      "id": "tt28498219",
-      "type": "movie",
-      "name": "Matchbox the Movie",
-      "poster": "https://images.metahub.space/poster/medium/tt28498219/img",
-      "background": "https://images.metahub.space/background/medium/tt28498219/img",
-      "description": "When a group of former childhood friends reconnect, their reunion takes a wild turn as they stumble upon a dangerous international plot—and must save the world.",
-      "releaseInfo": 2026,
-      "imdbRating": 5.7
-    },
-    {
       "id": "tt6323306",
       "type": "movie",
       "name": "Nude",
@@ -98,6 +78,16 @@
       "background": "https://images.metahub.space/background/medium/tt6323306/img",
       "description": "NUDE explores perceptions of nudity in art by chronicling the creative process of photographer David Bellemere as he's commissioned by NU Muses founder Steve Shaw to shoot a fine art calendar of nude photographs.",
       "releaseInfo": 2017,
+      "imdbRating": 5.7
+    },
+    {
+      "id": "tt28498219",
+      "type": "movie",
+      "name": "Matchbox the Movie",
+      "poster": "https://images.metahub.space/poster/medium/tt28498219/img",
+      "background": "https://images.metahub.space/background/medium/tt28498219/img",
+      "description": "When a group of former childhood friends reconnect, their reunion takes a wild turn as they stumble upon a dangerous international plot—and must save the world.",
+      "releaseInfo": 2026,
       "imdbRating": 5.7
     },
     {
@@ -121,6 +111,16 @@
       "imdbRating": 6.4
     },
     {
+      "id": "tt35448218",
+      "type": "movie",
+      "name": "Epic - First Semester",
+      "poster": "https://images.metahub.space/poster/medium/tt35448218/img",
+      "background": "https://images.metahub.space/background/medium/tt35448218/img",
+      "description": "Far from home, Aditya wrestles with family expectations, cultural differences and loneliness while studying in London – until he meets the lively Kadali.",
+      "releaseInfo": 2026,
+      "imdbRating": 5.2
+    },
+    {
       "id": "tt33095205",
       "type": "movie",
       "name": "Enna Vilai",
@@ -128,7 +128,7 @@
       "background": "https://images.metahub.space/background/medium/tt33095205/img",
       "description": "A humble fisherman from Rameswaram lives a quiet life with his family until he finds a gold pendant washed ashore. What initially seems like a blessing soon turns into a nightmare when false accusations threaten his peace and dignity, forcing him to stand up against a powerful system.",
       "releaseInfo": 2026,
-      "imdbRating": 8.3
+      "imdbRating": 7.8
     },
     {
       "id": "tt6262770",
@@ -211,16 +211,6 @@
       "imdbRating": 6.9
     },
     {
-      "id": "tt33379543",
-      "type": "movie",
-      "name": "Jana Nayagan",
-      "poster": "https://images.metahub.space/poster/medium/tt33379543/img",
-      "background": "https://images.metahub.space/background/medium/tt33379543/img",
-      "description": "A clash of ideologies. One stands for the people, the other feeds on control. Their paths collided once before. Years later, a child’s silent fear ignites the past, drawing a former police officer into a battle far bigger than personal revenge.",
-      "releaseInfo": 2026,
-      "imdbRating": 5.2
-    },
-    {
       "id": "tt0435625",
       "type": "movie",
       "name": "The Descent",
@@ -261,6 +251,16 @@
       "imdbRating": 6.6
     },
     {
+      "id": "tt33379543",
+      "type": "movie",
+      "name": "Jana Nayagan",
+      "poster": "https://images.metahub.space/poster/medium/tt33379543/img",
+      "background": "https://images.metahub.space/background/medium/tt33379543/img",
+      "description": "A clash of ideologies. One stands for the people, the other feeds on control. Their paths collided once before. Years later, a child’s silent fear ignites the past, drawing a former police officer into a battle far bigger than personal revenge.",
+      "releaseInfo": 2026,
+      "imdbRating": 5.2
+    },
+    {
       "id": "tt39108319",
       "type": "movie",
       "name": "Irumudi",
@@ -298,7 +298,7 @@
       "background": "https://images.metahub.space/background/medium/tt38672588/img",
       "description": "When a legendary thief sets his sights on the Mona Lisa, he recruits two young strangers to help him before revealing they are long-lost siblings… and oh yes, by the way, he is their father. Thrown into a chaotic reunion they never asked for, this new family must learn to work together — and try not to kill each other — if they want any chance at pulling off the heist of the century.",
       "releaseInfo": 2026,
-      "imdbRating": 5.4
+      "imdbRating": 5.5
     },
     {
       "id": "tt0103874",
