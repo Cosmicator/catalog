@@ -461,16 +461,6 @@
       "imdbRating": 6.5
     },
     {
-      "id": "tt17663992",
-      "type": "movie",
-      "name": "Scream VI",
-      "poster": "https://images.metahub.space/poster/medium/tt17663992/img",
-      "background": "https://images.metahub.space/background/medium/tt17663992/img",
-      "description": "Following the latest Ghostface killings, the four survivors leave Woodsboro behind and start a fresh chapter.",
-      "releaseInfo": 2023,
-      "imdbRating": 6.4
-    },
-    {
       "id": "tt13022984",
       "type": "movie",
       "name": "Khuda Haafiz: Chapter 2 - Agni Pariksha",
@@ -499,6 +489,16 @@
       "description": "A young artist tries to win the heart of his muse, while her mother hatches a scheme to end his quest for true love.",
       "releaseInfo": 2016,
       "imdbRating": 5.5
+    },
+    {
+      "id": "tt32267691",
+      "type": "movie",
+      "name": "Power Ballad",
+      "poster": "https://images.metahub.space/poster/medium/tt32267691/img",
+      "background": "https://images.metahub.space/background/medium/tt32267691/img",
+      "description": "When Rick, a past-his-prime wedding singer, meets fading boy-band star Danny during a gig, the two bond over music and a late-night jam session. But when Danny turns one of Rick’s songs into the hit that reignites his career, Rick sets out to reclaim the recognition he believes he deserves - even if it means risking everything he cares about.",
+      "releaseInfo": 2026,
+      "imdbRating": 6.7
     }
   ]
 }
