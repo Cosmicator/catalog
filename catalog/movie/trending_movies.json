@@ -11,6 +11,16 @@
       "imdbRating": 3.3
     },
     {
+      "id": "tt11663228",
+      "type": "movie",
+      "name": "Jailer",
+      "poster": "https://images.metahub.space/poster/medium/tt11663228/img",
+      "background": "https://images.metahub.space/background/medium/tt11663228/img",
+      "description": "Muthuvel Pandian, a retired, stern yet compassionate jailer lives a peaceful life with his family, but trouble knocks his door when his cop son’s tryst with an antique mafia gang goes awry and forces Muthu to step back into a dark world he had voluntarily took a break from.",
+      "releaseInfo": 2023,
+      "imdbRating": 7.2
+    },
+    {
       "id": "tt38265603",
       "type": "movie",
       "name": "Pradhama Drishtiya Kuttakkar",
@@ -48,7 +58,7 @@
       "background": "https://images.metahub.space/background/medium/tt33095205/img",
       "description": "A humble fisherman from Rameswaram lives a quiet life with his family until he finds a gold pendant washed ashore. What initially seems like a blessing soon turns into a nightmare when false accusations threaten his peace and dignity, forcing him to stand up against a powerful system.",
       "releaseInfo": 2026,
-      "imdbRating": 7.8
+      "imdbRating": 7.7
     },
     {
       "id": "tt6262770",
@@ -59,6 +69,16 @@
       "description": "The untold and inspiring tale of one of the most important mountain climbers in history who, with Edmund Hillary, became the first person to reach the summit of Mount Everest.",
       "releaseInfo": 2026,
       "imdbRating": 7.5
+    },
+    {
+      "id": "tt0080761",
+      "type": "movie",
+      "name": "Friday the 13th",
+      "poster": "https://images.metahub.space/poster/medium/tt0080761/img",
+      "background": "https://images.metahub.space/background/medium/tt0080761/img",
+      "description": "Camp counselors are stalked and murdered by an unknown assailant while trying to reopen a summer camp that was the site of a child's drowning.",
+      "releaseInfo": 1980,
+      "imdbRating": 6.3
     },
     {
       "id": "tt22084616",
@@ -148,17 +168,7 @@
       "background": "https://images.metahub.space/background/medium/tt38672588/img",
       "description": "When a legendary thief sets his sights on the Mona Lisa, he recruits two young strangers to help him before revealing they are long-lost siblings… and oh yes, by the way, he is their father. Thrown into a chaotic reunion they never asked for, this new family must learn to work together — and try not to kill each other — if they want any chance at pulling off the heist of the century.",
       "releaseInfo": 2026,
-      "imdbRating": 5.5
-    },
-    {
-      "id": "tt22797990",
-      "type": "movie",
-      "name": "Khalifa: The Ruler",
-      "poster": "https://images.metahub.space/poster/medium/tt22797990/img",
-      "background": "https://images.metahub.space/background/medium/tt22797990/img",
-      "description": "Aamir Ali, a notorious gold smuggling kingpin who inherited his multi-million dollar criminal enterprise from a lineage of gangsters, is drawn into a web of vengeance, legacy and power.",
-      "releaseInfo": 2026,
-      "imdbRating": 6
+      "imdbRating": 5.4
     },
     {
       "id": "tt37535100",
@@ -169,16 +179,6 @@
       "description": "Ashley's homecoming from abroad takes an emotional turn when a wedding next door stirs memories of her first love, Justin.",
       "releaseInfo": 2026,
       "imdbRating": 8
-    },
-    {
-      "id": "tt35448218",
-      "type": "movie",
-      "name": "Epic - First Semester",
-      "poster": "https://images.metahub.space/poster/medium/tt35448218/img",
-      "background": "https://images.metahub.space/background/medium/tt35448218/img",
-      "description": "Far from home, Aditya wrestles with family expectations, cultural differences and loneliness while studying in London – until he meets the lively Kadali.",
-      "releaseInfo": 2026,
-      "imdbRating": 5.2
     },
     {
       "id": "tt12583926",
@@ -199,16 +199,6 @@
       "description": "After 300 years of slumber, three sister witches are accidentally resurrected in Salem on Halloween night, and it is up to three kids and their newfound feline friend to put an end to the witches' reign of terror once and for all.",
       "releaseInfo": 1993,
       "imdbRating": 6.9
-    },
-    {
-      "id": "tt36300841",
-      "type": "movie",
-      "name": "Awarapan 2",
-      "poster": "https://images.metahub.space/poster/medium/tt36300841/img",
-      "background": "https://images.metahub.space/background/medium/tt36300841/img",
-      "description": "Once a feared gangster, Shivam lives hidden away from his past, with no faith left in God or himself. But when fate pulls him into Bangkok's cartel war and forces him back into the darkness he swore never to return to, Shivam must choose what he is willing to live for, when there is nothing left to lose.",
-      "releaseInfo": 2026,
-      "imdbRating": 5.9
     },
     {
       "id": "tt3011894",
@@ -289,6 +279,16 @@
       "description": "Small-town Kansas hairdresser Gail Daughtry's fiancé uses his 'celebrity sex pass' on Jennifer Aniston, prompting Gail to travel to LA with her friend Otto to find her own pass, Jon Hamm, to even the score.",
       "releaseInfo": 2026,
       "imdbRating": 6
+    },
+    {
+      "id": "tt35448218",
+      "type": "movie",
+      "name": "Epic - First Semester",
+      "poster": "https://images.metahub.space/poster/medium/tt35448218/img",
+      "background": "https://images.metahub.space/background/medium/tt35448218/img",
+      "description": "Far from home, Aditya wrestles with family expectations, cultural differences and loneliness while studying in London – until he meets the lively Kadali.",
+      "releaseInfo": 2026,
+      "imdbRating": 5.3
     },
     {
       "id": "tt33379543",
@@ -431,16 +431,6 @@
       "imdbRating": 8.3
     },
     {
-      "id": "tt22526100",
-      "type": "movie",
-      "name": "The Love Hypothesis",
-      "poster": "https://images.metahub.space/poster/medium/tt22526100/img",
-      "background": "https://images.metahub.space/background/medium/tt22526100/img",
-      "description": "Olive Smith, a biology PhD candidate, and Dr. Adam Carlsen, a hotshot professor and well-known tyrant, enter into a fake relationship, seeing each of their carefully calculated theories on love get thrown into chaos.",
-      "releaseInfo": 2026,
-      "imdbRating": 6.8
-    },
-    {
       "id": "tt36596965",
       "type": "movie",
       "name": "Mandaadi",
@@ -451,6 +441,16 @@
       "imdbRating": 8.2
     },
     {
+      "id": "tt22526100",
+      "type": "movie",
+      "name": "The Love Hypothesis",
+      "poster": "https://images.metahub.space/poster/medium/tt22526100/img",
+      "background": "https://images.metahub.space/background/medium/tt22526100/img",
+      "description": "Olive Smith, a biology PhD candidate, and Dr. Adam Carlsen, a hotshot professor and well-known tyrant, enter into a fake relationship, seeing each of their carefully calculated theories on love get thrown into chaos.",
+      "releaseInfo": 2026,
+      "imdbRating": 6.8
+    },
+    {
       "id": "tt1877830",
       "type": "movie",
       "name": "The Batman",
@@ -459,6 +459,16 @@
       "description": "In his second year of fighting crime, Batman uncovers corruption in Gotham City that connects to his own family while facing a serial killer known as the Riddler.",
       "releaseInfo": 2022,
       "imdbRating": 7.8
+    },
+    {
+      "id": "tt36300841",
+      "type": "movie",
+      "name": "Awarapan 2",
+      "poster": "https://images.metahub.space/poster/medium/tt36300841/img",
+      "background": "https://images.metahub.space/background/medium/tt36300841/img",
+      "description": "Once a feared gangster, Shivam lives hidden away from his past, with no faith left in God or himself. But when fate pulls him into Bangkok's cartel war and forces him back into the darkness he swore never to return to, Shivam must choose what he is willing to live for, when there is nothing left to lose.",
+      "releaseInfo": 2026,
+      "imdbRating": 5.9
     },
     {
       "id": "tt31184028",
@@ -489,16 +499,6 @@
       "description": "A Catholic school newcomer falls in with a clique of teen witches who wield their powers against all who dare to cross them -- be they teachers, rivals or meddlesome parents.",
       "releaseInfo": 1996,
       "imdbRating": 6.5
-    },
-    {
-      "id": "tt4399594",
-      "type": "movie",
-      "name": "Fitoor",
-      "poster": "https://images.metahub.space/poster/medium/tt4399594/img",
-      "background": "https://images.metahub.space/background/medium/tt4399594/img",
-      "description": "A young artist tries to win the heart of his muse, while her mother hatches a scheme to end his quest for true love.",
-      "releaseInfo": 2016,
-      "imdbRating": 5.5
     }
   ]
 }
