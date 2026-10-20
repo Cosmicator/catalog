@@ -221,16 +221,6 @@
       "imdbRating": 7
     },
     {
-      "id": "tt27032419",
-      "type": "movie",
-      "name": "Mrs.",
-      "poster": "https://images.metahub.space/poster/medium/tt27032419/img",
-      "background": "https://images.metahub.space/background/medium/tt27032419/img",
-      "description": "A newly wed finds herself in an overcooked and tasteless happily ever-after laced with patriarchal traditions.",
-      "releaseInfo": 2023,
-      "imdbRating": 6.7
-    },
-    {
       "id": "tt1951265",
       "type": "movie",
       "name": "The Hunger Games: Mockingjay - Part 1",
@@ -269,6 +259,16 @@
       "description": "To protect his family and their dark secret, Georgekutty faces an organized new threat. As walls close in and cracks widen, how much more is he willing to sacrifice?",
       "releaseInfo": 2026,
       "imdbRating": 6.6
+    },
+    {
+      "id": "tt1877830",
+      "type": "movie",
+      "name": "The Batman",
+      "poster": "https://images.metahub.space/poster/medium/tt1877830/img",
+      "background": "https://images.metahub.space/background/medium/tt1877830/img",
+      "description": "In his second year of fighting crime, Batman uncovers corruption in Gotham City that connects to his own family while facing a serial killer known as the Riddler.",
+      "releaseInfo": 2022,
+      "imdbRating": 7.8
     },
     {
       "id": "tt36834010",
@@ -321,16 +321,6 @@
       "imdbRating": 6.7
     },
     {
-      "id": "tt29120307",
-      "type": "movie",
-      "name": "Vanvaas",
-      "poster": "https://images.metahub.space/poster/medium/tt29120307/img",
-      "background": "https://images.metahub.space/background/medium/tt29120307/img",
-      "description": "Explores the dynamics of familial relationships, focusing on themes of sacrifice, emotional bonds, and the challenges of sustaining unity in modern times. The story delves into the lives of its central characters as they navigate conflicts and rediscover the importance of family values.",
-      "releaseInfo": 2024,
-      "imdbRating": 6.6
-    },
-    {
       "id": "tt0057012",
       "type": "movie",
       "name": "Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb",
@@ -359,6 +349,16 @@
       "description": "A young woman, traumatized by a tragic event in her past, seeks out vengeance against those who crossed her path.",
       "releaseInfo": 2020,
       "imdbRating": 7.5
+    },
+    {
+      "id": "tt29120307",
+      "type": "movie",
+      "name": "Vanvaas",
+      "poster": "https://images.metahub.space/poster/medium/tt29120307/img",
+      "background": "https://images.metahub.space/background/medium/tt29120307/img",
+      "description": "Explores the dynamics of familial relationships, focusing on themes of sacrifice, emotional bonds, and the challenges of sustaining unity in modern times. The story delves into the lives of its central characters as they navigate conflicts and rediscover the importance of family values.",
+      "releaseInfo": 2024,
+      "imdbRating": 6.6
     },
     {
       "id": "tt0110912",
@@ -451,16 +451,6 @@
       "imdbRating": 6.8
     },
     {
-      "id": "tt1877830",
-      "type": "movie",
-      "name": "The Batman",
-      "poster": "https://images.metahub.space/poster/medium/tt1877830/img",
-      "background": "https://images.metahub.space/background/medium/tt1877830/img",
-      "description": "In his second year of fighting crime, Batman uncovers corruption in Gotham City that connects to his own family while facing a serial killer known as the Riddler.",
-      "releaseInfo": 2022,
-      "imdbRating": 7.8
-    },
-    {
       "id": "tt36300841",
       "type": "movie",
       "name": "Awarapan 2",
@@ -478,6 +468,16 @@
       "background": "https://images.metahub.space/background/medium/tt31184028/img",
       "description": "Years into their relationship, Tim and Millie find themselves at a crossroads as they move to the country, abandoning all that is familiar in their lives except each other. With tensions already flaring, a nightmarish encounter with a mysterious, unnatural force threatens to corrupt their lives, their love, and their flesh.",
       "releaseInfo": 2025,
+      "imdbRating": 6.7
+    },
+    {
+      "id": "tt27032419",
+      "type": "movie",
+      "name": "Mrs.",
+      "poster": "https://images.metahub.space/poster/medium/tt27032419/img",
+      "background": "https://images.metahub.space/background/medium/tt27032419/img",
+      "description": "A newly wed finds herself in an overcooked and tasteless happily ever-after laced with patriarchal traditions.",
+      "releaseInfo": 2023,
       "imdbRating": 6.7
     },
     {

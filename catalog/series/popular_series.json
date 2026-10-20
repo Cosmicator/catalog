@@ -381,14 +381,14 @@
       "imdbRating": 9.5
     },
     {
-      "id": "tt4746820",
+      "id": "tt12343534",
       "type": "series",
-      "name": "MTV Splitsvilla",
-      "poster": "https://images.metahub.space/poster/medium/tt4746820/img",
-      "background": "https://images.metahub.space/background/medium/tt4746820/img",
-      "description": "Ready to witness the ultimate fight between the rules of science and the laws of love? 10 boys, 10 girls and an Oracle who will decide whether or not a couple makes the perfect match! It's time to 'catch your match', Splitsvilla style!",
-      "releaseInfo": 2008,
-      "imdbRating": 3.8
+      "name": "Jujutsu Kaisen",
+      "poster": "https://images.metahub.space/poster/medium/tt12343534/img",
+      "background": "https://images.metahub.space/background/medium/tt12343534/img",
+      "description": "A boy swallows a cursed talisman - the finger of a demon - and becomes cursed himself. He enters a shaman's school to be able to locate the demon's other body parts and thus exorcise himself.",
+      "releaseInfo": 2020,
+      "imdbRating": 8.5
     },
     {
       "id": "tt20096840",
@@ -411,14 +411,14 @@
       "imdbRating": 6.4
     },
     {
-      "id": "tt12343534",
+      "id": "tt31862809",
       "type": "series",
-      "name": "Jujutsu Kaisen",
-      "poster": "https://images.metahub.space/poster/medium/tt12343534/img",
-      "background": "https://images.metahub.space/background/medium/tt12343534/img",
-      "description": "A boy swallows a cursed talisman - the finger of a demon - and becomes cursed himself. He enters a shaman's school to be able to locate the demon's other body parts and thus exorcise himself.",
-      "releaseInfo": 2020,
-      "imdbRating": 8.5
+      "name": "Heart Beat",
+      "poster": "https://images.metahub.space/poster/medium/tt31862809/img",
+      "background": "https://images.metahub.space/background/medium/tt31862809/img",
+      "description": "Based around RK Multispeciality Hospital and its doctors, who are resilient as they deal with medical and personal challenges.",
+      "releaseInfo": 2024,
+      "imdbRating": 8.6
     },
     {
       "id": "tt34675596",
@@ -441,14 +441,14 @@
       "imdbRating": 9
     },
     {
-      "id": "tt31862809",
+      "id": "tt0388629",
       "type": "series",
-      "name": "Heart Beat",
-      "poster": "https://images.metahub.space/poster/medium/tt31862809/img",
-      "background": "https://images.metahub.space/background/medium/tt31862809/img",
-      "description": "Based around RK Multispeciality Hospital and its doctors, who are resilient as they deal with medical and personal challenges.",
-      "releaseInfo": 2024,
-      "imdbRating": 8.6
+      "name": "One Piece",
+      "poster": "https://images.metahub.space/poster/medium/tt0388629/img",
+      "background": "https://images.metahub.space/background/medium/tt0388629/img",
+      "description": "Years ago, the fearsome Pirate King, Gol D. Roger was executed leaving a huge pile of treasure and the famous \"One Piece\" behind. Whoever claims the \"One Piece\" will be named the new King of the Pirates.\n\nMonkey D. Luffy, a boy who consumed a \"Devil Fruit,\" decides to follow in the footsteps of his idol, the pirate Shanks, and find the One Piece. It helps, of course, that his body has the properties of rubber and that he's surrounded by a bevy of skilled fighters and thieves to help him along the way.\n\nLuffy will do anything to get the One Piece and become King of the Pirates!",
+      "releaseInfo": 1999,
+      "imdbRating": 9
     },
     {
       "id": "tt22202452",
@@ -471,16 +471,6 @@
       "imdbRating": 8
     },
     {
-      "id": "tt0388629",
-      "type": "series",
-      "name": "One Piece",
-      "poster": "https://images.metahub.space/poster/medium/tt0388629/img",
-      "background": "https://images.metahub.space/background/medium/tt0388629/img",
-      "description": "Years ago, the fearsome Pirate King, Gol D. Roger was executed leaving a huge pile of treasure and the famous \"One Piece\" behind. Whoever claims the \"One Piece\" will be named the new King of the Pirates.\n\nMonkey D. Luffy, a boy who consumed a \"Devil Fruit,\" decides to follow in the footsteps of his idol, the pirate Shanks, and find the One Piece. It helps, of course, that his body has the properties of rubber and that he's surrounded by a bevy of skilled fighters and thieves to help him along the way.\n\nLuffy will do anything to get the One Piece and become King of the Pirates!",
-      "releaseInfo": 1999,
-      "imdbRating": 9
-    },
-    {
       "id": "tt16418808",
       "type": "series",
       "name": "Sugar",
@@ -499,6 +489,16 @@
       "description": "A high school becomes ground zero for a zombie virus outbreak. Trapped students must fight their way out — or turn into one of the rabid infected.",
       "releaseInfo": 2022,
       "imdbRating": 7.6
+    },
+    {
+      "id": "tt11198330",
+      "type": "series",
+      "name": "House of the Dragon",
+      "poster": "https://images.metahub.space/poster/medium/tt11198330/img",
+      "background": "https://images.metahub.space/background/medium/tt11198330/img",
+      "description": "An internal succession war within House Targaryen at the height of its power, 172 years before the birth of Daenerys Targaryen.",
+      "releaseInfo": 2022,
+      "imdbRating": 8.2
     }
   ]
 }

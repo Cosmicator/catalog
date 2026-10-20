@@ -122,6 +122,14 @@
       "imdbRating": "8.7"
     },
     {
+      "id": "tt45712181",
+      "type": "series",
+      "name": "Indian Game Show",
+      "description": "Hosted by Bharti Singh and Harssh Limbachiyaa, this high-energy comedy game show features celebrity guests competing in hilarious physical challenges and quirky tasks, delivering non-stop laughter and family entertainment.",
+      "releaseInfo": "2026–",
+      "imdbRating": "8.7"
+    },
+    {
       "id": "tt31862809",
       "type": "series",
       "name": "Heart Beat",
@@ -386,6 +394,17 @@
       "imdbRating": "8.2"
     },
     {
+      "id": "tt13911628",
+      "type": "series",
+      "name": "Lessons in Chemistry",
+      "poster": "https://images.metahub.space/poster/small/tt13911628/img",
+      "background": "https://images.metahub.space/background/medium/tt13911628/img",
+      "logo": "https://images.metahub.space/logo/medium/tt13911628/img",
+      "description": "In the 1950s, Elizabeth Zott's dream of being a scientist is challenged by a society that says women belong in the domestic sphere; she accepts a job on a TV cooking show and sets out to teach a nation of housewives way more than ...",
+      "releaseInfo": "2023",
+      "imdbRating": "8.2"
+    },
+    {
       "id": "tt0758790",
       "type": "series",
       "name": "The Tudors",
@@ -441,17 +460,6 @@
       "imdbRating": "8.1"
     },
     {
-      "id": "tt8772296",
-      "type": "series",
-      "name": "Euphoria",
-      "poster": "https://images.metahub.space/poster/small/tt8772296/img",
-      "background": "https://images.metahub.space/background/medium/tt8772296/img",
-      "logo": "https://images.metahub.space/logo/medium/tt8772296/img",
-      "description": "A dark coming-of-age drama exploring love, addiction, friendship and identity in a world full of temptation and uncertainty.",
-      "releaseInfo": "2019–2026",
-      "imdbRating": "8.1"
-    },
-    {
       "id": "tt1515193",
       "type": "series",
       "name": "The Big C",
@@ -460,6 +468,17 @@
       "logo": "https://images.metahub.space/logo/medium/tt1515193/img",
       "description": "A suburban mother faces her cancer diagnosis while trying to find humor and happiness as well.",
       "releaseInfo": "2010–2013",
+      "imdbRating": "8.1"
+    },
+    {
+      "id": "tt8772296",
+      "type": "series",
+      "name": "Euphoria",
+      "poster": "https://images.metahub.space/poster/small/tt8772296/img",
+      "background": "https://images.metahub.space/background/medium/tt8772296/img",
+      "logo": "https://images.metahub.space/logo/medium/tt8772296/img",
+      "description": "A dark coming-of-age drama exploring love, addiction, friendship and identity in a world full of temptation and uncertainty.",
+      "releaseInfo": "2019–2026",
       "imdbRating": "8.1"
     },
     {
@@ -518,14 +537,6 @@
       "imdbRating": "8.0"
     },
     {
-      "id": "tt15404764",
-      "type": "series",
-      "name": "Titoo",
-      "description": "Titoo is an animated kids' comedy show that follows the daily escapades of eight-year-old boy Titoo. Though, he is a good-hearted, intelligent kid who loves to help everyone, but inadvertently manages to brew even more trouble.",
-      "releaseInfo": "2020–",
-      "imdbRating": "8.0"
-    },
-    {
       "id": "tt7587890",
       "type": "series",
       "name": "The Rookie",
@@ -534,17 +545,6 @@
       "logo": "https://images.metahub.space/logo/medium/tt7587890/img",
       "description": "Starting over isn't easy, especially for John Nolan who, after a life-altering incident, is pursuing his dream of joining the LAPD. As their oldest rookie, he's met with skepticism from those who see him as just a walking midlife ...",
       "releaseInfo": "2018–",
-      "imdbRating": "8.0"
-    },
-    {
-      "id": "tt10982034",
-      "type": "series",
-      "name": "Trying",
-      "poster": "https://images.metahub.space/poster/small/tt10982034/img",
-      "background": "https://images.metahub.space/background/medium/tt10982034/img",
-      "logo": "https://images.metahub.space/logo/medium/tt10982034/img",
-      "description": "All Jason and Nikki want is a baby, but it's the one thing they just can't have, so they decide to adopt. With their dysfunctional friends, screwball family, and chaotic lives, will the adoption panel think they're ready to be par...",
-      "releaseInfo": "2020–",
       "imdbRating": "8.0"
     }
   ]
