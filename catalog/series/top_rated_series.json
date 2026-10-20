@@ -122,14 +122,6 @@
       "imdbRating": "8.7"
     },
     {
-      "id": "tt45712181",
-      "type": "series",
-      "name": "Indian Game Show",
-      "description": "Hosted by Bharti Singh and Harssh Limbachiyaa, this high-energy comedy game show features celebrity guests competing in hilarious physical challenges and quirky tasks, delivering non-stop laughter and family entertainment.",
-      "releaseInfo": "2026–",
-      "imdbRating": "8.7"
-    },
-    {
       "id": "tt31862809",
       "type": "series",
       "name": "Heart Beat",
@@ -534,6 +526,14 @@
       "logo": "https://images.metahub.space/logo/medium/tt23649128/img",
       "description": "Follows a legacy Hollywood movie studio striving to survive in a world where it is increasingly difficult for art and business to live together.",
       "releaseInfo": "2025–",
+      "imdbRating": "8.0"
+    },
+    {
+      "id": "tt15404764",
+      "type": "series",
+      "name": "Titoo",
+      "description": "Titoo is an animated kids' comedy show that follows the daily escapades of eight-year-old boy Titoo. Though, he is a good-hearted, intelligent kid who loves to help everyone, but inadvertently manages to brew even more trouble.",
+      "releaseInfo": "2020–",
       "imdbRating": "8.0"
     },
     {

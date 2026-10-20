@@ -276,7 +276,7 @@
       "name": "Gail Daughtry and the Celebrity Sex Pass",
       "poster": "https://images.metahub.space/poster/medium/tt36834010/img",
       "background": "https://images.metahub.space/background/medium/tt36834010/img",
-      "description": "Small-town Kansas hairdresser Gail Daughtry's fiancé uses his 'celebrity sex pass' on Jennifer Aniston, prompting Gail to travel to LA with her friend Otto to find her own pass, Jon Hamm, to even the score.",
+      "description": "After her fiance sleeps with his celebrity crush, Kansas hairdresser Gail heads to Hollywood to even the score with her own famous fantasy — Jon Hamm.",
       "releaseInfo": 2026,
       "imdbRating": 6
     },
@@ -411,16 +411,6 @@
       "imdbRating": 5.5
     },
     {
-      "id": "tt36984281",
-      "type": "movie",
-      "name": "Video",
-      "poster": "https://images.metahub.space/poster/medium/tt36984281/img",
-      "background": "https://images.metahub.space/background/medium/tt36984281/img",
-      "description": "Three months after a group of Bengaluru vloggers vanishes while exploring India's most terrifying location, a travelling couple stumbles upon their abandoned cameras unlocking the chilling mystery of what really happened to them.",
-      "releaseInfo": 2026,
-      "imdbRating": 6.1
-    },
-    {
       "id": "tt32820897",
       "type": "movie",
       "name": "Demon Slayer: Kimetsu no Yaiba Infinity Castle",
@@ -499,6 +489,16 @@
       "description": "A Catholic school newcomer falls in with a clique of teen witches who wield their powers against all who dare to cross them -- be they teachers, rivals or meddlesome parents.",
       "releaseInfo": 1996,
       "imdbRating": 6.5
+    },
+    {
+      "id": "tt21867434",
+      "type": "movie",
+      "name": "BlackBerry",
+      "poster": "https://images.metahub.space/poster/medium/tt21867434/img",
+      "background": "https://images.metahub.space/background/medium/tt21867434/img",
+      "description": "Two mismatched entrepreneurs – egghead innovator Mike Lazaridis and cut-throat businessman Jim Balsillie – joined forces in an endeavour that was to become a worldwide hit in little more than a decade. The story of the meteoric rise and catastrophic demise of the world's first smartphone.",
+      "releaseInfo": 2023,
+      "imdbRating": 7.3
     }
   ]
 }
