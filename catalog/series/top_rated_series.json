@@ -111,14 +111,6 @@
       "imdbRating": "8.7"
     },
     {
-      "id": "tt45712181",
-      "type": "series",
-      "name": "Indian Game Show",
-      "description": "Hosted by Bharti Singh and Harssh Limbachiyaa, this high-energy comedy game show features celebrity guests competing in hilarious physical challenges and quirky tasks, delivering non-stop laughter and family entertainment.",
-      "releaseInfo": "2026–",
-      "imdbRating": "8.7"
-    },
-    {
       "id": "tt31862809",
       "type": "series",
       "name": "Heart Beat",
@@ -174,17 +166,6 @@
       "imdbRating": "8.5"
     },
     {
-      "id": "tt12343534",
-      "type": "series",
-      "name": "Jujutsu Kaisen",
-      "poster": "https://images.metahub.space/poster/small/tt12343534/img",
-      "background": "https://images.metahub.space/background/medium/tt12343534/img",
-      "logo": "https://images.metahub.space/logo/medium/tt12343534/img",
-      "description": "After swallowing a cursed relic, kindhearted teenager Yuji Itadori becomes host to the King of Curses and joins a secret school of sorcerers battling monsters born from humanity's darkest emotions.",
-      "releaseInfo": "2020–",
-      "imdbRating": "8.5"
-    },
-    {
       "id": "tt3526078",
       "type": "series",
       "name": "Schitt's Creek",
@@ -196,14 +177,14 @@
       "imdbRating": "8.5"
     },
     {
-      "id": "tt4093826",
+      "id": "tt12343534",
       "type": "series",
-      "name": "Twin Peaks",
-      "poster": "https://images.metahub.space/poster/small/tt4093826/img",
-      "background": "https://images.metahub.space/background/medium/tt4093826/img",
-      "logo": "https://images.metahub.space/logo/medium/tt4093826/img",
-      "description": "Picks up 25 years after the inhabitants of a quaint northwestern town are stunned when their homecoming queen is murdered.",
-      "releaseInfo": "2017",
+      "name": "Jujutsu Kaisen",
+      "poster": "https://images.metahub.space/poster/small/tt12343534/img",
+      "background": "https://images.metahub.space/background/medium/tt12343534/img",
+      "logo": "https://images.metahub.space/logo/medium/tt12343534/img",
+      "description": "After swallowing a cursed relic, kindhearted teenager Yuji Itadori becomes host to the King of Curses and joins a secret school of sorcerers battling monsters born from humanity's darkest emotions.",
+      "releaseInfo": "2020–",
       "imdbRating": "8.5"
     },
     {
@@ -226,6 +207,17 @@
       "logo": "https://images.metahub.space/logo/medium/tt21209876/img",
       "description": "Follows the adventures of Sung Jinwoo in a world that is constantly threatened by monsters and evil forces. In his battles Sung transforms himself from the weakest hunter of all mankind to one of the strongest hunters in existence.",
       "releaseInfo": "2024–",
+      "imdbRating": "8.5"
+    },
+    {
+      "id": "tt4093826",
+      "type": "series",
+      "name": "Twin Peaks",
+      "poster": "https://images.metahub.space/poster/small/tt4093826/img",
+      "background": "https://images.metahub.space/background/medium/tt4093826/img",
+      "logo": "https://images.metahub.space/logo/medium/tt4093826/img",
+      "description": "Picks up 25 years after the inhabitants of a quaint northwestern town are stunned when their homecoming queen is murdered.",
+      "releaseInfo": "2017",
       "imdbRating": "8.5"
     },
     {
@@ -383,6 +375,17 @@
       "imdbRating": "8.2"
     },
     {
+      "id": "tt13911628",
+      "type": "series",
+      "name": "Lessons in Chemistry",
+      "poster": "https://images.metahub.space/poster/small/tt13911628/img",
+      "background": "https://images.metahub.space/background/medium/tt13911628/img",
+      "logo": "https://images.metahub.space/logo/medium/tt13911628/img",
+      "description": "In the 1950s, Elizabeth Zott's dream of being a scientist is challenged by a society that says women belong in the domestic sphere; she accepts a job on a TV cooking show and sets out to teach a nation of housewives way more than ...",
+      "releaseInfo": "2023",
+      "imdbRating": "8.2"
+    },
+    {
       "id": "tt15469618",
       "type": "series",
       "name": "Bad Sisters",
@@ -515,17 +518,6 @@
       "imdbRating": "8.0"
     },
     {
-      "id": "tt4643084",
-      "type": "series",
-      "name": "Counterpart",
-      "poster": "https://images.metahub.space/poster/small/tt4643084/img",
-      "background": "https://images.metahub.space/background/medium/tt4643084/img",
-      "logo": "https://images.metahub.space/logo/medium/tt4643084/img",
-      "description": "A cog in a bureaucratic agency discovers his agency is guarding a crossing to a parallel dimension.",
-      "releaseInfo": "2017–2019",
-      "imdbRating": "8.0"
-    },
-    {
       "id": "tt23649128",
       "type": "series",
       "name": "The Studio",
@@ -534,6 +526,17 @@
       "logo": "https://images.metahub.space/logo/medium/tt23649128/img",
       "description": "Follows a legacy Hollywood movie studio striving to survive in a world where it is increasingly difficult for art and business to live together.",
       "releaseInfo": "2025–",
+      "imdbRating": "8.0"
+    },
+    {
+      "id": "tt4643084",
+      "type": "series",
+      "name": "Counterpart",
+      "poster": "https://images.metahub.space/poster/small/tt4643084/img",
+      "background": "https://images.metahub.space/background/medium/tt4643084/img",
+      "logo": "https://images.metahub.space/logo/medium/tt4643084/img",
+      "description": "A cog in a bureaucratic agency discovers his agency is guarding a crossing to a parallel dimension.",
+      "releaseInfo": "2017–2019",
       "imdbRating": "8.0"
     },
     {

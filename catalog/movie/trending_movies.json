@@ -38,7 +38,7 @@
       "background": "https://images.metahub.space/background/medium/tt33095205/img",
       "description": "A humble fisherman from Rameswaram lives a quiet life with his family until he finds a gold pendant washed ashore. What initially seems like a blessing soon turns into a nightmare when false accusations threaten his peace and dignity, forcing him to stand up against a powerful system.",
       "releaseInfo": 2026,
-      "imdbRating": 7.7
+      "imdbRating": 7.6
     },
     {
       "id": "tt6262770",
@@ -131,16 +131,6 @@
       "imdbRating": 7.8
     },
     {
-      "id": "tt35836025",
-      "type": "movie",
-      "name": "Vishwanath & Sons",
-      "poster": "https://images.metahub.space/poster/medium/tt35836025/img",
-      "background": "https://images.metahub.space/background/medium/tt35836025/img",
-      "description": "A celebrated Olympian shooter travels to America looking for a donor to help his sick child — but unexpected romance complicates his search.",
-      "releaseInfo": 2026,
-      "imdbRating": 7.2
-    },
-    {
       "id": "tt15047880",
       "type": "movie",
       "name": "Disclosure Day",
@@ -149,6 +139,16 @@
       "description": "If you found out we weren’t alone in the universe, would that frighten you?",
       "releaseInfo": 2026,
       "imdbRating": 6.4
+    },
+    {
+      "id": "tt35836025",
+      "type": "movie",
+      "name": "Vishwanath & Sons",
+      "poster": "https://images.metahub.space/poster/medium/tt35836025/img",
+      "background": "https://images.metahub.space/background/medium/tt35836025/img",
+      "description": "A celebrated Olympian shooter travels to America looking for a donor to help his sick child — but unexpected romance complicates his search.",
+      "releaseInfo": 2026,
+      "imdbRating": 7.2
     },
     {
       "id": "tt38672588",
@@ -249,26 +249,6 @@
       "description": "In his second year of fighting crime, Batman uncovers corruption in Gotham City that connects to his own family while facing a serial killer known as the Riddler.",
       "releaseInfo": 2022,
       "imdbRating": 7.8
-    },
-    {
-      "id": "tt9619824",
-      "type": "movie",
-      "name": "Final Destination Bloodlines",
-      "poster": "https://images.metahub.space/poster/medium/tt9619824/img",
-      "background": "https://images.metahub.space/background/medium/tt9619824/img",
-      "description": "Plagued by a violent recurring nightmare, college student Stefanie heads home to track down the one person who might be able to break the cycle and save her family from the grisly demise that inevitably awaits them all.",
-      "releaseInfo": 2025,
-      "imdbRating": 6.7
-    },
-    {
-      "id": "tt35448218",
-      "type": "movie",
-      "name": "Epic - First Semester",
-      "poster": "https://images.metahub.space/poster/medium/tt35448218/img",
-      "background": "https://images.metahub.space/background/medium/tt35448218/img",
-      "description": "Far from home, Aditya wrestles with family expectations, cultural differences and loneliness while studying in London – until he meets the lively Kadali.",
-      "releaseInfo": 2026,
-      "imdbRating": 5.3
     },
     {
       "id": "tt0110912",
@@ -391,6 +371,16 @@
       "imdbRating": 6.6
     },
     {
+      "id": "tt9619824",
+      "type": "movie",
+      "name": "Final Destination Bloodlines",
+      "poster": "https://images.metahub.space/poster/medium/tt9619824/img",
+      "background": "https://images.metahub.space/background/medium/tt9619824/img",
+      "description": "Plagued by a violent recurring nightmare, college student Stefanie heads home to track down the one person who might be able to break the cycle and save her family from the grisly demise that inevitably awaits them all.",
+      "releaseInfo": 2025,
+      "imdbRating": 6.7
+    },
+    {
       "id": "tt0057012",
       "type": "movie",
       "name": "Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb",
@@ -419,16 +409,6 @@
       "description": "In 1967 Los Angeles, a widowed mother's daughter tries to communicate with her late father through a Ouija board, but unleashes a demon instead.",
       "releaseInfo": 2016,
       "imdbRating": 6.2
-    },
-    {
-      "id": "tt0363771",
-      "type": "movie",
-      "name": "The Chronicles of Narnia: The Lion, the Witch and the Wardrobe",
-      "poster": "https://images.metahub.space/poster/medium/tt0363771/img",
-      "background": "https://images.metahub.space/background/medium/tt0363771/img",
-      "description": "Four kids travel through a wardrobe to the land of Narnia and learn of their destiny to free it with the guidance of a mystical lion.",
-      "releaseInfo": 2005,
-      "imdbRating": 6.9
     },
     {
       "id": "tt39139925",
@@ -461,16 +441,6 @@
       "imdbRating": 6.6
     },
     {
-      "id": "tt36300841",
-      "type": "movie",
-      "name": "Awarapan 2",
-      "poster": "https://images.metahub.space/poster/medium/tt36300841/img",
-      "background": "https://images.metahub.space/background/medium/tt36300841/img",
-      "description": "Once a feared gangster, Shivam lives hidden away from his past, with no faith left in God or himself. But when fate pulls him into Bangkok's cartel war and forces him back into the darkness he swore never to return to, Shivam must choose what he is willing to live for, when there is nothing left to lose.",
-      "releaseInfo": 2026,
-      "imdbRating": 5.9
-    },
-    {
       "id": "tt0115963",
       "type": "movie",
       "name": "The Craft",
@@ -499,6 +469,36 @@
       "description": "In the Salinas Valley in and around World War I, Cal Trask feels he must compete against overwhelming odds with his brother for the love of their father. Cal is frustrated at every turn, from his reaction to the war, how to get ahead in business and in life, and how to relate to his estranged mother.",
       "releaseInfo": 1955,
       "imdbRating": 7.8
+    },
+    {
+      "id": "tt38916037",
+      "type": "movie",
+      "name": "Lenin Pandiyan",
+      "poster": "https://images.metahub.space/poster/medium/tt38916037/img",
+      "background": "https://images.metahub.space/background/medium/tt38916037/img",
+      "description": "Illegal sand mafia activities unite a group of affected farmers, a policeman serving punishment duty, the judiciary, and a corrupt businessman.",
+      "releaseInfo": 2026,
+      "imdbRating": 7.7
+    },
+    {
+      "id": "tt17279496",
+      "type": "movie",
+      "name": "Civil War",
+      "poster": "https://images.metahub.space/poster/medium/tt17279496/img",
+      "background": "https://images.metahub.space/background/medium/tt17279496/img",
+      "description": "In the midst of a U.S. civil war, four reporters make the dangerous trip to the capital to interview the president before he is overthrown.",
+      "releaseInfo": 2024,
+      "imdbRating": 7
+    },
+    {
+      "id": "tt27032419",
+      "type": "movie",
+      "name": "Mrs.",
+      "poster": "https://images.metahub.space/poster/medium/tt27032419/img",
+      "background": "https://images.metahub.space/background/medium/tt27032419/img",
+      "description": "A newly wed finds herself in an overcooked and tasteless happily ever-after laced with patriarchal traditions.",
+      "releaseInfo": 2023,
+      "imdbRating": 6.7
     }
   ]
 }
