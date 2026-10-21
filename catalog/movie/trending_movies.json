@@ -381,16 +381,6 @@
       "imdbRating": 6.7
     },
     {
-      "id": "tt0057012",
-      "type": "movie",
-      "name": "Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb",
-      "poster": "https://images.metahub.space/poster/medium/tt0057012/img",
-      "background": "https://images.metahub.space/background/medium/tt0057012/img",
-      "description": "After the insane General Jack D. Ripper initiates a nuclear strike on the Soviet Union, a war room full of politicians, generals and a Russian diplomat all frantically try to stop it.",
-      "releaseInfo": 1964,
-      "imdbRating": 8.3
-    },
-    {
       "id": "tt43737953",
       "type": "movie",
       "name": "Hushar Pittalu",
@@ -399,6 +389,16 @@
       "description": "In a village, two teenagers, Ravi and Chitti, are drawn into a secret relationship as curiosity, adolescence, and bad influences shape their choices. When their families discover the affair, the couple defies them, setting off a chain of events that reveals how parental mistakes, peer pressure, and youthful attraction can alter young lives forever.",
       "releaseInfo": 2026,
       "imdbRating": 8.2
+    },
+    {
+      "id": "tt0057012",
+      "type": "movie",
+      "name": "Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb",
+      "poster": "https://images.metahub.space/poster/medium/tt0057012/img",
+      "background": "https://images.metahub.space/background/medium/tt0057012/img",
+      "description": "After the insane General Jack D. Ripper initiates a nuclear strike on the Soviet Union, a war room full of politicians, generals and a Russian diplomat all frantically try to stop it.",
+      "releaseInfo": 1964,
+      "imdbRating": 8.3
     },
     {
       "id": "tt4361050",
@@ -461,26 +461,6 @@
       "imdbRating": 8.3
     },
     {
-      "id": "tt0048028",
-      "type": "movie",
-      "name": "East of Eden",
-      "poster": "https://images.metahub.space/poster/medium/tt0048028/img",
-      "background": "https://images.metahub.space/background/medium/tt0048028/img",
-      "description": "In the Salinas Valley in and around World War I, Cal Trask feels he must compete against overwhelming odds with his brother for the love of their father. Cal is frustrated at every turn, from his reaction to the war, how to get ahead in business and in life, and how to relate to his estranged mother.",
-      "releaseInfo": 1955,
-      "imdbRating": 7.8
-    },
-    {
-      "id": "tt38916037",
-      "type": "movie",
-      "name": "Lenin Pandiyan",
-      "poster": "https://images.metahub.space/poster/medium/tt38916037/img",
-      "background": "https://images.metahub.space/background/medium/tt38916037/img",
-      "description": "Illegal sand mafia activities unite a group of affected farmers, a policeman serving punishment duty, the judiciary, and a corrupt businessman.",
-      "releaseInfo": 2026,
-      "imdbRating": 7.7
-    },
-    {
       "id": "tt17279496",
       "type": "movie",
       "name": "Civil War",
@@ -499,6 +479,26 @@
       "description": "A newly wed finds herself in an overcooked and tasteless happily ever-after laced with patriarchal traditions.",
       "releaseInfo": 2023,
       "imdbRating": 6.7
+    },
+    {
+      "id": "tt0082495",
+      "type": "movie",
+      "name": "Halloween II",
+      "poster": "https://images.metahub.space/poster/medium/tt0082495/img",
+      "background": "https://images.metahub.space/background/medium/tt0082495/img",
+      "description": "After failing to kill stubborn survivor Laurie and taking a bullet or six from former psychiatrist Dr. Sam Loomis, Michael Myers has followed Laurie to the Haddonfield Memorial Hospital, where she's been admitted for Myers' attempt on her life. The institution proves to be particularly suited to serial killers, however, as Myers cuts, stabs and slashes his way through hospital staff to reach his favorite victim.",
+      "releaseInfo": 1981,
+      "imdbRating": 6.5
+    },
+    {
+      "id": "tt33014583",
+      "type": "movie",
+      "name": "Dhurandhar",
+      "poster": "https://images.metahub.space/poster/medium/tt33014583/img",
+      "background": "https://images.metahub.space/background/medium/tt33014583/img",
+      "description": "In the early 2000s, an undercover operative infiltrates Karachi's underworld, breaking into its inner circle to dismantle a violent nexus from within.",
+      "releaseInfo": 2025,
+      "imdbRating": 8.2
     }
   ]
 }
