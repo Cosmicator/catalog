@@ -122,17 +122,6 @@
       "imdbRating": "8.6"
     },
     {
-      "id": "tt31862809",
-      "type": "series",
-      "name": "Heart Beat",
-      "poster": "https://live.metahub.space/poster/small/tt31862809/img",
-      "background": "https://live.metahub.space/background/medium/tt31862809/img",
-      "logo": "https://live.metahub.space/logo/medium/tt31862809/img",
-      "description": "RK Multispeciality Hospital is a beacon of hope and healing. Its doctors are resilient even when they have to deal with medical and personal challenges.",
-      "releaseInfo": "2024–",
-      "imdbRating": "8.6"
-    },
-    {
       "id": "tt11280740",
       "type": "series",
       "name": "Severance",
@@ -141,6 +130,17 @@
       "logo": "https://images.metahub.space/logo/medium/tt11280740/img",
       "description": "Mark leads a team of office workers whose memories have been surgically divided between their work and personal lives. When a mysterious colleague appears outside of work, it begins a journey to discover the truth about their jobs.",
       "releaseInfo": "2022–",
+      "imdbRating": "8.6"
+    },
+    {
+      "id": "tt31862809",
+      "type": "series",
+      "name": "Heart Beat",
+      "poster": "https://live.metahub.space/poster/small/tt31862809/img",
+      "background": "https://live.metahub.space/background/medium/tt31862809/img",
+      "logo": "https://live.metahub.space/logo/medium/tt31862809/img",
+      "description": "RK Multispeciality Hospital is a beacon of hope and healing. Its doctors are resilient even when they have to deal with medical and personal challenges.",
+      "releaseInfo": "2024–",
       "imdbRating": "8.6"
     },
     {
@@ -221,17 +221,6 @@
       "imdbRating": "8.5"
     },
     {
-      "id": "tt4158110",
-      "type": "series",
-      "name": "Mr. Robot",
-      "poster": "https://images.metahub.space/poster/small/tt4158110/img",
-      "background": "https://images.metahub.space/background/medium/tt4158110/img",
-      "logo": "https://images.metahub.space/logo/medium/tt4158110/img",
-      "description": "Elliot, a brilliant but unstable cyber-security engineer and vigilante hacker, becomes a key figure in a complex game of global chaos when he and his shadowy allies try to take down the corrupt corporation his company is paid to p...",
-      "releaseInfo": "2015–2019",
-      "imdbRating": "8.5"
-    },
-    {
       "id": "tt4093826",
       "type": "series",
       "name": "Twin Peaks",
@@ -243,14 +232,14 @@
       "imdbRating": "8.5"
     },
     {
-      "id": "tt21209876",
+      "id": "tt4158110",
       "type": "series",
-      "name": "Solo Leveling",
-      "poster": "https://images.metahub.space/poster/small/tt21209876/img",
-      "background": "https://images.metahub.space/background/medium/tt21209876/img",
-      "logo": "https://images.metahub.space/logo/medium/tt21209876/img",
-      "description": "Follows the adventures of Sung Jinwoo in a world that is constantly threatened by monsters and evil forces. In his battles Sung transforms himself from the weakest hunter of all mankind to one of the strongest hunters in existence.",
-      "releaseInfo": "2024–",
+      "name": "Mr. Robot",
+      "poster": "https://images.metahub.space/poster/small/tt4158110/img",
+      "background": "https://images.metahub.space/background/medium/tt4158110/img",
+      "logo": "https://images.metahub.space/logo/medium/tt4158110/img",
+      "description": "Elliot, a brilliant but unstable cyber-security engineer and vigilante hacker, becomes a key figure in a complex game of global chaos when he and his shadowy allies try to take down the corrupt corporation his company is paid to p...",
+      "releaseInfo": "2015–2019",
       "imdbRating": "8.5"
     },
     {
@@ -441,17 +430,6 @@
       "imdbRating": "8.2"
     },
     {
-      "id": "tt15469618",
-      "type": "series",
-      "name": "Bad Sisters",
-      "poster": "https://images.metahub.space/poster/small/tt15469618/img",
-      "background": "https://images.metahub.space/background/medium/tt15469618/img",
-      "logo": "https://images.metahub.space/logo/medium/tt15469618/img",
-      "description": "The Garvey sisters are bound together by their parents' deaths and a promise to always protect one another.",
-      "releaseInfo": "2022–",
-      "imdbRating": "8.2"
-    },
-    {
       "id": "tt0758790",
       "type": "series",
       "name": "The Tudors",
@@ -485,17 +463,6 @@
       "imdbRating": "8.1"
     },
     {
-      "id": "tt26915338",
-      "type": "series",
-      "name": "Gyaarah Gyaarah",
-      "poster": "https://images.metahub.space/poster/small/tt26915338/img",
-      "background": "https://images.metahub.space/background/medium/tt26915338/img",
-      "logo": "https://images.metahub.space/logo/medium/tt26915338/img",
-      "description": "Investigative drama following events in 1990, 2001, 2016. Intertwining storylines blending mysticism, science and mystery across the decades.",
-      "releaseInfo": "2024–",
-      "imdbRating": "8.1"
-    },
-    {
       "id": "tt7772588",
       "type": "series",
       "name": "For All Mankind",
@@ -507,14 +474,14 @@
       "imdbRating": "8.1"
     },
     {
-      "id": "tt8772296",
+      "id": "tt26915338",
       "type": "series",
-      "name": "Euphoria",
-      "poster": "https://images.metahub.space/poster/small/tt8772296/img",
-      "background": "https://images.metahub.space/background/medium/tt8772296/img",
-      "logo": "https://images.metahub.space/logo/medium/tt8772296/img",
-      "description": "A dark coming-of-age drama exploring love, addiction, friendship and identity in a world full of temptation and uncertainty.",
-      "releaseInfo": "2019–2026",
+      "name": "Gyaarah Gyaarah",
+      "poster": "https://images.metahub.space/poster/small/tt26915338/img",
+      "background": "https://images.metahub.space/background/medium/tt26915338/img",
+      "logo": "https://images.metahub.space/logo/medium/tt26915338/img",
+      "description": "Investigative drama following events in 1990, 2001, 2016. Intertwining storylines blending mysticism, science and mystery across the decades.",
+      "releaseInfo": "2024–",
       "imdbRating": "8.1"
     },
     {
@@ -526,6 +493,17 @@
       "logo": "https://images.metahub.space/logo/medium/tt14688458/img",
       "description": "Men and women live in a giant silo underground with several regulations which they believe are in place to protect them from the toxic and ruined world on the surface.",
       "releaseInfo": "2023–",
+      "imdbRating": "8.1"
+    },
+    {
+      "id": "tt8772296",
+      "type": "series",
+      "name": "Euphoria",
+      "poster": "https://images.metahub.space/poster/small/tt8772296/img",
+      "background": "https://images.metahub.space/background/medium/tt8772296/img",
+      "logo": "https://images.metahub.space/logo/medium/tt8772296/img",
+      "description": "A dark coming-of-age drama exploring love, addiction, friendship and identity in a world full of temptation and uncertainty.",
+      "releaseInfo": "2019–2026",
       "imdbRating": "8.1"
     },
     {
@@ -548,6 +526,28 @@
       "logo": "https://images.metahub.space/logo/medium/tt1515193/img",
       "description": "A suburban mother faces her cancer diagnosis while trying to find humor and happiness as well.",
       "releaseInfo": "2010–2013",
+      "imdbRating": "8.1"
+    },
+    {
+      "id": "tt0092400",
+      "type": "series",
+      "name": "Married... with Children",
+      "poster": "https://images.metahub.space/poster/small/tt0092400/img",
+      "background": "https://images.metahub.space/background/medium/tt0092400/img",
+      "logo": "https://images.metahub.space/logo/medium/tt0092400/img",
+      "description": "Al is the quintessential working class dad. Peggy, his wife, always wants more from him. With their children, they go through the highs and lows of ordinary life.",
+      "releaseInfo": "1987–1997",
+      "imdbRating": "8.1"
+    },
+    {
+      "id": "tt4301160",
+      "type": "series",
+      "name": "Black Bird",
+      "poster": "https://images.metahub.space/poster/small/tt4301160/img",
+      "background": "https://images.metahub.space/background/medium/tt4301160/img",
+      "logo": "https://images.metahub.space/logo/medium/tt4301160/img",
+      "description": "Jimmy Keene is sentenced to 10 years in a minimum security prison but he cuts a deal with the FBI to befriend a suspected serial killer. Keene has to elicit a confession from Larry Hall to find the bodies of as many as eighteen wo...",
+      "releaseInfo": "2022",
       "imdbRating": "8.1"
     }
   ]

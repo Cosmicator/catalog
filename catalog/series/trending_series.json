@@ -41,16 +41,6 @@
       "imdbRating": 8.4
     },
     {
-      "id": "tt0445883",
-      "type": "series",
-      "name": "Koffee with Karan",
-      "poster": "https://images.metahub.space/poster/medium/tt0445883/img",
-      "background": "https://images.metahub.space/background/medium/tt0445883/img",
-      "description": "Celebrity host Karan Johar gets up close and personal with various Bollywood personalities and discusses their major career milestones.",
-      "releaseInfo": 2004,
-      "imdbRating": 6.3
-    },
-    {
       "id": "tt6473300",
       "type": "series",
       "name": "Mirzapur",
@@ -69,6 +59,16 @@
       "description": "The Tudors is a history-based drama series following the young, vibrant King Henry VIII, a competitive and lustful monarch who navigates the intrigues of the English court and the human heart with equal vigor and justifiable suspicion.",
       "releaseInfo": 2007,
       "imdbRating": 8.1
+    },
+    {
+      "id": "tt0445883",
+      "type": "series",
+      "name": "Koffee with Karan",
+      "poster": "https://images.metahub.space/poster/medium/tt0445883/img",
+      "background": "https://images.metahub.space/background/medium/tt0445883/img",
+      "description": "Celebrity host Karan Johar gets up close and personal with various Bollywood personalities and discusses their major career milestones.",
+      "releaseInfo": 2004,
+      "imdbRating": 6.3
     },
     {
       "id": "tt7441658",
@@ -91,16 +91,6 @@
       "imdbRating": 8.1
     },
     {
-      "id": "tt0944947",
-      "type": "series",
-      "name": "Game of Thrones",
-      "poster": "https://images.metahub.space/poster/medium/tt0944947/img",
-      "background": "https://images.metahub.space/background/medium/tt0944947/img",
-      "description": "Seven noble families fight for control of the mythical land of Westeros. Friction between the houses leads to full-scale war. All while a very ancient evil awakens in the farthest north. Amidst the war, a neglected military order of misfits, the Night's Watch, is all that stands between the realms of men and icy horrors beyond.",
-      "releaseInfo": 2011,
-      "imdbRating": 9.2
-    },
-    {
       "id": "tt33546863",
       "type": "series",
       "name": "Off Campus",
@@ -121,14 +111,14 @@
       "imdbRating": 8.1
     },
     {
-      "id": "tt31510819",
+      "id": "tt23112594",
       "type": "series",
-      "name": "MobLand",
-      "poster": "https://images.metahub.space/poster/medium/tt31510819/img",
-      "background": "https://images.metahub.space/background/medium/tt31510819/img",
-      "description": "Two mob families clash in a war that threatens to topple empires and lives.",
-      "releaseInfo": 2025,
-      "imdbRating": 8.3
+      "name": "VisionQuest",
+      "poster": "https://images.metahub.space/poster/medium/tt23112594/img",
+      "background": "https://images.metahub.space/background/medium/tt23112594/img",
+      "description": "With a bounty on his head, Vision must confront his nature and resist Ultron's influence to survive.",
+      "releaseInfo": 2026,
+      "imdbRating": 8
     },
     {
       "id": "tt17491088",
@@ -151,14 +141,14 @@
       "imdbRating": 7
     },
     {
-      "id": "tt26915338",
+      "id": "tt0944947",
       "type": "series",
-      "name": "Gyaarah Gyaarah",
-      "poster": "https://images.metahub.space/poster/medium/tt26915338/img",
-      "background": "https://images.metahub.space/background/medium/tt26915338/img",
-      "description": "Investigative drama following events in 1990, 2001, 2016. Intertwining storylines blending mysticism, science and mystery across the decades.",
-      "releaseInfo": 2024,
-      "imdbRating": 8.1
+      "name": "Game of Thrones",
+      "poster": "https://images.metahub.space/poster/medium/tt0944947/img",
+      "background": "https://images.metahub.space/background/medium/tt0944947/img",
+      "description": "Seven noble families fight for control of the mythical land of Westeros. Friction between the houses leads to full-scale war. All while a very ancient evil awakens in the farthest north. Amidst the war, a neglected military order of misfits, the Night's Watch, is all that stands between the realms of men and icy horrors beyond.",
+      "releaseInfo": 2011,
+      "imdbRating": 9.2
     },
     {
       "id": "tt30003786",
@@ -181,14 +171,14 @@
       "imdbRating": 7.2
     },
     {
-      "id": "tt0388629",
+      "id": "tt31510819",
       "type": "series",
-      "name": "One Piece",
-      "poster": "https://images.metahub.space/poster/medium/tt0388629/img",
-      "background": "https://images.metahub.space/background/medium/tt0388629/img",
-      "description": "Years ago, the fearsome Pirate King, Gol D. Roger was executed leaving a huge pile of treasure and the famous \"One Piece\" behind. Whoever claims the \"One Piece\" will be named the new King of the Pirates.\n\nMonkey D. Luffy, a boy who consumed a \"Devil Fruit,\" decides to follow in the footsteps of his idol, the pirate Shanks, and find the One Piece. It helps, of course, that his body has the properties of rubber and that he's surrounded by a bevy of skilled fighters and thieves to help him along the way.\n\nLuffy will do anything to get the One Piece and become King of the Pirates!",
-      "releaseInfo": 1999,
-      "imdbRating": 9
+      "name": "MobLand",
+      "poster": "https://images.metahub.space/poster/medium/tt31510819/img",
+      "background": "https://images.metahub.space/background/medium/tt31510819/img",
+      "description": "Two mob families clash in a war that threatens to topple empires and lives.",
+      "releaseInfo": 2025,
+      "imdbRating": 8.3
     },
     {
       "id": "tt9813792",
@@ -211,14 +201,14 @@
       "imdbRating": 7.6
     },
     {
-      "id": "tt8317568",
+      "id": "tt26915338",
       "type": "series",
-      "name": "Broken But Beautiful",
-      "poster": "https://images.metahub.space/poster/medium/tt8317568/img",
-      "background": "https://images.metahub.space/background/medium/tt8317568/img",
-      "description": "Broken is Veer and Sameera's story where their hearts were left broken and damaged after they lost their love. Destiny has brought love in to their lives again, will they give it a second chance?",
-      "releaseInfo": 2018,
-      "imdbRating": 8.5
+      "name": "Gyaarah Gyaarah",
+      "poster": "https://images.metahub.space/poster/medium/tt26915338/img",
+      "background": "https://images.metahub.space/background/medium/tt26915338/img",
+      "description": "Investigative drama following events in 1990, 2001, 2016. Intertwining storylines blending mysticism, science and mystery across the decades.",
+      "releaseInfo": 2024,
+      "imdbRating": 8.1
     },
     {
       "id": "tt45246384",
@@ -241,14 +231,14 @@
       "imdbRating": 6.5
     },
     {
-      "id": "tt28077038",
+      "id": "tt0388629",
       "type": "series",
-      "name": "Pritam and Pedro",
-      "poster": "https://images.metahub.space/poster/medium/tt28077038/img",
-      "background": "https://images.metahub.space/background/medium/tt28077038/img",
-      "description": "When a tech-illiterate Goa cop is demoted to the cyber cell, he must team up with a quirky hacker to track down a minister's kidnapped son and win back his old job.",
-      "releaseInfo": 2026,
-      "imdbRating": 7.7
+      "name": "One Piece",
+      "poster": "https://images.metahub.space/poster/medium/tt0388629/img",
+      "background": "https://images.metahub.space/background/medium/tt0388629/img",
+      "description": "Years ago, the fearsome Pirate King, Gol D. Roger was executed leaving a huge pile of treasure and the famous \"One Piece\" behind. Whoever claims the \"One Piece\" will be named the new King of the Pirates.\n\nMonkey D. Luffy, a boy who consumed a \"Devil Fruit,\" decides to follow in the footsteps of his idol, the pirate Shanks, and find the One Piece. It helps, of course, that his body has the properties of rubber and that he's surrounded by a bevy of skilled fighters and thieves to help him along the way.\n\nLuffy will do anything to get the One Piece and become King of the Pirates!",
+      "releaseInfo": 1999,
+      "imdbRating": 9
     },
     {
       "id": "tt11743610",
@@ -271,14 +261,14 @@
       "imdbRating": 8.7
     },
     {
-      "id": "tt8772296",
+      "id": "tt8317568",
       "type": "series",
-      "name": "Euphoria",
-      "poster": "https://images.metahub.space/poster/medium/tt8772296/img",
-      "background": "https://images.metahub.space/background/medium/tt8772296/img",
-      "description": "A group of high school students navigate love and friendships in a world of drugs, sex, trauma, and social media.",
-      "releaseInfo": 2019,
-      "imdbRating": 8.1
+      "name": "Broken But Beautiful",
+      "poster": "https://images.metahub.space/poster/medium/tt8317568/img",
+      "background": "https://images.metahub.space/background/medium/tt8317568/img",
+      "description": "Broken is Veer and Sameera's story where their hearts were left broken and damaged after they lost their love. Destiny has brought love in to their lives again, will they give it a second chance?",
+      "releaseInfo": 2018,
+      "imdbRating": 8.5
     },
     {
       "id": "tt0988824",
@@ -301,6 +291,16 @@
       "imdbRating": 8.5
     },
     {
+      "id": "tt28077038",
+      "type": "series",
+      "name": "Pritam and Pedro",
+      "poster": "https://images.metahub.space/poster/medium/tt28077038/img",
+      "background": "https://images.metahub.space/background/medium/tt28077038/img",
+      "description": "When a tech-illiterate Goa cop is demoted to the cyber cell, he must team up with a quirky hacker to track down a minister's kidnapped son and win back his old job.",
+      "releaseInfo": 2026,
+      "imdbRating": 7.7
+    },
+    {
       "id": "tt39665097",
       "type": "series",
       "name": "Musafir Cafe",
@@ -321,14 +321,14 @@
       "imdbRating": 9
     },
     {
-      "id": "tt15384586",
+      "id": "tt8772296",
       "type": "series",
-      "name": "Fellow Travelers",
-      "poster": "https://images.metahub.space/poster/medium/tt15384586/img",
-      "background": "https://images.metahub.space/background/medium/tt15384586/img",
-      "description": "Decades-long chronicle of the risky, volatile and steamy relationship between the charismatic and ambitious Hawk and the pious and idealistic Tim, two political staffers who fall in love at the height of the 1950s Lavender Scare.",
-      "releaseInfo": 2023,
-      "imdbRating": 8.2
+      "name": "Euphoria",
+      "poster": "https://images.metahub.space/poster/medium/tt8772296/img",
+      "background": "https://images.metahub.space/background/medium/tt8772296/img",
+      "description": "A group of high school students navigate love and friendships in a world of drugs, sex, trauma, and social media.",
+      "releaseInfo": 2019,
+      "imdbRating": 8.1
     },
     {
       "id": "tt11905720",
@@ -351,6 +351,16 @@
       "imdbRating": 8.4
     },
     {
+      "id": "tt15384586",
+      "type": "series",
+      "name": "Fellow Travelers",
+      "poster": "https://images.metahub.space/poster/medium/tt15384586/img",
+      "background": "https://images.metahub.space/background/medium/tt15384586/img",
+      "description": "Decades-long chronicle of the risky, volatile and steamy relationship between the charismatic and ambitious Hawk and the pious and idealistic Tim, two political staffers who fall in love at the height of the 1950s Lavender Scare.",
+      "releaseInfo": 2023,
+      "imdbRating": 8.2
+    },
+    {
       "id": "tt15677150",
       "type": "series",
       "name": "Shrinking",
@@ -359,16 +369,6 @@
       "description": "Jimmy is struggling to grieve the loss of his wife while being a dad, friend, and therapist. He decides to try a new approach with everyone in his path: unfiltered, brutal honesty. Will it make things better—or unleash uproarious chaos?",
       "releaseInfo": 2023,
       "imdbRating": 8.2
-    },
-    {
-      "id": "tt31862809",
-      "type": "series",
-      "name": "Heart Beat",
-      "poster": "https://images.metahub.space/poster/medium/tt31862809/img",
-      "background": "https://images.metahub.space/background/medium/tt31862809/img",
-      "description": "Based around RK Multispeciality Hospital and its doctors, who are resilient as they deal with medical and personal challenges.",
-      "releaseInfo": 2024,
-      "imdbRating": 8.6
     },
     {
       "id": "tt42576855",
@@ -391,16 +391,6 @@
       "imdbRating": 7.4
     },
     {
-      "id": "tt13196080",
-      "type": "series",
-      "name": "Tôkyô Ribenjâzu",
-      "poster": "https://images.metahub.space/poster/medium/tt13196080/img",
-      "background": "https://images.metahub.space/background/medium/tt13196080/img",
-      "description": "Hanagaki Takemichi lives an unsatisfying life right up until his death. Waking up 12 years in the past, he reckons with the eventual fate of his friends and tries to prevent an unfortunate future.",
-      "releaseInfo": 2021,
-      "imdbRating": 7.7
-    },
-    {
       "id": "tt0903747",
       "type": "series",
       "name": "Breaking Bad",
@@ -421,14 +411,14 @@
       "imdbRating": 7.6
     },
     {
-      "id": "tt26545992",
+      "id": "tt31862809",
       "type": "series",
-      "name": "Lanterns",
-      "poster": "https://images.metahub.space/poster/medium/tt26545992/img",
-      "background": "https://images.metahub.space/background/medium/tt26545992/img",
-      "description": "Two intergalactic cops, new recruit John Stewart and Lantern legend Hal Jordan, are drawn into a dark, Earth-based mystery as they investigate a murder in the American heartland.",
-      "releaseInfo": 2026,
-      "imdbRating": 7.8
+      "name": "Heart Beat",
+      "poster": "https://images.metahub.space/poster/medium/tt31862809/img",
+      "background": "https://images.metahub.space/background/medium/tt31862809/img",
+      "description": "Based around RK Multispeciality Hospital and its doctors, who are resilient as they deal with medical and personal challenges.",
+      "releaseInfo": 2024,
+      "imdbRating": 8.6
     },
     {
       "id": "tt12540080",
@@ -451,14 +441,14 @@
       "imdbRating": 7.9
     },
     {
-      "id": "tt9335498",
+      "id": "tt13196080",
       "type": "series",
-      "name": "Kimetsu no Yaiba",
-      "poster": "https://images.metahub.space/poster/medium/tt9335498/img",
-      "background": "https://images.metahub.space/background/medium/tt9335498/img",
-      "description": "A family is attacked by demons and only two members survive - Tanjiro and his sister Nezuko, who is turning into a demon slowly. Tanjiro sets out to become a demon slayer to avenge his family and cure his sister.",
-      "releaseInfo": 2019,
-      "imdbRating": 8.5
+      "name": "Tôkyô Ribenjâzu",
+      "poster": "https://images.metahub.space/poster/medium/tt13196080/img",
+      "background": "https://images.metahub.space/background/medium/tt13196080/img",
+      "description": "Hanagaki Takemichi lives an unsatisfying life right up until his death. Waking up 12 years in the past, he reckons with the eventual fate of his friends and tries to prevent an unfortunate future.",
+      "releaseInfo": 2021,
+      "imdbRating": 7.7
     },
     {
       "id": "tt10839422",
@@ -481,14 +471,14 @@
       "imdbRating": 7.4
     },
     {
-      "id": "tt12343534",
+      "id": "tt26545992",
       "type": "series",
-      "name": "Jujutsu Kaisen",
-      "poster": "https://images.metahub.space/poster/medium/tt12343534/img",
-      "background": "https://images.metahub.space/background/medium/tt12343534/img",
-      "description": "A boy swallows a cursed talisman - the finger of a demon - and becomes cursed himself. He enters a shaman's school to be able to locate the demon's other body parts and thus exorcise himself.",
-      "releaseInfo": 2020,
-      "imdbRating": 8.5
+      "name": "Lanterns",
+      "poster": "https://images.metahub.space/poster/medium/tt26545992/img",
+      "background": "https://images.metahub.space/background/medium/tt26545992/img",
+      "description": "Two intergalactic cops, new recruit John Stewart and Lantern legend Hal Jordan, are drawn into a dark, Earth-based mystery as they investigate a murder in the American heartland.",
+      "releaseInfo": 2026,
+      "imdbRating": 7.8
     },
     {
       "id": "tt13111078",
@@ -499,6 +489,16 @@
       "description": "Cruz Manuelos, a rough-around-the-edges but passionate young Marine, is recruited to join the CIA's Lioness Engagement Team to help bring down a terrorist organization from within. Joe, the station chief of the Lioness program, is tasked with training, managing and leading her female undercover operatives.",
       "releaseInfo": 2023,
       "imdbRating": 7.8
+    },
+    {
+      "id": "tt0098936",
+      "type": "series",
+      "name": "Twin Peaks",
+      "poster": "https://images.metahub.space/poster/medium/tt0098936/img",
+      "background": "https://images.metahub.space/background/medium/tt0098936/img",
+      "description": "The body of Laura Palmer is washed up on a beach near the small Washington state town of Twin Peaks. FBI Special Agent Dale Cooper is called in to investigate her strange demise only to uncover a web of mystery that ultimately leads him deep into the heart of the surrounding woodland and his very own soul.",
+      "releaseInfo": 1990,
+      "imdbRating": 8.7
     }
   ]
 }

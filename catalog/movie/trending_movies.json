@@ -131,6 +131,26 @@
       "imdbRating": 5.4
     },
     {
+      "id": "tt46060457",
+      "type": "movie",
+      "name": "The Swan: Behind the Mirror",
+      "poster": "https://images.metahub.space/poster/medium/tt46060457/img",
+      "background": "https://images.metahub.space/background/medium/tt46060457/img",
+      "description": "A look at the controversial 2004 reality series The Swan, which took self-proclaimed 'ugly ducklings' and set out to make them... not that.",
+      "releaseInfo": 2026,
+      "imdbRating": 6.2
+    },
+    {
+      "id": "tt36150957",
+      "type": "movie",
+      "name": "Oasis: Don't Look Back in Anger",
+      "poster": "https://images.metahub.space/poster/medium/tt36150957/img",
+      "background": "https://images.metahub.space/background/medium/tt36150957/img",
+      "description": "Experience the meteoric rise of Oasis through rare footage and untold stories as the band reunites for Oasis Live '25, chronicling their journey from Manchester streets to global rock stardom.",
+      "releaseInfo": 2026,
+      "imdbRating": 8.3
+    },
+    {
       "id": "tt1502407",
       "type": "movie",
       "name": "Halloween",
@@ -149,6 +169,16 @@
       "description": "A young boy becomes a target for crooks, after he claims to remember his past life and mentions precious jewels in a golden fortress.",
       "releaseInfo": 1974,
       "imdbRating": 8.3
+    },
+    {
+      "id": "tt28019966",
+      "type": "movie",
+      "name": "Paradha",
+      "poster": "https://images.metahub.space/poster/medium/tt28019966/img",
+      "background": "https://images.metahub.space/background/medium/tt28019966/img",
+      "description": "A veiled village woman's life changes when city visitors challenge her traditions. As she questions customs and investigates a curse, rumors of Sati emerge, leading her to confront societal norms.",
+      "releaseInfo": 2025,
+      "imdbRating": 6
     },
     {
       "id": "tt10665338",
@@ -191,6 +221,16 @@
       "imdbRating": 6.4
     },
     {
+      "id": "tt46027225",
+      "type": "movie",
+      "name": "Super Scam Me",
+      "poster": "https://images.metahub.space/poster/medium/tt46027225/img",
+      "background": "https://images.metahub.space/background/medium/tt46027225/img",
+      "description": "After years of reporting on the scam industry, Mariana van Zeller enters one of her most immersive investigations to date. In a real-life social experiment, she builds a new online dating persona and goes undercover as the target of a romance scam to understand and expose the tactics, technologies, and psychological manipulations these criminals utilize to deceive their victims.",
+      "releaseInfo": 2026,
+      "imdbRating": 7.1
+    },
+    {
       "id": "tt14113634",
       "type": "movie",
       "name": "Drishyam 3",
@@ -209,6 +249,16 @@
       "description": "A celebrated Olympian shooter travels to America looking for a donor to help his sick child — but unexpected romance complicates his search.",
       "releaseInfo": 2026,
       "imdbRating": 7.2
+    },
+    {
+      "id": "tt36834010",
+      "type": "movie",
+      "name": "Gail Daughtry and the Celebrity Sex Pass",
+      "poster": "https://images.metahub.space/poster/medium/tt36834010/img",
+      "background": "https://images.metahub.space/background/medium/tt36834010/img",
+      "description": "After her fiance sleeps with his celebrity crush, Kansas hairdresser Gail heads to Hollywood to even the score with her own famous fantasy — Jon Hamm.",
+      "releaseInfo": 2026,
+      "imdbRating": 6
     },
     {
       "id": "tt9000310",
@@ -249,16 +299,6 @@
       "description": "Injustice and the demands of the world can cause stress for many people. Some of them, however, explode. This includes a waitress serving a grouchy loan shark, an altercation between two motorists, an ill-fated wedding reception, and a wealthy businessman who tries to buy his family out of trouble.",
       "releaseInfo": 2014,
       "imdbRating": 8.1
-    },
-    {
-      "id": "tt36834010",
-      "type": "movie",
-      "name": "Gail Daughtry and the Celebrity Sex Pass",
-      "poster": "https://images.metahub.space/poster/medium/tt36834010/img",
-      "background": "https://images.metahub.space/background/medium/tt36834010/img",
-      "description": "After her fiance sleeps with his celebrity crush, Kansas hairdresser Gail heads to Hollywood to even the score with her own famous fantasy — Jon Hamm.",
-      "releaseInfo": 2026,
-      "imdbRating": 6
     },
     {
       "id": "tt22526100",
@@ -319,16 +359,6 @@
       "description": "After 300 years of slumber, three sister witches are accidentally resurrected in Salem on Halloween night, and it is up to three kids and their newfound feline friend to put an end to the witches' reign of terror once and for all.",
       "releaseInfo": 1993,
       "imdbRating": 6.9
-    },
-    {
-      "id": "tt0048028",
-      "type": "movie",
-      "name": "East of Eden",
-      "poster": "https://images.metahub.space/poster/medium/tt0048028/img",
-      "background": "https://images.metahub.space/background/medium/tt0048028/img",
-      "description": "In the Salinas Valley in and around World War I, Cal Trask feels he must compete against overwhelming odds with his brother for the love of their father. Cal is frustrated at every turn, from his reaction to the war, how to get ahead in business and in life, and how to relate to his estranged mother.",
-      "releaseInfo": 1955,
-      "imdbRating": 7.8
     },
     {
       "id": "tt0080661",
@@ -441,16 +471,6 @@
       "imdbRating": 7.4
     },
     {
-      "id": "tt0086541",
-      "type": "movie",
-      "name": "Videodrome",
-      "poster": "https://images.metahub.space/poster/medium/tt0086541/img",
-      "background": "https://images.metahub.space/background/medium/tt0086541/img",
-      "description": "As the president of a trashy TV channel, Max Renn is desperate for new programming to attract viewers. When he happens upon \"Videodrome,\" a TV show dedicated to gratuitous torture and punishment, Max sees a potential hit and broadcasts the show on his channel. However, after his girlfriend auditions for the show and never returns, Max investigates the truth behind Videodrome and discovers that the graphic violence may not be as fake as he thought.",
-      "releaseInfo": 1983,
-      "imdbRating": 7.1
-    },
-    {
       "id": "tt43737953",
       "type": "movie",
       "name": "Hushar Pittalu",
@@ -479,26 +499,6 @@
       "description": "When a mysterious entity possesses a young girl, her mother seeks the help of two Catholic priests to save her life.",
       "releaseInfo": 1973,
       "imdbRating": 8.1
-    },
-    {
-      "id": "tt33763941",
-      "type": "movie",
-      "name": "Passenger",
-      "poster": "https://images.metahub.space/poster/medium/tt33763941/img",
-      "background": "https://images.metahub.space/background/medium/tt33763941/img",
-      "description": "After a young couple witnesses a gruesome highway accident, they soon realize they did not leave the crash scene alone, as a demonic presence called the Passenger won't stop until it claims them both.",
-      "releaseInfo": 2026,
-      "imdbRating": 5.5
-    },
-    {
-      "id": "tt0087800",
-      "type": "movie",
-      "name": "A Nightmare on Elm Street",
-      "poster": "https://images.metahub.space/poster/medium/tt0087800/img",
-      "background": "https://images.metahub.space/background/medium/tt0087800/img",
-      "description": "Teenagers in a small town are dropping like flies, apparently in the grip of mass hysteria causing their suicides. A cop's daughter, Nancy Thompson, traces the cause to child molester Fred Krueger, who was burned alive by angry parents many years before. Krueger has now come back in the dreams of his killers' children, claiming their lives as his revenge. Nancy and her boyfriend, Glen, must devise a plan to lure the monster out of the realm of nightmares and into the real world...",
-      "releaseInfo": 1984,
-      "imdbRating": 7.4
     }
   ]
 }
