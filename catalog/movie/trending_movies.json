@@ -211,16 +211,6 @@
       "imdbRating": 7.2
     },
     {
-      "id": "tt36834010",
-      "type": "movie",
-      "name": "Gail Daughtry and the Celebrity Sex Pass",
-      "poster": "https://images.metahub.space/poster/medium/tt36834010/img",
-      "background": "https://images.metahub.space/background/medium/tt36834010/img",
-      "description": "After her fiance sleeps with his celebrity crush, Kansas hairdresser Gail heads to Hollywood to even the score with her own famous fantasy — Jon Hamm.",
-      "releaseInfo": 2026,
-      "imdbRating": 6
-    },
-    {
       "id": "tt9000310",
       "type": "movie",
       "name": "Ghost in the Cell",
@@ -239,16 +229,6 @@
       "description": "Chev Chelios, a hit man wanting to go straight, lets his latest target slip away. Then he awakes the next morning to a phone call that informs him he has been poisoned and has only an hour to live unless he keeps adrenaline coursing through his body while he searches for an antidote.",
       "releaseInfo": 2006,
       "imdbRating": 6.9
-    },
-    {
-      "id": "tt39108319",
-      "type": "movie",
-      "name": "Irumudi",
-      "poster": "https://images.metahub.space/poster/medium/tt39108319/img",
-      "background": "https://images.metahub.space/background/medium/tt39108319/img",
-      "description": "An alcoholic with a violent past—living peacefully with his daughter beside a waterfall—decides to take Ayyappa Deeksha (a 41-day spiritual vow and period of intense austerity) at her request.",
-      "releaseInfo": 2026,
-      "imdbRating": 7
     },
     {
       "id": "tt31184028",
@@ -271,6 +251,16 @@
       "imdbRating": 8.1
     },
     {
+      "id": "tt36834010",
+      "type": "movie",
+      "name": "Gail Daughtry and the Celebrity Sex Pass",
+      "poster": "https://images.metahub.space/poster/medium/tt36834010/img",
+      "background": "https://images.metahub.space/background/medium/tt36834010/img",
+      "description": "After her fiance sleeps with his celebrity crush, Kansas hairdresser Gail heads to Hollywood to even the score with her own famous fantasy — Jon Hamm.",
+      "releaseInfo": 2026,
+      "imdbRating": 6
+    },
+    {
       "id": "tt22526100",
       "type": "movie",
       "name": "The Love Hypothesis",
@@ -279,6 +269,16 @@
       "description": "Olive Smith, a biology PhD candidate, and Dr. Adam Carlsen, a hotshot professor and well-known tyrant, enter into a fake relationship, seeing each of their carefully calculated theories on love get thrown into chaos.",
       "releaseInfo": 2026,
       "imdbRating": 6.8
+    },
+    {
+      "id": "tt39108319",
+      "type": "movie",
+      "name": "Irumudi",
+      "poster": "https://images.metahub.space/poster/medium/tt39108319/img",
+      "background": "https://images.metahub.space/background/medium/tt39108319/img",
+      "description": "An alcoholic with a violent past—living peacefully with his daughter beside a waterfall—decides to take Ayyappa Deeksha (a 41-day spiritual vow and period of intense austerity) at her request.",
+      "releaseInfo": 2026,
+      "imdbRating": 7
     },
     {
       "id": "tt0115963",
@@ -301,6 +301,16 @@
       "imdbRating": 7.8
     },
     {
+      "id": "tt13022984",
+      "type": "movie",
+      "name": "Khuda Haafiz: Chapter 2 - Agni Pariksha",
+      "poster": "https://images.metahub.space/poster/medium/tt13022984/img",
+      "background": "https://images.metahub.space/background/medium/tt13022984/img",
+      "description": "Sameer and Nargis, after overcoming all odds, find a ray of sunshine when little Nandini enters their lives and their family is complete; But their happiness is short-lived. In a bizarre twist of fate, Nandini goes missing.",
+      "releaseInfo": 2022,
+      "imdbRating": 7.4
+    },
+    {
       "id": "tt0107120",
       "type": "movie",
       "name": "Hocus Pocus",
@@ -309,6 +319,16 @@
       "description": "After 300 years of slumber, three sister witches are accidentally resurrected in Salem on Halloween night, and it is up to three kids and their newfound feline friend to put an end to the witches' reign of terror once and for all.",
       "releaseInfo": 1993,
       "imdbRating": 6.9
+    },
+    {
+      "id": "tt0048028",
+      "type": "movie",
+      "name": "East of Eden",
+      "poster": "https://images.metahub.space/poster/medium/tt0048028/img",
+      "background": "https://images.metahub.space/background/medium/tt0048028/img",
+      "description": "In the Salinas Valley in and around World War I, Cal Trask feels he must compete against overwhelming odds with his brother for the love of their father. Cal is frustrated at every turn, from his reaction to the war, how to get ahead in business and in life, and how to relate to his estranged mother.",
+      "releaseInfo": 1955,
+      "imdbRating": 7.8
     },
     {
       "id": "tt0080661",
@@ -329,16 +349,6 @@
       "description": "A burger-loving hit man, his philosophical partner, a drug-addled gangster's moll and a washed-up boxer converge in this sprawling, comedic crime caper. Their adventures unfurl in three stories that ingeniously trip back and forth in time.",
       "releaseInfo": 1994,
       "imdbRating": 8.8
-    },
-    {
-      "id": "tt13022984",
-      "type": "movie",
-      "name": "Khuda Haafiz: Chapter 2 - Agni Pariksha",
-      "poster": "https://images.metahub.space/poster/medium/tt13022984/img",
-      "background": "https://images.metahub.space/background/medium/tt13022984/img",
-      "description": "Sameer and Nargis, after overcoming all odds, find a ray of sunshine when little Nandini enters their lives and their family is complete; But their happiness is short-lived. In a bizarre twist of fate, Nandini goes missing.",
-      "releaseInfo": 2022,
-      "imdbRating": 7.4
     },
     {
       "id": "tt10548174",
@@ -371,14 +381,14 @@
       "imdbRating": 6.7
     },
     {
-      "id": "tt35892608",
+      "id": "tt2884018",
       "type": "movie",
-      "name": "undertone",
-      "poster": "https://images.metahub.space/poster/medium/tt35892608/img",
-      "background": "https://images.metahub.space/background/medium/tt35892608/img",
-      "description": "The host of a popular paranormal podcast becomes haunted by terrifying recordings mysteriously sent her way.",
-      "releaseInfo": 2026,
-      "imdbRating": 5.9
+      "name": "Macbeth",
+      "poster": "https://images.metahub.space/poster/medium/tt2884018/img",
+      "background": "https://images.metahub.space/background/medium/tt2884018/img",
+      "description": "Macbeth, the Thane of Glamis, receives a prophecy from a trio of witches that one day he will become King of Scotland. Consumed by ambition and spurred to action by his wife, Macbeth murders his king and takes the throne for himself.",
+      "releaseInfo": 2015,
+      "imdbRating": 6.6
     },
     {
       "id": "tt27548557",
@@ -388,16 +398,6 @@
       "background": "https://images.metahub.space/background/medium/tt27548557/img",
       "description": "The Dhamaal boys are back for another treasure hunt, facing hilarious challenges in their quest for the Treasure of Life.",
       "releaseInfo": 2026,
-      "imdbRating": 6.6
-    },
-    {
-      "id": "tt2884018",
-      "type": "movie",
-      "name": "Macbeth",
-      "poster": "https://images.metahub.space/poster/medium/tt2884018/img",
-      "background": "https://images.metahub.space/background/medium/tt2884018/img",
-      "description": "Macbeth, the Thane of Glamis, receives a prophecy from a trio of witches that one day he will become King of Scotland. Consumed by ambition and spurred to action by his wife, Macbeth murders his king and takes the throne for himself.",
-      "releaseInfo": 2015,
       "imdbRating": 6.6
     },
     {
@@ -461,14 +461,14 @@
       "imdbRating": 8.2
     },
     {
-      "id": "tt0441881",
+      "id": "tt38916037",
       "type": "movie",
-      "name": "Danger Close: The Battle of Long Tan",
-      "poster": "https://images.metahub.space/poster/medium/tt0441881/img",
-      "background": "https://images.metahub.space/background/medium/tt0441881/img",
-      "description": "Vietnam War, 1966. Australia and New Zealand send troops to support the United States and South Vietnamese in their fight against the communist North. Soldiers are very young men, recruits and volunteers who have never been involved in a combat. On August 18th, members of Delta Company will face the true horror of a ruthless battle among the trees of a rubber plantation called Long Tân. They are barely a hundred. The enemy is a human wave ready to destroy them.",
-      "releaseInfo": 2019,
-      "imdbRating": 6.8
+      "name": "Lenin Pandiyan",
+      "poster": "https://images.metahub.space/poster/medium/tt38916037/img",
+      "background": "https://images.metahub.space/background/medium/tt38916037/img",
+      "description": "Illegal sand mafia activities unite a group of affected farmers, a policeman serving punishment duty, the judiciary, and a corrupt businessman.",
+      "releaseInfo": 2026,
+      "imdbRating": 6.6
     },
     {
       "id": "tt0070047",
@@ -481,6 +481,16 @@
       "imdbRating": 8.1
     },
     {
+      "id": "tt33763941",
+      "type": "movie",
+      "name": "Passenger",
+      "poster": "https://images.metahub.space/poster/medium/tt33763941/img",
+      "background": "https://images.metahub.space/background/medium/tt33763941/img",
+      "description": "After a young couple witnesses a gruesome highway accident, they soon realize they did not leave the crash scene alone, as a demonic presence called the Passenger won't stop until it claims them both.",
+      "releaseInfo": 2026,
+      "imdbRating": 5.5
+    },
+    {
       "id": "tt0087800",
       "type": "movie",
       "name": "A Nightmare on Elm Street",
@@ -489,16 +499,6 @@
       "description": "Teenagers in a small town are dropping like flies, apparently in the grip of mass hysteria causing their suicides. A cop's daughter, Nancy Thompson, traces the cause to child molester Fred Krueger, who was burned alive by angry parents many years before. Krueger has now come back in the dreams of his killers' children, claiming their lives as his revenge. Nancy and her boyfriend, Glen, must devise a plan to lure the monster out of the realm of nightmares and into the real world...",
       "releaseInfo": 1984,
       "imdbRating": 7.4
-    },
-    {
-      "id": "tt4361050",
-      "type": "movie",
-      "name": "Ouija: Origin of Evil",
-      "poster": "https://images.metahub.space/poster/medium/tt4361050/img",
-      "background": "https://images.metahub.space/background/medium/tt4361050/img",
-      "description": "In 1967 Los Angeles, a widowed mother's daughter tries to communicate with her late father through a Ouija board, but unleashes a demon instead.",
-      "releaseInfo": 2016,
-      "imdbRating": 6.2
     }
   ]
 }
