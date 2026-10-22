@@ -371,6 +371,16 @@
       "imdbRating": 7
     },
     {
+      "id": "tt0048028",
+      "type": "movie",
+      "name": "East of Eden",
+      "poster": "https://images.metahub.space/poster/medium/tt0048028/img",
+      "background": "https://images.metahub.space/background/medium/tt0048028/img",
+      "description": "In the Salinas Valley in and around World War I, Cal Trask feels he must compete against overwhelming odds with his brother for the love of their father. Cal is frustrated at every turn, from his reaction to the war, how to get ahead in business and in life, and how to relate to his estranged mother.",
+      "releaseInfo": 1955,
+      "imdbRating": 7.8
+    },
+    {
       "id": "tt0110912",
       "type": "movie",
       "name": "Pulp Fiction",
@@ -401,16 +411,6 @@
       "imdbRating": 5.1
     },
     {
-      "id": "tt9619824",
-      "type": "movie",
-      "name": "Final Destination Bloodlines",
-      "poster": "https://images.metahub.space/poster/medium/tt9619824/img",
-      "background": "https://images.metahub.space/background/medium/tt9619824/img",
-      "description": "Plagued by a violent recurring nightmare, college student Stefanie heads home to track down the one person who might be able to break the cycle and save her family from the grisly demise that inevitably awaits them all.",
-      "releaseInfo": 2025,
-      "imdbRating": 6.7
-    },
-    {
       "id": "tt2884018",
       "type": "movie",
       "name": "Macbeth",
@@ -429,6 +429,16 @@
       "description": "The Dhamaal boys are back for another treasure hunt, facing hilarious challenges in their quest for the Treasure of Life.",
       "releaseInfo": 2026,
       "imdbRating": 6.6
+    },
+    {
+      "id": "tt9619824",
+      "type": "movie",
+      "name": "Final Destination Bloodlines",
+      "poster": "https://images.metahub.space/poster/medium/tt9619824/img",
+      "background": "https://images.metahub.space/background/medium/tt9619824/img",
+      "description": "Plagued by a violent recurring nightmare, college student Stefanie heads home to track down the one person who might be able to break the cycle and save her family from the grisly demise that inevitably awaits them all.",
+      "releaseInfo": 2025,
+      "imdbRating": 6.7
     },
     {
       "id": "tt33014583",
@@ -471,6 +481,16 @@
       "imdbRating": 7.4
     },
     {
+      "id": "tt0086541",
+      "type": "movie",
+      "name": "Videodrome",
+      "poster": "https://images.metahub.space/poster/medium/tt0086541/img",
+      "background": "https://images.metahub.space/background/medium/tt0086541/img",
+      "description": "As the president of a trashy TV channel, Max Renn is desperate for new programming to attract viewers. When he happens upon \"Videodrome,\" a TV show dedicated to gratuitous torture and punishment, Max sees a potential hit and broadcasts the show on his channel. However, after his girlfriend auditions for the show and never returns, Max investigates the truth behind Videodrome and discovers that the graphic violence may not be as fake as he thought.",
+      "releaseInfo": 1983,
+      "imdbRating": 7.1
+    },
+    {
       "id": "tt43737953",
       "type": "movie",
       "name": "Hushar Pittalu",
@@ -479,26 +499,6 @@
       "description": "In a village, two teenagers, Ravi and Chitti, are drawn into a secret relationship as curiosity, adolescence, and bad influences shape their choices. When their families discover the affair, the couple defies them, setting off a chain of events that reveals how parental mistakes, peer pressure, and youthful attraction can alter young lives forever.",
       "releaseInfo": 2026,
       "imdbRating": 8.2
-    },
-    {
-      "id": "tt38916037",
-      "type": "movie",
-      "name": "Lenin Pandiyan",
-      "poster": "https://images.metahub.space/poster/medium/tt38916037/img",
-      "background": "https://images.metahub.space/background/medium/tt38916037/img",
-      "description": "Illegal sand mafia activities unite a group of affected farmers, a policeman serving punishment duty, the judiciary, and a corrupt businessman.",
-      "releaseInfo": 2026,
-      "imdbRating": 6.6
-    },
-    {
-      "id": "tt0070047",
-      "type": "movie",
-      "name": "The Exorcist",
-      "poster": "https://images.metahub.space/poster/medium/tt0070047/img",
-      "background": "https://images.metahub.space/background/medium/tt0070047/img",
-      "description": "When a mysterious entity possesses a young girl, her mother seeks the help of two Catholic priests to save her life.",
-      "releaseInfo": 1973,
-      "imdbRating": 8.1
     }
   ]
 }
