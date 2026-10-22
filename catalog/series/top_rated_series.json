@@ -67,6 +67,17 @@
       "imdbRating": "9.0"
     },
     {
+      "id": "tt0108778",
+      "type": "series",
+      "name": "Friends",
+      "poster": "https://images.metahub.space/poster/small/tt0108778/img",
+      "background": "https://images.metahub.space/background/medium/tt0108778/img",
+      "logo": "https://images.metahub.space/logo/medium/tt0108778/img",
+      "description": "The personal and professional lives of six friends living in the Manhattan borough of New York City.",
+      "releaseInfo": "1994–2004",
+      "imdbRating": "8.8"
+    },
+    {
       "id": "tt35495073",
       "type": "series",
       "name": "Heated Rivalry",
@@ -100,15 +111,15 @@
       "imdbRating": "8.7"
     },
     {
-      "id": "tt10986410",
+      "id": "tt1489428",
       "type": "series",
-      "name": "Ted Lasso",
-      "poster": "https://images.metahub.space/poster/small/tt10986410/img",
-      "background": "https://images.metahub.space/background/medium/tt10986410/img",
-      "logo": "https://images.metahub.space/logo/medium/tt10986410/img",
-      "description": "American college football coach Ted Lasso is hired to manage AFC Richmond, a struggling English soccer club, and must win over skeptical players, staff, and fans.",
-      "releaseInfo": "2020–",
-      "imdbRating": "8.7"
+      "name": "Justified",
+      "poster": "https://images.metahub.space/poster/small/tt1489428/img",
+      "background": "https://images.metahub.space/background/medium/tt1489428/img",
+      "logo": "https://images.metahub.space/logo/medium/tt1489428/img",
+      "description": "Enforcing his own brand of justice, U.S. Marshal Raylan Givens, a strong-willed, quiet law-man haunted by his past, returns to his native town to see that justice is served to those in need.",
+      "releaseInfo": "2010–2015",
+      "imdbRating": "8.6"
     },
     {
       "id": "tt31862809",
@@ -119,17 +130,6 @@
       "logo": "https://live.metahub.space/logo/medium/tt31862809/img",
       "description": "RK Multispeciality Hospital is a beacon of hope and healing. Its doctors are resilient even when they have to deal with medical and personal challenges.",
       "releaseInfo": "2024–",
-      "imdbRating": "8.6"
-    },
-    {
-      "id": "tt1489428",
-      "type": "series",
-      "name": "Justified",
-      "poster": "https://images.metahub.space/poster/small/tt1489428/img",
-      "background": "https://images.metahub.space/background/medium/tt1489428/img",
-      "logo": "https://images.metahub.space/logo/medium/tt1489428/img",
-      "description": "Enforcing his own brand of justice, U.S. Marshal Raylan Givens, a strong-willed, quiet law-man haunted by his past, returns to his native town to see that justice is served to those in need.",
-      "releaseInfo": "2010–2015",
       "imdbRating": "8.6"
     },
     {
@@ -152,6 +152,17 @@
       "logo": "https://images.metahub.space/logo/medium/tt0475900/img",
       "description": "Anthony Bourdain, chef, writer, traveler, visits places all around the world sampling various foods.",
       "releaseInfo": "2005–2012",
+      "imdbRating": "8.6"
+    },
+    {
+      "id": "tt9544034",
+      "type": "series",
+      "name": "The Family Man",
+      "poster": "https://images.metahub.space/poster/small/tt9544034/img",
+      "background": "https://images.metahub.space/background/medium/tt9544034/img",
+      "logo": "https://images.metahub.space/logo/medium/tt9544034/img",
+      "description": "A working man from the National Investigation Agency tries to protect the nation from terrorism, but he also needs to keep his family safe from his secret job.",
+      "releaseInfo": "2019–",
       "imdbRating": "8.6"
     },
     {
@@ -188,6 +199,17 @@
       "imdbRating": "8.5"
     },
     {
+      "id": "tt9335498",
+      "type": "series",
+      "name": "Demon Slayer: Kimetsu no Yaiba",
+      "poster": "https://images.metahub.space/poster/small/tt9335498/img",
+      "background": "https://images.metahub.space/background/medium/tt9335498/img",
+      "logo": "https://images.metahub.space/logo/medium/tt9335498/img",
+      "description": "A family is attacked by demons and only two members survive - Tanjiro and his sister Nezuko, who is turning into a demon slowly. Tanjiro sets out to become a demon slayer to avenge his family and cure his sister.",
+      "releaseInfo": "2019–2024",
+      "imdbRating": "8.5"
+    },
+    {
       "id": "tt12343534",
       "type": "series",
       "name": "Jujutsu Kaisen",
@@ -210,17 +232,6 @@
       "imdbRating": "8.5"
     },
     {
-      "id": "tt21209876",
-      "type": "series",
-      "name": "Solo Leveling",
-      "poster": "https://images.metahub.space/poster/small/tt21209876/img",
-      "background": "https://images.metahub.space/background/medium/tt21209876/img",
-      "logo": "https://images.metahub.space/logo/medium/tt21209876/img",
-      "description": "Follows the adventures of Sung Jinwoo in a world that is constantly threatened by monsters and evil forces. In his battles Sung transforms himself from the weakest hunter of all mankind to one of the strongest hunters in existence.",
-      "releaseInfo": "2024–",
-      "imdbRating": "8.5"
-    },
-    {
       "id": "tt4093826",
       "type": "series",
       "name": "Twin Peaks",
@@ -229,6 +240,17 @@
       "logo": "https://images.metahub.space/logo/medium/tt4093826/img",
       "description": "Picks up 25 years after the inhabitants of a quaint northwestern town are stunned when their homecoming queen is murdered.",
       "releaseInfo": "2017",
+      "imdbRating": "8.5"
+    },
+    {
+      "id": "tt21209876",
+      "type": "series",
+      "name": "Solo Leveling",
+      "poster": "https://images.metahub.space/poster/small/tt21209876/img",
+      "background": "https://images.metahub.space/background/medium/tt21209876/img",
+      "logo": "https://images.metahub.space/logo/medium/tt21209876/img",
+      "description": "Follows the adventures of Sung Jinwoo in a world that is constantly threatened by monsters and evil forces. In his battles Sung transforms himself from the weakest hunter of all mankind to one of the strongest hunters in existence.",
+      "releaseInfo": "2024–",
       "imdbRating": "8.5"
     },
     {
@@ -243,17 +265,6 @@
       "imdbRating": "8.4"
     },
     {
-      "id": "tt1442449",
-      "type": "series",
-      "name": "Spartacus",
-      "poster": "https://images.metahub.space/poster/small/tt1442449/img",
-      "background": "https://images.metahub.space/background/medium/tt1442449/img",
-      "logo": "https://images.metahub.space/logo/medium/tt1442449/img",
-      "description": "The life of Spartacus, the gladiator who led a rebellion against the Romans.",
-      "releaseInfo": "2010–2013",
-      "imdbRating": "8.4"
-    },
-    {
       "id": "tt6473300",
       "type": "series",
       "name": "Mirzapur",
@@ -265,6 +276,17 @@
       "imdbRating": "8.4"
     },
     {
+      "id": "tt1442449",
+      "type": "series",
+      "name": "Spartacus",
+      "poster": "https://images.metahub.space/poster/small/tt1442449/img",
+      "background": "https://images.metahub.space/background/medium/tt1442449/img",
+      "logo": "https://images.metahub.space/logo/medium/tt1442449/img",
+      "description": "The life of Spartacus, the gladiator who led a rebellion against the Romans.",
+      "releaseInfo": "2010–2013",
+      "imdbRating": "8.4"
+    },
+    {
       "id": "tt9059760",
       "type": "series",
       "name": "Normal People",
@@ -273,6 +295,17 @@
       "logo": "https://images.metahub.space/logo/medium/tt9059760/img",
       "description": "A man and a woman embark on an on-again/off-again romance that starts at school and continues through college, testing their relationship as they explore different versions of themselves.",
       "releaseInfo": "2020",
+      "imdbRating": "8.4"
+    },
+    {
+      "id": "tt0409591",
+      "type": "series",
+      "name": "Naruto",
+      "poster": "https://images.metahub.space/poster/small/tt0409591/img",
+      "background": "https://images.metahub.space/background/medium/tt0409591/img",
+      "logo": "https://images.metahub.space/logo/medium/tt0409591/img",
+      "description": "Naruto Uzumaki, a mischievous adolescent ninja, struggles as he searches for recognition and dreams of becoming the Hokage, the village's leader and strongest ninja.",
+      "releaseInfo": "2002–2007",
       "imdbRating": "8.4"
     },
     {
@@ -309,6 +342,17 @@
       "imdbRating": "8.3"
     },
     {
+      "id": "tt12590266",
+      "type": "series",
+      "name": "Cyberpunk: Edgerunners",
+      "poster": "https://images.metahub.space/poster/small/tt12590266/img",
+      "background": "https://images.metahub.space/background/medium/tt12590266/img",
+      "logo": "https://images.metahub.space/logo/medium/tt12590266/img",
+      "description": "A Street Kid trying to survive in a technology and body modification-obsessed city of the future. Having everything to lose, he chooses to stay alive by becoming an Edgerunner, a Mercenary outlaw also known as a Cyberpunk.",
+      "releaseInfo": "2022–",
+      "imdbRating": "8.3"
+    },
+    {
       "id": "tt1196946",
       "type": "series",
       "name": "The Mentalist",
@@ -342,17 +386,6 @@
       "imdbRating": "8.2"
     },
     {
-      "id": "tt15384586",
-      "type": "series",
-      "name": "Fellow Travelers",
-      "poster": "https://images.metahub.space/poster/small/tt15384586/img",
-      "background": "https://images.metahub.space/background/medium/tt15384586/img",
-      "logo": "https://images.metahub.space/logo/medium/tt15384586/img",
-      "description": "Decades-long chronicle of the risky, volatile and steamy relationship between the charismatic and ambitious Hawk and the pious and idealistic Tim, two political staffers who fall in love at the height of the 1950s Lavender Scare.",
-      "releaseInfo": "2023",
-      "imdbRating": "8.2"
-    },
-    {
       "id": "tt19386538",
       "type": "series",
       "name": "Mussolini: Son of the Century",
@@ -364,14 +397,14 @@
       "imdbRating": "8.2"
     },
     {
-      "id": "tt20873118",
+      "id": "tt15384586",
       "type": "series",
-      "name": "Suzhal - The Vortex",
-      "poster": "https://images.metahub.space/poster/small/tt20873118/img",
-      "background": "https://images.metahub.space/background/medium/tt20873118/img",
-      "logo": "https://images.metahub.space/logo/medium/tt20873118/img",
-      "description": "In a small South Indian town, a seemingly routine minor case explodes into a twisted crime thriller that rips apart its social fabric.",
-      "releaseInfo": "2022–",
+      "name": "Fellow Travelers",
+      "poster": "https://images.metahub.space/poster/small/tt15384586/img",
+      "background": "https://images.metahub.space/background/medium/tt15384586/img",
+      "logo": "https://images.metahub.space/logo/medium/tt15384586/img",
+      "description": "Decades-long chronicle of the risky, volatile and steamy relationship between the charismatic and ambitious Hawk and the pious and idealistic Tim, two political staffers who fall in love at the height of the 1950s Lavender Scare.",
+      "releaseInfo": "2023",
       "imdbRating": "8.2"
     },
     {
@@ -397,6 +430,28 @@
       "imdbRating": "8.2"
     },
     {
+      "id": "tt20873118",
+      "type": "series",
+      "name": "Suzhal - The Vortex",
+      "poster": "https://images.metahub.space/poster/small/tt20873118/img",
+      "background": "https://images.metahub.space/background/medium/tt20873118/img",
+      "logo": "https://images.metahub.space/logo/medium/tt20873118/img",
+      "description": "In a small South Indian town, a seemingly routine minor case explodes into a twisted crime thriller that rips apart its social fabric.",
+      "releaseInfo": "2022–",
+      "imdbRating": "8.2"
+    },
+    {
+      "id": "tt15469618",
+      "type": "series",
+      "name": "Bad Sisters",
+      "poster": "https://images.metahub.space/poster/small/tt15469618/img",
+      "background": "https://images.metahub.space/background/medium/tt15469618/img",
+      "logo": "https://images.metahub.space/logo/medium/tt15469618/img",
+      "description": "The Garvey sisters are bound together by their parents' deaths and a promise to always protect one another.",
+      "releaseInfo": "2022–",
+      "imdbRating": "8.2"
+    },
+    {
       "id": "tt0758790",
       "type": "series",
       "name": "The Tudors",
@@ -405,17 +460,6 @@
       "logo": "https://images.metahub.space/logo/medium/tt0758790/img",
       "description": "Epic series reveals the scandalous life of a young king whose affairs and obsession with producing a male heir changed marriage, the church, and the world.",
       "releaseInfo": "2007–2010",
-      "imdbRating": "8.1"
-    },
-    {
-      "id": "tt0914387",
-      "type": "series",
-      "name": "Damages",
-      "poster": "https://images.metahub.space/poster/small/tt0914387/img",
-      "background": "https://images.metahub.space/background/medium/tt0914387/img",
-      "logo": "https://images.metahub.space/logo/medium/tt0914387/img",
-      "description": "A law school graduate becomes the protégée of a successful high-stakes litigator.",
-      "releaseInfo": "2007–2012",
       "imdbRating": "8.1"
     },
     {
@@ -430,14 +474,14 @@
       "imdbRating": "8.1"
     },
     {
-      "id": "tt7772588",
+      "id": "tt0914387",
       "type": "series",
-      "name": "For All Mankind",
-      "poster": "https://images.metahub.space/poster/small/tt7772588/img",
-      "background": "https://images.metahub.space/background/medium/tt7772588/img",
-      "logo": "https://images.metahub.space/logo/medium/tt7772588/img",
-      "description": "In an alternative version of 1969, the Soviet Union beats the United States to the Moon, and the space race continues on for decades with still grander challenges and goals.",
-      "releaseInfo": "2019–2027",
+      "name": "Damages",
+      "poster": "https://images.metahub.space/poster/small/tt0914387/img",
+      "background": "https://images.metahub.space/background/medium/tt0914387/img",
+      "logo": "https://images.metahub.space/logo/medium/tt0914387/img",
+      "description": "A law school graduate becomes the protégée of a successful high-stakes litigator.",
+      "releaseInfo": "2007–2012",
       "imdbRating": "8.1"
     },
     {
@@ -452,14 +496,14 @@
       "imdbRating": "8.1"
     },
     {
-      "id": "tt38504111",
+      "id": "tt7772588",
       "type": "series",
-      "name": "Small Prophets",
-      "poster": "https://images.metahub.space/poster/small/tt38504111/img",
-      "background": "https://images.metahub.space/background/medium/tt38504111/img",
-      "logo": "https://images.metahub.space/logo/medium/tt38504111/img",
-      "description": "Eccentric Michael Sleep, whose darling partner, Clea, disappeared seven years ago, sets out to create Homunculi - magical prophesying spirits that can predict the future.",
-      "releaseInfo": "2026–",
+      "name": "For All Mankind",
+      "poster": "https://images.metahub.space/poster/small/tt7772588/img",
+      "background": "https://images.metahub.space/background/medium/tt7772588/img",
+      "logo": "https://images.metahub.space/logo/medium/tt7772588/img",
+      "description": "In an alternative version of 1969, the Soviet Union beats the United States to the Moon, and the space race continues on for decades with still grander challenges and goals.",
+      "releaseInfo": "2019–2027",
       "imdbRating": "8.1"
     },
     {
@@ -474,17 +518,6 @@
       "imdbRating": "8.1"
     },
     {
-      "id": "tt1515193",
-      "type": "series",
-      "name": "The Big C",
-      "poster": "https://images.metahub.space/poster/small/tt1515193/img",
-      "background": "https://images.metahub.space/background/medium/tt1515193/img",
-      "logo": "https://images.metahub.space/logo/medium/tt1515193/img",
-      "description": "A suburban mother faces her cancer diagnosis while trying to find humor and happiness as well.",
-      "releaseInfo": "2010–2013",
-      "imdbRating": "8.1"
-    },
-    {
       "id": "tt14688458",
       "type": "series",
       "name": "Silo",
@@ -493,6 +526,17 @@
       "logo": "https://images.metahub.space/logo/medium/tt14688458/img",
       "description": "Men and women live in a giant silo underground with several regulations which they believe are in place to protect them from the toxic and ruined world on the surface.",
       "releaseInfo": "2023–",
+      "imdbRating": "8.1"
+    },
+    {
+      "id": "tt1515193",
+      "type": "series",
+      "name": "The Big C",
+      "poster": "https://images.metahub.space/poster/small/tt1515193/img",
+      "background": "https://images.metahub.space/background/medium/tt1515193/img",
+      "logo": "https://images.metahub.space/logo/medium/tt1515193/img",
+      "description": "A suburban mother faces her cancer diagnosis while trying to find humor and happiness as well.",
+      "releaseInfo": "2010–2013",
       "imdbRating": "8.1"
     },
     {
@@ -505,50 +549,6 @@
       "description": "Al is the quintessential working class dad. Peggy, his wife, always wants more from him. With their children, they go through the highs and lows of ordinary life.",
       "releaseInfo": "1987–1997",
       "imdbRating": "8.1"
-    },
-    {
-      "id": "tt17491088",
-      "type": "series",
-      "name": "The Diplomat",
-      "poster": "https://images.metahub.space/poster/small/tt17491088/img",
-      "background": "https://images.metahub.space/background/medium/tt17491088/img",
-      "logo": "https://images.metahub.space/logo/medium/tt17491088/img",
-      "description": "In the midst of an international crisis, Kate Wyler, a career diplomat, lands in a high-profile job for which she is not suited, with tectonic implications for her marriage and her political future.",
-      "releaseInfo": "2023–",
-      "imdbRating": "8.0"
-    },
-    {
-      "id": "tt20096840",
-      "type": "series",
-      "name": "The Messiah",
-      "poster": "https://images.metahub.space/poster/small/tt20096840/img",
-      "background": "https://images.metahub.space/background/medium/tt20096840/img",
-      "logo": "https://images.metahub.space/logo/medium/tt20096840/img",
-      "description": "It tells the story of Enric, who is heavily impacted by a viral video of a Christian pop band made up of five sisters.",
-      "releaseInfo": "2023",
-      "imdbRating": "8.0"
-    },
-    {
-      "id": "tt23649128",
-      "type": "series",
-      "name": "The Studio",
-      "poster": "https://images.metahub.space/poster/small/tt23649128/img",
-      "background": "https://images.metahub.space/background/medium/tt23649128/img",
-      "logo": "https://images.metahub.space/logo/medium/tt23649128/img",
-      "description": "Follows a legacy Hollywood movie studio striving to survive in a world where it is increasingly difficult for art and business to live together.",
-      "releaseInfo": "2025–",
-      "imdbRating": "8.0"
-    },
-    {
-      "id": "tt4643084",
-      "type": "series",
-      "name": "Counterpart",
-      "poster": "https://images.metahub.space/poster/small/tt4643084/img",
-      "background": "https://images.metahub.space/background/medium/tt4643084/img",
-      "logo": "https://images.metahub.space/logo/medium/tt4643084/img",
-      "description": "A cog in a bureaucratic agency discovers his agency is guarding a crossing to a parallel dimension.",
-      "releaseInfo": "2017–2019",
-      "imdbRating": "8.0"
     }
   ]
 }
