@@ -61,16 +61,6 @@
       "imdbRating": 8.1
     },
     {
-      "id": "tt0445883",
-      "type": "series",
-      "name": "Koffee with Karan",
-      "poster": "https://images.metahub.space/poster/medium/tt0445883/img",
-      "background": "https://images.metahub.space/background/medium/tt0445883/img",
-      "description": "Celebrity host Karan Johar gets up close and personal with various Bollywood personalities and discusses their major career milestones.",
-      "releaseInfo": 2004,
-      "imdbRating": 6.3
-    },
-    {
       "id": "tt7441658",
       "type": "series",
       "name": "Black Clover",
@@ -79,26 +69,6 @@
       "description": "Asta and Yuno were abandoned together at the same church and have been inseparable since. As children, they promised that they would compete against each other to see who would become the next Emperor Magus.",
       "releaseInfo": 2017,
       "imdbRating": 8.2
-    },
-    {
-      "id": "tt33332385",
-      "type": "series",
-      "name": "Widow's Bay",
-      "poster": "https://images.metahub.space/poster/medium/tt33332385/img",
-      "background": "https://images.metahub.space/background/medium/tt33332385/img",
-      "description": "The mayor of a New England town resolves to turn it into the next tourist hot spot, despite local warnings that it's cursed.",
-      "releaseInfo": 2026,
-      "imdbRating": 8.1
-    },
-    {
-      "id": "tt33546863",
-      "type": "series",
-      "name": "Off Campus",
-      "poster": "https://images.metahub.space/poster/medium/tt33546863/img",
-      "background": "https://images.metahub.space/background/medium/tt33546863/img",
-      "description": "A college-set romantic drama chronicling the unexpected love story between a music student and the university's star hockey player, exploring themes of love and the complexities of adulthood through deep friendships and enduring bonds.",
-      "releaseInfo": 2026,
-      "imdbRating": 7.8
     },
     {
       "id": "tt0914387",
@@ -111,6 +81,36 @@
       "imdbRating": 8.1
     },
     {
+      "id": "tt0445883",
+      "type": "series",
+      "name": "Koffee with Karan",
+      "poster": "https://images.metahub.space/poster/medium/tt0445883/img",
+      "background": "https://images.metahub.space/background/medium/tt0445883/img",
+      "description": "Celebrity host Karan Johar gets up close and personal with various Bollywood personalities and discusses their major career milestones.",
+      "releaseInfo": 2004,
+      "imdbRating": 6.3
+    },
+    {
+      "id": "tt33546863",
+      "type": "series",
+      "name": "Off Campus",
+      "poster": "https://images.metahub.space/poster/medium/tt33546863/img",
+      "background": "https://images.metahub.space/background/medium/tt33546863/img",
+      "description": "A college-set romantic drama chronicling the unexpected love story between a music student and the university's star hockey player, exploring themes of love and the complexities of adulthood through deep friendships and enduring bonds.",
+      "releaseInfo": 2026,
+      "imdbRating": 7.8
+    },
+    {
+      "id": "tt1442449",
+      "type": "series",
+      "name": "Spartacus",
+      "poster": "https://images.metahub.space/poster/medium/tt1442449/img",
+      "background": "https://images.metahub.space/background/medium/tt1442449/img",
+      "description": "The life of Spartacus, the gladiator who led a rebellion against the Romans.",
+      "releaseInfo": 2010,
+      "imdbRating": 8.4
+    },
+    {
       "id": "tt23112594",
       "type": "series",
       "name": "VisionQuest",
@@ -119,6 +119,66 @@
       "description": "With a bounty on his head, Vision must confront his nature and resist Ultron's influence to survive.",
       "releaseInfo": 2026,
       "imdbRating": 8
+    },
+    {
+      "id": "tt45246384",
+      "type": "series",
+      "name": "Love in Disguise",
+      "poster": "https://images.metahub.space/poster/medium/tt45246384/img",
+      "background": "https://images.metahub.space/background/medium/tt45246384/img",
+      "description": "Taekang Group's successor, Yoon Yi-jun, is the prime suspect of a shocking murder. To uncover the truth, Kang Jae-hee goes undercover as a male secretary to keep an eye on Yi-jun. The closer they get to what really happened, the closer Yi-jun and Jae-hee become. Will Jae-hee, who is hiding her identity, and Yi-jun, who is hiding a secret, be able to let their true feelings be known to one another?",
+      "releaseInfo": 2026,
+      "imdbRating": 8.6
+    },
+    {
+      "id": "tt33332385",
+      "type": "series",
+      "name": "Widow's Bay",
+      "poster": "https://images.metahub.space/poster/medium/tt33332385/img",
+      "background": "https://images.metahub.space/background/medium/tt33332385/img",
+      "description": "The mayor of a New England town resolves to turn it into the next tourist hot spot, despite local warnings that it's cursed.",
+      "releaseInfo": 2026,
+      "imdbRating": 8.1
+    },
+    {
+      "id": "tt0944947",
+      "type": "series",
+      "name": "Game of Thrones",
+      "poster": "https://images.metahub.space/poster/medium/tt0944947/img",
+      "background": "https://images.metahub.space/background/medium/tt0944947/img",
+      "description": "Seven noble families fight for control of the mythical land of Westeros. Friction between the houses leads to full-scale war. All while a very ancient evil awakens in the farthest north. Amidst the war, a neglected military order of misfits, the Night's Watch, is all that stands between the realms of men and icy horrors beyond.",
+      "releaseInfo": 2011,
+      "imdbRating": 9.2
+    },
+    {
+      "id": "tt11743610",
+      "type": "series",
+      "name": "The Terminal List",
+      "poster": "https://images.metahub.space/poster/medium/tt11743610/img",
+      "background": "https://images.metahub.space/background/medium/tt11743610/img",
+      "description": "A former Navy SEAL officer investigates why his entire platoon was ambushed during a high-stakes covert mission.",
+      "releaseInfo": 2022,
+      "imdbRating": 7.9
+    },
+    {
+      "id": "tt29011445",
+      "type": "series",
+      "name": "Where's Wanda?",
+      "poster": "https://images.metahub.space/poster/medium/tt29011445/img",
+      "background": "https://images.metahub.space/background/medium/tt29011445/img",
+      "description": "After the Klatts' daughter goes missing, they take matters into their own hands and hatch a wild plan: Spy on the neighborhood. As they make their way into small-time espionage, shocking secrets come to light one by one.",
+      "releaseInfo": 2024,
+      "imdbRating": 6.5
+    },
+    {
+      "id": "tt31510819",
+      "type": "series",
+      "name": "MobLand",
+      "poster": "https://images.metahub.space/poster/medium/tt31510819/img",
+      "background": "https://images.metahub.space/background/medium/tt31510819/img",
+      "description": "Two mob families clash in a war that threatens to topple empires and lives.",
+      "releaseInfo": 2025,
+      "imdbRating": 8.3
     },
     {
       "id": "tt17491088",
@@ -141,44 +201,14 @@
       "imdbRating": 7
     },
     {
-      "id": "tt0944947",
+      "id": "tt0988824",
       "type": "series",
-      "name": "Game of Thrones",
-      "poster": "https://images.metahub.space/poster/medium/tt0944947/img",
-      "background": "https://images.metahub.space/background/medium/tt0944947/img",
-      "description": "Seven noble families fight for control of the mythical land of Westeros. Friction between the houses leads to full-scale war. All while a very ancient evil awakens in the farthest north. Amidst the war, a neglected military order of misfits, the Night's Watch, is all that stands between the realms of men and icy horrors beyond.",
-      "releaseInfo": 2011,
-      "imdbRating": 9.2
-    },
-    {
-      "id": "tt30003786",
-      "type": "series",
-      "name": "The Great Indian Kapil Show",
-      "poster": "https://images.metahub.space/poster/medium/tt30003786/img",
-      "background": "https://images.metahub.space/background/medium/tt30003786/img",
-      "description": "Comedian Kapil Sharma hosts this laugh-out-loud variety talk show with celebrity guests, hilarious antics and his signature supporting cast.",
-      "releaseInfo": 2024,
-      "imdbRating": 6.5
-    },
-    {
-      "id": "tt6111130",
-      "type": "series",
-      "name": "S.W.A.T.",
-      "poster": "https://images.metahub.space/poster/medium/tt6111130/img",
-      "background": "https://images.metahub.space/background/medium/tt6111130/img",
-      "description": "Follows a Los Angeles Police Department (LAPD) Special Weapons and Tactics (SWAT) team as they battle crime in Los Angeles, California.",
-      "releaseInfo": 2017,
-      "imdbRating": 7.2
-    },
-    {
-      "id": "tt31510819",
-      "type": "series",
-      "name": "MobLand",
-      "poster": "https://images.metahub.space/poster/medium/tt31510819/img",
-      "background": "https://images.metahub.space/background/medium/tt31510819/img",
-      "description": "Two mob families clash in a war that threatens to topple empires and lives.",
-      "releaseInfo": 2025,
-      "imdbRating": 8.3
+      "name": "Naruto: Shippûden",
+      "poster": "https://images.metahub.space/poster/medium/tt0988824/img",
+      "background": "https://images.metahub.space/background/medium/tt0988824/img",
+      "description": "Naruto Uzumaki, is a loud, hyperactive, adolescent ninja who constantly searches for approval and recognition, as well as to become Hokage, who is acknowledged as the leader and strongest of all ninja in the village.",
+      "releaseInfo": 2007,
+      "imdbRating": 8.7
     },
     {
       "id": "tt9813792",
@@ -191,44 +221,34 @@
       "imdbRating": 7.7
     },
     {
-      "id": "tt8417266",
+      "id": "tt6111130",
       "type": "series",
-      "name": "Undercover Billionaire",
-      "poster": "https://images.metahub.space/poster/medium/tt8417266/img",
-      "background": "https://images.metahub.space/background/medium/tt8417266/img",
-      "description": "Billionaire Glenn Stearns attempts a monumental challenge that most would claim is impossible. Follow this self-made mogul to see if he can build a million-dollar company in just 90 days.",
-      "releaseInfo": 2019,
-      "imdbRating": 7.6
+      "name": "S.W.A.T.",
+      "poster": "https://images.metahub.space/poster/medium/tt6111130/img",
+      "background": "https://images.metahub.space/background/medium/tt6111130/img",
+      "description": "Follows a Los Angeles Police Department (LAPD) Special Weapons and Tactics (SWAT) team as they battle crime in Los Angeles, California.",
+      "releaseInfo": 2017,
+      "imdbRating": 7.2
     },
     {
-      "id": "tt26915338",
+      "id": "tt28077038",
       "type": "series",
-      "name": "Gyaarah Gyaarah",
-      "poster": "https://images.metahub.space/poster/medium/tt26915338/img",
-      "background": "https://images.metahub.space/background/medium/tt26915338/img",
-      "description": "Investigative drama following events in 1990, 2001, 2016. Intertwining storylines blending mysticism, science and mystery across the decades.",
-      "releaseInfo": 2024,
-      "imdbRating": 8.1
-    },
-    {
-      "id": "tt45246384",
-      "type": "series",
-      "name": "Love in Disguise",
-      "poster": "https://images.metahub.space/poster/medium/tt45246384/img",
-      "background": "https://images.metahub.space/background/medium/tt45246384/img",
-      "description": "Taekang Group's successor, Yoon Yi-jun, is the prime suspect of a shocking murder. To uncover the truth, Kang Jae-hee goes undercover as a male secretary to keep an eye on Yi-jun. The closer they get to what really happened, the closer Yi-jun and Jae-hee become. Will Jae-hee, who is hiding her identity, and Yi-jun, who is hiding a secret, be able to let their true feelings be known to one another?",
+      "name": "Pritam and Pedro",
+      "poster": "https://images.metahub.space/poster/medium/tt28077038/img",
+      "background": "https://images.metahub.space/background/medium/tt28077038/img",
+      "description": "When a tech-illiterate Goa cop is demoted to the cyber cell, he must team up with a quirky hacker to track down a minister's kidnapped son and win back his old job.",
       "releaseInfo": 2026,
-      "imdbRating": 8.3
+      "imdbRating": 7.7
     },
     {
-      "id": "tt29011445",
+      "id": "tt14688458",
       "type": "series",
-      "name": "Where's Wanda?",
-      "poster": "https://images.metahub.space/poster/medium/tt29011445/img",
-      "background": "https://images.metahub.space/background/medium/tt29011445/img",
-      "description": "After the Klatts' daughter goes missing, they take matters into their own hands and hatch a wild plan: Spy on the neighborhood. As they make their way into small-time espionage, shocking secrets come to light one by one.",
-      "releaseInfo": 2024,
-      "imdbRating": 6.5
+      "name": "Silo",
+      "poster": "https://images.metahub.space/poster/medium/tt14688458/img",
+      "background": "https://images.metahub.space/background/medium/tt14688458/img",
+      "description": "Men and women live in a giant silo underground with several regulations which they believe are in place to protect them from the toxic and ruined world on the surface.",
+      "releaseInfo": 2023,
+      "imdbRating": 8.1
     },
     {
       "id": "tt0388629",
@@ -241,14 +261,44 @@
       "imdbRating": 9
     },
     {
-      "id": "tt11743610",
+      "id": "tt42576855",
       "type": "series",
-      "name": "The Terminal List",
-      "poster": "https://images.metahub.space/poster/medium/tt11743610/img",
-      "background": "https://images.metahub.space/background/medium/tt11743610/img",
-      "description": "A former Navy SEAL officer investigates why his entire platoon was ambushed during a high-stakes covert mission.",
-      "releaseInfo": 2022,
-      "imdbRating": 7.9
+      "name": "Where the Mask Ends",
+      "poster": "https://images.metahub.space/poster/medium/tt42576855/img",
+      "background": "https://images.metahub.space/background/medium/tt42576855/img",
+      "description": "An ambitious street urchin seizes the chance to impersonate a noblewoman and becomes a warlord's bride, but when her comatose husband awakens, she must navigate deadly schemes, win his heart through cunning, and uncover her royal heritage to triumph over rivals and rise from gutter to glory.",
+      "releaseInfo": 2026,
+      "imdbRating": 7.5
+    },
+    {
+      "id": "tt1439629",
+      "type": "series",
+      "name": "Community",
+      "poster": "https://images.metahub.space/poster/medium/tt1439629/img",
+      "background": "https://images.metahub.space/background/medium/tt1439629/img",
+      "description": "Follow the lives of a group of students at what is possibly the world’s worst community college in the fictional locale of Greendale, Colorado.",
+      "releaseInfo": 2009,
+      "imdbRating": 8.5
+    },
+    {
+      "id": "tt26915338",
+      "type": "series",
+      "name": "Gyaarah Gyaarah",
+      "poster": "https://images.metahub.space/poster/medium/tt26915338/img",
+      "background": "https://images.metahub.space/background/medium/tt26915338/img",
+      "description": "Investigative drama following events in 1990, 2001, 2016. Intertwining storylines blending mysticism, science and mystery across the decades.",
+      "releaseInfo": 2024,
+      "imdbRating": 8.1
+    },
+    {
+      "id": "tt30003786",
+      "type": "series",
+      "name": "The Great Indian Kapil Show",
+      "poster": "https://images.metahub.space/poster/medium/tt30003786/img",
+      "background": "https://images.metahub.space/background/medium/tt30003786/img",
+      "description": "Comedian Kapil Sharma hosts this laugh-out-loud variety talk show with celebrity guests, hilarious antics and his signature supporting cast.",
+      "releaseInfo": 2024,
+      "imdbRating": 6.5
     },
     {
       "id": "tt35495073",
@@ -271,44 +321,14 @@
       "imdbRating": 8.5
     },
     {
-      "id": "tt0988824",
+      "id": "tt11905720",
       "type": "series",
-      "name": "Naruto: Shippûden",
-      "poster": "https://images.metahub.space/poster/medium/tt0988824/img",
-      "background": "https://images.metahub.space/background/medium/tt0988824/img",
-      "description": "Naruto Uzumaki, is a loud, hyperactive, adolescent ninja who constantly searches for approval and recognition, as well as to become Hokage, who is acknowledged as the leader and strongest of all ninja in the village.",
-      "releaseInfo": 2007,
-      "imdbRating": 8.7
-    },
-    {
-      "id": "tt1439629",
-      "type": "series",
-      "name": "Community",
-      "poster": "https://images.metahub.space/poster/medium/tt1439629/img",
-      "background": "https://images.metahub.space/background/medium/tt1439629/img",
-      "description": "Follow the lives of a group of students at what is possibly the world’s worst community college in the fictional locale of Greendale, Colorado.",
-      "releaseInfo": 2009,
-      "imdbRating": 8.5
-    },
-    {
-      "id": "tt28077038",
-      "type": "series",
-      "name": "Pritam and Pedro",
-      "poster": "https://images.metahub.space/poster/medium/tt28077038/img",
-      "background": "https://images.metahub.space/background/medium/tt28077038/img",
-      "description": "When a tech-illiterate Goa cop is demoted to the cyber cell, he must team up with a quirky hacker to track down a minister's kidnapped son and win back his old job.",
-      "releaseInfo": 2026,
-      "imdbRating": 7.7
-    },
-    {
-      "id": "tt39665097",
-      "type": "series",
-      "name": "Musafir Cafe",
-      "poster": "https://images.metahub.space/poster/medium/tt39665097/img",
-      "background": "https://images.metahub.space/background/medium/tt39665097/img",
-      "description": "Three travelers lives unexpectedly intertwine. Chander and Sudha share an instant spark. With Preeti, Chander finds steady companionship built on quiet understanding and ease. Which love endures through time, and life's journey?",
-      "releaseInfo": 2026,
-      "imdbRating": 7.5
+      "name": "She",
+      "poster": "https://images.metahub.space/poster/medium/tt11905720/img",
+      "background": "https://images.metahub.space/background/medium/tt11905720/img",
+      "description": "An undercover assignment to expose a drug ring becomes a timid Mumbai constable's road to empowerment as she realizes her dormant sexuality's potential.",
+      "releaseInfo": 2020,
+      "imdbRating": 6.4
     },
     {
       "id": "tt1475582",
@@ -331,34 +351,14 @@
       "imdbRating": 8.1
     },
     {
-      "id": "tt11905720",
+      "id": "tt39665097",
       "type": "series",
-      "name": "She",
-      "poster": "https://images.metahub.space/poster/medium/tt11905720/img",
-      "background": "https://images.metahub.space/background/medium/tt11905720/img",
-      "description": "An undercover assignment to expose a drug ring becomes a timid Mumbai constable's road to empowerment as she realizes her dormant sexuality's potential.",
-      "releaseInfo": 2020,
-      "imdbRating": 6.4
-    },
-    {
-      "id": "tt1442449",
-      "type": "series",
-      "name": "Spartacus",
-      "poster": "https://images.metahub.space/poster/medium/tt1442449/img",
-      "background": "https://images.metahub.space/background/medium/tt1442449/img",
-      "description": "The life of Spartacus, the gladiator who led a rebellion against the Romans.",
-      "releaseInfo": 2010,
-      "imdbRating": 8.4
-    },
-    {
-      "id": "tt15384586",
-      "type": "series",
-      "name": "Fellow Travelers",
-      "poster": "https://images.metahub.space/poster/medium/tt15384586/img",
-      "background": "https://images.metahub.space/background/medium/tt15384586/img",
-      "description": "Decades-long chronicle of the risky, volatile and steamy relationship between the charismatic and ambitious Hawk and the pious and idealistic Tim, two political staffers who fall in love at the height of the 1950s Lavender Scare.",
-      "releaseInfo": 2023,
-      "imdbRating": 8.2
+      "name": "Musafir Cafe",
+      "poster": "https://images.metahub.space/poster/medium/tt39665097/img",
+      "background": "https://images.metahub.space/background/medium/tt39665097/img",
+      "description": "Three travelers lives unexpectedly intertwine. Chander and Sudha share an instant spark. With Preeti, Chander finds steady companionship built on quiet understanding and ease. Which love endures through time, and life's journey?",
+      "releaseInfo": 2026,
+      "imdbRating": 7.5
     },
     {
       "id": "tt15677150",
@@ -371,14 +371,14 @@
       "imdbRating": 8.2
     },
     {
-      "id": "tt42576855",
+      "id": "tt15384586",
       "type": "series",
-      "name": "Where the Mask Ends",
-      "poster": "https://images.metahub.space/poster/medium/tt42576855/img",
-      "background": "https://images.metahub.space/background/medium/tt42576855/img",
-      "description": "An ambitious street urchin seizes the chance to impersonate a noblewoman and becomes a warlord's bride, but when her comatose husband awakens, she must navigate deadly schemes, win his heart through cunning, and uncover her royal heritage to triumph over rivals and rise from gutter to glory.",
-      "releaseInfo": 2026,
-      "imdbRating": 7.4
+      "name": "Fellow Travelers",
+      "poster": "https://images.metahub.space/poster/medium/tt15384586/img",
+      "background": "https://images.metahub.space/background/medium/tt15384586/img",
+      "description": "Decades-long chronicle of the risky, volatile and steamy relationship between the charismatic and ambitious Hawk and the pious and idealistic Tim, two political staffers who fall in love at the height of the 1950s Lavender Scare.",
+      "releaseInfo": 2023,
+      "imdbRating": 8.2
     },
     {
       "id": "tt16418808",
@@ -401,14 +401,14 @@
       "imdbRating": 9.5
     },
     {
-      "id": "tt19231492",
+      "id": "tt22202452",
       "type": "series",
-      "name": "Dark Matter",
-      "poster": "https://images.metahub.space/poster/medium/tt19231492/img",
-      "background": "https://images.metahub.space/background/medium/tt19231492/img",
-      "description": "Jason Dessen is abducted into an alternate version of his life. To get back to his real family, he embarks on a harrowing journey to save them from the most terrifying foe imaginable: himself.",
-      "releaseInfo": 2024,
-      "imdbRating": 7.6
+      "name": "Pluribus",
+      "poster": "https://images.metahub.space/poster/medium/tt22202452/img",
+      "background": "https://images.metahub.space/background/medium/tt22202452/img",
+      "description": "In a world overtaken by a mysterious wave of forced happiness, Carol Sturka, one of the immune few, must uncover what's really going on - and save humanity from its artificial bliss.",
+      "releaseInfo": 2025,
+      "imdbRating": 7.9
     },
     {
       "id": "tt31862809",
@@ -431,14 +431,44 @@
       "imdbRating": 6.5
     },
     {
-      "id": "tt22202452",
+      "id": "tt8417266",
       "type": "series",
-      "name": "Pluribus",
-      "poster": "https://images.metahub.space/poster/medium/tt22202452/img",
-      "background": "https://images.metahub.space/background/medium/tt22202452/img",
-      "description": "In a world overtaken by a mysterious wave of forced happiness, Carol Sturka, one of the immune few, must uncover what's really going on - and save humanity from its artificial bliss.",
+      "name": "Undercover Billionaire",
+      "poster": "https://images.metahub.space/poster/medium/tt8417266/img",
+      "background": "https://images.metahub.space/background/medium/tt8417266/img",
+      "description": "Billionaire Glenn Stearns attempts a monumental challenge that most would claim is impossible. Follow this self-made mogul to see if he can build a million-dollar company in just 90 days.",
+      "releaseInfo": 2019,
+      "imdbRating": 7.6
+    },
+    {
+      "id": "tt7768578",
+      "type": "series",
+      "name": "Shin Chan",
+      "poster": "https://images.metahub.space/poster/medium/tt7768578/img",
+      "background": "https://images.metahub.space/background/medium/tt7768578/img",
+      "description": "Shin-chan, the boy next door, is a walking disaster, creating chaos wherever he goes. With the body of a child and the mind of an adult, Shinchan is wreaking more havoc than any child before. Shin-chan is carefree, optimistic and gets excited about everything. This 5 year-old likes to do things his way.",
+      "releaseInfo": 1992,
+      "imdbRating": 8.4
+    },
+    {
+      "id": "tt26471411",
+      "type": "series",
+      "name": "When Life Gives You Tangerines",
+      "poster": "https://images.metahub.space/poster/medium/tt26471411/img",
+      "background": "https://images.metahub.space/background/medium/tt26471411/img",
+      "description": "In Jeju, a spirited girl and a steadfast boy's island story blossoms into a lifelong tale of setbacks and triumphs — proving love endures across time.",
       "releaseInfo": 2025,
-      "imdbRating": 7.9
+      "imdbRating": 9
+    },
+    {
+      "id": "tt19231492",
+      "type": "series",
+      "name": "Dark Matter",
+      "poster": "https://images.metahub.space/poster/medium/tt19231492/img",
+      "background": "https://images.metahub.space/background/medium/tt19231492/img",
+      "description": "Jason Dessen is abducted into an alternate version of his life. To get back to his real family, he embarks on a harrowing journey to save them from the most terrifying foe imaginable: himself.",
+      "releaseInfo": 2024,
+      "imdbRating": 7.6
     },
     {
       "id": "tt13196080",
@@ -451,54 +481,24 @@
       "imdbRating": 7.7
     },
     {
-      "id": "tt10839422",
+      "id": "tt5753856",
       "type": "series",
-      "name": "Sex/Life",
-      "poster": "https://images.metahub.space/poster/medium/tt10839422/img",
-      "background": "https://images.metahub.space/background/medium/tt10839422/img",
-      "description": "A suburban mother of two takes a fantasy-charged trip down memory lane that sets her very married present on a collision course with her wild child past.",
-      "releaseInfo": 2021,
-      "imdbRating": 5.6
-    },
-    {
-      "id": "tt11846996",
-      "type": "series",
-      "name": "Vigil",
-      "poster": "https://images.metahub.space/poster/medium/tt11846996/img",
-      "background": "https://images.metahub.space/background/medium/tt11846996/img",
-      "description": "The mysterious disappearance of a Scottish fishing trawler and a death onboard a Trident nuclear submarine bring the police into conflict with the Navy and British security services.",
-      "releaseInfo": 2021,
-      "imdbRating": 7.4
-    },
-    {
-      "id": "tt26545992",
-      "type": "series",
-      "name": "Lanterns",
-      "poster": "https://images.metahub.space/poster/medium/tt26545992/img",
-      "background": "https://images.metahub.space/background/medium/tt26545992/img",
-      "description": "Two intergalactic cops, new recruit John Stewart and Lantern legend Hal Jordan, are drawn into a dark, Earth-based mystery as they investigate a murder in the American heartland.",
-      "releaseInfo": 2026,
-      "imdbRating": 7.8
-    },
-    {
-      "id": "tt13111078",
-      "type": "series",
-      "name": "Lioness",
-      "poster": "https://images.metahub.space/poster/medium/tt13111078/img",
-      "background": "https://images.metahub.space/background/medium/tt13111078/img",
-      "description": "Cruz Manuelos, a rough-around-the-edges but passionate young Marine, is recruited to join the CIA's Lioness Engagement Team to help bring down a terrorist organization from within. Joe, the station chief of the Lioness program, is tasked with training, managing and leading her female undercover operatives.",
-      "releaseInfo": 2023,
-      "imdbRating": 7.8
-    },
-    {
-      "id": "tt0098936",
-      "type": "series",
-      "name": "Twin Peaks",
-      "poster": "https://images.metahub.space/poster/medium/tt0098936/img",
-      "background": "https://images.metahub.space/background/medium/tt0098936/img",
-      "description": "The body of Laura Palmer is washed up on a beach near the small Washington state town of Twin Peaks. FBI Special Agent Dale Cooper is called in to investigate her strange demise only to uncover a web of mystery that ultimately leads him deep into the heart of the surrounding woodland and his very own soul.",
-      "releaseInfo": 1990,
+      "name": "Dark",
+      "poster": "https://images.metahub.space/poster/medium/tt5753856/img",
+      "background": "https://images.metahub.space/background/medium/tt5753856/img",
+      "description": "A missing child sets four families on a frantic hunt for answers as they unearth a mind-bending mystery that spans three generations.",
+      "releaseInfo": 2017,
       "imdbRating": 8.7
+    },
+    {
+      "id": "tt6773088",
+      "type": "series",
+      "name": "Brothers",
+      "poster": "https://images.metahub.space/poster/medium/tt6773088/img",
+      "background": "https://images.metahub.space/background/medium/tt6773088/img",
+      "description": "Matthew and Woody have been best friends for years, but a shocking family secret suggests their connection might be closer.",
+      "releaseInfo": 2026,
+      "imdbRating": 6.1
     }
   ]
 }
