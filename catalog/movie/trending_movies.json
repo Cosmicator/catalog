@@ -171,16 +171,6 @@
       "imdbRating": 6.2
     },
     {
-      "id": "tt28019966",
-      "type": "movie",
-      "name": "Paradha",
-      "poster": "https://images.metahub.space/poster/medium/tt28019966/img",
-      "background": "https://images.metahub.space/background/medium/tt28019966/img",
-      "description": "A veiled village woman's life changes when city visitors challenge her traditions. As she questions customs and investigates a curse, rumors of Sati emerge, leading her to confront societal norms.",
-      "releaseInfo": 2025,
-      "imdbRating": 6
-    },
-    {
       "id": "tt37535100",
       "type": "movie",
       "name": "Bethlehem Kudumba Unit",
@@ -261,14 +251,14 @@
       "imdbRating": 8.1
     },
     {
-      "id": "tt0115963",
+      "id": "tt39108319",
       "type": "movie",
-      "name": "The Craft",
-      "poster": "https://images.metahub.space/poster/medium/tt0115963/img",
-      "background": "https://images.metahub.space/background/medium/tt0115963/img",
-      "description": "A Catholic school newcomer falls in with a clique of teen witches who wield their powers against all who dare to cross them -- be they teachers, rivals or meddlesome parents.",
-      "releaseInfo": 1996,
-      "imdbRating": 6.5
+      "name": "Irumudi",
+      "poster": "https://images.metahub.space/poster/medium/tt39108319/img",
+      "background": "https://images.metahub.space/background/medium/tt39108319/img",
+      "description": "An alcoholic with a violent past—living peacefully with his daughter beside a waterfall—decides to take Ayyappa Deeksha (a 41-day spiritual vow and period of intense austerity) at her request.",
+      "releaseInfo": 2026,
+      "imdbRating": 7
     },
     {
       "id": "tt0070047",
@@ -279,16 +269,6 @@
       "description": "When a mysterious entity possesses a young girl, her mother seeks the help of two Catholic priests to save her life.",
       "releaseInfo": 1973,
       "imdbRating": 8.1
-    },
-    {
-      "id": "tt39108319",
-      "type": "movie",
-      "name": "Irumudi",
-      "poster": "https://images.metahub.space/poster/medium/tt39108319/img",
-      "background": "https://images.metahub.space/background/medium/tt39108319/img",
-      "description": "An alcoholic with a violent past—living peacefully with his daughter beside a waterfall—decides to take Ayyappa Deeksha (a 41-day spiritual vow and period of intense austerity) at her request.",
-      "releaseInfo": 2026,
-      "imdbRating": 7
     },
     {
       "id": "tt15047880",
@@ -391,6 +371,16 @@
       "imdbRating": 7.8
     },
     {
+      "id": "tt0115963",
+      "type": "movie",
+      "name": "The Craft",
+      "poster": "https://images.metahub.space/poster/medium/tt0115963/img",
+      "background": "https://images.metahub.space/background/medium/tt0115963/img",
+      "description": "A Catholic school newcomer falls in with a clique of teen witches who wield their powers against all who dare to cross them -- be they teachers, rivals or meddlesome parents.",
+      "releaseInfo": 1996,
+      "imdbRating": 6.5
+    },
+    {
       "id": "tt0063522",
       "type": "movie",
       "name": "Rosemary's Baby",
@@ -449,6 +439,16 @@
       "description": "The Dhamaal boys are back for another treasure hunt, facing hilarious challenges in their quest for the Treasure of Life.",
       "releaseInfo": 2026,
       "imdbRating": 6.6
+    },
+    {
+      "id": "tt28019966",
+      "type": "movie",
+      "name": "Paradha",
+      "poster": "https://images.metahub.space/poster/medium/tt28019966/img",
+      "background": "https://images.metahub.space/background/medium/tt28019966/img",
+      "description": "A veiled village woman's life changes when city visitors challenge her traditions. As she questions customs and investigates a curse, rumors of Sati emerge, leading her to confront societal norms.",
+      "releaseInfo": 2025,
+      "imdbRating": 6
     },
     {
       "id": "tt4361050",
