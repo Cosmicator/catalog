@@ -201,16 +201,6 @@
       "imdbRating": 6
     },
     {
-      "id": "tt46027225",
-      "type": "movie",
-      "name": "Super Scam Me",
-      "poster": "https://images.metahub.space/poster/medium/tt46027225/img",
-      "background": "https://images.metahub.space/background/medium/tt46027225/img",
-      "description": "After years of reporting on the scam industry, Mariana van Zeller enters one of her most immersive investigations to date. In a real-life social experiment, she builds a new online dating persona and goes undercover as the target of a romance scam to understand and expose the tactics, technologies, and psychological manipulations these criminals utilize to deceive their victims.",
-      "releaseInfo": 2026,
-      "imdbRating": 6.6
-    },
-    {
       "id": "tt14113634",
       "type": "movie",
       "name": "Drishyam 3",
@@ -219,16 +209,6 @@
       "description": "To protect his family and their dark secret, Georgekutty faces an organized new threat. As walls close in and cracks widen, how much more is he willing to sacrifice?",
       "releaseInfo": 2026,
       "imdbRating": 6.6
-    },
-    {
-      "id": "tt0479884",
-      "type": "movie",
-      "name": "Crank",
-      "poster": "https://images.metahub.space/poster/medium/tt0479884/img",
-      "background": "https://images.metahub.space/background/medium/tt0479884/img",
-      "description": "Chev Chelios, a hit man wanting to go straight, lets his latest target slip away. Then he awakes the next morning to a phone call that informs him he has been poisoned and has only an hour to live unless he keeps adrenaline coursing through his body while he searches for an antidote.",
-      "releaseInfo": 2006,
-      "imdbRating": 6.9
     },
     {
       "id": "tt31184028",
@@ -291,6 +271,16 @@
       "imdbRating": 6.4
     },
     {
+      "id": "tt46027225",
+      "type": "movie",
+      "name": "Super Scam Me",
+      "poster": "https://images.metahub.space/poster/medium/tt46027225/img",
+      "background": "https://images.metahub.space/background/medium/tt46027225/img",
+      "description": "After years of reporting on the scam industry, Mariana van Zeller enters one of her most immersive investigations to date. In a real-life social experiment, she builds a new online dating persona and goes undercover as the target of a romance scam to understand and expose the tactics, technologies, and psychological manipulations these criminals utilize to deceive their victims.",
+      "releaseInfo": 2026,
+      "imdbRating": 6.6
+    },
+    {
       "id": "tt1502407",
       "type": "movie",
       "name": "Halloween",
@@ -321,6 +311,16 @@
       "imdbRating": 6.8
     },
     {
+      "id": "tt0479884",
+      "type": "movie",
+      "name": "Crank",
+      "poster": "https://images.metahub.space/poster/medium/tt0479884/img",
+      "background": "https://images.metahub.space/background/medium/tt0479884/img",
+      "description": "Chev Chelios, a hit man wanting to go straight, lets his latest target slip away. Then he awakes the next morning to a phone call that informs him he has been poisoned and has only an hour to live unless he keeps adrenaline coursing through his body while he searches for an antidote.",
+      "releaseInfo": 2006,
+      "imdbRating": 6.9
+    },
+    {
       "id": "tt10665338",
       "type": "movie",
       "name": "Halloween Kills",
@@ -329,16 +329,6 @@
       "description": "Michael manages to free himself from Laurie Strode's trap to resume his ritual bloodbath. As she fights for her life from injuries from their last encounter, she inspires her daughter Karen, her granddaughter Allyson, and all of Haddonfield to rise up against the unstoppable monster.",
       "releaseInfo": 2021,
       "imdbRating": 5.5
-    },
-    {
-      "id": "tt2884018",
-      "type": "movie",
-      "name": "Macbeth",
-      "poster": "https://images.metahub.space/poster/medium/tt2884018/img",
-      "background": "https://images.metahub.space/background/medium/tt2884018/img",
-      "description": "Macbeth, the Thane of Glamis, receives a prophecy from a trio of witches that one day he will become King of Scotland. Consumed by ambition and spurred to action by his wife, Macbeth murders his king and takes the throne for himself.",
-      "releaseInfo": 2015,
-      "imdbRating": 6.6
     },
     {
       "id": "tt0110912",
@@ -451,16 +441,6 @@
       "imdbRating": 6.2
     },
     {
-      "id": "tt0086541",
-      "type": "movie",
-      "name": "Videodrome",
-      "poster": "https://images.metahub.space/poster/medium/tt0086541/img",
-      "background": "https://images.metahub.space/background/medium/tt0086541/img",
-      "description": "As the president of a trashy TV channel, Max Renn is desperate for new programming to attract viewers. When he happens upon \"Videodrome,\" a TV show dedicated to gratuitous torture and punishment, Max sees a potential hit and broadcasts the show on his channel. However, after his girlfriend auditions for the show and never returns, Max investigates the truth behind Videodrome and discovers that the graphic violence may not be as fake as he thought.",
-      "releaseInfo": 1983,
-      "imdbRating": 7.1
-    },
-    {
       "id": "tt0088763",
       "type": "movie",
       "name": "Back to the Future",
@@ -491,6 +471,16 @@
       "imdbRating": 7.4
     },
     {
+      "id": "tt2884018",
+      "type": "movie",
+      "name": "Macbeth",
+      "poster": "https://images.metahub.space/poster/medium/tt2884018/img",
+      "background": "https://images.metahub.space/background/medium/tt2884018/img",
+      "description": "Macbeth, the Thane of Glamis, receives a prophecy from a trio of witches that one day he will become King of Scotland. Consumed by ambition and spurred to action by his wife, Macbeth murders his king and takes the throne for himself.",
+      "releaseInfo": 2015,
+      "imdbRating": 6.6
+    },
+    {
       "id": "tt13022984",
       "type": "movie",
       "name": "Khuda Haafiz: Chapter 2 - Agni Pariksha",
@@ -499,6 +489,16 @@
       "description": "Sameer and Nargis, after overcoming all odds, find a ray of sunshine when little Nandini enters their lives and their family is complete; But their happiness is short-lived. In a bizarre twist of fate, Nandini goes missing.",
       "releaseInfo": 2022,
       "imdbRating": 7.4
+    },
+    {
+      "id": "tt2395469",
+      "type": "movie",
+      "name": "Gully Boy",
+      "poster": "https://images.metahub.space/poster/medium/tt2395469/img",
+      "background": "https://images.metahub.space/background/medium/tt2395469/img",
+      "description": "Murad, an underdog, struggles to convey his views on social issues and life in Dharavi through rapping. His life changes drastically when he meets a local rapper, Shrikant alias MC Sher.",
+      "releaseInfo": 2019,
+      "imdbRating": 7.9
     }
   ]
 }

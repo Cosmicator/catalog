@@ -386,17 +386,6 @@
       "imdbRating": "8.2"
     },
     {
-      "id": "tt19386538",
-      "type": "series",
-      "name": "Mussolini: Son of the Century",
-      "poster": "https://images.metahub.space/poster/small/tt19386538/img",
-      "background": "https://images.metahub.space/background/medium/tt19386538/img",
-      "logo": "https://images.metahub.space/logo/medium/tt19386538/img",
-      "description": "Benito Mussolini's early career from his founding of the Fasci Italiani in 1919 up to the assassination of socialist politician Giacomo Matteotti in 1924 and his speech in Parliament on 3 January 1925.",
-      "releaseInfo": "2024–2025",
-      "imdbRating": "8.2"
-    },
-    {
       "id": "tt15384586",
       "type": "series",
       "name": "Fellow Travelers",
@@ -405,6 +394,17 @@
       "logo": "https://images.metahub.space/logo/medium/tt15384586/img",
       "description": "Decades-long chronicle of the risky, volatile and steamy relationship between the charismatic and ambitious Hawk and the pious and idealistic Tim, two political staffers who fall in love at the height of the 1950s Lavender Scare.",
       "releaseInfo": "2023",
+      "imdbRating": "8.2"
+    },
+    {
+      "id": "tt19386538",
+      "type": "series",
+      "name": "Mussolini: Son of the Century",
+      "poster": "https://images.metahub.space/poster/small/tt19386538/img",
+      "background": "https://images.metahub.space/background/medium/tt19386538/img",
+      "logo": "https://images.metahub.space/logo/medium/tt19386538/img",
+      "description": "Benito Mussolini's early career from his founding of the Fasci Italiani in 1919 up to the assassination of socialist politician Giacomo Matteotti in 1924 and his speech in Parliament on 3 January 1925.",
+      "releaseInfo": "2024–2025",
       "imdbRating": "8.2"
     },
     {
@@ -518,6 +518,17 @@
       "imdbRating": "8.1"
     },
     {
+      "id": "tt47743267",
+      "type": "series",
+      "name": "Ishqa Ishqa",
+      "poster": "https://live.metahub.space/poster/small/tt47743267/img",
+      "background": "https://live.metahub.space/background/medium/tt47743267/img",
+      "logo": "https://live.metahub.space/logo/medium/tt47743267/img",
+      "description": "Kabir is a successful writer dating Suhani, who brings calm to his life. As he prepares for the sequel to his hit novel Ishqa Ishqa, inspired by Arohi, his childhood love, she is set to return to his life. Arohi brings the inspiration he needs for his writing, but her return threatens to disrupt the life Kabir has built with Suhani.",
+      "releaseInfo": "2026–",
+      "imdbRating": "8.1"
+    },
+    {
       "id": "tt0092400",
       "type": "series",
       "name": "Married... with Children",
@@ -538,17 +549,6 @@
       "description": "An inside look at the lives of the people who help America wake up in the morning, exploring the unique challenges faced by the team.",
       "releaseInfo": "2019–2027",
       "imdbRating": "8.1"
-    },
-    {
-      "id": "tt17491088",
-      "type": "series",
-      "name": "The Diplomat",
-      "poster": "https://images.metahub.space/poster/small/tt17491088/img",
-      "background": "https://images.metahub.space/background/medium/tt17491088/img",
-      "logo": "https://images.metahub.space/logo/medium/tt17491088/img",
-      "description": "In the midst of an international crisis, Kate Wyler, a career diplomat, lands in a high-profile job for which she is not suited, with tectonic implications for her marriage and her political future.",
-      "releaseInfo": "2023–",
-      "imdbRating": "8.0"
     }
   ]
 }
