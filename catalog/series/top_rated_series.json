@@ -320,17 +320,6 @@
       "imdbRating": "8.4"
     },
     {
-      "id": "tt8888462",
-      "type": "series",
-      "name": "Pachinko",
-      "poster": "https://images.metahub.space/poster/small/tt8888462/img",
-      "background": "https://images.metahub.space/background/medium/tt8888462/img",
-      "logo": "https://images.metahub.space/logo/medium/tt8888462/img",
-      "description": "Based on the New York Times bestseller, this sweeping saga chronicles the hopes and dreams of a Korean immigrant family across four generations as they leave their homeland in an indomitable quest to survive and thrive.",
-      "releaseInfo": "2022–2024",
-      "imdbRating": "8.4"
-    },
-    {
       "id": "tt31510819",
       "type": "series",
       "name": "MobLand",
@@ -540,15 +529,26 @@
       "imdbRating": "8.1"
     },
     {
-      "id": "tt47743267",
+      "id": "tt7203552",
       "type": "series",
-      "name": "Ishqa Ishqa",
-      "poster": "https://live.metahub.space/poster/small/tt47743267/img",
-      "background": "https://live.metahub.space/background/medium/tt47743267/img",
-      "logo": "https://live.metahub.space/logo/medium/tt47743267/img",
-      "description": "Kabir is a successful writer dating Suhani, who brings calm to his life. As he prepares for the sequel to his hit novel Ishqa Ishqa, inspired by Arohi, his childhood love, she is set to return to his life. Arohi brings the inspiration he needs for his writing, but her return threatens to disrupt the life Kabir has built with Suhani.",
-      "releaseInfo": "2026–",
+      "name": "The Morning Show",
+      "poster": "https://images.metahub.space/poster/small/tt7203552/img",
+      "background": "https://images.metahub.space/background/medium/tt7203552/img",
+      "logo": "https://images.metahub.space/logo/medium/tt7203552/img",
+      "description": "An inside look at the lives of the people who help America wake up in the morning, exploring the unique challenges faced by the team.",
+      "releaseInfo": "2019–2027",
       "imdbRating": "8.1"
+    },
+    {
+      "id": "tt17491088",
+      "type": "series",
+      "name": "The Diplomat",
+      "poster": "https://images.metahub.space/poster/small/tt17491088/img",
+      "background": "https://images.metahub.space/background/medium/tt17491088/img",
+      "logo": "https://images.metahub.space/logo/medium/tt17491088/img",
+      "description": "In the midst of an international crisis, Kate Wyler, a career diplomat, lands in a high-profile job for which she is not suited, with tectonic implications for her marriage and her political future.",
+      "releaseInfo": "2023–",
+      "imdbRating": "8.0"
     }
   ]
 }
