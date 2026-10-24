@@ -34,6 +34,17 @@
       "imdbRating": "9.2"
     },
     {
+      "id": "tt13854248",
+      "type": "series",
+      "name": "The Legend of Hanuman",
+      "poster": "https://images.metahub.space/poster/small/tt13854248/img",
+      "background": "https://images.metahub.space/background/medium/tt13854248/img",
+      "logo": "https://images.metahub.space/logo/medium/tt13854248/img",
+      "description": "When the power-hungry Ravan tore through the world to unleash evil, in his way stood a humble vaanar awoken to his divinity to become an immortal legend.",
+      "releaseInfo": "2021–",
+      "imdbRating": "9.1"
+    },
+    {
       "id": "tt1475582",
       "type": "series",
       "name": "Sherlock",
@@ -56,17 +67,6 @@
       "imdbRating": "9.0"
     },
     {
-      "id": "tt26471411",
-      "type": "series",
-      "name": "When Life Gives You Tangerines",
-      "poster": "https://images.metahub.space/poster/small/tt26471411/img",
-      "background": "https://images.metahub.space/background/medium/tt26471411/img",
-      "logo": "https://images.metahub.space/logo/medium/tt26471411/img",
-      "description": "In Jeju, a spirited girl and a steadfast boy's island story blossoms into a lifelong tale of setbacks and triumphs, proving love endures across time.",
-      "releaseInfo": "2025",
-      "imdbRating": "9.0"
-    },
-    {
       "id": "tt33094114",
       "type": "series",
       "name": "India's Got Latent",
@@ -76,6 +76,28 @@
       "description": "Samay Raina and the guest judges hilariously critique the untapped, undeniably entertaining \"latent\" talents of aspiring performers, testing their self-awareness with a unique scoring system.",
       "releaseInfo": "2024–",
       "imdbRating": "8.9"
+    },
+    {
+      "id": "tt0108778",
+      "type": "series",
+      "name": "Friends",
+      "poster": "https://images.metahub.space/poster/small/tt0108778/img",
+      "background": "https://images.metahub.space/background/medium/tt0108778/img",
+      "logo": "https://images.metahub.space/logo/medium/tt0108778/img",
+      "description": "The personal and professional lives of six friends living in the Manhattan borough of New York City.",
+      "releaseInfo": "1994–2004",
+      "imdbRating": "8.8"
+    },
+    {
+      "id": "tt0988824",
+      "type": "series",
+      "name": "Naruto: Shippuden",
+      "poster": "https://images.metahub.space/poster/small/tt0988824/img",
+      "background": "https://images.metahub.space/background/medium/tt0988824/img",
+      "logo": "https://images.metahub.space/logo/medium/tt0988824/img",
+      "description": "Naruto Uzumaki, is a loud, hyperactive, adolescent ninja who constantly searches for approval and recognition, as well as to become Hokage, who is acknowledged as the leader and strongest of all ninja in the village.",
+      "releaseInfo": "2007–2017",
+      "imdbRating": "8.7"
     },
     {
       "id": "tt35495073",
@@ -100,17 +122,6 @@
       "imdbRating": "8.7"
     },
     {
-      "id": "tt0988824",
-      "type": "series",
-      "name": "Naruto: Shippuden",
-      "poster": "https://images.metahub.space/poster/small/tt0988824/img",
-      "background": "https://images.metahub.space/background/medium/tt0988824/img",
-      "logo": "https://images.metahub.space/logo/medium/tt0988824/img",
-      "description": "Naruto Uzumaki, is a loud, hyperactive, adolescent ninja who constantly searches for approval and recognition, as well as to become Hokage, who is acknowledged as the leader and strongest of all ninja in the village.",
-      "releaseInfo": "2007–2017",
-      "imdbRating": "8.7"
-    },
-    {
       "id": "tt5753856",
       "type": "series",
       "name": "Dark",
@@ -119,17 +130,6 @@
       "logo": "https://images.metahub.space/logo/medium/tt5753856/img",
       "description": "A family saga with a supernatural twist, set in a German town where the disappearance of two young children exposes the relationships among four families.",
       "releaseInfo": "2017–2020",
-      "imdbRating": "8.7"
-    },
-    {
-      "id": "tt10986410",
-      "type": "series",
-      "name": "Ted Lasso",
-      "poster": "https://images.metahub.space/poster/small/tt10986410/img",
-      "background": "https://images.metahub.space/background/medium/tt10986410/img",
-      "logo": "https://images.metahub.space/logo/medium/tt10986410/img",
-      "description": "American college football coach Ted Lasso is hired to manage AFC Richmond, a struggling English soccer club, and must win over skeptical players, staff, and fans.",
-      "releaseInfo": "2020–",
       "imdbRating": "8.7"
     },
     {
@@ -166,17 +166,6 @@
       "imdbRating": "8.6"
     },
     {
-      "id": "tt0475900",
-      "type": "series",
-      "name": "Anthony Bourdain: No Reservations",
-      "poster": "https://images.metahub.space/poster/small/tt0475900/img",
-      "background": "https://images.metahub.space/background/medium/tt0475900/img",
-      "logo": "https://images.metahub.space/logo/medium/tt0475900/img",
-      "description": "Anthony Bourdain, chef, writer, traveler, visits places all around the world sampling various foods.",
-      "releaseInfo": "2005–2012",
-      "imdbRating": "8.6"
-    },
-    {
       "id": "tt1439629",
       "type": "series",
       "name": "Community",
@@ -210,6 +199,28 @@
       "imdbRating": "8.5"
     },
     {
+      "id": "tt4093826",
+      "type": "series",
+      "name": "Twin Peaks",
+      "poster": "https://images.metahub.space/poster/small/tt4093826/img",
+      "background": "https://images.metahub.space/background/medium/tt4093826/img",
+      "logo": "https://images.metahub.space/logo/medium/tt4093826/img",
+      "description": "Picks up 25 years after the inhabitants of a quaint northwestern town are stunned when their homecoming queen is murdered.",
+      "releaseInfo": "2017",
+      "imdbRating": "8.5"
+    },
+    {
+      "id": "tt4158110",
+      "type": "series",
+      "name": "Mr. Robot",
+      "poster": "https://images.metahub.space/poster/small/tt4158110/img",
+      "background": "https://images.metahub.space/background/medium/tt4158110/img",
+      "logo": "https://images.metahub.space/logo/medium/tt4158110/img",
+      "description": "Elliot, a brilliant but unstable cyber-security engineer and vigilante hacker, becomes a key figure in a complex game of global chaos when he and his shadowy allies try to take down the corrupt corporation his company is paid to p...",
+      "releaseInfo": "2015–2019",
+      "imdbRating": "8.5"
+    },
+    {
       "id": "tt9335498",
       "type": "series",
       "name": "Demon Slayer: Kimetsu no Yaiba",
@@ -229,28 +240,6 @@
       "logo": "https://images.metahub.space/logo/medium/tt12343534/img",
       "description": "After swallowing a cursed relic, kindhearted teenager Yuji Itadori becomes host to the King of Curses and joins a secret school of sorcerers battling monsters born from humanity's darkest emotions.",
       "releaseInfo": "2020–",
-      "imdbRating": "8.5"
-    },
-    {
-      "id": "tt4158110",
-      "type": "series",
-      "name": "Mr. Robot",
-      "poster": "https://images.metahub.space/poster/small/tt4158110/img",
-      "background": "https://images.metahub.space/background/medium/tt4158110/img",
-      "logo": "https://images.metahub.space/logo/medium/tt4158110/img",
-      "description": "Elliot, a brilliant but unstable cyber-security engineer and vigilante hacker, becomes a key figure in a complex game of global chaos when he and his shadowy allies try to take down the corrupt corporation his company is paid to p...",
-      "releaseInfo": "2015–2019",
-      "imdbRating": "8.5"
-    },
-    {
-      "id": "tt4093826",
-      "type": "series",
-      "name": "Twin Peaks",
-      "poster": "https://images.metahub.space/poster/small/tt4093826/img",
-      "background": "https://images.metahub.space/background/medium/tt4093826/img",
-      "logo": "https://images.metahub.space/logo/medium/tt4093826/img",
-      "description": "Picks up 25 years after the inhabitants of a quaint northwestern town are stunned when their homecoming queen is murdered.",
-      "releaseInfo": "2017",
       "imdbRating": "8.5"
     },
     {
@@ -298,17 +287,6 @@
       "imdbRating": "8.4"
     },
     {
-      "id": "tt0409591",
-      "type": "series",
-      "name": "Naruto",
-      "poster": "https://images.metahub.space/poster/small/tt0409591/img",
-      "background": "https://images.metahub.space/background/medium/tt0409591/img",
-      "logo": "https://images.metahub.space/logo/medium/tt0409591/img",
-      "description": "Naruto Uzumaki, a mischievous adolescent ninja, struggles as he searches for recognition and dreams of becoming the Hokage, the village's leader and strongest ninja.",
-      "releaseInfo": "2002–2007",
-      "imdbRating": "8.4"
-    },
-    {
       "id": "tt5675620",
       "type": "series",
       "name": "The Punisher",
@@ -317,6 +295,17 @@
       "logo": "https://images.metahub.space/logo/medium/tt5675620/img",
       "description": "After his revenge on those who murdered his family, aimless Marine veteran Frank Castle finds a new meaning in life as a vigilante known as \"The Punisher\".",
       "releaseInfo": "2017–2019",
+      "imdbRating": "8.4"
+    },
+    {
+      "id": "tt0409591",
+      "type": "series",
+      "name": "Naruto",
+      "poster": "https://images.metahub.space/poster/small/tt0409591/img",
+      "background": "https://images.metahub.space/background/medium/tt0409591/img",
+      "logo": "https://images.metahub.space/logo/medium/tt0409591/img",
+      "description": "Naruto Uzumaki, a mischievous adolescent ninja, struggles as he searches for recognition and dreams of becoming the Hokage, the village's leader and strongest ninja.",
+      "releaseInfo": "2002–2007",
       "imdbRating": "8.4"
     },
     {
@@ -342,14 +331,14 @@
       "imdbRating": "8.3"
     },
     {
-      "id": "tt0434665",
+      "id": "tt12590266",
       "type": "series",
-      "name": "Bleach",
-      "poster": "https://images.metahub.space/poster/small/tt0434665/img",
-      "background": "https://images.metahub.space/background/medium/tt0434665/img",
-      "logo": "https://images.metahub.space/logo/medium/tt0434665/img",
-      "description": "High school student Ichigo Kurosaki, who has the ability to see ghosts, gains soul reaper powers from Rukia Kuchiki and sets out to save the world from \"Hollows\".",
-      "releaseInfo": "2004–2012",
+      "name": "Cyberpunk: Edgerunners",
+      "poster": "https://images.metahub.space/poster/small/tt12590266/img",
+      "background": "https://images.metahub.space/background/medium/tt12590266/img",
+      "logo": "https://images.metahub.space/logo/medium/tt12590266/img",
+      "description": "A Street Kid trying to survive in a technology and body modification-obsessed city of the future. Having everything to lose, he chooses to stay alive by becoming an Edgerunner, a Mercenary outlaw also known as a Cyberpunk.",
+      "releaseInfo": "2022–",
       "imdbRating": "8.3"
     },
     {
@@ -419,6 +408,28 @@
       "imdbRating": "8.2"
     },
     {
+      "id": "tt20873118",
+      "type": "series",
+      "name": "Suzhal - The Vortex",
+      "poster": "https://images.metahub.space/poster/small/tt20873118/img",
+      "background": "https://images.metahub.space/background/medium/tt20873118/img",
+      "logo": "https://images.metahub.space/logo/medium/tt20873118/img",
+      "description": "In a small South Indian town, a seemingly routine minor case explodes into a twisted crime thriller that rips apart its social fabric.",
+      "releaseInfo": "2022–",
+      "imdbRating": "8.2"
+    },
+    {
+      "id": "tt12913686",
+      "type": "series",
+      "name": "Jeet Ki Zid",
+      "poster": "https://live.metahub.space/poster/small/tt12913686/img",
+      "background": "https://live.metahub.space/background/medium/tt12913686/img",
+      "logo": "https://live.metahub.space/logo/medium/tt12913686/img",
+      "description": "Inspired from a true story, Jeet Ki Zid is a tale of conviction, persuasion and commitment. It follows the life of a Special forces officer Major Deep Singh who is left paralyzed waist below after fighting the Kargil war, but his army training and never-give-up attitude help him get back to life and eventually on his feet despite all odds.",
+      "releaseInfo": "2021–2021",
+      "imdbRating": "8.2"
+    },
+    {
       "id": "tt0758790",
       "type": "series",
       "name": "The Tudors",
@@ -441,17 +452,6 @@
       "imdbRating": "8.1"
     },
     {
-      "id": "tt33332385",
-      "type": "series",
-      "name": "Widow's Bay",
-      "poster": "https://images.metahub.space/poster/small/tt33332385/img",
-      "background": "https://images.metahub.space/background/medium/tt33332385/img",
-      "logo": "https://images.metahub.space/logo/medium/tt33332385/img",
-      "description": "A skeptical mayor leads the superstitious residents of a cursed New England island.",
-      "releaseInfo": "2026–",
-      "imdbRating": "8.1"
-    },
-    {
       "id": "tt14688458",
       "type": "series",
       "name": "Silo",
@@ -463,6 +463,17 @@
       "imdbRating": "8.1"
     },
     {
+      "id": "tt33332385",
+      "type": "series",
+      "name": "Widow's Bay",
+      "poster": "https://images.metahub.space/poster/small/tt33332385/img",
+      "background": "https://images.metahub.space/background/medium/tt33332385/img",
+      "logo": "https://images.metahub.space/logo/medium/tt33332385/img",
+      "description": "A skeptical mayor leads the superstitious residents of a cursed New England island.",
+      "releaseInfo": "2026–",
+      "imdbRating": "8.1"
+    },
+    {
       "id": "tt7772588",
       "type": "series",
       "name": "For All Mankind",
@@ -471,6 +482,17 @@
       "logo": "https://images.metahub.space/logo/medium/tt7772588/img",
       "description": "In an alternative version of 1969, the Soviet Union beats the United States to the Moon, and the space race continues on for decades with still grander challenges and goals.",
       "releaseInfo": "2019–2027",
+      "imdbRating": "8.1"
+    },
+    {
+      "id": "tt47743267",
+      "type": "series",
+      "name": "Ishqa Ishqa",
+      "poster": "https://live.metahub.space/poster/small/tt47743267/img",
+      "background": "https://live.metahub.space/background/medium/tt47743267/img",
+      "logo": "https://live.metahub.space/logo/medium/tt47743267/img",
+      "description": "Kabir is a successful writer dating Suhani, who brings calm to his life. As he prepares for the sequel to his hit novel Ishqa Ishqa, inspired by Arohi, his childhood love, she is set to return to his life. Arohi brings the inspiration he needs for his writing, but her return threatens to disrupt the life Kabir has built with Suhani.",
+      "releaseInfo": "2026–",
       "imdbRating": "8.1"
     },
     {
@@ -496,17 +518,6 @@
       "imdbRating": "8.1"
     },
     {
-      "id": "tt1515193",
-      "type": "series",
-      "name": "The Big C",
-      "poster": "https://images.metahub.space/poster/small/tt1515193/img",
-      "background": "https://images.metahub.space/background/medium/tt1515193/img",
-      "logo": "https://images.metahub.space/logo/medium/tt1515193/img",
-      "description": "A suburban mother faces her cancer diagnosis while trying to find humor and happiness as well.",
-      "releaseInfo": "2010–2013",
-      "imdbRating": "8.1"
-    },
-    {
       "id": "tt0883772",
       "type": "series",
       "name": "Man vs. Wild",
@@ -518,14 +529,14 @@
       "imdbRating": "8.1"
     },
     {
-      "id": "tt47743267",
+      "id": "tt1515193",
       "type": "series",
-      "name": "Ishqa Ishqa",
-      "poster": "https://live.metahub.space/poster/small/tt47743267/img",
-      "background": "https://live.metahub.space/background/medium/tt47743267/img",
-      "logo": "https://live.metahub.space/logo/medium/tt47743267/img",
-      "description": "Kabir is a successful writer dating Suhani, who brings calm to his life. As he prepares for the sequel to his hit novel Ishqa Ishqa, inspired by Arohi, his childhood love, she is set to return to his life. Arohi brings the inspiration he needs for his writing, but her return threatens to disrupt the life Kabir has built with Suhani.",
-      "releaseInfo": "2026–",
+      "name": "The Big C",
+      "poster": "https://images.metahub.space/poster/small/tt1515193/img",
+      "background": "https://images.metahub.space/background/medium/tt1515193/img",
+      "logo": "https://images.metahub.space/logo/medium/tt1515193/img",
+      "description": "A suburban mother faces her cancer diagnosis while trying to find humor and happiness as well.",
+      "releaseInfo": "2010–2013",
       "imdbRating": "8.1"
     },
     {
@@ -537,17 +548,6 @@
       "logo": "https://images.metahub.space/logo/medium/tt0092400/img",
       "description": "Al is the quintessential working class dad. Peggy, his wife, always wants more from him. With their children, they go through the highs and lows of ordinary life.",
       "releaseInfo": "1987–1997",
-      "imdbRating": "8.1"
-    },
-    {
-      "id": "tt7203552",
-      "type": "series",
-      "name": "The Morning Show",
-      "poster": "https://images.metahub.space/poster/small/tt7203552/img",
-      "background": "https://images.metahub.space/background/medium/tt7203552/img",
-      "logo": "https://images.metahub.space/logo/medium/tt7203552/img",
-      "description": "An inside look at the lives of the people who help America wake up in the morning, exploring the unique challenges faced by the team.",
-      "releaseInfo": "2019–2027",
       "imdbRating": "8.1"
     }
   ]

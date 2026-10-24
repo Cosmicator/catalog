@@ -31,36 +31,6 @@
       "imdbRating": 6.5
     },
     {
-      "id": "tt6262770",
-      "type": "movie",
-      "name": "Tenzing",
-      "poster": "https://images.metahub.space/poster/medium/tt6262770/img",
-      "background": "https://images.metahub.space/background/medium/tt6262770/img",
-      "description": "The untold and inspiring tale of one of the most important mountain climbers in history who, with Edmund Hillary, became the first person to reach the summit of Mount Everest.",
-      "releaseInfo": 2026,
-      "imdbRating": 7.5
-    },
-    {
-      "id": "tt22084616",
-      "type": "movie",
-      "name": "Spider-Man: Brand New Day",
-      "poster": "https://images.metahub.space/poster/medium/tt22084616/img",
-      "background": "https://images.metahub.space/background/medium/tt22084616/img",
-      "description": "Fighting crime full-time as Spider-Man in a world that doesn't remember him—and the pressure of seeing his old friends move on without him—sparks a change in Peter Parker he may not have the power to control. But that transformation might also be the only thing that can stop a shocking new threat to the city and those he loves - a powerful villain no one can even see.",
-      "releaseInfo": 2026,
-      "imdbRating": 7.9
-    },
-    {
-      "id": "tt33095205",
-      "type": "movie",
-      "name": "Enna Vilai",
-      "poster": "https://images.metahub.space/poster/medium/tt33095205/img",
-      "background": "https://images.metahub.space/background/medium/tt33095205/img",
-      "description": "A humble fisherman from Rameswaram lives a quiet life with his family until he finds a gold pendant washed ashore. What initially seems like a blessing soon turns into a nightmare when false accusations threaten his peace and dignity, forcing him to stand up against a powerful system.",
-      "releaseInfo": 2026,
-      "imdbRating": 7.3
-    },
-    {
       "id": "tt6323306",
       "type": "movie",
       "name": "Nude",
@@ -71,14 +41,14 @@
       "imdbRating": 5.7
     },
     {
-      "id": "tt31170389",
+      "id": "tt33095205",
       "type": "movie",
-      "name": "Evil Dead Burn",
-      "poster": "https://images.metahub.space/poster/medium/tt31170389/img",
-      "background": "https://images.metahub.space/background/medium/tt31170389/img",
-      "description": "After her husband's abrupt death, Alice seeks solace with his remaining family — descendants of a leading researcher on demonic possession. As her in-laws transform one by one into creatures that feed on fear, she comes to discover that the vows she took in life survive even in death.",
+      "name": "Enna Vilai",
+      "poster": "https://images.metahub.space/poster/medium/tt33095205/img",
+      "background": "https://images.metahub.space/background/medium/tt33095205/img",
+      "description": "A humble fisherman from Rameswaram lives a quiet life with his family until he finds a gold pendant washed ashore. What initially seems like a blessing soon turns into a nightmare when false accusations threaten his peace and dignity, forcing him to stand up against a powerful system.",
       "releaseInfo": 2026,
-      "imdbRating": 6.2
+      "imdbRating": 7.2
     },
     {
       "id": "tt22890246",
@@ -91,14 +61,14 @@
       "imdbRating": 6.4
     },
     {
-      "id": "tt37287335",
+      "id": "tt31170389",
       "type": "movie",
-      "name": "Obsession",
-      "poster": "https://images.metahub.space/poster/medium/tt37287335/img",
-      "background": "https://images.metahub.space/background/medium/tt37287335/img",
-      "description": "After breaking the mysterious \"One Wish Willow\" to win his crush's heart, a hopeless romantic finds himself getting exactly what he asked for but soon discovers that some desires come at a dark, sinister price.",
+      "name": "Evil Dead Burn",
+      "poster": "https://images.metahub.space/poster/medium/tt31170389/img",
+      "background": "https://images.metahub.space/background/medium/tt31170389/img",
+      "description": "After her husband's abrupt death, Alice seeks solace with his remaining family — descendants of a leading researcher on demonic possession. As her in-laws transform one by one into creatures that feed on fear, she comes to discover that the vows she took in life survive even in death.",
       "releaseInfo": 2026,
-      "imdbRating": 7.8
+      "imdbRating": 6.2
     },
     {
       "id": "tt9000310",
@@ -111,24 +81,44 @@
       "imdbRating": 6.5
     },
     {
-      "id": "tt34384900",
+      "id": "tt6262770",
       "type": "movie",
-      "name": "Love of Your Life",
-      "poster": "https://images.metahub.space/poster/medium/tt34384900/img",
-      "background": "https://images.metahub.space/background/medium/tt34384900/img",
-      "description": "After a chance encounter sparks a sweeping romance, Maya's future is suddenly upended, sending her on an unexpected journey to love and live again.",
+      "name": "Tenzing",
+      "poster": "https://images.metahub.space/poster/medium/tt6262770/img",
+      "background": "https://images.metahub.space/background/medium/tt6262770/img",
+      "description": "The untold and inspiring tale of one of the most important mountain climbers in history who, with Edmund Hillary, became the first person to reach the summit of Mount Everest.",
       "releaseInfo": 2026,
-      "imdbRating": 6.5
+      "imdbRating": 7.5
     },
     {
-      "id": "tt38672588",
+      "id": "tt37287335",
       "type": "movie",
-      "name": "Masterplan",
-      "poster": "https://images.metahub.space/poster/medium/tt38672588/img",
-      "background": "https://images.metahub.space/background/medium/tt38672588/img",
-      "description": "When a legendary thief sets his sights on the Mona Lisa, he recruits two young strangers to help him before revealing they are long-lost siblings… and oh yes, by the way, he is their father. Thrown into a chaotic reunion they never asked for, this new family must learn to work together — and try not to kill each other — if they want any chance at pulling off the heist of the century.",
+      "name": "Obsession",
+      "poster": "https://images.metahub.space/poster/medium/tt37287335/img",
+      "background": "https://images.metahub.space/background/medium/tt37287335/img",
+      "description": "After breaking the mysterious \"One Wish Willow\" to win his crush's heart, a hopeless romantic finds himself getting exactly what he asked for but soon discovers that some desires come at a dark, sinister price.",
       "releaseInfo": 2026,
-      "imdbRating": 5.4
+      "imdbRating": 7.8
+    },
+    {
+      "id": "tt22084616",
+      "type": "movie",
+      "name": "Spider-Man: Brand New Day",
+      "poster": "https://images.metahub.space/poster/medium/tt22084616/img",
+      "background": "https://images.metahub.space/background/medium/tt22084616/img",
+      "description": "Fighting crime full-time as Spider-Man in a world that doesn't remember him—and the pressure of seeing his old friends move on without him—sparks a change in Peter Parker he may not have the power to control. But that transformation might also be the only thing that can stop a shocking new threat to the city and those he loves - a powerful villain no one can even see.",
+      "releaseInfo": 2026,
+      "imdbRating": 7.9
+    },
+    {
+      "id": "tt0087800",
+      "type": "movie",
+      "name": "A Nightmare on Elm Street",
+      "poster": "https://images.metahub.space/poster/medium/tt0087800/img",
+      "background": "https://images.metahub.space/background/medium/tt0087800/img",
+      "description": "Teenagers in a small town are dropping like flies, apparently in the grip of mass hysteria causing their suicides. A cop's daughter, Nancy Thompson, traces the cause to child molester Fred Krueger, who was burned alive by angry parents many years before. Krueger has now come back in the dreams of his killers' children, claiming their lives as his revenge. Nancy and her boyfriend, Glen, must devise a plan to lure the monster out of the realm of nightmares and into the real world...",
+      "releaseInfo": 1984,
+      "imdbRating": 7.4
     },
     {
       "id": "tt31723358",
@@ -141,16 +131,6 @@
       "imdbRating": 4.1
     },
     {
-      "id": "tt35672862",
-      "type": "movie",
-      "name": "Hokum",
-      "poster": "https://images.metahub.space/poster/medium/tt35672862/img",
-      "background": "https://images.metahub.space/background/medium/tt35672862/img",
-      "description": "When novelist Ohm Bauman retreats to a remote inn to scatter his parents' ashes, he is consumed by tales of a witch haunting the honeymoon suite. Disturbing visions and a shocking disappearance forces him to confront dark corners of his past.",
-      "releaseInfo": 2026,
-      "imdbRating": 6.6
-    },
-    {
       "id": "tt0072190",
       "type": "movie",
       "name": "The Golden Fortress",
@@ -159,46 +139,6 @@
       "description": "A young boy becomes a target for crooks, after he claims to remember his past life and mentions precious jewels in a golden fortress.",
       "releaseInfo": 1974,
       "imdbRating": 8.3
-    },
-    {
-      "id": "tt46060457",
-      "type": "movie",
-      "name": "The Swan: Behind the Mirror",
-      "poster": "https://images.metahub.space/poster/medium/tt46060457/img",
-      "background": "https://images.metahub.space/background/medium/tt46060457/img",
-      "description": "A look at the controversial 2004 reality series The Swan, which took self-proclaimed 'ugly ducklings' and set out to make them... not that.",
-      "releaseInfo": 2026,
-      "imdbRating": 6.2
-    },
-    {
-      "id": "tt37535100",
-      "type": "movie",
-      "name": "Bethlehem Kudumba Unit",
-      "poster": "https://images.metahub.space/poster/medium/tt37535100/img",
-      "background": "https://images.metahub.space/background/medium/tt37535100/img",
-      "description": "Ashley's homecoming from abroad takes an emotional turn when a wedding next door stirs memories of her first love, Justin.",
-      "releaseInfo": 2026,
-      "imdbRating": 8
-    },
-    {
-      "id": "tt35836025",
-      "type": "movie",
-      "name": "Vishwanath & Sons",
-      "poster": "https://images.metahub.space/poster/medium/tt35836025/img",
-      "background": "https://images.metahub.space/background/medium/tt35836025/img",
-      "description": "A celebrated Olympian shooter travels to America looking for a donor to help his sick child — but unexpected romance complicates his search.",
-      "releaseInfo": 2026,
-      "imdbRating": 7.2
-    },
-    {
-      "id": "tt36834010",
-      "type": "movie",
-      "name": "Gail Daughtry and the Celebrity Sex Pass",
-      "poster": "https://images.metahub.space/poster/medium/tt36834010/img",
-      "background": "https://images.metahub.space/background/medium/tt36834010/img",
-      "description": "After her fiance sleeps with his celebrity crush, Kansas hairdresser Gail heads to Hollywood to even the score with her own famous fantasy — Jon Hamm.",
-      "releaseInfo": 2026,
-      "imdbRating": 6
     },
     {
       "id": "tt14113634",
@@ -211,6 +151,16 @@
       "imdbRating": 6.6
     },
     {
+      "id": "tt0087332",
+      "type": "movie",
+      "name": "Ghostbusters",
+      "poster": "https://images.metahub.space/poster/medium/tt0087332/img",
+      "background": "https://images.metahub.space/background/medium/tt0087332/img",
+      "description": "After losing their university jobs, three parapsychologists start a ghost-catching business in New York City and uncover a supernatural threat that could destroy the world.",
+      "releaseInfo": 1984,
+      "imdbRating": 7.8
+    },
+    {
       "id": "tt31184028",
       "type": "movie",
       "name": "Together",
@@ -221,74 +171,74 @@
       "imdbRating": 6.7
     },
     {
-      "id": "tt3011894",
+      "id": "tt46060457",
       "type": "movie",
-      "name": "Wild Tales",
-      "poster": "https://images.metahub.space/poster/medium/tt3011894/img",
-      "background": "https://images.metahub.space/background/medium/tt3011894/img",
-      "description": "Injustice and the demands of the world can cause stress for many people. Some of them, however, explode. This includes a waitress serving a grouchy loan shark, an altercation between two motorists, an ill-fated wedding reception, and a wealthy businessman who tries to buy his family out of trouble.",
-      "releaseInfo": 2014,
-      "imdbRating": 8.1
+      "name": "The Swan: Behind the Mirror",
+      "poster": "https://images.metahub.space/poster/medium/tt46060457/img",
+      "background": "https://images.metahub.space/background/medium/tt46060457/img",
+      "description": "A look at the controversial 2004 reality series The Swan, which took self-proclaimed 'ugly ducklings' and set out to make them... not that.",
+      "releaseInfo": 2026,
+      "imdbRating": 6.2
     },
     {
-      "id": "tt0115963",
+      "id": "tt34384900",
       "type": "movie",
-      "name": "The Craft",
-      "poster": "https://images.metahub.space/poster/medium/tt0115963/img",
-      "background": "https://images.metahub.space/background/medium/tt0115963/img",
-      "description": "A Catholic school newcomer falls in with a clique of teen witches who wield their powers against all who dare to cross them -- be they teachers, rivals or meddlesome parents.",
-      "releaseInfo": 1996,
+      "name": "Love of Your Life",
+      "poster": "https://images.metahub.space/poster/medium/tt34384900/img",
+      "background": "https://images.metahub.space/background/medium/tt34384900/img",
+      "description": "After a chance encounter sparks a sweeping romance, Maya's future is suddenly upended, sending her on an unexpected journey to love and live again.",
+      "releaseInfo": 2026,
       "imdbRating": 6.5
     },
     {
-      "id": "tt39108319",
+      "id": "tt36834010",
       "type": "movie",
-      "name": "Irumudi",
-      "poster": "https://images.metahub.space/poster/medium/tt39108319/img",
-      "background": "https://images.metahub.space/background/medium/tt39108319/img",
-      "description": "An alcoholic with a violent past—living peacefully with his daughter beside a waterfall—decides to take Ayyappa Deeksha (a 41-day spiritual vow and period of intense austerity) at her request.",
+      "name": "Gail Daughtry and the Celebrity Sex Pass",
+      "poster": "https://images.metahub.space/poster/medium/tt36834010/img",
+      "background": "https://images.metahub.space/background/medium/tt36834010/img",
+      "description": "After her fiance sleeps with his celebrity crush, Kansas hairdresser Gail heads to Hollywood to even the score with her own famous fantasy — Jon Hamm.",
       "releaseInfo": 2026,
-      "imdbRating": 7
+      "imdbRating": 6
     },
     {
-      "id": "tt0070047",
+      "id": "tt38672588",
       "type": "movie",
-      "name": "The Exorcist",
-      "poster": "https://images.metahub.space/poster/medium/tt0070047/img",
-      "background": "https://images.metahub.space/background/medium/tt0070047/img",
-      "description": "When a mysterious entity possesses a young girl, her mother seeks the help of two Catholic priests to save her life.",
-      "releaseInfo": 1973,
+      "name": "Masterplan",
+      "poster": "https://images.metahub.space/poster/medium/tt38672588/img",
+      "background": "https://images.metahub.space/background/medium/tt38672588/img",
+      "description": "When a legendary thief sets his sights on the Mona Lisa, he recruits two young strangers to help him before revealing they are long-lost siblings… and oh yes, by the way, he is their father. Thrown into a chaotic reunion they never asked for, this new family must learn to work together — and try not to kill each other — if they want any chance at pulling off the heist of the century.",
+      "releaseInfo": 2026,
+      "imdbRating": 5.4
+    },
+    {
+      "id": "tt35836025",
+      "type": "movie",
+      "name": "Vishwanath & Sons",
+      "poster": "https://images.metahub.space/poster/medium/tt35836025/img",
+      "background": "https://images.metahub.space/background/medium/tt35836025/img",
+      "description": "A celebrated Olympian shooter travels to America looking for a donor to help his sick child — but unexpected romance complicates his search.",
+      "releaseInfo": 2026,
+      "imdbRating": 7.2
+    },
+    {
+      "id": "tt37535100",
+      "type": "movie",
+      "name": "Bethlehem Kudumba Unit",
+      "poster": "https://images.metahub.space/poster/medium/tt37535100/img",
+      "background": "https://images.metahub.space/background/medium/tt37535100/img",
+      "description": "Ashley's homecoming from abroad takes an emotional turn when a wedding next door stirs memories of her first love, Justin.",
+      "releaseInfo": 2026,
+      "imdbRating": 8
+    },
+    {
+      "id": "tt38915678",
+      "type": "movie",
+      "name": "Dorothy",
+      "poster": "https://images.metahub.space/poster/medium/tt38915678/img",
+      "background": "https://images.metahub.space/background/medium/tt38915678/img",
+      "description": "Set in a world shaped by caste, violence, and toxic masculinity, two childhood friends grow up inseparable in rural Tamil Nadu. Their lives are transformed by the arrival of Dorothy, a woman whose compassion quietly challenges the world around them.",
+      "releaseInfo": 2026,
       "imdbRating": 8.1
-    },
-    {
-      "id": "tt15047880",
-      "type": "movie",
-      "name": "Disclosure Day",
-      "poster": "https://images.metahub.space/poster/medium/tt15047880/img",
-      "background": "https://images.metahub.space/background/medium/tt15047880/img",
-      "description": "If you found out we weren’t alone in the universe, would that frighten you?",
-      "releaseInfo": 2026,
-      "imdbRating": 6.4
-    },
-    {
-      "id": "tt46027225",
-      "type": "movie",
-      "name": "Super Scam Me",
-      "poster": "https://images.metahub.space/poster/medium/tt46027225/img",
-      "background": "https://images.metahub.space/background/medium/tt46027225/img",
-      "description": "After years of reporting on the scam industry, Mariana van Zeller enters one of her most immersive investigations to date. In a real-life social experiment, she builds a new online dating persona and goes undercover as the target of a romance scam to understand and expose the tactics, technologies, and psychological manipulations these criminals utilize to deceive their victims.",
-      "releaseInfo": 2026,
-      "imdbRating": 6.6
-    },
-    {
-      "id": "tt1502407",
-      "type": "movie",
-      "name": "Halloween",
-      "poster": "https://images.metahub.space/poster/medium/tt1502407/img",
-      "background": "https://images.metahub.space/background/medium/tt1502407/img",
-      "description": "Laurie Strode comes to her final confrontation with Michael Myers, the masked figure who has haunted her since she narrowly escaped his killing spree on Halloween night four decades ago.",
-      "releaseInfo": 2018,
-      "imdbRating": 6.5
     },
     {
       "id": "tt0080661",
@@ -311,14 +261,14 @@
       "imdbRating": 6.8
     },
     {
-      "id": "tt0479884",
+      "id": "tt0385880",
       "type": "movie",
-      "name": "Crank",
-      "poster": "https://images.metahub.space/poster/medium/tt0479884/img",
-      "background": "https://images.metahub.space/background/medium/tt0479884/img",
-      "description": "Chev Chelios, a hit man wanting to go straight, lets his latest target slip away. Then he awakes the next morning to a phone call that informs him he has been poisoned and has only an hour to live unless he keeps adrenaline coursing through his body while he searches for an antidote.",
+      "name": "Monster House",
+      "poster": "https://images.metahub.space/poster/medium/tt0385880/img",
+      "background": "https://images.metahub.space/background/medium/tt0385880/img",
+      "description": "Monsters under the bed are scary enough, but what happens when an entire house is out to get you? Three teens aim to find out when they go up against a decrepit neighboring home and unlock its frightening secrets.",
       "releaseInfo": 2006,
-      "imdbRating": 6.9
+      "imdbRating": 6.7
     },
     {
       "id": "tt10665338",
@@ -331,64 +281,54 @@
       "imdbRating": 5.5
     },
     {
-      "id": "tt0110912",
+      "id": "tt39108319",
       "type": "movie",
-      "name": "Pulp Fiction",
-      "poster": "https://images.metahub.space/poster/medium/tt0110912/img",
-      "background": "https://images.metahub.space/background/medium/tt0110912/img",
-      "description": "A burger-loving hit man, his philosophical partner, a drug-addled gangster's moll and a washed-up boxer converge in this sprawling, comedic crime caper. Their adventures unfurl in three stories that ingeniously trip back and forth in time.",
-      "releaseInfo": 1994,
-      "imdbRating": 8.8
+      "name": "Irumudi",
+      "poster": "https://images.metahub.space/poster/medium/tt39108319/img",
+      "background": "https://images.metahub.space/background/medium/tt39108319/img",
+      "description": "An alcoholic with a violent past—living peacefully with his daughter beside a waterfall—decides to take Ayyappa Deeksha (a 41-day spiritual vow and period of intense austerity) at her request.",
+      "releaseInfo": 2026,
+      "imdbRating": 7
     },
     {
-      "id": "tt9619824",
+      "id": "tt32246771",
       "type": "movie",
-      "name": "Final Destination Bloodlines",
-      "poster": "https://images.metahub.space/poster/medium/tt9619824/img",
-      "background": "https://images.metahub.space/background/medium/tt9619824/img",
-      "description": "Plagued by a violent recurring nightmare, college student Stefanie heads home to track down the one person who might be able to break the cycle and save her family from the grisly demise that inevitably awaits them all.",
+      "name": "Bring Her Back",
+      "poster": "https://images.metahub.space/poster/medium/tt32246771/img",
+      "background": "https://images.metahub.space/background/medium/tt32246771/img",
+      "description": "Following the death of their father, a brother and sister are sent to live with a foster mother, only to learn that she is hiding a terrifying secret.",
       "releaseInfo": 2025,
+      "imdbRating": 7.1
+    },
+    {
+      "id": "tt1502407",
+      "type": "movie",
+      "name": "Halloween",
+      "poster": "https://images.metahub.space/poster/medium/tt1502407/img",
+      "background": "https://images.metahub.space/background/medium/tt1502407/img",
+      "description": "Laurie Strode comes to her final confrontation with Michael Myers, the masked figure who has haunted her since she narrowly escaped his killing spree on Halloween night four decades ago.",
+      "releaseInfo": 2018,
+      "imdbRating": 6.5
+    },
+    {
+      "id": "tt46027225",
+      "type": "movie",
+      "name": "Super Scam Me",
+      "poster": "https://images.metahub.space/poster/medium/tt46027225/img",
+      "background": "https://images.metahub.space/background/medium/tt46027225/img",
+      "description": "After years of reporting on the scam industry, Mariana van Zeller enters one of her most immersive investigations to date. In a real-life social experiment, she builds a new online dating persona and goes undercover as the target of a romance scam to understand and expose the tactics, technologies, and psychological manipulations these criminals utilize to deceive their victims.",
+      "releaseInfo": 2026,
       "imdbRating": 6.7
     },
     {
-      "id": "tt0087332",
+      "id": "tt0112642",
       "type": "movie",
-      "name": "Ghostbusters",
-      "poster": "https://images.metahub.space/poster/medium/tt0087332/img",
-      "background": "https://images.metahub.space/background/medium/tt0087332/img",
-      "description": "After losing their university jobs, three parapsychologists start a ghost-catching business in New York City and uncover a supernatural threat that could destroy the world.",
-      "releaseInfo": 1984,
-      "imdbRating": 7.8
-    },
-    {
-      "id": "tt0048028",
-      "type": "movie",
-      "name": "East of Eden",
-      "poster": "https://images.metahub.space/poster/medium/tt0048028/img",
-      "background": "https://images.metahub.space/background/medium/tt0048028/img",
-      "description": "In the Salinas Valley in and around World War I, Cal Trask feels he must compete against overwhelming odds with his brother for the love of their father. Cal is frustrated at every turn, from his reaction to the war, how to get ahead in business and in life, and how to relate to his estranged mother.",
-      "releaseInfo": 1955,
-      "imdbRating": 7.8
-    },
-    {
-      "id": "tt0063522",
-      "type": "movie",
-      "name": "Rosemary's Baby",
-      "poster": "https://images.metahub.space/poster/medium/tt0063522/img",
-      "background": "https://images.metahub.space/background/medium/tt0063522/img",
-      "description": "A young couple, Rosemary and Guy, moves into an infamous New York apartment building, known by frightening legends and mysterious events, with the purpose of starting a family.",
-      "releaseInfo": 1968,
-      "imdbRating": 8
-    },
-    {
-      "id": "tt33014583",
-      "type": "movie",
-      "name": "Dhurandhar",
-      "poster": "https://images.metahub.space/poster/medium/tt33014583/img",
-      "background": "https://images.metahub.space/background/medium/tt33014583/img",
-      "description": "In the early 2000s, an undercover operative infiltrates Karachi's underworld, breaking into its inner circle to dismantle a violent nexus from within.",
-      "releaseInfo": 2025,
-      "imdbRating": 8.2
+      "name": "Casper",
+      "poster": "https://images.metahub.space/poster/medium/tt0112642/img",
+      "background": "https://images.metahub.space/background/medium/tt0112642/img",
+      "description": "Casper is a kind young ghost who peacefully haunts a mansion in Maine. When specialist James Harvey arrives to communicate with Casper and his fellow spirits, he brings along his teenage daughter, Kat. Casper quickly falls in love with Kat, but their budding relationship is complicated not only by his transparent state, but also by his troublemaking apparition uncles and their mischievous antics.",
+      "releaseInfo": 1995,
+      "imdbRating": 6.2
     },
     {
       "id": "tt0091635",
@@ -401,34 +341,124 @@
       "imdbRating": 5.9
     },
     {
-      "id": "tt33379543",
+      "id": "tt2395469",
       "type": "movie",
-      "name": "Jana Nayagan",
-      "poster": "https://images.metahub.space/poster/medium/tt33379543/img",
-      "background": "https://images.metahub.space/background/medium/tt33379543/img",
-      "description": "A clash of ideologies. One stands for the people, the other feeds on control. Their paths collided once before. Years later, a child’s silent fear ignites the past, drawing a former police officer into a battle far bigger than personal revenge.",
-      "releaseInfo": 2026,
-      "imdbRating": 5.1
+      "name": "Gully Boy",
+      "poster": "https://images.metahub.space/poster/medium/tt2395469/img",
+      "background": "https://images.metahub.space/background/medium/tt2395469/img",
+      "description": "Murad, an underdog, struggles to convey his views on social issues and life in Dharavi through rapping. His life changes drastically when he meets a local rapper, Shrikant alias MC Sher.",
+      "releaseInfo": 2019,
+      "imdbRating": 7.9
     },
     {
-      "id": "tt27548557",
+      "id": "tt0087363",
       "type": "movie",
-      "name": "Dhamaal 4",
-      "poster": "https://images.metahub.space/poster/medium/tt27548557/img",
-      "background": "https://images.metahub.space/background/medium/tt27548557/img",
-      "description": "The Dhamaal boys are back for another treasure hunt, facing hilarious challenges in their quest for the Treasure of Life.",
+      "name": "Gremlins",
+      "poster": "https://images.metahub.space/poster/medium/tt0087363/img",
+      "background": "https://images.metahub.space/background/medium/tt0087363/img",
+      "description": "After receiving an exotic small animal as a Christmas gift, a young man inadvertently breaks three important rules concerning his new pet, which unleashes a horde of malevolently mischievous creatures on a small town.",
+      "releaseInfo": 1984,
+      "imdbRating": 7.3
+    },
+    {
+      "id": "tt35672862",
+      "type": "movie",
+      "name": "Hokum",
+      "poster": "https://images.metahub.space/poster/medium/tt35672862/img",
+      "background": "https://images.metahub.space/background/medium/tt35672862/img",
+      "description": "When novelist Ohm Bauman retreats to a remote inn to scatter his parents' ashes, he is consumed by tales of a witch haunting the honeymoon suite. Disturbing visions and a shocking disappearance forces him to confront dark corners of his past.",
       "releaseInfo": 2026,
       "imdbRating": 6.6
     },
     {
-      "id": "tt28019966",
+      "id": "tt0115963",
       "type": "movie",
-      "name": "Paradha",
-      "poster": "https://images.metahub.space/poster/medium/tt28019966/img",
-      "background": "https://images.metahub.space/background/medium/tt28019966/img",
-      "description": "A veiled village woman's life changes when city visitors challenge her traditions. As she questions customs and investigates a curse, rumors of Sati emerge, leading her to confront societal norms.",
+      "name": "The Craft",
+      "poster": "https://images.metahub.space/poster/medium/tt0115963/img",
+      "background": "https://images.metahub.space/background/medium/tt0115963/img",
+      "description": "A Catholic school newcomer falls in with a clique of teen witches who wield their powers against all who dare to cross them -- be they teachers, rivals or meddlesome parents.",
+      "releaseInfo": 1996,
+      "imdbRating": 6.5
+    },
+    {
+      "id": "tt0110912",
+      "type": "movie",
+      "name": "Pulp Fiction",
+      "poster": "https://images.metahub.space/poster/medium/tt0110912/img",
+      "background": "https://images.metahub.space/background/medium/tt0110912/img",
+      "description": "A burger-loving hit man, his philosophical partner, a drug-addled gangster's moll and a washed-up boxer converge in this sprawling, comedic crime caper. Their adventures unfurl in three stories that ingeniously trip back and forth in time.",
+      "releaseInfo": 1994,
+      "imdbRating": 8.8
+    },
+    {
+      "id": "tt0063522",
+      "type": "movie",
+      "name": "Rosemary's Baby",
+      "poster": "https://images.metahub.space/poster/medium/tt0063522/img",
+      "background": "https://images.metahub.space/background/medium/tt0063522/img",
+      "description": "A young couple, Rosemary and Guy, moves into an infamous New York apartment building, known by frightening legends and mysterious events, with the purpose of starting a family.",
+      "releaseInfo": 1968,
+      "imdbRating": 8
+    },
+    {
+      "id": "tt0479884",
+      "type": "movie",
+      "name": "Crank",
+      "poster": "https://images.metahub.space/poster/medium/tt0479884/img",
+      "background": "https://images.metahub.space/background/medium/tt0479884/img",
+      "description": "Chev Chelios, a hit man wanting to go straight, lets his latest target slip away. Then he awakes the next morning to a phone call that informs him he has been poisoned and has only an hour to live unless he keeps adrenaline coursing through his body while he searches for an antidote.",
+      "releaseInfo": 2006,
+      "imdbRating": 6.9
+    },
+    {
+      "id": "tt17279496",
+      "type": "movie",
+      "name": "Civil War",
+      "poster": "https://images.metahub.space/poster/medium/tt17279496/img",
+      "background": "https://images.metahub.space/background/medium/tt17279496/img",
+      "description": "In the midst of a U.S. civil war, four reporters make the dangerous trip to the capital to interview the president before he is overthrown.",
+      "releaseInfo": 2024,
+      "imdbRating": 7
+    },
+    {
+      "id": "tt15047880",
+      "type": "movie",
+      "name": "Disclosure Day",
+      "poster": "https://images.metahub.space/poster/medium/tt15047880/img",
+      "background": "https://images.metahub.space/background/medium/tt15047880/img",
+      "description": "If you found out we weren’t alone in the universe, would that frighten you?",
+      "releaseInfo": 2026,
+      "imdbRating": 6.4
+    },
+    {
+      "id": "tt29355505",
+      "type": "movie",
+      "name": "Toy Story 5",
+      "poster": "https://images.metahub.space/poster/medium/tt29355505/img",
+      "background": "https://images.metahub.space/background/medium/tt29355505/img",
+      "description": "When Bonnie receives a Lilypad tablet as a gift and becomes obsessed, Buzz, Woody, Jessie and the rest of the gang's jobs become exponentially harder when they have to go head to head with the all-new threat to playtime.",
+      "releaseInfo": 2026,
+      "imdbRating": 7.3
+    },
+    {
+      "id": "tt33014583",
+      "type": "movie",
+      "name": "Dhurandhar",
+      "poster": "https://images.metahub.space/poster/medium/tt33014583/img",
+      "background": "https://images.metahub.space/background/medium/tt33014583/img",
+      "description": "In the early 2000s, an undercover operative infiltrates Karachi's underworld, breaking into its inner circle to dismantle a violent nexus from within.",
       "releaseInfo": 2025,
-      "imdbRating": 6
+      "imdbRating": 8.2
+    },
+    {
+      "id": "tt9619824",
+      "type": "movie",
+      "name": "Final Destination Bloodlines",
+      "poster": "https://images.metahub.space/poster/medium/tt9619824/img",
+      "background": "https://images.metahub.space/background/medium/tt9619824/img",
+      "description": "Plagued by a violent recurring nightmare, college student Stefanie heads home to track down the one person who might be able to break the cycle and save her family from the grisly demise that inevitably awaits them all.",
+      "releaseInfo": 2025,
+      "imdbRating": 6.7
     },
     {
       "id": "tt4361050",
@@ -441,22 +471,22 @@
       "imdbRating": 6.2
     },
     {
-      "id": "tt0088763",
+      "id": "tt0844708",
       "type": "movie",
-      "name": "Back to the Future",
-      "poster": "https://images.metahub.space/poster/medium/tt0088763/img",
-      "background": "https://images.metahub.space/background/medium/tt0088763/img",
-      "description": "The teenager Marty McFly  accidentally travels with the time machine of his friend, the quirky scientist Dr.Emmett Brown, back in the year 1955. There he accidently prevents, that his future parents fall in love with each other, which puts him at the risk of preventing his own birth. To make matters worse, his mother begins to fall in love with him. He only has one week left to get things right again…",
-      "releaseInfo": 1985,
-      "imdbRating": 8.5
+      "name": "The Last House on the Left",
+      "poster": "https://images.metahub.space/poster/medium/tt0844708/img",
+      "background": "https://images.metahub.space/background/medium/tt0844708/img",
+      "description": "When athletic teen Mari Collingwood opts to hang out with her friend Paige in town rather than spend an evening in with her parents vacationing at the family's remote lake house, it marks the beginning of a night no one is going to forget.",
+      "releaseInfo": 2009,
+      "imdbRating": 6.5
     },
     {
-      "id": "tt38916037",
+      "id": "tt27548557",
       "type": "movie",
-      "name": "Lenin Pandiyan",
-      "poster": "https://images.metahub.space/poster/medium/tt38916037/img",
-      "background": "https://images.metahub.space/background/medium/tt38916037/img",
-      "description": "Illegal sand mafia activities unite a group of affected farmers, a policeman serving punishment duty, the judiciary, and a corrupt businessman.",
+      "name": "Dhamaal 4",
+      "poster": "https://images.metahub.space/poster/medium/tt27548557/img",
+      "background": "https://images.metahub.space/background/medium/tt27548557/img",
+      "description": "The Dhamaal boys are back for another treasure hunt, facing hilarious challenges in their quest for the Treasure of Life.",
       "releaseInfo": 2026,
       "imdbRating": 6.6
     },
@@ -469,36 +499,6 @@
       "description": "George Hardy is a shepherd who reads detective novels to his beloved sheep every night, assuming they can't possibly understand. But when a mysterious incident disrupts life on the farm, the sheep realize they must become the detectives. As they follow the clues and investigate human suspects, they prove that even sheep can be brilliant crime-solvers.",
       "releaseInfo": 2026,
       "imdbRating": 7.4
-    },
-    {
-      "id": "tt2884018",
-      "type": "movie",
-      "name": "Macbeth",
-      "poster": "https://images.metahub.space/poster/medium/tt2884018/img",
-      "background": "https://images.metahub.space/background/medium/tt2884018/img",
-      "description": "Macbeth, the Thane of Glamis, receives a prophecy from a trio of witches that one day he will become King of Scotland. Consumed by ambition and spurred to action by his wife, Macbeth murders his king and takes the throne for himself.",
-      "releaseInfo": 2015,
-      "imdbRating": 6.6
-    },
-    {
-      "id": "tt13022984",
-      "type": "movie",
-      "name": "Khuda Haafiz: Chapter 2 - Agni Pariksha",
-      "poster": "https://images.metahub.space/poster/medium/tt13022984/img",
-      "background": "https://images.metahub.space/background/medium/tt13022984/img",
-      "description": "Sameer and Nargis, after overcoming all odds, find a ray of sunshine when little Nandini enters their lives and their family is complete; But their happiness is short-lived. In a bizarre twist of fate, Nandini goes missing.",
-      "releaseInfo": 2022,
-      "imdbRating": 7.4
-    },
-    {
-      "id": "tt2395469",
-      "type": "movie",
-      "name": "Gully Boy",
-      "poster": "https://images.metahub.space/poster/medium/tt2395469/img",
-      "background": "https://images.metahub.space/background/medium/tt2395469/img",
-      "description": "Murad, an underdog, struggles to convey his views on social issues and life in Dharavi through rapping. His life changes drastically when he meets a local rapper, Shrikant alias MC Sher.",
-      "releaseInfo": 2019,
-      "imdbRating": 7.9
     }
   ]
 }
