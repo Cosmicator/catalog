@@ -211,16 +211,6 @@
       "imdbRating": 5.4
     },
     {
-      "id": "tt35836025",
-      "type": "movie",
-      "name": "Vishwanath & Sons",
-      "poster": "https://images.metahub.space/poster/medium/tt35836025/img",
-      "background": "https://images.metahub.space/background/medium/tt35836025/img",
-      "description": "A celebrated Olympian shooter travels to America looking for a donor to help his sick child — but unexpected romance complicates his search.",
-      "releaseInfo": 2026,
-      "imdbRating": 7.2
-    },
-    {
       "id": "tt37535100",
       "type": "movie",
       "name": "Bethlehem Kudumba Unit",
@@ -371,6 +361,26 @@
       "imdbRating": 6.6
     },
     {
+      "id": "tt35836025",
+      "type": "movie",
+      "name": "Vishwanath & Sons",
+      "poster": "https://images.metahub.space/poster/medium/tt35836025/img",
+      "background": "https://images.metahub.space/background/medium/tt35836025/img",
+      "description": "A celebrated Olympian shooter travels to America looking for a donor to help his sick child — but unexpected romance complicates his search.",
+      "releaseInfo": 2026,
+      "imdbRating": 7.2
+    },
+    {
+      "id": "tt30887701",
+      "type": "movie",
+      "name": "Pinocchio: Unstrung",
+      "poster": "https://images.metahub.space/poster/medium/tt30887701/img",
+      "background": "https://images.metahub.space/background/medium/tt30887701/img",
+      "description": "Influenced by a sinister Cricket and created by Geppetto, Pinocchio launches a violent crusade to carve himself into a real boy like his brother James, one piece at a time.",
+      "releaseInfo": 2026,
+      "imdbRating": 5.4
+    },
+    {
       "id": "tt0115963",
       "type": "movie",
       "name": "The Craft",
@@ -459,16 +469,6 @@
       "description": "Plagued by a violent recurring nightmare, college student Stefanie heads home to track down the one person who might be able to break the cycle and save her family from the grisly demise that inevitably awaits them all.",
       "releaseInfo": 2025,
       "imdbRating": 6.7
-    },
-    {
-      "id": "tt4361050",
-      "type": "movie",
-      "name": "Ouija: Origin of Evil",
-      "poster": "https://images.metahub.space/poster/medium/tt4361050/img",
-      "background": "https://images.metahub.space/background/medium/tt4361050/img",
-      "description": "In 1967 Los Angeles, a widowed mother's daughter tries to communicate with her late father through a Ouija board, but unleashes a demon instead.",
-      "releaseInfo": 2016,
-      "imdbRating": 6.2
     },
     {
       "id": "tt0844708",
