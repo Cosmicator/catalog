@@ -191,16 +191,6 @@
       "imdbRating": 6.5
     },
     {
-      "id": "tt36834010",
-      "type": "movie",
-      "name": "Gail Daughtry and the Celebrity Sex Pass",
-      "poster": "https://images.metahub.space/poster/medium/tt36834010/img",
-      "background": "https://images.metahub.space/background/medium/tt36834010/img",
-      "description": "After her fiance sleeps with his celebrity crush, Kansas hairdresser Gail heads to Hollywood to even the score with her own famous fantasy — Jon Hamm.",
-      "releaseInfo": 2026,
-      "imdbRating": 6
-    },
-    {
       "id": "tt38672588",
       "type": "movie",
       "name": "Masterplan",
@@ -241,6 +231,16 @@
       "imdbRating": 7
     },
     {
+      "id": "tt36834010",
+      "type": "movie",
+      "name": "Gail Daughtry and the Celebrity Sex Pass",
+      "poster": "https://images.metahub.space/poster/medium/tt36834010/img",
+      "background": "https://images.metahub.space/background/medium/tt36834010/img",
+      "description": "After her fiance sleeps with his celebrity crush, Kansas hairdresser Gail heads to Hollywood to even the score with her own famous fantasy — Jon Hamm.",
+      "releaseInfo": 2026,
+      "imdbRating": 6
+    },
+    {
       "id": "tt22526100",
       "type": "movie",
       "name": "The Love Hypothesis",
@@ -269,16 +269,6 @@
       "description": "Michael manages to free himself from Laurie Strode's trap to resume his ritual bloodbath. As she fights for her life from injuries from their last encounter, she inspires her daughter Karen, her granddaughter Allyson, and all of Haddonfield to rise up against the unstoppable monster.",
       "releaseInfo": 2021,
       "imdbRating": 5.5
-    },
-    {
-      "id": "tt2884018",
-      "type": "movie",
-      "name": "Macbeth",
-      "poster": "https://images.metahub.space/poster/medium/tt2884018/img",
-      "background": "https://images.metahub.space/background/medium/tt2884018/img",
-      "description": "Macbeth, the Thane of Glamis, receives a prophecy from a trio of witches that one day he will become King of Scotland. Consumed by ambition and spurred to action by his wife, Macbeth murders his king and takes the throne for himself.",
-      "releaseInfo": 2015,
-      "imdbRating": 6.6
     },
     {
       "id": "tt39108319",
@@ -499,6 +489,16 @@
       "description": "When athletic teen Mari Collingwood opts to hang out with her friend Paige in town rather than spend an evening in with her parents vacationing at the family's remote lake house, it marks the beginning of a night no one is going to forget.",
       "releaseInfo": 2009,
       "imdbRating": 6.5
+    },
+    {
+      "id": "tt27548557",
+      "type": "movie",
+      "name": "Dhamaal 4",
+      "poster": "https://images.metahub.space/poster/medium/tt27548557/img",
+      "background": "https://images.metahub.space/background/medium/tt27548557/img",
+      "description": "The Dhamaal boys are back for another treasure hunt, facing hilarious challenges in their quest for the Treasure of Life.",
+      "releaseInfo": 2026,
+      "imdbRating": 6.6
     }
   ]
 }
