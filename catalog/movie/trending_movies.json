@@ -271,6 +271,16 @@
       "imdbRating": 5.5
     },
     {
+      "id": "tt2884018",
+      "type": "movie",
+      "name": "Macbeth",
+      "poster": "https://images.metahub.space/poster/medium/tt2884018/img",
+      "background": "https://images.metahub.space/background/medium/tt2884018/img",
+      "description": "Macbeth, the Thane of Glamis, receives a prophecy from a trio of witches that one day he will become King of Scotland. Consumed by ambition and spurred to action by his wife, Macbeth murders his king and takes the throne for himself.",
+      "releaseInfo": 2015,
+      "imdbRating": 6.6
+    },
+    {
       "id": "tt39108319",
       "type": "movie",
       "name": "Irumudi",
@@ -471,6 +481,16 @@
       "imdbRating": 6.7
     },
     {
+      "id": "tt4361050",
+      "type": "movie",
+      "name": "Ouija: Origin of Evil",
+      "poster": "https://images.metahub.space/poster/medium/tt4361050/img",
+      "background": "https://images.metahub.space/background/medium/tt4361050/img",
+      "description": "In 1967 Los Angeles, a widowed mother's daughter tries to communicate with her late father through a Ouija board, but unleashes a demon instead.",
+      "releaseInfo": 2016,
+      "imdbRating": 6.2
+    },
+    {
       "id": "tt0844708",
       "type": "movie",
       "name": "The Last House on the Left",
@@ -479,26 +499,6 @@
       "description": "When athletic teen Mari Collingwood opts to hang out with her friend Paige in town rather than spend an evening in with her parents vacationing at the family's remote lake house, it marks the beginning of a night no one is going to forget.",
       "releaseInfo": 2009,
       "imdbRating": 6.5
-    },
-    {
-      "id": "tt27548557",
-      "type": "movie",
-      "name": "Dhamaal 4",
-      "poster": "https://images.metahub.space/poster/medium/tt27548557/img",
-      "background": "https://images.metahub.space/background/medium/tt27548557/img",
-      "description": "The Dhamaal boys are back for another treasure hunt, facing hilarious challenges in their quest for the Treasure of Life.",
-      "releaseInfo": 2026,
-      "imdbRating": 6.6
-    },
-    {
-      "id": "tt32565993",
-      "type": "movie",
-      "name": "The Sheep Detectives",
-      "poster": "https://images.metahub.space/poster/medium/tt32565993/img",
-      "background": "https://images.metahub.space/background/medium/tt32565993/img",
-      "description": "George Hardy is a shepherd who reads detective novels to his beloved sheep every night, assuming they can't possibly understand. But when a mysterious incident disrupts life on the farm, the sheep realize they must become the detectives. As they follow the clues and investigate human suspects, they prove that even sheep can be brilliant crime-solvers.",
-      "releaseInfo": 2026,
-      "imdbRating": 7.4
     }
   ]
 }

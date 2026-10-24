@@ -375,17 +375,6 @@
       "imdbRating": "8.2"
     },
     {
-      "id": "tt15384586",
-      "type": "series",
-      "name": "Fellow Travelers",
-      "poster": "https://images.metahub.space/poster/small/tt15384586/img",
-      "background": "https://images.metahub.space/background/medium/tt15384586/img",
-      "logo": "https://images.metahub.space/logo/medium/tt15384586/img",
-      "description": "Decades-long chronicle of the risky, volatile and steamy relationship between the charismatic and ambitious Hawk and the pious and idealistic Tim, two political staffers who fall in love at the height of the 1950s Lavender Scare.",
-      "releaseInfo": "2023",
-      "imdbRating": "8.2"
-    },
-    {
       "id": "tt19386538",
       "type": "series",
       "name": "Mussolini: Son of the Century",
@@ -394,6 +383,17 @@
       "logo": "https://images.metahub.space/logo/medium/tt19386538/img",
       "description": "Benito Mussolini's early career from his founding of the Fasci Italiani in 1919 up to the assassination of socialist politician Giacomo Matteotti in 1924 and his speech in Parliament on 3 January 1925.",
       "releaseInfo": "2024–2025",
+      "imdbRating": "8.2"
+    },
+    {
+      "id": "tt15384586",
+      "type": "series",
+      "name": "Fellow Travelers",
+      "poster": "https://images.metahub.space/poster/small/tt15384586/img",
+      "background": "https://images.metahub.space/background/medium/tt15384586/img",
+      "logo": "https://images.metahub.space/logo/medium/tt15384586/img",
+      "description": "Decades-long chronicle of the risky, volatile and steamy relationship between the charismatic and ambitious Hawk and the pious and idealistic Tim, two political staffers who fall in love at the height of the 1950s Lavender Scare.",
+      "releaseInfo": "2023",
       "imdbRating": "8.2"
     },
     {
@@ -441,17 +441,6 @@
       "imdbRating": "8.1"
     },
     {
-      "id": "tt0914387",
-      "type": "series",
-      "name": "Damages",
-      "poster": "https://images.metahub.space/poster/small/tt0914387/img",
-      "background": "https://images.metahub.space/background/medium/tt0914387/img",
-      "logo": "https://images.metahub.space/logo/medium/tt0914387/img",
-      "description": "A law school graduate becomes the protégée of a successful high-stakes litigator.",
-      "releaseInfo": "2007–2012",
-      "imdbRating": "8.1"
-    },
-    {
       "id": "tt14688458",
       "type": "series",
       "name": "Silo",
@@ -471,6 +460,17 @@
       "logo": "https://images.metahub.space/logo/medium/tt33332385/img",
       "description": "A skeptical mayor leads the superstitious residents of a cursed New England island.",
       "releaseInfo": "2026–",
+      "imdbRating": "8.1"
+    },
+    {
+      "id": "tt0914387",
+      "type": "series",
+      "name": "Damages",
+      "poster": "https://images.metahub.space/poster/small/tt0914387/img",
+      "background": "https://images.metahub.space/background/medium/tt0914387/img",
+      "logo": "https://images.metahub.space/logo/medium/tt0914387/img",
+      "description": "A law school graduate becomes the protégée of a successful high-stakes litigator.",
+      "releaseInfo": "2007–2012",
       "imdbRating": "8.1"
     },
     {
