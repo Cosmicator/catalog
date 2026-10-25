@@ -1,17 +1,6 @@
 {
   "metas": [
     {
-      "id": "tt0903747",
-      "type": "series",
-      "name": "Breaking Bad",
-      "poster": "https://images.metahub.space/poster/small/tt0903747/img",
-      "background": "https://images.metahub.space/background/medium/tt0903747/img",
-      "logo": "https://images.metahub.space/logo/medium/tt0903747/img",
-      "description": "A chemistry teacher diagnosed with inoperable lung cancer turns to manufacturing and selling methamphetamine with a former student to secure his family's future.",
-      "releaseInfo": "2008–2013",
-      "imdbRating": "9.5"
-    },
-    {
       "id": "tt6769208",
       "type": "series",
       "name": "Blue Planet II",
@@ -67,17 +56,6 @@
       "imdbRating": "9.0"
     },
     {
-      "id": "tt33094114",
-      "type": "series",
-      "name": "India's Got Latent",
-      "poster": "https://images.metahub.space/poster/small/tt33094114/img",
-      "background": "https://images.metahub.space/background/medium/tt33094114/img",
-      "logo": "https://images.metahub.space/logo/medium/tt33094114/img",
-      "description": "Samay Raina and the guest judges hilariously critique the untapped, undeniably entertaining \"latent\" talents of aspiring performers, testing their self-awareness with a unique scoring system.",
-      "releaseInfo": "2024–",
-      "imdbRating": "8.9"
-    },
-    {
       "id": "tt0108778",
       "type": "series",
       "name": "Friends",
@@ -100,17 +78,6 @@
       "imdbRating": "8.7"
     },
     {
-      "id": "tt35495073",
-      "type": "series",
-      "name": "Heated Rivalry",
-      "poster": "https://images.metahub.space/poster/small/tt35495073/img",
-      "background": "https://images.metahub.space/background/medium/tt35495073/img",
-      "logo": "https://images.metahub.space/logo/medium/tt35495073/img",
-      "description": "Two rival hockey stars at the top of their game face an unexpected challenge when they develop feelings for each other, complicating their careers and the sport's expectations.",
-      "releaseInfo": "2025–",
-      "imdbRating": "8.7"
-    },
-    {
       "id": "tt0098936",
       "type": "series",
       "name": "Twin Peaks",
@@ -122,6 +89,17 @@
       "imdbRating": "8.7"
     },
     {
+      "id": "tt35495073",
+      "type": "series",
+      "name": "Heated Rivalry",
+      "poster": "https://images.metahub.space/poster/small/tt35495073/img",
+      "background": "https://images.metahub.space/background/medium/tt35495073/img",
+      "logo": "https://images.metahub.space/logo/medium/tt35495073/img",
+      "description": "Two rival hockey stars at the top of their game face an unexpected challenge when they develop feelings for each other, complicating their careers and the sport's expectations.",
+      "releaseInfo": "2025–",
+      "imdbRating": "8.7"
+    },
+    {
       "id": "tt5753856",
       "type": "series",
       "name": "Dark",
@@ -130,6 +108,17 @@
       "logo": "https://images.metahub.space/logo/medium/tt5753856/img",
       "description": "A family saga with a supernatural twist, set in a German town where the disappearance of two young children exposes the relationships among four families.",
       "releaseInfo": "2017–2020",
+      "imdbRating": "8.7"
+    },
+    {
+      "id": "tt10986410",
+      "type": "series",
+      "name": "Ted Lasso",
+      "poster": "https://images.metahub.space/poster/small/tt10986410/img",
+      "background": "https://images.metahub.space/background/medium/tt10986410/img",
+      "logo": "https://images.metahub.space/logo/medium/tt10986410/img",
+      "description": "American college football coach Ted Lasso is hired to manage AFC Richmond, a struggling English soccer club, and must win over skeptical players, staff, and fans.",
+      "releaseInfo": "2020–",
       "imdbRating": "8.7"
     },
     {
@@ -166,6 +155,17 @@
       "imdbRating": "8.6"
     },
     {
+      "id": "tt9544034",
+      "type": "series",
+      "name": "The Family Man",
+      "poster": "https://images.metahub.space/poster/small/tt9544034/img",
+      "background": "https://images.metahub.space/background/medium/tt9544034/img",
+      "logo": "https://images.metahub.space/logo/medium/tt9544034/img",
+      "description": "A working man from the National Investigation Agency tries to protect the nation from terrorism, but he also needs to keep his family safe from his secret job.",
+      "releaseInfo": "2019–",
+      "imdbRating": "8.6"
+    },
+    {
       "id": "tt1439629",
       "type": "series",
       "name": "Community",
@@ -199,17 +199,6 @@
       "imdbRating": "8.5"
     },
     {
-      "id": "tt4158110",
-      "type": "series",
-      "name": "Mr. Robot",
-      "poster": "https://images.metahub.space/poster/small/tt4158110/img",
-      "background": "https://images.metahub.space/background/medium/tt4158110/img",
-      "logo": "https://images.metahub.space/logo/medium/tt4158110/img",
-      "description": "Elliot, a brilliant but unstable cyber-security engineer and vigilante hacker, becomes a key figure in a complex game of global chaos when he and his shadowy allies try to take down the corrupt corporation his company is paid to p...",
-      "releaseInfo": "2015–2019",
-      "imdbRating": "8.5"
-    },
-    {
       "id": "tt4093826",
       "type": "series",
       "name": "Twin Peaks",
@@ -221,25 +210,14 @@
       "imdbRating": "8.5"
     },
     {
-      "id": "tt9335498",
+      "id": "tt4158110",
       "type": "series",
-      "name": "Demon Slayer: Kimetsu no Yaiba",
-      "poster": "https://images.metahub.space/poster/small/tt9335498/img",
-      "background": "https://images.metahub.space/background/medium/tt9335498/img",
-      "logo": "https://images.metahub.space/logo/medium/tt9335498/img",
-      "description": "A family is attacked by demons and only two members survive - Tanjiro and his sister Nezuko, who is turning into a demon slowly. Tanjiro sets out to become a demon slayer to avenge his family and cure his sister.",
-      "releaseInfo": "2019–2024",
-      "imdbRating": "8.5"
-    },
-    {
-      "id": "tt12343534",
-      "type": "series",
-      "name": "Jujutsu Kaisen",
-      "poster": "https://images.metahub.space/poster/small/tt12343534/img",
-      "background": "https://images.metahub.space/background/medium/tt12343534/img",
-      "logo": "https://images.metahub.space/logo/medium/tt12343534/img",
-      "description": "After swallowing a cursed relic, kindhearted teenager Yuji Itadori becomes host to the King of Curses and joins a secret school of sorcerers battling monsters born from humanity's darkest emotions.",
-      "releaseInfo": "2020–",
+      "name": "Mr. Robot",
+      "poster": "https://images.metahub.space/poster/small/tt4158110/img",
+      "background": "https://images.metahub.space/background/medium/tt4158110/img",
+      "logo": "https://images.metahub.space/logo/medium/tt4158110/img",
+      "description": "Elliot, a brilliant but unstable cyber-security engineer and vigilante hacker, becomes a key figure in a complex game of global chaos when he and his shadowy allies try to take down the corrupt corporation his company is paid to p...",
+      "releaseInfo": "2015–2019",
       "imdbRating": "8.5"
     },
     {
@@ -276,17 +254,6 @@
       "imdbRating": "8.4"
     },
     {
-      "id": "tt9059760",
-      "type": "series",
-      "name": "Normal People",
-      "poster": "https://images.metahub.space/poster/small/tt9059760/img",
-      "background": "https://images.metahub.space/background/medium/tt9059760/img",
-      "logo": "https://images.metahub.space/logo/medium/tt9059760/img",
-      "description": "A man and a woman embark on an on-again/off-again romance that starts at school and continues through college, testing their relationship as they explore different versions of themselves.",
-      "releaseInfo": "2020",
-      "imdbRating": "8.4"
-    },
-    {
       "id": "tt5675620",
       "type": "series",
       "name": "The Punisher",
@@ -295,6 +262,17 @@
       "logo": "https://images.metahub.space/logo/medium/tt5675620/img",
       "description": "After his revenge on those who murdered his family, aimless Marine veteran Frank Castle finds a new meaning in life as a vigilante known as \"The Punisher\".",
       "releaseInfo": "2017–2019",
+      "imdbRating": "8.4"
+    },
+    {
+      "id": "tt9059760",
+      "type": "series",
+      "name": "Normal People",
+      "poster": "https://images.metahub.space/poster/small/tt9059760/img",
+      "background": "https://images.metahub.space/background/medium/tt9059760/img",
+      "logo": "https://images.metahub.space/logo/medium/tt9059760/img",
+      "description": "A man and a woman embark on an on-again/off-again romance that starts at school and continues through college, testing their relationship as they explore different versions of themselves.",
+      "releaseInfo": "2020",
       "imdbRating": "8.4"
     },
     {
@@ -320,17 +298,6 @@
       "imdbRating": "8.3"
     },
     {
-      "id": "tt15477488",
-      "type": "series",
-      "name": "Farzi",
-      "poster": "https://images.metahub.space/poster/small/tt15477488/img",
-      "background": "https://images.metahub.space/background/medium/tt15477488/img",
-      "logo": "https://images.metahub.space/logo/medium/tt15477488/img",
-      "description": "Talented artist Sunny creates a flawless counterfeit bill, thrusting him into a dangerous world. Unconventional task force officer Michael is determined to eliminate counterfeiting. In this high-stakes chase, neither can afford to...",
-      "releaseInfo": "2023–",
-      "imdbRating": "8.3"
-    },
-    {
       "id": "tt12590266",
       "type": "series",
       "name": "Cyberpunk: Edgerunners",
@@ -339,6 +306,17 @@
       "logo": "https://images.metahub.space/logo/medium/tt12590266/img",
       "description": "A Street Kid trying to survive in a technology and body modification-obsessed city of the future. Having everything to lose, he chooses to stay alive by becoming an Edgerunner, a Mercenary outlaw also known as a Cyberpunk.",
       "releaseInfo": "2022–",
+      "imdbRating": "8.3"
+    },
+    {
+      "id": "tt15477488",
+      "type": "series",
+      "name": "Farzi",
+      "poster": "https://images.metahub.space/poster/small/tt15477488/img",
+      "background": "https://images.metahub.space/background/medium/tt15477488/img",
+      "logo": "https://images.metahub.space/logo/medium/tt15477488/img",
+      "description": "Talented artist Sunny creates a flawless counterfeit bill, thrusting him into a dangerous world. Unconventional task force officer Michael is determined to eliminate counterfeiting. In this high-stakes chase, neither can afford to...",
+      "releaseInfo": "2023–",
       "imdbRating": "8.3"
     },
     {
@@ -386,14 +364,14 @@
       "imdbRating": "8.2"
     },
     {
-      "id": "tt15384586",
+      "id": "tt20873118",
       "type": "series",
-      "name": "Fellow Travelers",
-      "poster": "https://images.metahub.space/poster/small/tt15384586/img",
-      "background": "https://images.metahub.space/background/medium/tt15384586/img",
-      "logo": "https://images.metahub.space/logo/medium/tt15384586/img",
-      "description": "Decades-long chronicle of the risky, volatile and steamy relationship between the charismatic and ambitious Hawk and the pious and idealistic Tim, two political staffers who fall in love at the height of the 1950s Lavender Scare.",
-      "releaseInfo": "2023",
+      "name": "Suzhal - The Vortex",
+      "poster": "https://images.metahub.space/poster/small/tt20873118/img",
+      "background": "https://images.metahub.space/background/medium/tt20873118/img",
+      "logo": "https://images.metahub.space/logo/medium/tt20873118/img",
+      "description": "In a small South Indian town, a seemingly routine minor case explodes into a twisted crime thriller that rips apart its social fabric.",
+      "releaseInfo": "2022–",
       "imdbRating": "8.2"
     },
     {
@@ -408,37 +386,15 @@
       "imdbRating": "8.2"
     },
     {
-      "id": "tt20873118",
+      "id": "tt15384586",
       "type": "series",
-      "name": "Suzhal - The Vortex",
-      "poster": "https://images.metahub.space/poster/small/tt20873118/img",
-      "background": "https://images.metahub.space/background/medium/tt20873118/img",
-      "logo": "https://images.metahub.space/logo/medium/tt20873118/img",
-      "description": "In a small South Indian town, a seemingly routine minor case explodes into a twisted crime thriller that rips apart its social fabric.",
-      "releaseInfo": "2022–",
+      "name": "Fellow Travelers",
+      "poster": "https://images.metahub.space/poster/small/tt15384586/img",
+      "background": "https://images.metahub.space/background/medium/tt15384586/img",
+      "logo": "https://images.metahub.space/logo/medium/tt15384586/img",
+      "description": "Decades-long chronicle of the risky, volatile and steamy relationship between the charismatic and ambitious Hawk and the pious and idealistic Tim, two political staffers who fall in love at the height of the 1950s Lavender Scare.",
+      "releaseInfo": "2023",
       "imdbRating": "8.2"
-    },
-    {
-      "id": "tt12913686",
-      "type": "series",
-      "name": "Jeet Ki Zid",
-      "poster": "https://live.metahub.space/poster/small/tt12913686/img",
-      "background": "https://live.metahub.space/background/medium/tt12913686/img",
-      "logo": "https://live.metahub.space/logo/medium/tt12913686/img",
-      "description": "Inspired from a true story, Jeet Ki Zid is a tale of conviction, persuasion and commitment. It follows the life of a Special forces officer Major Deep Singh who is left paralyzed waist below after fighting the Kargil war, but his army training and never-give-up attitude help him get back to life and eventually on his feet despite all odds.",
-      "releaseInfo": "2021–2021",
-      "imdbRating": "8.2"
-    },
-    {
-      "id": "tt0758790",
-      "type": "series",
-      "name": "The Tudors",
-      "poster": "https://images.metahub.space/poster/small/tt0758790/img",
-      "background": "https://images.metahub.space/background/medium/tt0758790/img",
-      "logo": "https://images.metahub.space/logo/medium/tt0758790/img",
-      "description": "Epic series reveals the scandalous life of a young king whose affairs and obsession with producing a male heir changed marriage, the church, and the world.",
-      "releaseInfo": "2007–2010",
-      "imdbRating": "8.1"
     },
     {
       "id": "tt14688458",
@@ -449,6 +405,17 @@
       "logo": "https://images.metahub.space/logo/medium/tt14688458/img",
       "description": "Men and women live in a giant silo underground with several regulations which they believe are in place to protect them from the toxic and ruined world on the surface.",
       "releaseInfo": "2023–",
+      "imdbRating": "8.1"
+    },
+    {
+      "id": "tt0758790",
+      "type": "series",
+      "name": "The Tudors",
+      "poster": "https://images.metahub.space/poster/small/tt0758790/img",
+      "background": "https://images.metahub.space/background/medium/tt0758790/img",
+      "logo": "https://images.metahub.space/logo/medium/tt0758790/img",
+      "description": "Epic series reveals the scandalous life of a young king whose affairs and obsession with producing a male heir changed marriage, the church, and the world.",
+      "releaseInfo": "2007–2010",
       "imdbRating": "8.1"
     },
     {
@@ -507,6 +474,17 @@
       "imdbRating": "8.1"
     },
     {
+      "id": "tt4301160",
+      "type": "series",
+      "name": "Black Bird",
+      "poster": "https://images.metahub.space/poster/small/tt4301160/img",
+      "background": "https://images.metahub.space/background/medium/tt4301160/img",
+      "logo": "https://images.metahub.space/logo/medium/tt4301160/img",
+      "description": "Jimmy Keene is sentenced to 10 years in a minimum security prison but he cuts a deal with the FBI to befriend a suspected serial killer. Keene has to elicit a confession from Larry Hall to find the bodies of as many as eighteen wo...",
+      "releaseInfo": "2022",
+      "imdbRating": "8.1"
+    },
+    {
       "id": "tt26915338",
       "type": "series",
       "name": "Gyaarah Gyaarah",
@@ -515,6 +493,28 @@
       "logo": "https://images.metahub.space/logo/medium/tt26915338/img",
       "description": "Investigative drama following events in 1990, 2001, 2016. Intertwining storylines blending mysticism, science and mystery across the decades.",
       "releaseInfo": "2024–",
+      "imdbRating": "8.1"
+    },
+    {
+      "id": "tt1515193",
+      "type": "series",
+      "name": "The Big C",
+      "poster": "https://images.metahub.space/poster/small/tt1515193/img",
+      "background": "https://images.metahub.space/background/medium/tt1515193/img",
+      "logo": "https://images.metahub.space/logo/medium/tt1515193/img",
+      "description": "A suburban mother faces her cancer diagnosis while trying to find humor and happiness as well.",
+      "releaseInfo": "2010–2013",
+      "imdbRating": "8.1"
+    },
+    {
+      "id": "tt7203552",
+      "type": "series",
+      "name": "The Morning Show",
+      "poster": "https://images.metahub.space/poster/small/tt7203552/img",
+      "background": "https://images.metahub.space/background/medium/tt7203552/img",
+      "logo": "https://images.metahub.space/logo/medium/tt7203552/img",
+      "description": "An inside look at the lives of the people who help America wake up in the morning, exploring the unique challenges faced by the team.",
+      "releaseInfo": "2019–2027",
       "imdbRating": "8.1"
     },
     {
@@ -529,14 +529,14 @@
       "imdbRating": "8.1"
     },
     {
-      "id": "tt1515193",
+      "id": "tt38504111",
       "type": "series",
-      "name": "The Big C",
-      "poster": "https://images.metahub.space/poster/small/tt1515193/img",
-      "background": "https://images.metahub.space/background/medium/tt1515193/img",
-      "logo": "https://images.metahub.space/logo/medium/tt1515193/img",
-      "description": "A suburban mother faces her cancer diagnosis while trying to find humor and happiness as well.",
-      "releaseInfo": "2010–2013",
+      "name": "Small Prophets",
+      "poster": "https://images.metahub.space/poster/small/tt38504111/img",
+      "background": "https://images.metahub.space/background/medium/tt38504111/img",
+      "logo": "https://images.metahub.space/logo/medium/tt38504111/img",
+      "description": "Eccentric Michael Sleep, whose darling partner, Clea, disappeared seven years ago, sets out to create Homunculi - magical prophesying spirits that can predict the future.",
+      "releaseInfo": "2026–",
       "imdbRating": "8.1"
     },
     {
