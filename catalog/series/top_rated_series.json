@@ -23,6 +23,17 @@
       "imdbRating": "9.2"
     },
     {
+      "id": "tt43730117",
+      "type": "series",
+      "name": "Declassified: Operation Sindoor",
+      "poster": "https://live.metahub.space/poster/small/tt43730117/img",
+      "background": "https://live.metahub.space/background/medium/tt43730117/img",
+      "logo": "https://live.metahub.space/logo/medium/tt43730117/img",
+      "description": "Following the Pahalgam terror attack in April, India's military leadership deliberates and plans Operation Sindoor, an 88-hour military operation launched on May 7, featuring accounts from operatives and experts.",
+      "releaseInfo": "2026–2026",
+      "imdbRating": "9.2"
+    },
+    {
       "id": "tt13854248",
       "type": "series",
       "name": "The Legend of Hanuman",
@@ -67,17 +78,6 @@
       "imdbRating": "8.7"
     },
     {
-      "id": "tt0098936",
-      "type": "series",
-      "name": "Twin Peaks",
-      "poster": "https://images.metahub.space/poster/small/tt0098936/img",
-      "background": "https://images.metahub.space/background/medium/tt0098936/img",
-      "logo": "https://images.metahub.space/logo/medium/tt0098936/img",
-      "description": "An idiosyncratic FBI agent investigates the murder of a young woman in the even more idiosyncratic town of Twin Peaks.",
-      "releaseInfo": "1990–1991",
-      "imdbRating": "8.7"
-    },
-    {
       "id": "tt35495073",
       "type": "series",
       "name": "Heated Rivalry",
@@ -89,6 +89,17 @@
       "imdbRating": "8.7"
     },
     {
+      "id": "tt0098936",
+      "type": "series",
+      "name": "Twin Peaks",
+      "poster": "https://images.metahub.space/poster/small/tt0098936/img",
+      "background": "https://images.metahub.space/background/medium/tt0098936/img",
+      "logo": "https://images.metahub.space/logo/medium/tt0098936/img",
+      "description": "An idiosyncratic FBI agent investigates the murder of a young woman in the even more idiosyncratic town of Twin Peaks.",
+      "releaseInfo": "1990–1991",
+      "imdbRating": "8.7"
+    },
+    {
       "id": "tt5753856",
       "type": "series",
       "name": "Dark",
@@ -97,17 +108,6 @@
       "logo": "https://images.metahub.space/logo/medium/tt5753856/img",
       "description": "A family saga with a supernatural twist, set in a German town where the disappearance of two young children exposes the relationships among four families.",
       "releaseInfo": "2017–2020",
-      "imdbRating": "8.7"
-    },
-    {
-      "id": "tt10986410",
-      "type": "series",
-      "name": "Ted Lasso",
-      "poster": "https://images.metahub.space/poster/small/tt10986410/img",
-      "background": "https://images.metahub.space/background/medium/tt10986410/img",
-      "logo": "https://images.metahub.space/logo/medium/tt10986410/img",
-      "description": "American college football coach Ted Lasso is hired to manage AFC Richmond, a struggling English soccer club, and must win over skeptical players, staff, and fans.",
-      "releaseInfo": "2020–",
       "imdbRating": "8.7"
     },
     {
@@ -210,6 +210,28 @@
       "imdbRating": "8.5"
     },
     {
+      "id": "tt9335498",
+      "type": "series",
+      "name": "Demon Slayer: Kimetsu no Yaiba",
+      "poster": "https://images.metahub.space/poster/small/tt9335498/img",
+      "background": "https://images.metahub.space/background/medium/tt9335498/img",
+      "logo": "https://images.metahub.space/logo/medium/tt9335498/img",
+      "description": "A family is attacked by demons and only two members survive - Tanjiro and his sister Nezuko, who is turning into a demon slowly. Tanjiro sets out to become a demon slayer to avenge his family and cure his sister.",
+      "releaseInfo": "2019–2024",
+      "imdbRating": "8.5"
+    },
+    {
+      "id": "tt12343534",
+      "type": "series",
+      "name": "Jujutsu Kaisen",
+      "poster": "https://images.metahub.space/poster/small/tt12343534/img",
+      "background": "https://images.metahub.space/background/medium/tt12343534/img",
+      "logo": "https://images.metahub.space/logo/medium/tt12343534/img",
+      "description": "After swallowing a cursed relic, kindhearted teenager Yuji Itadori becomes host to the King of Curses and joins a secret school of sorcerers battling monsters born from humanity's darkest emotions.",
+      "releaseInfo": "2020–",
+      "imdbRating": "8.5"
+    },
+    {
       "id": "tt5875444",
       "type": "series",
       "name": "Slow Horses",
@@ -243,17 +265,6 @@
       "imdbRating": "8.4"
     },
     {
-      "id": "tt5675620",
-      "type": "series",
-      "name": "The Punisher",
-      "poster": "https://images.metahub.space/poster/small/tt5675620/img",
-      "background": "https://images.metahub.space/background/medium/tt5675620/img",
-      "logo": "https://images.metahub.space/logo/medium/tt5675620/img",
-      "description": "After his revenge on those who murdered his family, aimless Marine veteran Frank Castle finds a new meaning in life as a vigilante known as \"The Punisher\".",
-      "releaseInfo": "2017–2019",
-      "imdbRating": "8.4"
-    },
-    {
       "id": "tt9059760",
       "type": "series",
       "name": "Normal People",
@@ -265,14 +276,14 @@
       "imdbRating": "8.4"
     },
     {
-      "id": "tt0409591",
+      "id": "tt5675620",
       "type": "series",
-      "name": "Naruto",
-      "poster": "https://images.metahub.space/poster/small/tt0409591/img",
-      "background": "https://images.metahub.space/background/medium/tt0409591/img",
-      "logo": "https://images.metahub.space/logo/medium/tt0409591/img",
-      "description": "Naruto Uzumaki, a mischievous adolescent ninja, struggles as he searches for recognition and dreams of becoming the Hokage, the village's leader and strongest ninja.",
-      "releaseInfo": "2002–2007",
+      "name": "The Punisher",
+      "poster": "https://images.metahub.space/poster/small/tt5675620/img",
+      "background": "https://images.metahub.space/background/medium/tt5675620/img",
+      "logo": "https://images.metahub.space/logo/medium/tt5675620/img",
+      "description": "After his revenge on those who murdered his family, aimless Marine veteran Frank Castle finds a new meaning in life as a vigilante known as \"The Punisher\".",
+      "releaseInfo": "2017–2019",
       "imdbRating": "8.4"
     },
     {
@@ -441,6 +452,17 @@
       "imdbRating": "8.1"
     },
     {
+      "id": "tt4301160",
+      "type": "series",
+      "name": "Black Bird",
+      "poster": "https://images.metahub.space/poster/small/tt4301160/img",
+      "background": "https://images.metahub.space/background/medium/tt4301160/img",
+      "logo": "https://images.metahub.space/logo/medium/tt4301160/img",
+      "description": "Jimmy Keene is sentenced to 10 years in a minimum security prison but he cuts a deal with the FBI to befriend a suspected serial killer. Keene has to elicit a confession from Larry Hall to find the bodies of as many as eighteen wo...",
+      "releaseInfo": "2022",
+      "imdbRating": "8.1"
+    },
+    {
       "id": "tt7772588",
       "type": "series",
       "name": "For All Mankind",
@@ -452,17 +474,6 @@
       "imdbRating": "8.1"
     },
     {
-      "id": "tt47743267",
-      "type": "series",
-      "name": "Ishqa Ishqa",
-      "poster": "https://live.metahub.space/poster/small/tt47743267/img",
-      "background": "https://live.metahub.space/background/medium/tt47743267/img",
-      "logo": "https://live.metahub.space/logo/medium/tt47743267/img",
-      "description": "Kabir is a successful writer dating Suhani, who brings calm to his life. As he prepares for the sequel to his hit novel Ishqa Ishqa, inspired by Arohi, his childhood love, she is set to return to his life. Arohi brings the inspiration he needs for his writing, but her return threatens to disrupt the life Kabir has built with Suhani.",
-      "releaseInfo": "2026–",
-      "imdbRating": "8.1"
-    },
-    {
       "id": "tt8772296",
       "type": "series",
       "name": "Euphoria",
@@ -471,17 +482,6 @@
       "logo": "https://images.metahub.space/logo/medium/tt8772296/img",
       "description": "A dark coming-of-age drama exploring love, addiction, friendship and identity in a world full of temptation and uncertainty.",
       "releaseInfo": "2019–2026",
-      "imdbRating": "8.1"
-    },
-    {
-      "id": "tt4301160",
-      "type": "series",
-      "name": "Black Bird",
-      "poster": "https://images.metahub.space/poster/small/tt4301160/img",
-      "background": "https://images.metahub.space/background/medium/tt4301160/img",
-      "logo": "https://images.metahub.space/logo/medium/tt4301160/img",
-      "description": "Jimmy Keene is sentenced to 10 years in a minimum security prison but he cuts a deal with the FBI to befriend a suspected serial killer. Keene has to elicit a confession from Larry Hall to find the bodies of as many as eighteen wo...",
-      "releaseInfo": "2022",
       "imdbRating": "8.1"
     },
     {
@@ -507,17 +507,6 @@
       "imdbRating": "8.1"
     },
     {
-      "id": "tt38504111",
-      "type": "series",
-      "name": "Small Prophets",
-      "poster": "https://images.metahub.space/poster/small/tt38504111/img",
-      "background": "https://images.metahub.space/background/medium/tt38504111/img",
-      "logo": "https://images.metahub.space/logo/medium/tt38504111/img",
-      "description": "Eccentric Michael Sleep, whose darling partner, Clea, disappeared seven years ago, sets out to create Homunculi - magical prophesying spirits that can predict the future.",
-      "releaseInfo": "2026–",
-      "imdbRating": "8.1"
-    },
-    {
       "id": "tt0092400",
       "type": "series",
       "name": "Married... with Children",
@@ -529,15 +518,26 @@
       "imdbRating": "8.1"
     },
     {
-      "id": "tt26915338",
+      "id": "tt21097264",
       "type": "series",
-      "name": "Gyaarah Gyaarah",
-      "poster": "https://images.metahub.space/poster/small/tt26915338/img",
-      "background": "https://images.metahub.space/background/medium/tt26915338/img",
-      "logo": "https://images.metahub.space/logo/medium/tt26915338/img",
-      "description": "Investigative drama following events in 1990, 2001, 2016. Intertwining storylines blending mysticism, science and mystery across the decades.",
-      "releaseInfo": "2024–",
+      "name": "East of Eden",
+      "poster": "https://images.metahub.space/poster/small/tt21097264/img",
+      "background": "https://images.metahub.space/background/medium/tt21097264/img",
+      "logo": "https://images.metahub.space/logo/medium/tt21097264/img",
+      "description": "In the farmlands of the Salinas Valley in California, successive generations of two families, the Trasks and the Hamiltons, are destined to reenact the fateful story of Cain and Abel.",
+      "releaseInfo": "2026",
       "imdbRating": "8.1"
+    },
+    {
+      "id": "tt47743267",
+      "type": "series",
+      "name": "Ishqa Ishqa",
+      "poster": "https://live.metahub.space/poster/small/tt47743267/img",
+      "background": "https://live.metahub.space/background/medium/tt47743267/img",
+      "logo": "https://live.metahub.space/logo/medium/tt47743267/img",
+      "description": "Kabir is a successful writer dating Suhani, who brings calm to his life. As he prepares for the sequel to his hit novel Ishqa Ishqa, inspired by Arohi, his childhood love, she is set to return to his life. Arohi brings the inspiration he needs for his writing, but her return threatens to disrupt the life Kabir has built with Suhani.",
+      "releaseInfo": "2026–",
+      "imdbRating": "8.0"
     },
     {
       "id": "tt23649128",
