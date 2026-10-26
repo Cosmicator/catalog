@@ -133,17 +133,6 @@
       "imdbRating": "8.6"
     },
     {
-      "id": "tt31862809",
-      "type": "series",
-      "name": "Heart Beat",
-      "poster": "https://live.metahub.space/poster/small/tt31862809/img",
-      "background": "https://live.metahub.space/background/medium/tt31862809/img",
-      "logo": "https://live.metahub.space/logo/medium/tt31862809/img",
-      "description": "RK Multispeciality Hospital is a beacon of hope and healing. Its doctors are resilient even when they have to deal with medical and personal challenges.",
-      "releaseInfo": "2024–",
-      "imdbRating": "8.6"
-    },
-    {
       "id": "tt9544034",
       "type": "series",
       "name": "The Family Man",
@@ -152,6 +141,17 @@
       "logo": "https://images.metahub.space/logo/medium/tt9544034/img",
       "description": "A working man from the National Investigation Agency tries to protect the nation from terrorism, but he also needs to keep his family safe from his secret job.",
       "releaseInfo": "2019–",
+      "imdbRating": "8.6"
+    },
+    {
+      "id": "tt31862809",
+      "type": "series",
+      "name": "Heart Beat",
+      "poster": "https://live.metahub.space/poster/small/tt31862809/img",
+      "background": "https://live.metahub.space/background/medium/tt31862809/img",
+      "logo": "https://live.metahub.space/logo/medium/tt31862809/img",
+      "description": "RK Multispeciality Hospital is a beacon of hope and healing. Its doctors are resilient even when they have to deal with medical and personal challenges.",
+      "releaseInfo": "2024–",
       "imdbRating": "8.6"
     },
     {
@@ -320,6 +320,17 @@
       "imdbRating": "8.3"
     },
     {
+      "id": "tt0434665",
+      "type": "series",
+      "name": "Bleach",
+      "poster": "https://images.metahub.space/poster/small/tt0434665/img",
+      "background": "https://images.metahub.space/background/medium/tt0434665/img",
+      "logo": "https://images.metahub.space/logo/medium/tt0434665/img",
+      "description": "High school student Ichigo Kurosaki, who has the ability to see ghosts, gains soul reaper powers from Rukia Kuchiki and sets out to save the world from \"Hollows\".",
+      "releaseInfo": "2004–2012",
+      "imdbRating": "8.3"
+    },
+    {
       "id": "tt1196946",
       "type": "series",
       "name": "The Mentalist",
@@ -372,17 +383,6 @@
       "logo": "https://images.metahub.space/logo/medium/tt15384586/img",
       "description": "Decades-long chronicle of the risky, volatile and steamy relationship between the charismatic and ambitious Hawk and the pious and idealistic Tim, two political staffers who fall in love at the height of the 1950s Lavender Scare.",
       "releaseInfo": "2023",
-      "imdbRating": "8.2"
-    },
-    {
-      "id": "tt20873118",
-      "type": "series",
-      "name": "Suzhal - The Vortex",
-      "poster": "https://images.metahub.space/poster/small/tt20873118/img",
-      "background": "https://images.metahub.space/background/medium/tt20873118/img",
-      "logo": "https://images.metahub.space/logo/medium/tt20873118/img",
-      "description": "In a small South Indian town, a seemingly routine minor case explodes into a twisted crime thriller that rips apart its social fabric.",
-      "releaseInfo": "2022–",
       "imdbRating": "8.2"
     },
     {
@@ -452,6 +452,17 @@
       "imdbRating": "8.1"
     },
     {
+      "id": "tt47743267",
+      "type": "series",
+      "name": "Ishqa Ishqa",
+      "poster": "https://live.metahub.space/poster/small/tt47743267/img",
+      "background": "https://live.metahub.space/background/medium/tt47743267/img",
+      "logo": "https://live.metahub.space/logo/medium/tt47743267/img",
+      "description": "Kabir is a successful writer dating Suhani, who brings calm to his life. As he prepares for the sequel to his hit novel Ishqa Ishqa, inspired by Arohi, his childhood love, she is set to return to his life. Arohi brings the inspiration he needs for his writing, but her return threatens to disrupt the life Kabir has built with Suhani.",
+      "releaseInfo": "2026–",
+      "imdbRating": "8.1"
+    },
+    {
       "id": "tt4301160",
       "type": "series",
       "name": "Black Bird",
@@ -485,28 +496,6 @@
       "imdbRating": "8.1"
     },
     {
-      "id": "tt1515193",
-      "type": "series",
-      "name": "The Big C",
-      "poster": "https://images.metahub.space/poster/small/tt1515193/img",
-      "background": "https://images.metahub.space/background/medium/tt1515193/img",
-      "logo": "https://images.metahub.space/logo/medium/tt1515193/img",
-      "description": "A suburban mother faces her cancer diagnosis while trying to find humor and happiness as well.",
-      "releaseInfo": "2010–2013",
-      "imdbRating": "8.1"
-    },
-    {
-      "id": "tt0883772",
-      "type": "series",
-      "name": "Man vs. Wild",
-      "poster": "https://images.metahub.space/poster/small/tt0883772/img",
-      "background": "https://images.metahub.space/background/medium/tt0883772/img",
-      "logo": "https://images.metahub.space/logo/medium/tt0883772/img",
-      "description": "Bear Grylls travels the world in search of challenges to his survival skills.",
-      "releaseInfo": "2006–2020",
-      "imdbRating": "8.1"
-    },
-    {
       "id": "tt0092400",
       "type": "series",
       "name": "Married... with Children",
@@ -529,14 +518,11 @@
       "imdbRating": "8.1"
     },
     {
-      "id": "tt47743267",
+      "id": "tt15404764",
       "type": "series",
-      "name": "Ishqa Ishqa",
-      "poster": "https://live.metahub.space/poster/small/tt47743267/img",
-      "background": "https://live.metahub.space/background/medium/tt47743267/img",
-      "logo": "https://live.metahub.space/logo/medium/tt47743267/img",
-      "description": "Kabir is a successful writer dating Suhani, who brings calm to his life. As he prepares for the sequel to his hit novel Ishqa Ishqa, inspired by Arohi, his childhood love, she is set to return to his life. Arohi brings the inspiration he needs for his writing, but her return threatens to disrupt the life Kabir has built with Suhani.",
-      "releaseInfo": "2026–",
+      "name": "Titoo",
+      "description": "Titoo is an animated kids' comedy show that follows the daily escapades of eight-year-old boy Titoo. Though, he is a good-hearted, intelligent kid who loves to help everyone, but inadvertently manages to brew even more trouble.",
+      "releaseInfo": "2020–",
       "imdbRating": "8.0"
     },
     {
@@ -548,6 +534,17 @@
       "logo": "https://images.metahub.space/logo/medium/tt23649128/img",
       "description": "Follows a legacy Hollywood movie studio striving to survive in a world where it is increasingly difficult for art and business to live together.",
       "releaseInfo": "2025–",
+      "imdbRating": "8.0"
+    },
+    {
+      "id": "tt20096840",
+      "type": "series",
+      "name": "The Messiah",
+      "poster": "https://images.metahub.space/poster/small/tt20096840/img",
+      "background": "https://images.metahub.space/background/medium/tt20096840/img",
+      "logo": "https://images.metahub.space/logo/medium/tt20096840/img",
+      "description": "It tells the story of Enric, who is heavily impacted by a viral video of a Christian pop band made up of five sisters.",
+      "releaseInfo": "2023",
       "imdbRating": "8.0"
     }
   ]

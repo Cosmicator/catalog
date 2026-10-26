@@ -181,6 +181,16 @@
       "imdbRating": 7
     },
     {
+      "id": "tt33095205",
+      "type": "movie",
+      "name": "Enna Vilai",
+      "poster": "https://images.metahub.space/poster/medium/tt33095205/img",
+      "background": "https://images.metahub.space/background/medium/tt33095205/img",
+      "description": "A humble fisherman from Rameswaram lives a quiet life with his family until he finds a gold pendant washed ashore. What initially seems like a blessing soon turns into a nightmare when false accusations threaten his peace and dignity, forcing him to stand up against a powerful system.",
+      "releaseInfo": 2026,
+      "imdbRating": 7.1
+    },
+    {
       "id": "tt0072190",
       "type": "movie",
       "name": "The Golden Fortress",
@@ -221,16 +231,6 @@
       "imdbRating": 6.8
     },
     {
-      "id": "tt46060457",
-      "type": "movie",
-      "name": "The Swan: Behind the Mirror",
-      "poster": "https://images.metahub.space/poster/medium/tt46060457/img",
-      "background": "https://images.metahub.space/background/medium/tt46060457/img",
-      "description": "A look at the controversial 2004 reality series The Swan, which took self-proclaimed 'ugly ducklings' and set out to make them... not that.",
-      "releaseInfo": 2026,
-      "imdbRating": 6.2
-    },
-    {
       "id": "tt33379543",
       "type": "movie",
       "name": "Jana Nayagan",
@@ -249,6 +249,16 @@
       "description": "The untold and inspiring tale of one of the most important mountain climbers in history who, with Edmund Hillary, became the first person to reach the summit of Mount Everest.",
       "releaseInfo": 2026,
       "imdbRating": 7.5
+    },
+    {
+      "id": "tt46060457",
+      "type": "movie",
+      "name": "The Swan: Behind the Mirror",
+      "poster": "https://images.metahub.space/poster/medium/tt46060457/img",
+      "background": "https://images.metahub.space/background/medium/tt46060457/img",
+      "description": "A look at the controversial 2004 reality series The Swan, which took self-proclaimed 'ugly ducklings' and set out to make them... not that.",
+      "releaseInfo": 2026,
+      "imdbRating": 6.2
     },
     {
       "id": "tt39120306",
@@ -361,6 +371,16 @@
       "imdbRating": 7.5
     },
     {
+      "id": "tt10665338",
+      "type": "movie",
+      "name": "Halloween Kills",
+      "poster": "https://images.metahub.space/poster/medium/tt10665338/img",
+      "background": "https://images.metahub.space/background/medium/tt10665338/img",
+      "description": "Michael manages to free himself from Laurie Strode's trap to resume his ritual bloodbath. As she fights for her life from injuries from their last encounter, she inspires her daughter Karen, her granddaughter Allyson, and all of Haddonfield to rise up against the unstoppable monster.",
+      "releaseInfo": 2021,
+      "imdbRating": 5.5
+    },
+    {
       "id": "tt34384900",
       "type": "movie",
       "name": "Love of Your Life",
@@ -369,6 +389,16 @@
       "description": "After a chance encounter sparks a sweeping romance, Maya's future is suddenly upended, sending her on an unexpected journey to love and live again.",
       "releaseInfo": 2026,
       "imdbRating": 6.5
+    },
+    {
+      "id": "tt2395469",
+      "type": "movie",
+      "name": "Gully Boy",
+      "poster": "https://images.metahub.space/poster/medium/tt2395469/img",
+      "background": "https://images.metahub.space/background/medium/tt2395469/img",
+      "description": "Murad, an underdog, struggles to convey his views on social issues and life in Dharavi through rapping. His life changes drastically when he meets a local rapper, Shrikant alias MC Sher.",
+      "releaseInfo": 2019,
+      "imdbRating": 7.9
     },
     {
       "id": "tt30887701",
@@ -441,16 +471,6 @@
       "imdbRating": 6.7
     },
     {
-      "id": "tt10665338",
-      "type": "movie",
-      "name": "Halloween Kills",
-      "poster": "https://images.metahub.space/poster/medium/tt10665338/img",
-      "background": "https://images.metahub.space/background/medium/tt10665338/img",
-      "description": "Michael manages to free himself from Laurie Strode's trap to resume his ritual bloodbath. As she fights for her life from injuries from their last encounter, she inspires her daughter Karen, her granddaughter Allyson, and all of Haddonfield to rise up against the unstoppable monster.",
-      "releaseInfo": 2021,
-      "imdbRating": 5.5
-    },
-    {
       "id": "tt1259521",
       "type": "movie",
       "name": "The Cabin in the Woods",
@@ -479,26 +499,6 @@
       "description": "Science teacher Ryland Grace wakes up on a spaceship light years from home with no recollection of who he is or how he got there. As his memory returns, he begins to uncover his mission: solve the riddle of the mysterious substance causing the sun to die out. He must call on his scientific knowledge and unorthodox ideas to save everything on Earth from extinction.",
       "releaseInfo": 2026,
       "imdbRating": 8.2
-    },
-    {
-      "id": "tt36834010",
-      "type": "movie",
-      "name": "Gail Daughtry and the Celebrity Sex Pass",
-      "poster": "https://images.metahub.space/poster/medium/tt36834010/img",
-      "background": "https://images.metahub.space/background/medium/tt36834010/img",
-      "description": "After her fiance sleeps with his celebrity crush, Kansas hairdresser Gail heads to Hollywood to even the score with her own famous fantasy — Jon Hamm.",
-      "releaseInfo": 2026,
-      "imdbRating": 6
-    },
-    {
-      "id": "tt39108319",
-      "type": "movie",
-      "name": "Irumudi",
-      "poster": "https://images.metahub.space/poster/medium/tt39108319/img",
-      "background": "https://images.metahub.space/background/medium/tt39108319/img",
-      "description": "An alcoholic with a violent past—living peacefully with his daughter beside a waterfall—decides to take Ayyappa Deeksha (a 41-day spiritual vow and period of intense austerity) at her request.",
-      "releaseInfo": 2026,
-      "imdbRating": 7
     }
   ]
 }
