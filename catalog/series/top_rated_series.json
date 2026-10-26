@@ -31,7 +31,7 @@
       "logo": "https://live.metahub.space/logo/medium/tt43730117/img",
       "description": "Following the Pahalgam terror attack in April, India's military leadership deliberates and plans Operation Sindoor, an 88-hour military operation launched on May 7, featuring accounts from operatives and experts.",
       "releaseInfo": "2026–2026",
-      "imdbRating": "9.2"
+      "imdbRating": "9.1"
     },
     {
       "id": "tt13854248",
@@ -452,17 +452,6 @@
       "imdbRating": "8.1"
     },
     {
-      "id": "tt47743267",
-      "type": "series",
-      "name": "Ishqa Ishqa",
-      "poster": "https://live.metahub.space/poster/small/tt47743267/img",
-      "background": "https://live.metahub.space/background/medium/tt47743267/img",
-      "logo": "https://live.metahub.space/logo/medium/tt47743267/img",
-      "description": "Kabir is a successful writer dating Suhani, who brings calm to his life. As he prepares for the sequel to his hit novel Ishqa Ishqa, inspired by Arohi, his childhood love, she is set to return to his life. Arohi brings the inspiration he needs for his writing, but her return threatens to disrupt the life Kabir has built with Suhani.",
-      "releaseInfo": "2026–",
-      "imdbRating": "8.1"
-    },
-    {
       "id": "tt4301160",
       "type": "series",
       "name": "Black Bird",
@@ -496,6 +485,17 @@
       "imdbRating": "8.1"
     },
     {
+      "id": "tt7203552",
+      "type": "series",
+      "name": "The Morning Show",
+      "poster": "https://images.metahub.space/poster/small/tt7203552/img",
+      "background": "https://images.metahub.space/background/medium/tt7203552/img",
+      "logo": "https://images.metahub.space/logo/medium/tt7203552/img",
+      "description": "An inside look at the lives of the people who help America wake up in the morning, exploring the unique challenges faced by the team.",
+      "releaseInfo": "2019–2027",
+      "imdbRating": "8.1"
+    },
+    {
       "id": "tt0092400",
       "type": "series",
       "name": "Married... with Children",
@@ -518,33 +518,33 @@
       "imdbRating": "8.1"
     },
     {
+      "id": "tt38504111",
+      "type": "series",
+      "name": "Small Prophets",
+      "poster": "https://images.metahub.space/poster/small/tt38504111/img",
+      "background": "https://images.metahub.space/background/medium/tt38504111/img",
+      "logo": "https://images.metahub.space/logo/medium/tt38504111/img",
+      "description": "Eccentric Michael Sleep, whose darling partner, Clea, disappeared seven years ago, sets out to create Homunculi - magical prophesying spirits that can predict the future.",
+      "releaseInfo": "2026–",
+      "imdbRating": "8.1"
+    },
+    {
+      "id": "tt47743267",
+      "type": "series",
+      "name": "Ishqa Ishqa",
+      "poster": "https://live.metahub.space/poster/small/tt47743267/img",
+      "background": "https://live.metahub.space/background/medium/tt47743267/img",
+      "logo": "https://live.metahub.space/logo/medium/tt47743267/img",
+      "description": "Kabir is a successful writer dating Suhani, who brings calm to his life. As he prepares for the sequel to his hit novel Ishqa Ishqa, inspired by Arohi, his childhood love, she is set to return to his life. Arohi brings the inspiration he needs for his writing, but her return threatens to disrupt the life Kabir has built with Suhani.",
+      "releaseInfo": "2026–",
+      "imdbRating": "8.0"
+    },
+    {
       "id": "tt15404764",
       "type": "series",
       "name": "Titoo",
       "description": "Titoo is an animated kids' comedy show that follows the daily escapades of eight-year-old boy Titoo. Though, he is a good-hearted, intelligent kid who loves to help everyone, but inadvertently manages to brew even more trouble.",
       "releaseInfo": "2020–",
-      "imdbRating": "8.0"
-    },
-    {
-      "id": "tt23649128",
-      "type": "series",
-      "name": "The Studio",
-      "poster": "https://images.metahub.space/poster/small/tt23649128/img",
-      "background": "https://images.metahub.space/background/medium/tt23649128/img",
-      "logo": "https://images.metahub.space/logo/medium/tt23649128/img",
-      "description": "Follows a legacy Hollywood movie studio striving to survive in a world where it is increasingly difficult for art and business to live together.",
-      "releaseInfo": "2025–",
-      "imdbRating": "8.0"
-    },
-    {
-      "id": "tt20096840",
-      "type": "series",
-      "name": "The Messiah",
-      "poster": "https://images.metahub.space/poster/small/tt20096840/img",
-      "background": "https://images.metahub.space/background/medium/tt20096840/img",
-      "logo": "https://images.metahub.space/logo/medium/tt20096840/img",
-      "description": "It tells the story of Enric, who is heavily impacted by a viral video of a Christian pop band made up of five sisters.",
-      "releaseInfo": "2023",
       "imdbRating": "8.0"
     }
   ]

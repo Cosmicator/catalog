@@ -88,7 +88,7 @@
       "background": "https://images.metahub.space/background/medium/tt38990864/img",
       "description": "On the morning of his wedding, 36-year-old Kuttan wakes from a disturbing dream about his own death. As the day unfolds, familiar moments begin to repeat, and reality becomes increasingly difficult to distinguish from memory. Realising that something is terribly wrong, Kuttan races to uncover the truth before the day repeats itself.",
       "releaseInfo": 2026,
-      "imdbRating": 6.6
+      "imdbRating": 6.5
     },
     {
       "id": "tt14113634",
@@ -219,6 +219,16 @@
       "description": "After witnessing a mysterious woman brutally slay a homemaker, prostitute Liz Blake finds herself trapped in a dangerous situation. While the police thinks she is the murderer, the real killer is intent on silencing her only witness.",
       "releaseInfo": 1980,
       "imdbRating": 7
+    },
+    {
+      "id": "tt36834010",
+      "type": "movie",
+      "name": "Gail Daughtry and the Celebrity Sex Pass",
+      "poster": "https://images.metahub.space/poster/medium/tt36834010/img",
+      "background": "https://images.metahub.space/background/medium/tt36834010/img",
+      "description": "After her fiance sleeps with his celebrity crush, Kansas hairdresser Gail heads to Hollywood to even the score with her own famous fantasy — Jon Hamm.",
+      "releaseInfo": 2026,
+      "imdbRating": 6
     },
     {
       "id": "tt22526100",
@@ -489,16 +499,6 @@
       "description": "A group of young adults visit a boarded up campsite named Crystal Lake where they soon encounter the mysterious Jason Voorhees and his deadly intentions.",
       "releaseInfo": 2009,
       "imdbRating": 5.5
-    },
-    {
-      "id": "tt12042730",
-      "type": "movie",
-      "name": "Project Hail Mary",
-      "poster": "https://images.metahub.space/poster/medium/tt12042730/img",
-      "background": "https://images.metahub.space/background/medium/tt12042730/img",
-      "description": "Science teacher Ryland Grace wakes up on a spaceship light years from home with no recollection of who he is or how he got there. As his memory returns, he begins to uncover his mission: solve the riddle of the mysterious substance causing the sun to die out. He must call on his scientific knowledge and unorthodox ideas to save everything on Earth from extinction.",
-      "releaseInfo": 2026,
-      "imdbRating": 8.2
     }
   ]
 }
