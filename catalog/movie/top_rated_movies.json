@@ -1,17 +1,6 @@
 {
   "metas": [
     {
-      "id": "tt33095205",
-      "type": "movie",
-      "name": "Enna Vilai",
-      "poster": "https://live.metahub.space/poster/small/tt33095205/img",
-      "background": "https://live.metahub.space/background/medium/tt33095205/img",
-      "logo": "https://live.metahub.space/logo/medium/tt33095205/img",
-      "description": "A humble fisherman from Rameswaram lives a quiet life with his family until he finds a gold pendant washed ashore. What initially seems like a blessing soon turns into a nightmare when false accusations threaten his peace and dignity, forcing him to stand up against a powerful system.",
-      "releaseInfo": "2026",
-      "imdbRating": "9.3"
-    },
-    {
       "id": "tt42262473",
       "type": "movie",
       "name": "Modha Rathiri",
@@ -34,15 +23,37 @@
       "imdbRating": "8.7"
     },
     {
-      "id": "tt23849204",
+      "id": "tt8413338",
       "type": "movie",
-      "name": "12th Fail",
-      "poster": "https://images.metahub.space/poster/small/tt23849204/img",
-      "background": "https://images.metahub.space/background/medium/tt23849204/img",
-      "logo": "https://images.metahub.space/logo/medium/tt23849204/img",
-      "description": "The real-life story of IPS Officer Manoj Kumar Sharma and IRS Officer Shraddha Joshi.",
-      "releaseInfo": "2023",
-      "imdbRating": "8.7"
+      "name": "Kumbalangi Nights",
+      "poster": "https://images.metahub.space/poster/small/tt8413338/img",
+      "background": "https://images.metahub.space/background/medium/tt8413338/img",
+      "logo": "https://images.metahub.space/logo/medium/tt8413338/img",
+      "description": "Revolves around four brothers who share a love-hate relationship with each other. Their relationship progresses to another level when Saji, Boney, and Franky decide to help Bobby stand by his love.",
+      "releaseInfo": "2019",
+      "imdbRating": "8.5"
+    },
+    {
+      "id": "tt0054215",
+      "type": "movie",
+      "name": "Psycho",
+      "poster": "https://images.metahub.space/poster/small/tt0054215/img",
+      "background": "https://images.metahub.space/background/medium/tt0054215/img",
+      "logo": "https://images.metahub.space/logo/medium/tt0054215/img",
+      "description": "A secretary on the run for embezzlement takes refuge at a secluded California motel owned by a repressed man and his overbearing mother.",
+      "releaseInfo": "1960",
+      "imdbRating": "8.5"
+    },
+    {
+      "id": "tt4640206",
+      "type": "movie",
+      "name": "Sachin - A Billion Dreams",
+      "poster": "https://images.metahub.space/poster/small/tt4640206/img",
+      "background": "https://images.metahub.space/background/medium/tt4640206/img",
+      "logo": "https://images.metahub.space/logo/medium/tt4640206/img",
+      "description": "A tale of a small boy with dreams and his journey to becoming the God of Cricket and the most celebrated sportsperson in his country.",
+      "releaseInfo": "2017",
+      "imdbRating": "8.4"
     },
     {
       "id": "tt0072190",
@@ -67,28 +78,6 @@
       "imdbRating": "8.2"
     },
     {
-      "id": "tt39139925",
-      "type": "movie",
-      "name": "Dhurandhar: The Revenge",
-      "poster": "https://images.metahub.space/poster/small/tt39139925/img",
-      "background": "https://images.metahub.space/background/medium/tt39139925/img",
-      "logo": "https://images.metahub.space/logo/medium/tt39139925/img",
-      "description": "Jaskirat Singh Rangi descends deeper into his alias as Hamza Ali Mazari, rising through Karachi's criminal hierarchy to claim the feared title \"Sher-e-Baloch\" while balancing loyalty, betrayal, and survival in a ruthless underworld.",
-      "releaseInfo": "2026",
-      "imdbRating": "8.2"
-    },
-    {
-      "id": "tt33014583",
-      "type": "movie",
-      "name": "Dhurandhar",
-      "poster": "https://images.metahub.space/poster/small/tt33014583/img",
-      "background": "https://images.metahub.space/background/medium/tt33014583/img",
-      "logo": "https://images.metahub.space/logo/medium/tt33014583/img",
-      "description": "A mysterious traveler slips into the heart of Karachi's underbelly and rises through its ranks with lethal precision, only to tear the notorious ISI-Underworld nexus apart from within.",
-      "releaseInfo": "2025",
-      "imdbRating": "8.2"
-    },
-    {
       "id": "tt12042730",
       "type": "movie",
       "name": "Project Hail Mary",
@@ -100,25 +89,58 @@
       "imdbRating": "8.2"
     },
     {
-      "id": "tt1821480",
+      "id": "tt39139925",
       "type": "movie",
-      "name": "Kahaani",
-      "poster": "https://images.metahub.space/poster/small/tt1821480/img",
-      "background": "https://images.metahub.space/background/medium/tt1821480/img",
-      "logo": "https://images.metahub.space/logo/medium/tt1821480/img",
-      "description": "A pregnant woman's search for her missing husband takes her from London to Kolkata, but everyone she questions denies having ever met him.",
-      "releaseInfo": "2012",
+      "name": "Dhurandhar: The Revenge",
+      "poster": "https://images.metahub.space/poster/small/tt39139925/img",
+      "background": "https://images.metahub.space/background/medium/tt39139925/img",
+      "logo": "https://images.metahub.space/logo/medium/tt39139925/img",
+      "description": "Jaskirat Singh Rangi descends deeper into his alias as Hamza Ali Mazari, rising through Karachi's criminal hierarchy to claim the feared title \"Sher-e-Baloch\" while balancing loyalty, betrayal, and survival in a ruthless underworld.",
+      "releaseInfo": "2026",
+      "imdbRating": "8.2"
+    },
+    {
+      "id": "tt0060550",
+      "type": "movie",
+      "name": "It's the Great Pumpkin, Charlie Brown",
+      "poster": "https://images.metahub.space/poster/small/tt0060550/img",
+      "background": "https://images.metahub.space/background/medium/tt0060550/img",
+      "logo": "https://images.metahub.space/logo/medium/tt0060550/img",
+      "description": "The Peanuts gang celebrates Halloween while Linus waits for the Great Pumpkin.",
+      "releaseInfo": "1966",
+      "imdbRating": "8.2"
+    },
+    {
+      "id": "tt33510831",
+      "type": "movie",
+      "name": "Band of Brothers: Legacy",
+      "poster": "https://images.metahub.space/poster/small/tt33510831/img",
+      "background": "https://images.metahub.space/background/medium/tt33510831/img",
+      "logo": "https://images.metahub.space/logo/medium/tt33510831/img",
+      "description": "A documentary tribute to the series that helped preserve the story of Easy Company, in line with the 25th anniversary of HBO's original limited series.",
+      "releaseInfo": "2026",
+      "imdbRating": "8.2"
+    },
+    {
+      "id": "tt0258490",
+      "type": "movie",
+      "name": "Khushi",
+      "poster": "https://images.metahub.space/poster/small/tt0258490/img",
+      "background": "https://images.metahub.space/background/medium/tt0258490/img",
+      "logo": "https://images.metahub.space/logo/medium/tt0258490/img",
+      "description": "While playing matchmaker to a pair of their friends, two young university students begin developing feelings for each other.",
+      "releaseInfo": "2001",
       "imdbRating": "8.1"
     },
     {
-      "id": "tt1979320",
+      "id": "tt1454029",
       "type": "movie",
-      "name": "Rush",
-      "poster": "https://images.metahub.space/poster/small/tt1979320/img",
-      "background": "https://images.metahub.space/background/medium/tt1979320/img",
-      "logo": "https://images.metahub.space/logo/medium/tt1979320/img",
-      "description": "James Hunt and Niki Lauda, two extremely skilled Formula One racers, have an intense rivalry with each other. However, it is their enmity that pushes them to their limits.",
-      "releaseInfo": "2013",
+      "name": "The Help",
+      "poster": "https://images.metahub.space/poster/small/tt1454029/img",
+      "background": "https://images.metahub.space/background/medium/tt1454029/img",
+      "logo": "https://images.metahub.space/logo/medium/tt1454029/img",
+      "description": "An aspiring author during the civil rights movement of the 1960s decides to write a book detailing the African American maids' point of view on the white families for which they work, and the hardships they go through on a daily b...",
+      "releaseInfo": "2011",
       "imdbRating": "8.1"
     },
     {
@@ -133,28 +155,6 @@
       "imdbRating": "8.0"
     },
     {
-      "id": "tt1417299",
-      "type": "movie",
-      "name": "Unnaipol Oruvan",
-      "poster": "https://images.metahub.space/poster/small/tt1417299/img",
-      "background": "https://images.metahub.space/background/medium/tt1417299/img",
-      "logo": "https://images.metahub.space/logo/medium/tt1417299/img",
-      "description": "A retiring police officer remembers a thrilling case of his life which is not recorded in any case files.",
-      "releaseInfo": "2009",
-      "imdbRating": "8.0"
-    },
-    {
-      "id": "tt2377938",
-      "type": "movie",
-      "name": "Special 26",
-      "poster": "https://images.metahub.space/poster/small/tt2377938/img",
-      "background": "https://images.metahub.space/background/medium/tt2377938/img",
-      "logo": "https://images.metahub.space/logo/medium/tt2377938/img",
-      "description": "A gang of con-men rob prominent rich businessmen and politicians by posing as C.B.I and income tax officers.",
-      "releaseInfo": "2013",
-      "imdbRating": "8.0"
-    },
-    {
       "id": "tt0120338",
       "type": "movie",
       "name": "Titanic",
@@ -166,39 +166,6 @@
       "imdbRating": "8.0"
     },
     {
-      "id": "tt0456144",
-      "type": "movie",
-      "name": "Lage Raho Munna Bhai",
-      "poster": "https://images.metahub.space/poster/small/tt0456144/img",
-      "background": "https://images.metahub.space/background/medium/tt0456144/img",
-      "logo": "https://images.metahub.space/logo/medium/tt0456144/img",
-      "description": "Munna Bhai embarks on a journey with Mahatma Gandhi in order to fight against a corrupt property dealer.",
-      "releaseInfo": "2006",
-      "imdbRating": "8.0"
-    },
-    {
-      "id": "tt7294534",
-      "type": "movie",
-      "name": "Arjun Reddy",
-      "poster": "https://images.metahub.space/poster/small/tt7294534/img",
-      "background": "https://images.metahub.space/background/medium/tt7294534/img",
-      "logo": "https://images.metahub.space/logo/medium/tt7294534/img",
-      "description": "Arjun Reddy, a short-tempered house surgeon, gets used to drugs and drinks when his girlfriend is forced to marry another person.",
-      "releaseInfo": "2017",
-      "imdbRating": "7.9"
-    },
-    {
-      "id": "tt8108200",
-      "type": "movie",
-      "name": "Sonchiriya",
-      "poster": "https://images.metahub.space/poster/small/tt8108200/img",
-      "background": "https://images.metahub.space/background/medium/tt8108200/img",
-      "logo": "https://images.metahub.space/logo/medium/tt8108200/img",
-      "description": "Set in the Chambal valley, the film follows the story of a legion of dreaded, warring dacoits who once terrorized the Indian heartlands.",
-      "releaseInfo": "2019",
-      "imdbRating": "7.9"
-    },
-    {
       "id": "tt2395469",
       "type": "movie",
       "name": "Gully Boy",
@@ -207,28 +174,6 @@
       "logo": "https://images.metahub.space/logo/medium/tt2395469/img",
       "description": "A coming-of-age story based on the lives of street rappers in Mumbai.",
       "releaseInfo": "2019",
-      "imdbRating": "7.9"
-    },
-    {
-      "id": "tt0107688",
-      "type": "movie",
-      "name": "The Nightmare Before Christmas",
-      "poster": "https://images.metahub.space/poster/small/tt0107688/img",
-      "background": "https://images.metahub.space/background/medium/tt0107688/img",
-      "logo": "https://images.metahub.space/logo/medium/tt0107688/img",
-      "description": "Jack Skellington, king of Halloween Town, discovers Christmas Town, but his attempts to bring Christmas to his home causes confusion.",
-      "releaseInfo": "1993",
-      "imdbRating": "7.9"
-    },
-    {
-      "id": "tt0066070",
-      "type": "movie",
-      "name": "My Name Is Joker",
-      "poster": "https://images.metahub.space/poster/small/tt0066070/img",
-      "background": "https://images.metahub.space/background/medium/tt0066070/img",
-      "logo": "https://images.metahub.space/logo/medium/tt0066070/img",
-      "description": "A clown masks his pain while bringing joy to others. Through three life chapters marked by different relationships, Raju navigates love, loss, and purpose, reflecting universal emotional experiences.",
-      "releaseInfo": "1970",
       "imdbRating": "7.9"
     },
     {
@@ -254,48 +199,37 @@
       "imdbRating": "7.8"
     },
     {
-      "id": "tt1646971",
+      "id": "tt0099652",
       "type": "movie",
-      "name": "How to Train Your Dragon 2",
-      "poster": "https://images.metahub.space/poster/small/tt1646971/img",
-      "background": "https://images.metahub.space/background/medium/tt1646971/img",
-      "logo": "https://images.metahub.space/logo/medium/tt1646971/img",
-      "description": "When Hiccup and Toothless discover an ice cave that is home to hundreds of new wild dragons and the mysterious Dragon Rider, the two friends find themselves at the center of a battle to protect the peace.",
-      "releaseInfo": "2014",
-      "imdbRating": "7.8"
-    },
-    {
-      "id": "tt0405266",
-      "type": "movie",
-      "name": "Raincoat",
-      "poster": "https://images.metahub.space/poster/small/tt0405266/img",
-      "background": "https://images.metahub.space/background/medium/tt0405266/img",
-      "logo": "https://images.metahub.space/logo/medium/tt0405266/img",
-      "description": "All he wanted was to see her just once. Manu was from a village in the backwoods. Neeru was the girl next door, his lost love.",
-      "releaseInfo": "2004",
+      "name": "Ghayal",
+      "poster": "https://images.metahub.space/poster/small/tt0099652/img",
+      "background": "https://images.metahub.space/background/medium/tt0099652/img",
+      "logo": "https://images.metahub.space/logo/medium/tt0099652/img",
+      "description": "A fiery young boxer's world shatters when his brother is murdered by a ruthless industrialist. Framed for the crime, the wounded fighter breaks free to unleash raw revenge.",
+      "releaseInfo": "1990",
       "imdbRating": "7.7"
     },
     {
-      "id": "tt5461944",
+      "id": "tt0240200",
       "type": "movie",
-      "name": "Hotel Mumbai",
-      "poster": "https://images.metahub.space/poster/small/tt5461944/img",
-      "background": "https://images.metahub.space/background/medium/tt5461944/img",
-      "logo": "https://images.metahub.space/logo/medium/tt5461944/img",
-      "description": "The true story of the Taj Hotel terrorist attack in Mumbai. Hotel staff risk their lives to keep everyone safe as people make unthinkable sacrifices to protect themselves and their families.",
-      "releaseInfo": "2019",
-      "imdbRating": "7.6"
+      "name": "Water",
+      "poster": "https://images.metahub.space/poster/small/tt0240200/img",
+      "background": "https://images.metahub.space/background/medium/tt0240200/img",
+      "logo": "https://images.metahub.space/logo/medium/tt0240200/img",
+      "description": "Set in colonial India against Gandhi's rise to power, it's the story of 8-year-old Chuyia, who is widowed and sent to a home to live in penitence; once there, Chuyia's feisty presence deeply affects the lives of the other residents.",
+      "releaseInfo": "2006",
+      "imdbRating": "7.7"
     },
     {
-      "id": "tt1926313",
+      "id": "tt1408101",
       "type": "movie",
-      "name": "Pyaar Ka Punchnama",
-      "poster": "https://images.metahub.space/poster/small/tt1926313/img",
-      "background": "https://images.metahub.space/background/medium/tt1926313/img",
-      "logo": "https://images.metahub.space/logo/medium/tt1926313/img",
-      "description": "Nishant starts dating Charu while his roommates Rajat and Vikrant already have girlfriends in Neha and Rhea respectively. Trouble starts when the guys feel that their girlfriends are dominating them.",
-      "releaseInfo": "2011",
-      "imdbRating": "7.6"
+      "name": "Star Trek Into Darkness",
+      "poster": "https://images.metahub.space/poster/small/tt1408101/img",
+      "background": "https://images.metahub.space/background/medium/tt1408101/img",
+      "logo": "https://images.metahub.space/logo/medium/tt1408101/img",
+      "description": "After the crew of the Enterprise find an unstoppable force of terror from within their own organization, Captain Kirk leads a manhunt to a war-zone world to capture a one-man weapon of mass destruction.",
+      "releaseInfo": "2013",
+      "imdbRating": "7.7"
     },
     {
       "id": "tt30144839",
@@ -309,14 +243,14 @@
       "imdbRating": "7.6"
     },
     {
-      "id": "tt13528564",
+      "id": "tt6484982",
       "type": "movie",
-      "name": "Ante Sundharaniki",
-      "poster": "https://images.metahub.space/poster/small/tt13528564/img",
-      "background": "https://images.metahub.space/background/medium/tt13528564/img",
-      "logo": "https://images.metahub.space/logo/medium/tt13528564/img",
-      "description": "A Hindu Brahmin falls for a Christian girl and they both lie to their parents, only for their lies to be revealed.",
-      "releaseInfo": "2022",
+      "name": "Newton",
+      "poster": "https://images.metahub.space/poster/small/tt6484982/img",
+      "background": "https://images.metahub.space/background/medium/tt6484982/img",
+      "logo": "https://images.metahub.space/logo/medium/tt6484982/img",
+      "description": "A government clerk on election duty in the conflict ridden jungle of Central India tries his best to conduct free and fair voting despite the apathy of security forces and the looming fear of guerrilla attacks by communist rebels.",
+      "releaseInfo": "2017",
       "imdbRating": "7.6"
     },
     {
@@ -342,37 +276,15 @@
       "imdbRating": "7.5"
     },
     {
-      "id": "tt0920464",
+      "id": "tt29355505",
       "type": "movie",
-      "name": "Manorama: Six Feet Under",
-      "poster": "https://images.metahub.space/poster/small/tt0920464/img",
-      "background": "https://images.metahub.space/background/medium/tt0920464/img",
-      "logo": "https://images.metahub.space/logo/medium/tt0920464/img",
-      "description": "Manorama, wife of an irrigation minister, tasks Satyaveer to find if her husband is cheating. As Satyaveer starts investigating, he gets trapped in a web of lies and must uncover the entire truth.",
-      "releaseInfo": "2007",
-      "imdbRating": "7.5"
-    },
-    {
-      "id": "tt7469726",
-      "type": "movie",
-      "name": "Shaadi Mein Zaroor Aana",
-      "poster": "https://images.metahub.space/poster/small/tt7469726/img",
-      "background": "https://images.metahub.space/background/medium/tt7469726/img",
-      "logo": "https://images.metahub.space/logo/medium/tt7469726/img",
-      "description": "Satyendra Mishra \"Rajkumar Rao\" and Aarti Shukla \"Kriti Kharbanda\" agree to get married arranged by their parents, after Satyendra Mishra get government job. Aarti Shukla, run away from their marriage. What life waits for them ahead?",
-      "releaseInfo": "2017",
-      "imdbRating": "7.5"
-    },
-    {
-      "id": "tt0299108",
-      "type": "movie",
-      "name": "Rehnaa Hai Terre Dil Mein",
-      "poster": "https://images.metahub.space/poster/small/tt0299108/img",
-      "background": "https://images.metahub.space/background/medium/tt0299108/img",
-      "logo": "https://images.metahub.space/logo/medium/tt0299108/img",
-      "description": "Maddy impersonates Rajeev, the person his love interest, Reena, is about to marry and attempts to woo her. However, he is unprepared for the moment when the truth will be revealed.",
-      "releaseInfo": "2001",
-      "imdbRating": "7.5"
+      "name": "Toy Story 5",
+      "poster": "https://images.metahub.space/poster/small/tt29355505/img",
+      "background": "https://images.metahub.space/background/medium/tt29355505/img",
+      "logo": "https://images.metahub.space/logo/medium/tt29355505/img",
+      "description": "Woody, Buzz, Jessie and the rest of the gang's jobs are challenged when they're introduced to electronics, a new threat to playtime.",
+      "releaseInfo": "2026",
+      "imdbRating": "7.4"
     },
     {
       "id": "tt0121164",
@@ -386,37 +298,59 @@
       "imdbRating": "7.4"
     },
     {
-      "id": "tt29355505",
+      "id": "tt0094721",
       "type": "movie",
-      "name": "Toy Story 5",
-      "poster": "https://images.metahub.space/poster/small/tt29355505/img",
-      "background": "https://images.metahub.space/background/medium/tt29355505/img",
-      "logo": "https://images.metahub.space/logo/medium/tt29355505/img",
-      "description": "Woody, Buzz, Jessie and the rest of the gang's jobs are challenged when they're introduced to electronics, a new threat to playtime.",
-      "releaseInfo": "2026",
+      "name": "Beetlejuice",
+      "poster": "https://images.metahub.space/poster/small/tt0094721/img",
+      "background": "https://images.metahub.space/background/medium/tt0094721/img",
+      "logo": "https://images.metahub.space/logo/medium/tt0094721/img",
+      "description": "The spirits of a deceased couple are harassed by an unbearable family that has moved into their home, and hire a malicious spirit to drive them out.",
+      "releaseInfo": "1988",
       "imdbRating": "7.4"
     },
     {
-      "id": "tt0103874",
+      "id": "tt2224317",
       "type": "movie",
-      "name": "Dracula",
-      "poster": "https://images.metahub.space/poster/small/tt0103874/img",
-      "background": "https://images.metahub.space/background/medium/tt0103874/img",
-      "logo": "https://images.metahub.space/logo/medium/tt0103874/img",
-      "description": "Centuries-old vampire Count Dracula comes to England to seduce his barrister Jonathan Harker's fiancée Mina Murray and wreak havoc in the foreign land.",
-      "releaseInfo": "1992",
+      "name": "Robber",
+      "poster": "https://images.metahub.space/poster/small/tt2224317/img",
+      "background": "https://images.metahub.space/background/medium/tt2224317/img",
+      "logo": "https://images.metahub.space/logo/medium/tt2224317/img",
+      "description": "An aristocrat's daughter falls in love with a visiting archaeologist, but he holds a secret that could drive them apart.",
+      "releaseInfo": "2013",
       "imdbRating": "7.4"
     },
     {
-      "id": "tt5662932",
+      "id": "tt11374902",
       "type": "movie",
-      "name": "Psycho Raman",
-      "poster": "https://images.metahub.space/poster/small/tt5662932/img",
-      "background": "https://images.metahub.space/background/medium/tt5662932/img",
-      "logo": "https://images.metahub.space/logo/medium/tt5662932/img",
-      "description": "Ramanna, a maniac murderer, finds a soulmate in Raghavan, a policeman, who inspects his murder cases. He tries to make Raghavan realize how they both are similar.",
+      "name": "Doctor",
+      "poster": "https://images.metahub.space/poster/small/tt11374902/img",
+      "background": "https://images.metahub.space/background/medium/tt11374902/img",
+      "logo": "https://images.metahub.space/logo/medium/tt11374902/img",
+      "description": "When his fiancee's niece is kidnapped, a stoic army doctor and his motley team launch a rescue operation in which they need both wit and their wits.",
+      "releaseInfo": "2021",
+      "imdbRating": "7.4"
+    },
+    {
+      "id": "tt5120640",
+      "type": "movie",
+      "name": "Sarbjit",
+      "poster": "https://images.metahub.space/poster/small/tt5120640/img",
+      "background": "https://images.metahub.space/background/medium/tt5120640/img",
+      "logo": "https://images.metahub.space/logo/medium/tt5120640/img",
+      "description": "Biopic of Sarabjit Singh, a farmer residing at Bhikiwind, Punjab, near the Indo-Pak border, crossed the border after having a couple of drinks. However, he was mistaken to be an Indian spy and was sentenced with capital punishment.",
       "releaseInfo": "2016",
-      "imdbRating": "7.3"
+      "imdbRating": "7.4"
+    },
+    {
+      "id": "tt1229238",
+      "type": "movie",
+      "name": "Mission: Impossible - Ghost Protocol",
+      "poster": "https://images.metahub.space/poster/small/tt1229238/img",
+      "background": "https://images.metahub.space/background/medium/tt1229238/img",
+      "logo": "https://images.metahub.space/logo/medium/tt1229238/img",
+      "description": "The IMF is shut down when it's implicated in the bombing of the Kremlin, causing Ethan Hunt and his new team to go rogue to clear their organization's name.",
+      "releaseInfo": "2011",
+      "imdbRating": "7.4"
     },
     {
       "id": "tt0087363",
@@ -430,6 +364,17 @@
       "imdbRating": "7.3"
     },
     {
+      "id": "tt8959820",
+      "type": "movie",
+      "name": "Petta",
+      "poster": "https://images.metahub.space/poster/small/tt8959820/img",
+      "background": "https://images.metahub.space/background/medium/tt8959820/img",
+      "logo": "https://images.metahub.space/logo/medium/tt8959820/img",
+      "description": "A hostel warden becomes the target of a dreaded politician and his gangster son, but little do they realize that it is they who should fear him.",
+      "releaseInfo": "2019",
+      "imdbRating": "7.2"
+    },
+    {
       "id": "tt11663228",
       "type": "movie",
       "name": "Jailer",
@@ -441,25 +386,47 @@
       "imdbRating": "7.2"
     },
     {
-      "id": "tt1610452",
+      "id": "tt33095205",
       "type": "movie",
-      "name": "Band Baaja Baaraat",
-      "poster": "https://images.metahub.space/poster/small/tt1610452/img",
-      "background": "https://images.metahub.space/background/medium/tt1610452/img",
-      "logo": "https://images.metahub.space/logo/medium/tt1610452/img",
-      "description": "Shruti and Bittoo become partners in their very own \"Wedding planning ka bijness\" in Delhi and in the process discover friendship, love and one another.",
-      "releaseInfo": "2010",
+      "name": "Enna Vilai",
+      "poster": "https://live.metahub.space/poster/small/tt33095205/img",
+      "background": "https://live.metahub.space/background/medium/tt33095205/img",
+      "logo": "https://live.metahub.space/logo/medium/tt33095205/img",
+      "description": "A humble fisherman from Rameswaram lives a quiet life with his family until he finds a gold pendant washed ashore. What initially seems like a blessing soon turns into a nightmare when false accusations threaten his peace and dignity, forcing him to stand up against a powerful system.",
+      "releaseInfo": "2026",
       "imdbRating": "7.2"
     },
     {
-      "id": "tt32919734",
+      "id": "tt5946852",
       "type": "movie",
-      "name": "Padakkalam",
-      "poster": "https://images.metahub.space/poster/small/tt32919734/img",
-      "background": "https://images.metahub.space/background/medium/tt32919734/img",
-      "logo": "https://images.metahub.space/logo/medium/tt32919734/img",
-      "description": "Four nerdy comic book enthusiasts find themselves in an unexpected adventure when their school's charming new professor turns their academic world upside down with supernatural events.",
-      "releaseInfo": "2025",
+      "name": "Janatha Garage",
+      "poster": "https://images.metahub.space/poster/small/tt5946852/img",
+      "background": "https://images.metahub.space/background/medium/tt5946852/img",
+      "logo": "https://images.metahub.space/logo/medium/tt5946852/img",
+      "description": "An environmental activist comes to Hyderabad to attend a seminar, where an unexpected encounter with a man who runs an organization for the oppressed, changes his purpose in life.",
+      "releaseInfo": "2016",
+      "imdbRating": "7.2"
+    },
+    {
+      "id": "tt3405236",
+      "type": "movie",
+      "name": "Raees",
+      "poster": "https://images.metahub.space/poster/small/tt3405236/img",
+      "background": "https://images.metahub.space/background/medium/tt3405236/img",
+      "logo": "https://images.metahub.space/logo/medium/tt3405236/img",
+      "description": "Criticizing the prohibition of alcohol and illegal drugs in Gujarat, this film unfolds the story of a cruel and clever bootlegger, whose business is challenged by a tough cop.",
+      "releaseInfo": "2017",
+      "imdbRating": "7.2"
+    },
+    {
+      "id": "tt8488126",
+      "type": "movie",
+      "name": "The Inventor: Out for Blood in Silicon Valley",
+      "poster": "https://images.metahub.space/poster/small/tt8488126/img",
+      "background": "https://images.metahub.space/background/medium/tt8488126/img",
+      "logo": "https://images.metahub.space/logo/medium/tt8488126/img",
+      "description": "The story of Theranos, a multi-billion dollar tech company, its founder Elizabeth Holmes, the youngest self-made female billionaire, and the massive fraud that collapsed the company.",
+      "releaseInfo": "2019",
       "imdbRating": "7.2"
     },
     {
@@ -474,25 +441,14 @@
       "imdbRating": "7.2"
     },
     {
-      "id": "tt5785170",
+      "id": "tt7363104",
       "type": "movie",
-      "name": "Toilet: A Love Story",
-      "poster": "https://images.metahub.space/poster/small/tt5785170/img",
-      "background": "https://images.metahub.space/background/medium/tt5785170/img",
-      "logo": "https://images.metahub.space/logo/medium/tt5785170/img",
-      "description": "A woman threatens to leave her husband unless he installs a toilet in their home. To win back her love and respect, he heads out on a journey to fight against the backward society.",
-      "releaseInfo": "2017",
-      "imdbRating": "7.2"
-    },
-    {
-      "id": "tt0347473",
-      "type": "movie",
-      "name": "Main Hoon Na",
-      "poster": "https://images.metahub.space/poster/small/tt0347473/img",
-      "background": "https://images.metahub.space/background/medium/tt0347473/img",
-      "logo": "https://images.metahub.space/logo/medium/tt0347473/img",
-      "description": "An army major goes undercover as a college student. His mission is both professional and personal: to protect his general's daughter from a radical militant, and to find his estranged half-brother.",
-      "releaseInfo": "2004",
+      "name": "Khuda Haafiz",
+      "poster": "https://images.metahub.space/poster/small/tt7363104/img",
+      "background": "https://images.metahub.space/background/medium/tt7363104/img",
+      "logo": "https://images.metahub.space/logo/medium/tt7363104/img",
+      "description": "A newly married couple's life falls in jeopardy when the wife goes missing under mysterious circumstances.",
+      "releaseInfo": "2020",
       "imdbRating": "7.1"
     },
     {
@@ -507,28 +463,6 @@
       "imdbRating": "7.1"
     },
     {
-      "id": "tt1285241",
-      "type": "movie",
-      "name": "Don 2",
-      "poster": "https://images.metahub.space/poster/small/tt1285241/img",
-      "background": "https://images.metahub.space/background/medium/tt1285241/img",
-      "logo": "https://images.metahub.space/logo/medium/tt1285241/img",
-      "description": "Don turns himself in and escapes with Vardhaan from prison, following which he recruits a team to steal currency printing plates from a bank in Berlin.",
-      "releaseInfo": "2011",
-      "imdbRating": "7.1"
-    },
-    {
-      "id": "tt14279982",
-      "type": "movie",
-      "name": "HIT: The 2nd Case",
-      "poster": "https://images.metahub.space/poster/small/tt14279982/img",
-      "background": "https://images.metahub.space/background/medium/tt14279982/img",
-      "logo": "https://images.metahub.space/logo/medium/tt14279982/img",
-      "description": "Krishna Dev aka KD, a laid back cop, works in AP HIT, has to take up a gruesome murder case. As KD unravels the layers of the crime, the stakes rise unbelievably high and the threat comes unusually close.",
-      "releaseInfo": "2022",
-      "imdbRating": "7.1"
-    },
-    {
       "id": "tt0837562",
       "type": "movie",
       "name": "Hotel Transylvania",
@@ -540,15 +474,81 @@
       "imdbRating": "7.1"
     },
     {
-      "id": "tt1716777",
+      "id": "tt6791730",
       "type": "movie",
-      "name": "People Like Us",
-      "poster": "https://images.metahub.space/poster/small/tt1716777/img",
-      "background": "https://images.metahub.space/background/medium/tt1716777/img",
-      "logo": "https://images.metahub.space/logo/medium/tt1716777/img",
-      "description": "While settling his recently deceased father's estate, a salesman discovers he has a sister whom he never knew about, leading both siblings to re-examine their perceptions about family and life choices.",
-      "releaseInfo": "2012",
+      "name": "Tumhari Sulu",
+      "poster": "https://images.metahub.space/poster/small/tt6791730/img",
+      "background": "https://images.metahub.space/background/medium/tt6791730/img",
+      "logo": "https://images.metahub.space/logo/medium/tt6791730/img",
+      "description": "Sulu is an ambitious housewife with a loving husband and a happy family. Things start changing for her when she accidentally lands a job as a radio jockey and her show becomes an instant hit.",
+      "releaseInfo": "2017",
       "imdbRating": "7.0"
+    },
+    {
+      "id": "tt0080661",
+      "type": "movie",
+      "name": "Dressed to Kill",
+      "poster": "https://images.metahub.space/poster/small/tt0080661/img",
+      "background": "https://images.metahub.space/background/medium/tt0080661/img",
+      "logo": "https://images.metahub.space/logo/medium/tt0080661/img",
+      "description": "A mysterious blonde woman kills one of the patients of a psychiatrist and then goes after the high-class hooker who witnessed the murder.",
+      "releaseInfo": "1980",
+      "imdbRating": "7.0"
+    },
+    {
+      "id": "tt17279496",
+      "type": "movie",
+      "name": "Civil War",
+      "poster": "https://images.metahub.space/poster/small/tt17279496/img",
+      "background": "https://images.metahub.space/background/medium/tt17279496/img",
+      "logo": "https://images.metahub.space/logo/medium/tt17279496/img",
+      "description": "In the midst of a U.S. civil war, four reporters make the dangerous trip to the capital to interview the president before he is overthrown.",
+      "releaseInfo": "2024",
+      "imdbRating": "7.0"
+    },
+    {
+      "id": "tt26936666",
+      "type": "movie",
+      "name": "Vettaiyan",
+      "poster": "https://images.metahub.space/poster/small/tt26936666/img",
+      "background": "https://images.metahub.space/background/medium/tt26936666/img",
+      "logo": "https://images.metahub.space/logo/medium/tt26936666/img",
+      "description": "Ruthless criminal activity is met with force from a maverick police officer with a disregard for the rules as he confronts an outbreak of lawlessness.",
+      "releaseInfo": "2024",
+      "imdbRating": "6.8"
+    },
+    {
+      "id": "tt1948150",
+      "type": "movie",
+      "name": "Singham",
+      "poster": "https://images.metahub.space/poster/small/tt1948150/img",
+      "background": "https://images.metahub.space/background/medium/tt1948150/img",
+      "logo": "https://images.metahub.space/logo/medium/tt1948150/img",
+      "description": "A truly honest police officer is transferred to a town controlled by a gangster he has humiliated. The gangster believes he can use good power to bring down this officer who made him look foolish and weak.",
+      "releaseInfo": "2011",
+      "imdbRating": "6.8"
+    },
+    {
+      "id": "tt31184028",
+      "type": "movie",
+      "name": "Together",
+      "poster": "https://images.metahub.space/poster/small/tt31184028/img",
+      "background": "https://images.metahub.space/background/medium/tt31184028/img",
+      "logo": "https://images.metahub.space/logo/medium/tt31184028/img",
+      "description": "Years into their relationship, Tim and Millie find themselves at a crossroads as they move to the country. With tensions already flaring, an encounter with an unnatural force threatens to corrupt their lives, their love and their ...",
+      "releaseInfo": "2025",
+      "imdbRating": "6.7"
+    },
+    {
+      "id": "tt0385880",
+      "type": "movie",
+      "name": "Monster House",
+      "poster": "https://images.metahub.space/poster/small/tt0385880/img",
+      "background": "https://images.metahub.space/background/medium/tt0385880/img",
+      "logo": "https://images.metahub.space/logo/medium/tt0385880/img",
+      "description": "Three teens discover that their neighbor's house is really a living, breathing, scary monster.",
+      "releaseInfo": "2006",
+      "imdbRating": "6.7"
     }
   ]
 }
