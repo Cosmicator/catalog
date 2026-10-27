@@ -18,7 +18,7 @@
       "background": "https://images.metahub.space/background/medium/tt38915678/img",
       "description": "Set in a world shaped by caste, violence, and toxic masculinity, two childhood friends grow up inseparable in rural Tamil Nadu. Their lives are transformed by the arrival of Dorothy, a woman whose compassion quietly challenges the world around them.",
       "releaseInfo": 2026,
-      "imdbRating": 7.9
+      "imdbRating": 7.8
     },
     {
       "id": "tt6323306",
@@ -39,6 +39,16 @@
       "description": "Professor Se Jeong attends a biotech conference, only to witness it spiral into catastrophe when a rapidly mutating virus is unleashed. As the outbreak spreads and the infected begin to transform, authorities seal off the entire facility.",
       "releaseInfo": 2026,
       "imdbRating": 6.5
+    },
+    {
+      "id": "tt39631280",
+      "type": "movie",
+      "name": "Gajab Raat",
+      "poster": "https://images.metahub.space/poster/medium/tt39631280/img",
+      "background": "https://images.metahub.space/background/medium/tt39631280/img",
+      "description": "A corrupt, troubled cop's night spirals out of control when a reluctant act of mercy toward an injured girl pulls him into a deadly web of crime.",
+      "releaseInfo": 2026,
+      "imdbRating": 6
     },
     {
       "id": "tt9000310",
@@ -99,16 +109,6 @@
       "description": "To protect his family and their dark secret, Georgekutty faces an organized new threat. As walls close in and cracks widen, how much more is he willing to sacrifice?",
       "releaseInfo": 2026,
       "imdbRating": 6.6
-    },
-    {
-      "id": "tt37535100",
-      "type": "movie",
-      "name": "Bethlehem Kudumba Unit",
-      "poster": "https://images.metahub.space/poster/medium/tt37535100/img",
-      "background": "https://images.metahub.space/background/medium/tt37535100/img",
-      "description": "Ashley's homecoming from abroad takes an emotional turn when a wedding next door stirs memories of her first love, Justin.",
-      "releaseInfo": 2026,
-      "imdbRating": 8
     },
     {
       "id": "tt37287335",
@@ -191,16 +191,6 @@
       "imdbRating": 8.3
     },
     {
-      "id": "tt39120306",
-      "type": "movie",
-      "name": "El Despertar",
-      "poster": "https://images.metahub.space/poster/medium/tt39120306/img",
-      "background": "https://images.metahub.space/background/medium/tt39120306/img",
-      "description": "An elite military unit on a mission in the South American jungle encounters a deadly supernatural force revealing an ancient presence that continues to claim anyone who dares enter its domain.",
-      "releaseInfo": 2026,
-      "imdbRating": 3.6
-    },
-    {
       "id": "tt0060550",
       "type": "movie",
       "name": "It's the Great Pumpkin, Charlie Brown",
@@ -209,6 +199,16 @@
       "description": "Join the Peanuts gang for a timeless adventure as Charlie Brown preps for a party, Snoopy sets his sights on the Red Baron, and Linus patiently awaits a pumpkin patch miracle.",
       "releaseInfo": 1966,
       "imdbRating": 8.1
+    },
+    {
+      "id": "tt37535100",
+      "type": "movie",
+      "name": "Bethlehem Kudumba Unit",
+      "poster": "https://images.metahub.space/poster/medium/tt37535100/img",
+      "background": "https://images.metahub.space/background/medium/tt37535100/img",
+      "description": "Ashley's homecoming from abroad takes an emotional turn when a wedding next door stirs memories of her first love, Justin.",
+      "releaseInfo": 2026,
+      "imdbRating": 8
     },
     {
       "id": "tt0080661",
@@ -239,16 +239,6 @@
       "description": "A look at the controversial 2004 reality series The Swan, which took self-proclaimed 'ugly ducklings' and set out to make them... not that.",
       "releaseInfo": 2026,
       "imdbRating": 6.2
-    },
-    {
-      "id": "tt1841611",
-      "type": "movie",
-      "name": "Gandu",
-      "poster": "https://images.metahub.space/poster/medium/tt1841611/img",
-      "background": "https://images.metahub.space/background/medium/tt1841611/img",
-      "description": "After Nihilistic rapper Gandu steals from his mother's lover, he embarks on a drug-fueled rampage with a rickshaw puller.",
-      "releaseInfo": 2010,
-      "imdbRating": 5.3
     },
     {
       "id": "tt0094721",
@@ -309,6 +299,16 @@
       "description": "An erotic story about a woman, the assistant of an art gallery, who gets involved in an impersonal affair with a man. She barely knows about his life, only about the sex games they play, so the relationship begins to get complicated.",
       "releaseInfo": 1986,
       "imdbRating": 5.9
+    },
+    {
+      "id": "tt39120306",
+      "type": "movie",
+      "name": "El Despertar",
+      "poster": "https://images.metahub.space/poster/medium/tt39120306/img",
+      "background": "https://images.metahub.space/background/medium/tt39120306/img",
+      "description": "An elite military unit on a mission in the South American jungle encounters a deadly supernatural force revealing an ancient presence that continues to claim anyone who dares enter its domain.",
+      "releaseInfo": 2026,
+      "imdbRating": 3.6
     },
     {
       "id": "tt27543632",
@@ -401,6 +401,16 @@
       "imdbRating": 7.3
     },
     {
+      "id": "tt1841611",
+      "type": "movie",
+      "name": "Gandu",
+      "poster": "https://images.metahub.space/poster/medium/tt1841611/img",
+      "background": "https://images.metahub.space/background/medium/tt1841611/img",
+      "description": "After Nihilistic rapper Gandu steals from his mother's lover, he embarks on a drug-fueled rampage with a rickshaw puller.",
+      "releaseInfo": 2010,
+      "imdbRating": 5.3
+    },
+    {
       "id": "tt31170389",
       "type": "movie",
       "name": "Evil Dead Burn",
@@ -489,16 +499,6 @@
       "description": "Four years after the events of Halloween in 2018, Laurie has decided to liberate herself from fear and rage and embrace life. But when a young man is accused of killing a boy he was babysitting, it ignites a cascade of violence and terror that will force Laurie to finally confront the evil she can’t control, once and for all.",
       "releaseInfo": 2022,
       "imdbRating": 5
-    },
-    {
-      "id": "tt4226388",
-      "type": "movie",
-      "name": "Victoria",
-      "poster": "https://images.metahub.space/poster/medium/tt4226388/img",
-      "background": "https://images.metahub.space/background/medium/tt4226388/img",
-      "description": "A young Spanish woman who has newly moved to Berlin finds her flirtation with a local guy turn potentially deadly as their night out with his friends reveals a dangerous secret.",
-      "releaseInfo": 2015,
-      "imdbRating": 7.5
     }
   ]
 }
