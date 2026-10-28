@@ -38,7 +38,7 @@
       "background": "https://images.metahub.space/background/medium/tt39631280/img",
       "description": "A corrupt, troubled cop's night spirals out of control when a reluctant act of mercy toward an injured girl pulls him into a deadly web of crime.",
       "releaseInfo": 2026,
-      "imdbRating": 6
+      "imdbRating": 5.9
     },
     {
       "id": "tt34385135",
@@ -151,16 +151,6 @@
       "imdbRating": 8.1
     },
     {
-      "id": "tt0072190",
-      "type": "movie",
-      "name": "The Golden Fortress",
-      "poster": "https://images.metahub.space/poster/medium/tt0072190/img",
-      "background": "https://images.metahub.space/background/medium/tt0072190/img",
-      "description": "A young boy becomes a target for crooks, after he claims to remember his past life and mentions precious jewels in a golden fortress.",
-      "releaseInfo": 1974,
-      "imdbRating": 8.3
-    },
-    {
       "id": "tt31184028",
       "type": "movie",
       "name": "Together",
@@ -181,14 +171,24 @@
       "imdbRating": 7.4
     },
     {
-      "id": "tt37535100",
+      "id": "tt0072190",
       "type": "movie",
-      "name": "Bethlehem Kudumba Unit",
-      "poster": "https://images.metahub.space/poster/medium/tt37535100/img",
-      "background": "https://images.metahub.space/background/medium/tt37535100/img",
-      "description": "Ashley's homecoming from abroad takes an emotional turn when a wedding next door stirs memories of her first love, Justin.",
+      "name": "The Golden Fortress",
+      "poster": "https://images.metahub.space/poster/medium/tt0072190/img",
+      "background": "https://images.metahub.space/background/medium/tt0072190/img",
+      "description": "A young boy becomes a target for crooks, after he claims to remember his past life and mentions precious jewels in a golden fortress.",
+      "releaseInfo": 1974,
+      "imdbRating": 8.3
+    },
+    {
+      "id": "tt43655467",
+      "type": "movie",
+      "name": "Ali G: Who Iz I?",
+      "poster": "https://images.metahub.space/poster/medium/tt43655467/img",
+      "background": "https://images.metahub.space/background/medium/tt43655467/img",
+      "description": "After twenty years spent \"chillin', tokin' and bonin'\", Ali G is shocked to discover that his long-term girlfriend, Julie, is 8 months pregnant. Faced with an extra mouth to feed, he gets off his batty and heads to America to reclaim his former glory… but soon encounters adversaries who will ultimately threaten his and his child's very existence.",
       "releaseInfo": 2026,
-      "imdbRating": 8
+      "imdbRating": 6.1
     },
     {
       "id": "tt0112642",
@@ -251,6 +251,16 @@
       "imdbRating": 8.2
     },
     {
+      "id": "tt33379543",
+      "type": "movie",
+      "name": "Jana Nayagan",
+      "poster": "https://images.metahub.space/poster/medium/tt33379543/img",
+      "background": "https://images.metahub.space/background/medium/tt33379543/img",
+      "description": "A clash of ideologies. One stands for the people, the other feeds on control. Their paths collided once before. Years later, a child’s silent fear ignites the past, drawing a former police officer into a battle far bigger than personal revenge.",
+      "releaseInfo": 2026,
+      "imdbRating": 5.1
+    },
+    {
       "id": "tt0185937",
       "type": "movie",
       "name": "The Blair Witch Project",
@@ -279,16 +289,6 @@
       "description": "7 years after the case related to Vijay Salgaonkar and his family was closed, a series of unexpected events bring truth to light that threatens to change everything for the Salgaonkars. Can Vijay save his family this time?",
       "releaseInfo": 2022,
       "imdbRating": 8.2
-    },
-    {
-      "id": "tt33379543",
-      "type": "movie",
-      "name": "Jana Nayagan",
-      "poster": "https://images.metahub.space/poster/medium/tt33379543/img",
-      "background": "https://images.metahub.space/background/medium/tt33379543/img",
-      "description": "A clash of ideologies. One stands for the people, the other feeds on control. Their paths collided once before. Years later, a child’s silent fear ignites the past, drawing a former police officer into a battle far bigger than personal revenge.",
-      "releaseInfo": 2026,
-      "imdbRating": 5.1
     },
     {
       "id": "tt4226388",
@@ -321,14 +321,14 @@
       "imdbRating": 5.5
     },
     {
-      "id": "tt3724898",
+      "id": "tt37535100",
       "type": "movie",
-      "name": "Ludo",
-      "poster": "https://images.metahub.space/poster/medium/tt3724898/img",
-      "background": "https://images.metahub.space/background/medium/tt3724898/img",
-      "description": "Needing a secluded place for a late-night tryst, two couples stow away in a mall after hours, but are quickly ensnared in a gruesome and deadly game.",
-      "releaseInfo": 2015,
-      "imdbRating": 2.8
+      "name": "Bethlehem Kudumba Unit",
+      "poster": "https://images.metahub.space/poster/medium/tt37535100/img",
+      "background": "https://images.metahub.space/background/medium/tt37535100/img",
+      "description": "Ashley's homecoming from abroad takes an emotional turn when a wedding next door stirs memories of her first love, Justin.",
+      "releaseInfo": 2026,
+      "imdbRating": 8
     },
     {
       "id": "tt0093437",
@@ -339,16 +339,6 @@
       "description": "When an unsuspecting town newcomer is drawn to local blood fiends, the Frog brothers and other unlikely heroes gear up to rescue him.",
       "releaseInfo": 1987,
       "imdbRating": 7.2
-    },
-    {
-      "id": "tt42262473",
-      "type": "movie",
-      "name": "Modha Rathri",
-      "poster": "https://images.metahub.space/poster/medium/tt42262473/img",
-      "background": "https://images.metahub.space/background/medium/tt42262473/img",
-      "description": "Two strangers are brought together at an unusual wedding where, in one night, too many surprises unfold and several lies are told, spiraling into chaos that changes everything.",
-      "releaseInfo": 2026,
-      "imdbRating": 7.5
     },
     {
       "id": "tt0114388",
@@ -381,16 +371,6 @@
       "imdbRating": 5.9
     },
     {
-      "id": "tt0087363",
-      "type": "movie",
-      "name": "Gremlins",
-      "poster": "https://images.metahub.space/poster/medium/tt0087363/img",
-      "background": "https://images.metahub.space/background/medium/tt0087363/img",
-      "description": "After receiving an exotic small animal as a Christmas gift, a young man inadvertently breaks three important rules concerning his new pet, which unleashes a horde of malevolently mischievous creatures on a small town.",
-      "releaseInfo": 1984,
-      "imdbRating": 7.3
-    },
-    {
       "id": "tt0085636",
       "type": "movie",
       "name": "Halloween III: Season of the Witch",
@@ -411,6 +391,26 @@
       "imdbRating": 7.1
     },
     {
+      "id": "tt2884018",
+      "type": "movie",
+      "name": "Macbeth",
+      "poster": "https://images.metahub.space/poster/medium/tt2884018/img",
+      "background": "https://images.metahub.space/background/medium/tt2884018/img",
+      "description": "Macbeth, the Thane of Glamis, receives a prophecy from a trio of witches that one day he will become King of Scotland. Consumed by ambition and spurred to action by his wife, Macbeth murders his king and takes the throne for himself.",
+      "releaseInfo": 2015,
+      "imdbRating": 6.6
+    },
+    {
+      "id": "tt0054215",
+      "type": "movie",
+      "name": "Psycho",
+      "poster": "https://images.metahub.space/poster/medium/tt0054215/img",
+      "background": "https://images.metahub.space/background/medium/tt0054215/img",
+      "description": "When larcenous real estate clerk Marion Crane goes on the lam with a wad of cash and hopes of starting a new life, she ends up at the notorious Bates Motel, where manager Norman Bates cares for his housebound mother.",
+      "releaseInfo": 1960,
+      "imdbRating": 8.5
+    },
+    {
       "id": "tt39120306",
       "type": "movie",
       "name": "El Despertar",
@@ -418,7 +418,7 @@
       "background": "https://images.metahub.space/background/medium/tt39120306/img",
       "description": "An elite military unit on a mission in the South American jungle encounters a deadly supernatural force revealing an ancient presence that continues to claim anyone who dares enter its domain.",
       "releaseInfo": 2026,
-      "imdbRating": 3.6
+      "imdbRating": 3.5
     },
     {
       "id": "tt35836025",
