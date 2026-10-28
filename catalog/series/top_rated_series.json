@@ -89,17 +89,6 @@
       "imdbRating": "8.9"
     },
     {
-      "id": "tt1832668",
-      "type": "series",
-      "name": "How the Universe Works",
-      "poster": "https://images.metahub.space/poster/small/tt1832668/img",
-      "background": "https://images.metahub.space/background/medium/tt1832668/img",
-      "logo": "https://images.metahub.space/logo/medium/tt1832668/img",
-      "description": "A users guide to the cosmos from the big bang to galaxies, stars, planets and moons. Where did it all come from and how does it all fit together. A primer for anyone who has ever looked up at the night sky and wondered.",
-      "releaseInfo": "2010–",
-      "imdbRating": "8.9"
-    },
-    {
       "id": "tt0988824",
       "type": "series",
       "name": "Naruto: Shippuden",
@@ -408,14 +397,25 @@
       "imdbRating": "8.1"
     },
     {
-      "id": "tt0883772",
+      "id": "tt0092400",
       "type": "series",
-      "name": "Man vs. Wild",
-      "poster": "https://images.metahub.space/poster/small/tt0883772/img",
-      "background": "https://images.metahub.space/background/medium/tt0883772/img",
-      "logo": "https://images.metahub.space/logo/medium/tt0883772/img",
-      "description": "Bear Grylls travels the world in search of challenges to his survival skills.",
-      "releaseInfo": "2006–2020",
+      "name": "Married... with Children",
+      "poster": "https://images.metahub.space/poster/small/tt0092400/img",
+      "background": "https://images.metahub.space/background/medium/tt0092400/img",
+      "logo": "https://images.metahub.space/logo/medium/tt0092400/img",
+      "description": "Al is the quintessential working class dad. Peggy, his wife, always wants more from him. With their children, they go through the highs and lows of ordinary life.",
+      "releaseInfo": "1987–1997",
+      "imdbRating": "8.1"
+    },
+    {
+      "id": "tt1515193",
+      "type": "series",
+      "name": "The Big C",
+      "poster": "https://images.metahub.space/poster/small/tt1515193/img",
+      "background": "https://images.metahub.space/background/medium/tt1515193/img",
+      "logo": "https://images.metahub.space/logo/medium/tt1515193/img",
+      "description": "A suburban mother faces her cancer diagnosis while trying to find humor and happiness as well.",
+      "releaseInfo": "2010–2013",
       "imdbRating": "8.1"
     },
     {
@@ -430,14 +430,14 @@
       "imdbRating": "8.1"
     },
     {
-      "id": "tt1515193",
+      "id": "tt0883772",
       "type": "series",
-      "name": "The Big C",
-      "poster": "https://images.metahub.space/poster/small/tt1515193/img",
-      "background": "https://images.metahub.space/background/medium/tt1515193/img",
-      "logo": "https://images.metahub.space/logo/medium/tt1515193/img",
-      "description": "A suburban mother faces her cancer diagnosis while trying to find humor and happiness as well.",
-      "releaseInfo": "2010–2013",
+      "name": "Man vs. Wild",
+      "poster": "https://images.metahub.space/poster/small/tt0883772/img",
+      "background": "https://images.metahub.space/background/medium/tt0883772/img",
+      "logo": "https://images.metahub.space/logo/medium/tt0883772/img",
+      "description": "Bear Grylls travels the world in search of challenges to his survival skills.",
+      "releaseInfo": "2006–2020",
       "imdbRating": "8.1"
     },
     {
@@ -471,17 +471,6 @@
       "logo": "https://images.metahub.space/logo/medium/tt24053860/img",
       "description": "The Jackal is an elusive assassin who makes his living carrying out hits for the highest fee. He soon meets his match in a tenacious British intelligence officer who tracks him down in a thrilling cat-and-mouse chase across Europe.",
       "releaseInfo": "2024–",
-      "imdbRating": "8.1"
-    },
-    {
-      "id": "tt0092400",
-      "type": "series",
-      "name": "Married... with Children",
-      "poster": "https://images.metahub.space/poster/small/tt0092400/img",
-      "background": "https://images.metahub.space/background/medium/tt0092400/img",
-      "logo": "https://images.metahub.space/logo/medium/tt0092400/img",
-      "description": "Al is the quintessential working class dad. Peggy, his wife, always wants more from him. With their children, they go through the highs and lows of ordinary life.",
-      "releaseInfo": "1987–1997",
       "imdbRating": "8.1"
     },
     {
@@ -545,6 +534,17 @@
       "logo": "https://live.metahub.space/logo/medium/tt11192308/img",
       "description": "A young photographer's life turns upside down due to various unforeseen situations. Desperate to put things in order, he gets entangled into further mess.",
       "releaseInfo": "2019–",
+      "imdbRating": "8.0"
+    },
+    {
+      "id": "tt10982034",
+      "type": "series",
+      "name": "Trying",
+      "poster": "https://images.metahub.space/poster/small/tt10982034/img",
+      "background": "https://images.metahub.space/background/medium/tt10982034/img",
+      "logo": "https://images.metahub.space/logo/medium/tt10982034/img",
+      "description": "All Jason and Nikki want is a baby, but it's the one thing they just can't have, so they decide to adopt. With their dysfunctional friends, screwball family, and chaotic lives, will the adoption panel think they're ready to be par...",
+      "releaseInfo": "2020–",
       "imdbRating": "8.0"
     }
   ]

@@ -1,6 +1,17 @@
 {
   "metas": [
     {
+      "id": "tt16747572",
+      "type": "movie",
+      "name": "The Silence of Swastika",
+      "poster": "https://images.metahub.space/poster/small/tt16747572/img",
+      "background": "https://images.metahub.space/background/medium/tt16747572/img",
+      "logo": "https://images.metahub.space/logo/medium/tt16747572/img",
+      "description": "Hitler used a symbol for his political and racial ideology. The world today calls that symbol \"Swastika\", an Indian name to a symbol used by Hindus, Buddhists, and Jains for ages. But was it a Swastika? or Something else?",
+      "releaseInfo": "2021",
+      "imdbRating": "9.5"
+    },
+    {
       "id": "tt42262473",
       "type": "movie",
       "name": "Modha Rathiri",
@@ -10,17 +21,6 @@
       "description": "Follows two strangers brought together at an unusual wedding where, in one night, too many surprises unfold and several lies are told, spiraling into chaos that changes everything.",
       "releaseInfo": "2026",
       "imdbRating": "8.9"
-    },
-    {
-      "id": "tt0214915",
-      "type": "movie",
-      "name": "Manichitrathazhu",
-      "poster": "https://images.metahub.space/poster/small/tt0214915/img",
-      "background": "https://images.metahub.space/background/medium/tt0214915/img",
-      "logo": "https://images.metahub.space/logo/medium/tt0214915/img",
-      "description": "When a forbidden room in an old bungalow is unbolted, the spirit of a vengeful dancer is unleashed.",
-      "releaseInfo": "1993",
-      "imdbRating": "8.7"
     },
     {
       "id": "tt0816692",
@@ -34,28 +34,6 @@
       "imdbRating": "8.7"
     },
     {
-      "id": "tt7019842",
-      "type": "movie",
-      "name": "96",
-      "poster": "https://images.metahub.space/poster/small/tt7019842/img",
-      "background": "https://images.metahub.space/background/medium/tt7019842/img",
-      "logo": "https://images.metahub.space/logo/medium/tt7019842/img",
-      "description": "Two high school sweethearts meet at a reunion after 22 years and reminisce about their past.",
-      "releaseInfo": "2018",
-      "imdbRating": "8.4"
-    },
-    {
-      "id": "tt0085743",
-      "type": "movie",
-      "name": "Jaane Bhi Do Yaaro",
-      "poster": "https://images.metahub.space/poster/small/tt0085743/img",
-      "background": "https://images.metahub.space/background/medium/tt0085743/img",
-      "logo": "https://images.metahub.space/logo/medium/tt0085743/img",
-      "description": "Two photographers, who are employed by a magazine editor to expose the scandalous activities of the rich, come across corruption by a builder and accidentally photograph a murder.",
-      "releaseInfo": "1983",
-      "imdbRating": "8.3"
-    },
-    {
       "id": "tt0072190",
       "type": "movie",
       "name": "Sonar Kella",
@@ -67,26 +45,15 @@
       "imdbRating": "8.3"
     },
     {
-      "id": "tt9006564",
+      "id": "tt11423818",
       "type": "movie",
-      "name": "2018",
-      "poster": "https://images.metahub.space/poster/small/tt9006564/img",
-      "background": "https://images.metahub.space/background/medium/tt9006564/img",
-      "logo": "https://images.metahub.space/logo/medium/tt9006564/img",
-      "description": "A disaster film set during the 2018 Kerala Floods where people from all walks of life faced catastrophic consequences and put in collective efforts to survive the calamity.",
-      "releaseInfo": "2023",
+      "name": "Pawankhind",
+      "poster": "https://live.metahub.space/poster/small/tt11423818/img",
+      "background": "https://live.metahub.space/background/medium/tt11423818/img",
+      "logo": "https://live.metahub.space/logo/medium/tt11423818/img",
+      "description": "The historical rearguard last stand that took place on 13 July 1660 at a mountain pass in the vicinity of fort Vishalgad, near the city of Kolhapur, Maharashtra, India between the Maratha Warrior Baji Prabhu Deshpande and Siddi Masud of Adilshah Sultanate, known as Battle of Pavan Khind.",
+      "releaseInfo": "2022",
       "imdbRating": "8.3"
-    },
-    {
-      "id": "tt12042730",
-      "type": "movie",
-      "name": "Project Hail Mary",
-      "poster": "https://images.metahub.space/poster/small/tt12042730/img",
-      "background": "https://images.metahub.space/background/medium/tt12042730/img",
-      "logo": "https://images.metahub.space/logo/medium/tt12042730/img",
-      "description": "A science teacher wakes up alone on a spaceship. As his memory returns, he uncovers a mission to stop a mysterious substance killing Earth's sun, and realizes that an unexpected friendship may be the key.",
-      "releaseInfo": "2026",
-      "imdbRating": "8.2"
     },
     {
       "id": "tt0060550",
@@ -97,6 +64,17 @@
       "logo": "https://images.metahub.space/logo/medium/tt0060550/img",
       "description": "The Peanuts gang celebrates Halloween while Linus waits for the Great Pumpkin.",
       "releaseInfo": "1966",
+      "imdbRating": "8.2"
+    },
+    {
+      "id": "tt12042730",
+      "type": "movie",
+      "name": "Project Hail Mary",
+      "poster": "https://images.metahub.space/poster/small/tt12042730/img",
+      "background": "https://images.metahub.space/background/medium/tt12042730/img",
+      "logo": "https://images.metahub.space/logo/medium/tt12042730/img",
+      "description": "A science teacher wakes up alone on a spaceship. As his memory returns, he uncovers a mission to stop a mysterious substance killing Earth's sun, and realizes that an unexpected friendship may be the key.",
+      "releaseInfo": "2026",
       "imdbRating": "8.2"
     },
     {
@@ -155,28 +133,6 @@
       "imdbRating": "8.2"
     },
     {
-      "id": "tt7581572",
-      "type": "movie",
-      "name": "Sudani from Nigeria",
-      "poster": "https://images.metahub.space/poster/small/tt7581572/img",
-      "background": "https://images.metahub.space/background/medium/tt7581572/img",
-      "logo": "https://images.metahub.space/logo/medium/tt7581572/img",
-      "description": "Story of an African football player and a local football club manager from Malappuram, Kerala.",
-      "releaseInfo": "2018",
-      "imdbRating": "8.1"
-    },
-    {
-      "id": "tt0292490",
-      "type": "movie",
-      "name": "Dil Chahta Hai",
-      "poster": "https://images.metahub.space/poster/small/tt0292490/img",
-      "background": "https://images.metahub.space/background/medium/tt0292490/img",
-      "logo": "https://images.metahub.space/logo/medium/tt0292490/img",
-      "description": "Three inseparable childhood friends are just out of college. Nothing comes between them - until they each fall in love, and their wildly different approaches to relationships creates tension.",
-      "releaseInfo": "2001",
-      "imdbRating": "8.1"
-    },
-    {
       "id": "tt10872600",
       "type": "movie",
       "name": "Spider-Man: No Way Home",
@@ -199,14 +155,25 @@
       "imdbRating": "8.0"
     },
     {
-      "id": "tt0366840",
+      "id": "tt27542289",
       "type": "movie",
-      "name": "Okkadu",
-      "poster": "https://images.metahub.space/poster/small/tt0366840/img",
-      "background": "https://images.metahub.space/background/medium/tt0366840/img",
-      "logo": "https://images.metahub.space/logo/medium/tt0366840/img",
-      "description": "A Kabbadi player rescues a young woman from an unwanted marriage and hides her in his home.",
-      "releaseInfo": "2003",
+      "name": "Por Thozhil",
+      "poster": "https://images.metahub.space/poster/small/tt27542289/img",
+      "background": "https://images.metahub.space/background/medium/tt27542289/img",
+      "logo": "https://images.metahub.space/logo/medium/tt27542289/img",
+      "description": "A bright but faint-hearted rookie cop has to overcome his fears in order to succeed in his first case which sees him partnered with a reclusive senior officer to catch a serial killer on the loose.",
+      "releaseInfo": "2023",
+      "imdbRating": "8.0"
+    },
+    {
+      "id": "tt15980138",
+      "type": "movie",
+      "name": "Kishkindha Kaandam",
+      "poster": "https://images.metahub.space/poster/small/tt15980138/img",
+      "background": "https://images.metahub.space/background/medium/tt15980138/img",
+      "logo": "https://images.metahub.space/logo/medium/tt15980138/img",
+      "description": "Strange events unfold in a monkey-inhabited village, prompting a newlywed pair and forest officials to embark on a mission to uncover the root cause of the peculiar disturbances.",
+      "releaseInfo": "2024",
       "imdbRating": "8.0"
     },
     {
@@ -221,17 +188,6 @@
       "imdbRating": "8.0"
     },
     {
-      "id": "tt0454876",
-      "type": "movie",
-      "name": "Life of Pi",
-      "poster": "https://images.metahub.space/poster/small/tt0454876/img",
-      "background": "https://images.metahub.space/background/medium/tt0454876/img",
-      "logo": "https://images.metahub.space/logo/medium/tt0454876/img",
-      "description": "A young man who survives a disaster at sea is hurtled into an epic journey of adventure and discovery. While cast away, he forms an unexpected connection with another survivor: a fearsome Bengal tiger.",
-      "releaseInfo": "2012",
-      "imdbRating": "7.9"
-    },
-    {
       "id": "tt2395469",
       "type": "movie",
       "name": "Gully Boy",
@@ -243,15 +199,15 @@
       "imdbRating": "7.9"
     },
     {
-      "id": "tt1646971",
+      "id": "tt0083866",
       "type": "movie",
-      "name": "How to Train Your Dragon 2",
-      "poster": "https://images.metahub.space/poster/small/tt1646971/img",
-      "background": "https://images.metahub.space/background/medium/tt1646971/img",
-      "logo": "https://images.metahub.space/logo/medium/tt1646971/img",
-      "description": "When Hiccup and Toothless discover an ice cave that is home to hundreds of new wild dragons and the mysterious Dragon Rider, the two friends find themselves at the center of a battle to protect the peace.",
-      "releaseInfo": "2014",
-      "imdbRating": "7.8"
+      "name": "E.T. the Extra-Terrestrial",
+      "poster": "https://images.metahub.space/poster/small/tt0083866/img",
+      "background": "https://images.metahub.space/background/medium/tt0083866/img",
+      "logo": "https://images.metahub.space/logo/medium/tt0083866/img",
+      "description": "A troubled child summons the courage to help a friendly alien escape from Earth and return to his home planet.",
+      "releaseInfo": "1982",
+      "imdbRating": "7.9"
     },
     {
       "id": "tt37287335",
@@ -265,37 +221,15 @@
       "imdbRating": "7.8"
     },
     {
-      "id": "tt2180477",
+      "id": "tt2350496",
       "type": "movie",
-      "name": "Nanban",
-      "poster": "https://images.metahub.space/poster/small/tt2180477/img",
-      "background": "https://images.metahub.space/background/medium/tt2180477/img",
-      "logo": "https://images.metahub.space/logo/medium/tt2180477/img",
-      "description": "10 years after leaving college, two best friends and their rival go on a search for their third friend, while finding out some truths along the way.",
-      "releaseInfo": "2012",
+      "name": "The Lunchbox",
+      "poster": "https://images.metahub.space/poster/small/tt2350496/img",
+      "background": "https://images.metahub.space/background/medium/tt2350496/img",
+      "logo": "https://images.metahub.space/logo/medium/tt2350496/img",
+      "description": "A mistaken delivery in Mumbai's famously efficient lunchbox delivery system connects a young housewife to an older man in the dusk of his life as they build a fantasy world together through notes in the lunchbox.",
+      "releaseInfo": "2013",
       "imdbRating": "7.8"
-    },
-    {
-      "id": "tt4846340",
-      "type": "movie",
-      "name": "Hidden Figures",
-      "poster": "https://images.metahub.space/poster/small/tt4846340/img",
-      "background": "https://images.metahub.space/background/medium/tt4846340/img",
-      "logo": "https://images.metahub.space/logo/medium/tt4846340/img",
-      "description": "Three female African-American mathematicians play a pivotal role in astronaut John Glenn's launch into orbit while dealing with racial and gender discrimination.",
-      "releaseInfo": "2017",
-      "imdbRating": "7.8"
-    },
-    {
-      "id": "tt0499375",
-      "type": "movie",
-      "name": "Guru",
-      "poster": "https://images.metahub.space/poster/small/tt0499375/img",
-      "background": "https://images.metahub.space/background/medium/tt0499375/img",
-      "logo": "https://images.metahub.space/logo/medium/tt0499375/img",
-      "description": "A villager, Gurukant Desai, arrives in Bombay 1958, and rises from its streets to become the GURU, the biggest tycoon in Indian history.",
-      "releaseInfo": "2007",
-      "imdbRating": "7.7"
     },
     {
       "id": "tt0241527",
@@ -309,6 +243,17 @@
       "imdbRating": "7.7"
     },
     {
+      "id": "tt8941440",
+      "type": "movie",
+      "name": "Virus",
+      "poster": "https://images.metahub.space/poster/small/tt8941440/img",
+      "background": "https://images.metahub.space/background/medium/tt8941440/img",
+      "logo": "https://images.metahub.space/logo/medium/tt8941440/img",
+      "description": "A real life account of the deadly Nipah virus outbreak in Kerala, and the courageous fight put on by several individuals which helped to contain the epidemic.",
+      "releaseInfo": "2019",
+      "imdbRating": "7.7"
+    },
+    {
       "id": "tt0114388",
       "type": "movie",
       "name": "Sense and Sensibility",
@@ -318,6 +263,17 @@
       "description": "In Georgian era England, wealthy Mr. Dashwood dies leaving his second wife and three daughters destitute. The ladies move to a modest cottage where the two older daughters vie for the attention of various suitors in search of true...",
       "releaseInfo": "1996",
       "imdbRating": "7.7"
+    },
+    {
+      "id": "tt3682448",
+      "type": "movie",
+      "name": "Bridge of Spies",
+      "poster": "https://images.metahub.space/poster/small/tt3682448/img",
+      "background": "https://images.metahub.space/background/medium/tt3682448/img",
+      "logo": "https://images.metahub.space/logo/medium/tt3682448/img",
+      "description": "During the Cold War, an American lawyer is recruited to defend an arrested Soviet spy in court, and then help the CIA facilitate an exchange of the spy for the Soviet captured American U2 spy plane pilot, Francis Gary Powers.",
+      "releaseInfo": "2015",
+      "imdbRating": "7.6"
     },
     {
       "id": "tt0387564",
@@ -342,15 +298,15 @@
       "imdbRating": "7.6"
     },
     {
-      "id": "tt1773015",
+      "id": "tt2980794",
       "type": "movie",
-      "name": "Phas Gaye Re Obama",
-      "poster": "https://images.metahub.space/poster/small/tt1773015/img",
-      "background": "https://images.metahub.space/background/medium/tt1773015/img",
-      "logo": "https://images.metahub.space/logo/medium/tt1773015/img",
-      "description": "Om Shastri, a recession victim comes to India to sell his ancestors property to clear is debt. On reaching he comes to know that selling the property will make his family homeless in India. Later he is kidnapped by goons thinking ...",
-      "releaseInfo": "2010",
-      "imdbRating": "7.5"
+      "name": "Highway",
+      "poster": "https://images.metahub.space/poster/small/tt2980794/img",
+      "background": "https://images.metahub.space/background/medium/tt2980794/img",
+      "logo": "https://images.metahub.space/logo/medium/tt2980794/img",
+      "description": "Right before her wedding, a young woman finds herself abducted and held for ransom. As the initial days pass, she begins to develop a strange bond with her kidnapper.",
+      "releaseInfo": "2014",
+      "imdbRating": "7.6"
     },
     {
       "id": "tt4226388",
@@ -364,17 +320,6 @@
       "imdbRating": "7.5"
     },
     {
-      "id": "tt0449951",
-      "type": "movie",
-      "name": "Ghajini",
-      "poster": "https://images.metahub.space/poster/small/tt0449951/img",
-      "background": "https://images.metahub.space/background/medium/tt0449951/img",
-      "logo": "https://images.metahub.space/logo/medium/tt0449951/img",
-      "description": "Sanjay Ramaswamy, who is suffering from short-term memory loss, sets out on a quest to find and eliminate the people responsible for his ladylove Kalpana's murder.",
-      "releaseInfo": "2005",
-      "imdbRating": "7.5"
-    },
-    {
       "id": "tt31193180",
       "type": "movie",
       "name": "Sinners",
@@ -384,17 +329,6 @@
       "description": "Trying to leave their troubled lives behind, twin brothers return to their hometown to start again, only to discover that an even greater evil is waiting to welcome them back.",
       "releaseInfo": "2025",
       "imdbRating": "7.5"
-    },
-    {
-      "id": "tt13381376",
-      "type": "movie",
-      "name": "Welcome Home",
-      "poster": "https://images.metahub.space/poster/small/tt13381376/img",
-      "background": "https://images.metahub.space/background/medium/tt13381376/img",
-      "logo": "https://images.metahub.space/logo/medium/tt13381376/img",
-      "description": "A census report leads two female government teachers to an isolated house, in which resides a family with twisted secrets they never imagined to recover.",
-      "releaseInfo": "2020",
-      "imdbRating": "7.4"
     },
     {
       "id": "tt29355505",
@@ -430,48 +364,48 @@
       "imdbRating": "7.4"
     },
     {
-      "id": "tt6980546",
+      "id": "tt0382383",
       "type": "movie",
-      "name": "Bharath Ane Nenu",
-      "poster": "https://images.metahub.space/poster/small/tt6980546/img",
-      "background": "https://images.metahub.space/background/medium/tt6980546/img",
-      "logo": "https://images.metahub.space/logo/medium/tt6980546/img",
-      "description": "Bharat, a young graduate who becomes the C.M of Andhra Pradesh (pre-div) after his father's demise without any political knowledge, faces challenges in the process of reforming the society.",
-      "releaseInfo": "2018",
-      "imdbRating": "7.4"
-    },
-    {
-      "id": "tt27922706",
-      "type": "movie",
-      "name": "Chhaava",
-      "poster": "https://images.metahub.space/poster/small/tt27922706/img",
-      "background": "https://images.metahub.space/background/medium/tt27922706/img",
-      "logo": "https://images.metahub.space/logo/medium/tt27922706/img",
-      "description": "After the death of his father, warrior-king Sambhaji Maharaj battles Mughal forces led by Aurangzeb to keep the Maratha Empire alive.",
-      "releaseInfo": "2025",
+      "name": "Yuva",
+      "poster": "https://images.metahub.space/poster/small/tt0382383/img",
+      "background": "https://images.metahub.space/background/medium/tt0382383/img",
+      "logo": "https://images.metahub.space/logo/medium/tt0382383/img",
+      "description": "Michael, Arjun and Lallan, three men from three different strata of society, cross paths one morning in Calcutta and change one another's lives forever.",
+      "releaseInfo": "2004",
       "imdbRating": "7.3"
     },
     {
-      "id": "tt14107554",
+      "id": "tt7765910",
       "type": "movie",
-      "name": "Dasvi",
-      "poster": "https://images.metahub.space/poster/small/tt14107554/img",
-      "background": "https://images.metahub.space/background/medium/tt14107554/img",
-      "logo": "https://images.metahub.space/logo/medium/tt14107554/img",
-      "description": "Jailed under a tough cop, an uneducated politician decides to spend his time studying for high school, while his scheming wife has plans of her own.",
-      "releaseInfo": "2022",
-      "imdbRating": "7.3"
-    },
-    {
-      "id": "tt6173990",
-      "type": "movie",
-      "name": "Gold",
-      "poster": "https://images.metahub.space/poster/small/tt6173990/img",
-      "background": "https://images.metahub.space/background/medium/tt6173990/img",
-      "logo": "https://images.metahub.space/logo/medium/tt6173990/img",
-      "description": "The journey of a man who was instrumental in making India win its first Olympic gold medal as a free nation.",
+      "name": "Aravindha Sametha",
+      "poster": "https://images.metahub.space/poster/small/tt7765910/img",
+      "background": "https://images.metahub.space/background/medium/tt7765910/img",
+      "logo": "https://images.metahub.space/logo/medium/tt7765910/img",
+      "description": "A young scion of a powerful family with a long history of violence decides to put an end to the bloodshed which leads him to a path of self discovery.",
       "releaseInfo": "2018",
       "imdbRating": "7.3"
+    },
+    {
+      "id": "tt1753383",
+      "type": "movie",
+      "name": "A Dog's Purpose",
+      "poster": "https://images.metahub.space/poster/small/tt1753383/img",
+      "background": "https://images.metahub.space/background/medium/tt1753383/img",
+      "logo": "https://images.metahub.space/logo/medium/tt1753383/img",
+      "description": "A dog discovers the meaning of its own existence through the lives of the humans it teaches to laugh and love. Reincarnated as multiple canines over the course of five decades, the lovable pooch develops an unbreakable bond with E...",
+      "releaseInfo": "2017",
+      "imdbRating": "7.3"
+    },
+    {
+      "id": "tt7283064",
+      "type": "movie",
+      "name": "Sye Raa Narasimha Reddy",
+      "poster": "https://images.metahub.space/poster/small/tt7283064/img",
+      "background": "https://images.metahub.space/background/medium/tt7283064/img",
+      "logo": "https://images.metahub.space/logo/medium/tt7283064/img",
+      "description": "A historical action epic inspired by the life of Uyyalawada Narasimha Reddy, who revolted against the atrocities of East India Company 10 years before the Sepoy Mutiny.",
+      "releaseInfo": "2019",
+      "imdbRating": "7.2"
     },
     {
       "id": "tt11663228",
@@ -485,14 +419,14 @@
       "imdbRating": "7.2"
     },
     {
-      "id": "tt5946852",
+      "id": "tt6692354",
       "type": "movie",
-      "name": "Janatha Garage",
-      "poster": "https://images.metahub.space/poster/small/tt5946852/img",
-      "background": "https://images.metahub.space/background/medium/tt5946852/img",
-      "logo": "https://images.metahub.space/logo/medium/tt5946852/img",
-      "description": "An environmental activist comes to Hyderabad to attend a seminar, where an unexpected encounter with a man who runs an organization for the oppressed, changes his purpose in life.",
-      "releaseInfo": "2016",
+      "name": "Ittefaq",
+      "poster": "https://images.metahub.space/poster/small/tt6692354/img",
+      "background": "https://images.metahub.space/background/medium/tt6692354/img",
+      "logo": "https://images.metahub.space/logo/medium/tt6692354/img",
+      "description": "A detective seeks out the truth between two different stories of a crime scene.",
+      "releaseInfo": "2017",
       "imdbRating": "7.2"
     },
     {
@@ -529,14 +463,14 @@
       "imdbRating": "7.2"
     },
     {
-      "id": "tt6571548",
+      "id": "tt13885320",
       "type": "movie",
-      "name": "The White Tiger",
-      "poster": "https://images.metahub.space/poster/small/tt6571548/img",
-      "background": "https://images.metahub.space/background/medium/tt6571548/img",
-      "logo": "https://images.metahub.space/logo/medium/tt6571548/img",
-      "description": "An ambitious Indian driver uses his wit and cunning to escape from poverty and rise to the top. An epic journey based on the New York Times bestseller.",
-      "releaseInfo": "2021",
+      "name": "India Lockdown",
+      "poster": "https://images.metahub.space/poster/small/tt13885320/img",
+      "background": "https://images.metahub.space/background/medium/tt13885320/img",
+      "logo": "https://images.metahub.space/logo/medium/tt13885320/img",
+      "description": "The Indian government announces a country-wide lockdown for 21 days due to the COVID-19 pandemic. India Lockdown encapsulates the story of four out of thousands of individuals whose lives came to a standstill.",
+      "releaseInfo": "2022",
       "imdbRating": "7.1"
     },
     {
@@ -549,6 +483,72 @@
       "description": "A brother and sister uncover a terrifying ritual at the secluded home of their new foster mother.",
       "releaseInfo": "2025",
       "imdbRating": "7.1"
+    },
+    {
+      "id": "tt23554840",
+      "type": "movie",
+      "name": "The Vaccine War",
+      "poster": "https://images.metahub.space/poster/small/tt23554840/img",
+      "background": "https://images.metahub.space/background/medium/tt23554840/img",
+      "logo": "https://images.metahub.space/logo/medium/tt23554840/img",
+      "description": "Based on India's battle against Covid-19, and the efforts the medical department took to overcome the global crisis.",
+      "releaseInfo": "2023",
+      "imdbRating": "7.1"
+    },
+    {
+      "id": "tt0837562",
+      "type": "movie",
+      "name": "Hotel Transylvania",
+      "poster": "https://images.metahub.space/poster/small/tt0837562/img",
+      "background": "https://images.metahub.space/background/medium/tt0837562/img",
+      "logo": "https://images.metahub.space/logo/medium/tt0837562/img",
+      "description": "Dracula, who operates a high-end resort away from the human world, goes into overprotective mode when a boy discovers the resort and falls for the count's teenaged daughter.",
+      "releaseInfo": "2012",
+      "imdbRating": "7.1"
+    },
+    {
+      "id": "tt15600222",
+      "type": "movie",
+      "name": "An Action Hero",
+      "poster": "https://images.metahub.space/poster/small/tt15600222/img",
+      "background": "https://images.metahub.space/background/medium/tt15600222/img",
+      "logo": "https://images.metahub.space/logo/medium/tt15600222/img",
+      "description": "A murder accusation turns a movie star's own life into an eccentric action thriller as he flees the country, with a vengeful politician hot on his heels.",
+      "releaseInfo": "2022",
+      "imdbRating": "7.0"
+    },
+    {
+      "id": "tt17279496",
+      "type": "movie",
+      "name": "Civil War",
+      "poster": "https://images.metahub.space/poster/small/tt17279496/img",
+      "background": "https://images.metahub.space/background/medium/tt17279496/img",
+      "logo": "https://images.metahub.space/logo/medium/tt17279496/img",
+      "description": "In the midst of a U.S. civil war, four reporters make the dangerous trip to the capital to interview the president before he is overthrown.",
+      "releaseInfo": "2024",
+      "imdbRating": "7.0"
+    },
+    {
+      "id": "tt0080661",
+      "type": "movie",
+      "name": "Dressed to Kill",
+      "poster": "https://images.metahub.space/poster/small/tt0080661/img",
+      "background": "https://images.metahub.space/background/medium/tt0080661/img",
+      "logo": "https://images.metahub.space/logo/medium/tt0080661/img",
+      "description": "A mysterious blonde woman kills one of the patients of a psychiatrist and then goes after the high-class hooker who witnessed the murder.",
+      "releaseInfo": "1980",
+      "imdbRating": "7.0"
+    },
+    {
+      "id": "tt13978658",
+      "type": "movie",
+      "name": "Salute",
+      "poster": "https://images.metahub.space/poster/small/tt13978658/img",
+      "background": "https://images.metahub.space/background/medium/tt13978658/img",
+      "logo": "https://images.metahub.space/logo/medium/tt13978658/img",
+      "description": "S.I Aravind Karunakaran, a police officer on voluntary leave, is haunted by an old case he investigated. How far will he go to unravel the mystery and bring the truth to light?",
+      "releaseInfo": "2022",
+      "imdbRating": "7.0"
     }
   ]
 }
