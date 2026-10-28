@@ -56,17 +56,6 @@
       "imdbRating": "9.1"
     },
     {
-      "id": "tt1475582",
-      "type": "series",
-      "name": "Sherlock",
-      "poster": "https://images.metahub.space/poster/small/tt1475582/img",
-      "background": "https://images.metahub.space/background/medium/tt1475582/img",
-      "logo": "https://images.metahub.space/logo/medium/tt1475582/img",
-      "description": "In modern-day London, brilliant but eccentric detective Sherlock Holmes teams with war veteran Dr. John Watson to crack baffling crimes, outwit formidable foes, and aid Scotland Yard with razor-sharp deduction.",
-      "releaseInfo": "2010–2017",
-      "imdbRating": "9.0"
-    },
-    {
       "id": "tt0388629",
       "type": "series",
       "name": "One Piece",
@@ -75,6 +64,17 @@
       "logo": "https://images.metahub.space/logo/medium/tt0388629/img",
       "description": "A spirited young pirate sets sail with a growing crew in search of the legendary One Piece, facing dangerous seas and powerful rivals on his quest to become King of the Pirates.",
       "releaseInfo": "1999–",
+      "imdbRating": "9.0"
+    },
+    {
+      "id": "tt1475582",
+      "type": "series",
+      "name": "Sherlock",
+      "poster": "https://images.metahub.space/poster/small/tt1475582/img",
+      "background": "https://images.metahub.space/background/medium/tt1475582/img",
+      "logo": "https://images.metahub.space/logo/medium/tt1475582/img",
+      "description": "In modern-day London, brilliant but eccentric detective Sherlock Holmes teams with war veteran Dr. John Watson to crack baffling crimes, outwit formidable foes, and aid Scotland Yard with razor-sharp deduction.",
+      "releaseInfo": "2010–2017",
       "imdbRating": "9.0"
     },
     {
@@ -89,17 +89,6 @@
       "imdbRating": "8.9"
     },
     {
-      "id": "tt1832668",
-      "type": "series",
-      "name": "How the Universe Works",
-      "poster": "https://images.metahub.space/poster/small/tt1832668/img",
-      "background": "https://images.metahub.space/background/medium/tt1832668/img",
-      "logo": "https://images.metahub.space/logo/medium/tt1832668/img",
-      "description": "A users guide to the cosmos from the big bang to galaxies, stars, planets and moons. Where did it all come from and how does it all fit together. A primer for anyone who has ever looked up at the night sky and wondered.",
-      "releaseInfo": "2010–",
-      "imdbRating": "8.9"
-    },
-    {
       "id": "tt0988824",
       "type": "series",
       "name": "Naruto: Shippuden",
@@ -111,14 +100,14 @@
       "imdbRating": "8.7"
     },
     {
-      "id": "tt35495073",
+      "id": "tt5753856",
       "type": "series",
-      "name": "Heated Rivalry",
-      "poster": "https://images.metahub.space/poster/small/tt35495073/img",
-      "background": "https://images.metahub.space/background/medium/tt35495073/img",
-      "logo": "https://images.metahub.space/logo/medium/tt35495073/img",
-      "description": "Two rival hockey stars at the top of their game face an unexpected challenge when they develop feelings for each other, complicating their careers and the sport's expectations.",
-      "releaseInfo": "2025–",
+      "name": "Dark",
+      "poster": "https://images.metahub.space/poster/small/tt5753856/img",
+      "background": "https://images.metahub.space/background/medium/tt5753856/img",
+      "logo": "https://images.metahub.space/logo/medium/tt5753856/img",
+      "description": "A family saga with a supernatural twist, set in a German town where the disappearance of two young children exposes the relationships among four families.",
+      "releaseInfo": "2017–2020",
       "imdbRating": "8.7"
     },
     {
@@ -141,17 +130,6 @@
       "logo": "https://images.metahub.space/logo/medium/tt1489428/img",
       "description": "Enforcing his own brand of justice, U.S. Marshal Raylan Givens, a strong-willed, quiet law-man haunted by his past, returns to his native town to see that justice is served to those in need.",
       "releaseInfo": "2010–2015",
-      "imdbRating": "8.6"
-    },
-    {
-      "id": "tt9544034",
-      "type": "series",
-      "name": "The Family Man",
-      "poster": "https://images.metahub.space/poster/small/tt9544034/img",
-      "background": "https://images.metahub.space/background/medium/tt9544034/img",
-      "logo": "https://images.metahub.space/logo/medium/tt9544034/img",
-      "description": "A working man from the National Investigation Agency tries to protect the nation from terrorism, but he also needs to keep his family safe from his secret job.",
-      "releaseInfo": "2019–",
       "imdbRating": "8.6"
     },
     {
@@ -188,17 +166,6 @@
       "imdbRating": "8.5"
     },
     {
-      "id": "tt4093826",
-      "type": "series",
-      "name": "Twin Peaks",
-      "poster": "https://images.metahub.space/poster/small/tt4093826/img",
-      "background": "https://images.metahub.space/background/medium/tt4093826/img",
-      "logo": "https://images.metahub.space/logo/medium/tt4093826/img",
-      "description": "Picks up 25 years after the inhabitants of a quaint northwestern town are stunned when their homecoming queen is murdered.",
-      "releaseInfo": "2017",
-      "imdbRating": "8.5"
-    },
-    {
       "id": "tt8317568",
       "type": "series",
       "name": "Broken But Beautiful",
@@ -210,25 +177,14 @@
       "imdbRating": "8.5"
     },
     {
-      "id": "tt9335498",
+      "id": "tt4093826",
       "type": "series",
-      "name": "Demon Slayer: Kimetsu no Yaiba",
-      "poster": "https://images.metahub.space/poster/small/tt9335498/img",
-      "background": "https://images.metahub.space/background/medium/tt9335498/img",
-      "logo": "https://images.metahub.space/logo/medium/tt9335498/img",
-      "description": "A family is attacked by demons and only two members survive - Tanjiro and his sister Nezuko, who is turning into a demon slowly. Tanjiro sets out to become a demon slayer to avenge his family and cure his sister.",
-      "releaseInfo": "2019–2024",
-      "imdbRating": "8.5"
-    },
-    {
-      "id": "tt4158110",
-      "type": "series",
-      "name": "Mr. Robot",
-      "poster": "https://images.metahub.space/poster/small/tt4158110/img",
-      "background": "https://images.metahub.space/background/medium/tt4158110/img",
-      "logo": "https://images.metahub.space/logo/medium/tt4158110/img",
-      "description": "Elliot, a brilliant but unstable cyber-security engineer and vigilante hacker, becomes a key figure in a complex game of global chaos when he and his shadowy allies try to take down the corrupt corporation his company is paid to p...",
-      "releaseInfo": "2015–2019",
+      "name": "Twin Peaks",
+      "poster": "https://images.metahub.space/poster/small/tt4093826/img",
+      "background": "https://images.metahub.space/background/medium/tt4093826/img",
+      "logo": "https://images.metahub.space/logo/medium/tt4093826/img",
+      "description": "Picks up 25 years after the inhabitants of a quaint northwestern town are stunned when their homecoming queen is murdered.",
+      "releaseInfo": "2017",
       "imdbRating": "8.5"
     },
     {
@@ -243,17 +199,6 @@
       "imdbRating": "8.4"
     },
     {
-      "id": "tt6473300",
-      "type": "series",
-      "name": "Mirzapur",
-      "poster": "https://images.metahub.space/poster/small/tt6473300/img",
-      "background": "https://images.metahub.space/background/medium/tt6473300/img",
-      "logo": "https://images.metahub.space/logo/medium/tt6473300/img",
-      "description": "A shocking incident at a wedding procession ignites a series of events entangling the lives of two families in the lawless city of Mirzapur.",
-      "releaseInfo": "2018–",
-      "imdbRating": "8.4"
-    },
-    {
       "id": "tt1442449",
       "type": "series",
       "name": "Spartacus",
@@ -265,14 +210,14 @@
       "imdbRating": "8.4"
     },
     {
-      "id": "tt5675620",
+      "id": "tt6473300",
       "type": "series",
-      "name": "The Punisher",
-      "poster": "https://images.metahub.space/poster/small/tt5675620/img",
-      "background": "https://images.metahub.space/background/medium/tt5675620/img",
-      "logo": "https://images.metahub.space/logo/medium/tt5675620/img",
-      "description": "After his revenge on those who murdered his family, aimless Marine veteran Frank Castle finds a new meaning in life as a vigilante known as \"The Punisher\".",
-      "releaseInfo": "2017–2019",
+      "name": "Mirzapur",
+      "poster": "https://images.metahub.space/poster/small/tt6473300/img",
+      "background": "https://images.metahub.space/background/medium/tt6473300/img",
+      "logo": "https://images.metahub.space/logo/medium/tt6473300/img",
+      "description": "A shocking incident at a wedding procession ignites a series of events entangling the lives of two families in the lawless city of Mirzapur.",
+      "releaseInfo": "2018–",
       "imdbRating": "8.4"
     },
     {
@@ -298,25 +243,14 @@
       "imdbRating": "8.3"
     },
     {
-      "id": "tt12590266",
+      "id": "tt0455275",
       "type": "series",
-      "name": "Cyberpunk: Edgerunners",
-      "poster": "https://images.metahub.space/poster/small/tt12590266/img",
-      "background": "https://images.metahub.space/background/medium/tt12590266/img",
-      "logo": "https://images.metahub.space/logo/medium/tt12590266/img",
-      "description": "A Street Kid trying to survive in a technology and body modification-obsessed city of the future. Having everything to lose, he chooses to stay alive by becoming an Edgerunner, a Mercenary outlaw also known as a Cyberpunk.",
-      "releaseInfo": "2022–",
-      "imdbRating": "8.3"
-    },
-    {
-      "id": "tt15477488",
-      "type": "series",
-      "name": "Farzi",
-      "poster": "https://images.metahub.space/poster/small/tt15477488/img",
-      "background": "https://images.metahub.space/background/medium/tt15477488/img",
-      "logo": "https://images.metahub.space/logo/medium/tt15477488/img",
-      "description": "Talented artist Sunny creates a flawless counterfeit bill, thrusting him into a dangerous world. Unconventional task force officer Michael is determined to eliminate counterfeiting. In this high-stakes chase, neither can afford to...",
-      "releaseInfo": "2023–",
+      "name": "Prison Break",
+      "poster": "https://images.metahub.space/poster/small/tt0455275/img",
+      "background": "https://images.metahub.space/background/medium/tt0455275/img",
+      "logo": "https://images.metahub.space/logo/medium/tt0455275/img",
+      "description": "A structural engineer installs himself in a prison his company helped design, to save his falsely accused brother from a death sentence by breaking both of them out from the inside.",
+      "releaseInfo": "2005–2017",
       "imdbRating": "8.3"
     },
     {
@@ -342,17 +276,6 @@
       "imdbRating": "8.2"
     },
     {
-      "id": "tt7441658",
-      "type": "series",
-      "name": "Black Clover",
-      "poster": "https://images.metahub.space/poster/small/tt7441658/img",
-      "background": "https://images.metahub.space/background/medium/tt7441658/img",
-      "logo": "https://images.metahub.space/logo/medium/tt7441658/img",
-      "description": "Asta and Yuno were abandoned together at the same church and have been inseparable since. As children, they promised that they would compete against each other to see who would become the next Emperor Magus.",
-      "releaseInfo": "2017–2026",
-      "imdbRating": "8.2"
-    },
-    {
       "id": "tt19386538",
       "type": "series",
       "name": "Mussolini: Son of the Century",
@@ -375,6 +298,17 @@
       "imdbRating": "8.2"
     },
     {
+      "id": "tt7441658",
+      "type": "series",
+      "name": "Black Clover",
+      "poster": "https://images.metahub.space/poster/small/tt7441658/img",
+      "background": "https://images.metahub.space/background/medium/tt7441658/img",
+      "logo": "https://images.metahub.space/logo/medium/tt7441658/img",
+      "description": "Asta and Yuno were abandoned together at the same church and have been inseparable since. As children, they promised that they would compete against each other to see who would become the next Emperor Magus.",
+      "releaseInfo": "2017–2026",
+      "imdbRating": "8.2"
+    },
+    {
       "id": "tt15384586",
       "type": "series",
       "name": "Fellow Travelers",
@@ -383,17 +317,6 @@
       "logo": "https://images.metahub.space/logo/medium/tt15384586/img",
       "description": "Decades-long chronicle of the risky, volatile and steamy relationship between the charismatic and ambitious Hawk and the pious and idealistic Tim, two political staffers who fall in love at the height of the 1950s Lavender Scare.",
       "releaseInfo": "2023",
-      "imdbRating": "8.2"
-    },
-    {
-      "id": "tt12913686",
-      "type": "series",
-      "name": "Jeet Ki Zid",
-      "poster": "https://live.metahub.space/poster/small/tt12913686/img",
-      "background": "https://live.metahub.space/background/medium/tt12913686/img",
-      "logo": "https://live.metahub.space/logo/medium/tt12913686/img",
-      "description": "Inspired from a true story, Jeet Ki Zid is a tale of conviction, persuasion and commitment. It follows the life of a Special forces officer Major Deep Singh who is left paralyzed waist below after fighting the Kargil war, but his army training and never-give-up attitude help him get back to life and eventually on his feet despite all odds.",
-      "releaseInfo": "2021–2021",
       "imdbRating": "8.2"
     },
     {
@@ -419,14 +342,14 @@
       "imdbRating": "8.1"
     },
     {
-      "id": "tt0758790",
+      "id": "tt0914387",
       "type": "series",
-      "name": "The Tudors",
-      "poster": "https://images.metahub.space/poster/small/tt0758790/img",
-      "background": "https://images.metahub.space/background/medium/tt0758790/img",
-      "logo": "https://images.metahub.space/logo/medium/tt0758790/img",
-      "description": "Epic series reveals the scandalous life of a young king whose affairs and obsession with producing a male heir changed marriage, the church, and the world.",
-      "releaseInfo": "2007–2010",
+      "name": "Damages",
+      "poster": "https://images.metahub.space/poster/small/tt0914387/img",
+      "background": "https://images.metahub.space/background/medium/tt0914387/img",
+      "logo": "https://images.metahub.space/logo/medium/tt0914387/img",
+      "description": "A law school graduate becomes the protégée of a successful high-stakes litigator.",
+      "releaseInfo": "2007–2012",
       "imdbRating": "8.1"
     },
     {
@@ -441,17 +364,6 @@
       "imdbRating": "8.1"
     },
     {
-      "id": "tt0914387",
-      "type": "series",
-      "name": "Damages",
-      "poster": "https://images.metahub.space/poster/small/tt0914387/img",
-      "background": "https://images.metahub.space/background/medium/tt0914387/img",
-      "logo": "https://images.metahub.space/logo/medium/tt0914387/img",
-      "description": "A law school graduate becomes the protégée of a successful high-stakes litigator.",
-      "releaseInfo": "2007–2012",
-      "imdbRating": "8.1"
-    },
-    {
       "id": "tt47743267",
       "type": "series",
       "name": "Ishqa Ishqa",
@@ -463,25 +375,14 @@
       "imdbRating": "8.1"
     },
     {
-      "id": "tt7772588",
+      "id": "tt0758790",
       "type": "series",
-      "name": "For All Mankind",
-      "poster": "https://images.metahub.space/poster/small/tt7772588/img",
-      "background": "https://images.metahub.space/background/medium/tt7772588/img",
-      "logo": "https://images.metahub.space/logo/medium/tt7772588/img",
-      "description": "In an alternative version of 1969, the Soviet Union beats the United States to the Moon, and the space race continues on for decades with still grander challenges and goals.",
-      "releaseInfo": "2019–2027",
-      "imdbRating": "8.1"
-    },
-    {
-      "id": "tt4301160",
-      "type": "series",
-      "name": "Black Bird",
-      "poster": "https://images.metahub.space/poster/small/tt4301160/img",
-      "background": "https://images.metahub.space/background/medium/tt4301160/img",
-      "logo": "https://images.metahub.space/logo/medium/tt4301160/img",
-      "description": "Jimmy Keene is sentenced to 10 years in a minimum security prison but he cuts a deal with the FBI to befriend a suspected serial killer. Keene has to elicit a confession from Larry Hall to find the bodies of as many as eighteen wo...",
-      "releaseInfo": "2022",
+      "name": "The Tudors",
+      "poster": "https://images.metahub.space/poster/small/tt0758790/img",
+      "background": "https://images.metahub.space/background/medium/tt0758790/img",
+      "logo": "https://images.metahub.space/logo/medium/tt0758790/img",
+      "description": "Epic series reveals the scandalous life of a young king whose affairs and obsession with producing a male heir changed marriage, the church, and the world.",
+      "releaseInfo": "2007–2010",
       "imdbRating": "8.1"
     },
     {
@@ -496,14 +397,14 @@
       "imdbRating": "8.1"
     },
     {
-      "id": "tt8772296",
+      "id": "tt4301160",
       "type": "series",
-      "name": "Euphoria",
-      "poster": "https://images.metahub.space/poster/small/tt8772296/img",
-      "background": "https://images.metahub.space/background/medium/tt8772296/img",
-      "logo": "https://images.metahub.space/logo/medium/tt8772296/img",
-      "description": "A dark coming-of-age drama exploring love, addiction, friendship and identity in a world full of temptation and uncertainty.",
-      "releaseInfo": "2019–2026",
+      "name": "Black Bird",
+      "poster": "https://images.metahub.space/poster/small/tt4301160/img",
+      "background": "https://images.metahub.space/background/medium/tt4301160/img",
+      "logo": "https://images.metahub.space/logo/medium/tt4301160/img",
+      "description": "Jimmy Keene is sentenced to 10 years in a minimum security prison but he cuts a deal with the FBI to befriend a suspected serial killer. Keene has to elicit a confession from Larry Hall to find the bodies of as many as eighteen wo...",
+      "releaseInfo": "2022",
       "imdbRating": "8.1"
     },
     {
@@ -518,14 +419,47 @@
       "imdbRating": "8.1"
     },
     {
-      "id": "tt38504111",
+      "id": "tt8772296",
       "type": "series",
-      "name": "Small Prophets",
-      "poster": "https://images.metahub.space/poster/small/tt38504111/img",
-      "background": "https://images.metahub.space/background/medium/tt38504111/img",
-      "logo": "https://images.metahub.space/logo/medium/tt38504111/img",
-      "description": "Eccentric Michael Sleep, whose darling partner, Clea, disappeared seven years ago, sets out to create Homunculi - magical prophesying spirits that can predict the future.",
-      "releaseInfo": "2026–",
+      "name": "Euphoria",
+      "poster": "https://images.metahub.space/poster/small/tt8772296/img",
+      "background": "https://images.metahub.space/background/medium/tt8772296/img",
+      "logo": "https://images.metahub.space/logo/medium/tt8772296/img",
+      "description": "A dark coming-of-age drama exploring love, addiction, friendship and identity in a world full of temptation and uncertainty.",
+      "releaseInfo": "2019–2026",
+      "imdbRating": "8.1"
+    },
+    {
+      "id": "tt7772588",
+      "type": "series",
+      "name": "For All Mankind",
+      "poster": "https://images.metahub.space/poster/small/tt7772588/img",
+      "background": "https://images.metahub.space/background/medium/tt7772588/img",
+      "logo": "https://images.metahub.space/logo/medium/tt7772588/img",
+      "description": "In an alternative version of 1969, the Soviet Union beats the United States to the Moon, and the space race continues on for decades with still grander challenges and goals.",
+      "releaseInfo": "2019–2027",
+      "imdbRating": "8.1"
+    },
+    {
+      "id": "tt21097264",
+      "type": "series",
+      "name": "East of Eden",
+      "poster": "https://images.metahub.space/poster/small/tt21097264/img",
+      "background": "https://images.metahub.space/background/medium/tt21097264/img",
+      "logo": "https://images.metahub.space/logo/medium/tt21097264/img",
+      "description": "In the farmlands of the Salinas Valley in California, successive generations of two families, the Trasks and the Hamiltons, are destined to reenact the fateful story of Cain and Abel.",
+      "releaseInfo": "2026",
+      "imdbRating": "8.1"
+    },
+    {
+      "id": "tt24053860",
+      "type": "series",
+      "name": "The Day of the Jackal",
+      "poster": "https://images.metahub.space/poster/small/tt24053860/img",
+      "background": "https://images.metahub.space/background/medium/tt24053860/img",
+      "logo": "https://images.metahub.space/logo/medium/tt24053860/img",
+      "description": "The Jackal is an elusive assassin who makes his living carrying out hits for the highest fee. He soon meets his match in a tenacious British intelligence officer who tracks him down in a thrilling cat-and-mouse chase across Europe.",
+      "releaseInfo": "2024–",
       "imdbRating": "8.1"
     },
     {
@@ -540,14 +474,77 @@
       "imdbRating": "8.1"
     },
     {
-      "id": "tt42576855",
+      "id": "tt38504111",
       "type": "series",
-      "name": "Where the Mask Ends",
-      "poster": "https://live.metahub.space/poster/small/tt42576855/img",
-      "background": "https://live.metahub.space/background/medium/tt42576855/img",
-      "logo": "https://live.metahub.space/logo/medium/tt42576855/img",
-      "description": "An ambitious street urchin seizes the chance to impersonate a noblewoman and becomes a warlord's bride, but when her comatose husband awakens, she must navigate deadly schemes, win his heart through cunning, and uncover her royal heritage to triumph over rivals and rise from gutter to glory.",
+      "name": "Small Prophets",
+      "poster": "https://images.metahub.space/poster/small/tt38504111/img",
+      "background": "https://images.metahub.space/background/medium/tt38504111/img",
+      "logo": "https://images.metahub.space/logo/medium/tt38504111/img",
+      "description": "Eccentric Michael Sleep, whose darling partner, Clea, disappeared seven years ago, sets out to create Homunculi - magical prophesying spirits that can predict the future.",
       "releaseInfo": "2026–",
+      "imdbRating": "8.1"
+    },
+    {
+      "id": "tt15404764",
+      "type": "series",
+      "name": "Titoo",
+      "description": "Titoo is an animated kids' comedy show that follows the daily escapades of eight-year-old boy Titoo. Though, he is a good-hearted, intelligent kid who loves to help everyone, but inadvertently manages to brew even more trouble.",
+      "releaseInfo": "2020–",
+      "imdbRating": "8.0"
+    },
+    {
+      "id": "tt23649128",
+      "type": "series",
+      "name": "The Studio",
+      "poster": "https://images.metahub.space/poster/small/tt23649128/img",
+      "background": "https://images.metahub.space/background/medium/tt23649128/img",
+      "logo": "https://images.metahub.space/logo/medium/tt23649128/img",
+      "description": "Follows a legacy Hollywood movie studio striving to survive in a world where it is increasingly difficult for art and business to live together.",
+      "releaseInfo": "2025–",
+      "imdbRating": "8.0"
+    },
+    {
+      "id": "tt10982034",
+      "type": "series",
+      "name": "Trying",
+      "poster": "https://images.metahub.space/poster/small/tt10982034/img",
+      "background": "https://images.metahub.space/background/medium/tt10982034/img",
+      "logo": "https://images.metahub.space/logo/medium/tt10982034/img",
+      "description": "All Jason and Nikki want is a baby, but it's the one thing they just can't have, so they decide to adopt. With their dysfunctional friends, screwball family, and chaotic lives, will the adoption panel think they're ready to be par...",
+      "releaseInfo": "2020–",
+      "imdbRating": "8.0"
+    },
+    {
+      "id": "tt20096840",
+      "type": "series",
+      "name": "The Messiah",
+      "poster": "https://images.metahub.space/poster/small/tt20096840/img",
+      "background": "https://images.metahub.space/background/medium/tt20096840/img",
+      "logo": "https://images.metahub.space/logo/medium/tt20096840/img",
+      "description": "It tells the story of Enric, who is heavily impacted by a viral video of a Christian pop band made up of five sisters.",
+      "releaseInfo": "2023",
+      "imdbRating": "8.0"
+    },
+    {
+      "id": "tt9288030",
+      "type": "series",
+      "name": "Reacher",
+      "poster": "https://images.metahub.space/poster/small/tt9288030/img",
+      "background": "https://images.metahub.space/background/medium/tt9288030/img",
+      "logo": "https://images.metahub.space/logo/medium/tt9288030/img",
+      "description": "Itinerant former military policeman Jack Reacher solves crimes and metes out his own brand of street justice. Based on the novels by Lee Child.",
+      "releaseInfo": "2022–",
+      "imdbRating": "8.0"
+    },
+    {
+      "id": "tt4643084",
+      "type": "series",
+      "name": "Counterpart",
+      "poster": "https://images.metahub.space/poster/small/tt4643084/img",
+      "background": "https://images.metahub.space/background/medium/tt4643084/img",
+      "logo": "https://images.metahub.space/logo/medium/tt4643084/img",
+      "description": "A cog in a bureaucratic agency discovers his agency is guarding a crossing to a parallel dimension.",
+      "releaseInfo": "2017–2019",
       "imdbRating": "8.0"
     }
   ]
