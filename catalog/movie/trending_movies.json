@@ -201,6 +201,16 @@
       "imdbRating": 6.2
     },
     {
+      "id": "tt34339725",
+      "type": "movie",
+      "name": "Mirzapur: The Movie",
+      "poster": "https://images.metahub.space/poster/medium/tt34339725/img",
+      "background": "https://images.metahub.space/background/medium/tt34339725/img",
+      "description": "The battle for Mirzapur’s throne intensifies as old enemies resurface and a new threat emerges in the form of Babban Babua, a ruthless businessman from Jaisalmer with ambitions of his own. As the Tripathis face enemies from both the past and present, loyalties are tested while Guddu and Bablu Pandit fight to establish themselves in the power struggle for Mirzapur.",
+      "releaseInfo": 2026,
+      "imdbRating": 7.6
+    },
+    {
       "id": "tt0387564",
       "type": "movie",
       "name": "Saw",
@@ -251,6 +261,16 @@
       "imdbRating": 5.1
     },
     {
+      "id": "tt0844708",
+      "type": "movie",
+      "name": "The Last House on the Left",
+      "poster": "https://images.metahub.space/poster/medium/tt0844708/img",
+      "background": "https://images.metahub.space/background/medium/tt0844708/img",
+      "description": "When athletic teen Mari Collingwood opts to hang out with her friend Paige in town rather than spend an evening in with her parents vacationing at the family's remote lake house, it marks the beginning of a night no one is going to forget.",
+      "releaseInfo": 2009,
+      "imdbRating": 6.5
+    },
+    {
       "id": "tt0093437",
       "type": "movie",
       "name": "The Lost Boys",
@@ -269,6 +289,16 @@
       "description": "A celebrated Olympian shooter travels to America looking for a donor to help his sick child — but unexpected romance complicates his search.",
       "releaseInfo": 2026,
       "imdbRating": 7.2
+    },
+    {
+      "id": "tt17279496",
+      "type": "movie",
+      "name": "Civil War",
+      "poster": "https://images.metahub.space/poster/medium/tt17279496/img",
+      "background": "https://images.metahub.space/background/medium/tt17279496/img",
+      "description": "In the midst of a U.S. civil war, four reporters make the dangerous trip to the capital to interview the president before he is overthrown.",
+      "releaseInfo": 2024,
+      "imdbRating": 7
     },
     {
       "id": "tt15501640",
@@ -299,6 +329,16 @@
       "description": "After a terrified toy salesman is mysteriously attacked and brought to the hospital clutching the year's most popular Halloween mask, Dr. Daniel Challis sets out to investigate the strange events and finds himself thrust into a nightmarish conspiracy.",
       "releaseInfo": 1982,
       "imdbRating": 5.2
+    },
+    {
+      "id": "tt3724898",
+      "type": "movie",
+      "name": "Ludo",
+      "poster": "https://images.metahub.space/poster/medium/tt3724898/img",
+      "background": "https://images.metahub.space/background/medium/tt3724898/img",
+      "description": "Needing a secluded place for a late-night tryst, two couples stow away in a mall after hours, but are quickly ensnared in a gruesome and deadly game.",
+      "releaseInfo": 2015,
+      "imdbRating": 2.8
     },
     {
       "id": "tt2049403",
@@ -431,16 +471,6 @@
       "imdbRating": 6.7
     },
     {
-      "id": "tt17279496",
-      "type": "movie",
-      "name": "Civil War",
-      "poster": "https://images.metahub.space/poster/medium/tt17279496/img",
-      "background": "https://images.metahub.space/background/medium/tt17279496/img",
-      "description": "In the midst of a U.S. civil war, four reporters make the dangerous trip to the capital to interview the president before he is overthrown.",
-      "releaseInfo": 2024,
-      "imdbRating": 7
-    },
-    {
       "id": "tt10665342",
       "type": "movie",
       "name": "Halloween Ends",
@@ -469,36 +499,6 @@
       "description": "An elite military unit on a mission in the South American jungle encounters a deadly supernatural force revealing an ancient presence that continues to claim anyone who dares enter its domain.",
       "releaseInfo": 2026,
       "imdbRating": 3.5
-    },
-    {
-      "id": "tt2884018",
-      "type": "movie",
-      "name": "Macbeth",
-      "poster": "https://images.metahub.space/poster/medium/tt2884018/img",
-      "background": "https://images.metahub.space/background/medium/tt2884018/img",
-      "description": "Macbeth, the Thane of Glamis, receives a prophecy from a trio of witches that one day he will become King of Scotland. Consumed by ambition and spurred to action by his wife, Macbeth murders his king and takes the throne for himself.",
-      "releaseInfo": 2015,
-      "imdbRating": 6.6
-    },
-    {
-      "id": "tt0087363",
-      "type": "movie",
-      "name": "Gremlins",
-      "poster": "https://images.metahub.space/poster/medium/tt0087363/img",
-      "background": "https://images.metahub.space/background/medium/tt0087363/img",
-      "description": "After receiving an exotic small animal as a Christmas gift, a young man inadvertently breaks three important rules concerning his new pet, which unleashes a horde of malevolently mischievous creatures on a small town.",
-      "releaseInfo": 1984,
-      "imdbRating": 7.3
-    },
-    {
-      "id": "tt0844708",
-      "type": "movie",
-      "name": "The Last House on the Left",
-      "poster": "https://images.metahub.space/poster/medium/tt0844708/img",
-      "background": "https://images.metahub.space/background/medium/tt0844708/img",
-      "description": "When athletic teen Mari Collingwood opts to hang out with her friend Paige in town rather than spend an evening in with her parents vacationing at the family's remote lake house, it marks the beginning of a night no one is going to forget.",
-      "releaseInfo": 2009,
-      "imdbRating": 6.5
     }
   ]
 }
