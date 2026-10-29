@@ -1,16 +1,6 @@
 {
   "metas": [
     {
-      "id": "tt10886166",
-      "type": "movie",
-      "name": "365 dni",
-      "poster": "https://images.metahub.space/poster/medium/tt10886166/img",
-      "background": "https://images.metahub.space/background/medium/tt10886166/img",
-      "description": "Massimo is a member of the Sicilian Mafia family and Laura is a sales director. She does not expect that on a trip to Sicily trying to save her relationship, Massimo will kidnap her and give her 365 days to fall in love with him.",
-      "releaseInfo": 2020,
-      "imdbRating": 3.3
-    },
-    {
       "id": "tt38915678",
       "type": "movie",
       "name": "Dorothy",
@@ -21,14 +11,14 @@
       "imdbRating": 7.8
     },
     {
-      "id": "tt6323306",
+      "id": "tt10886166",
       "type": "movie",
-      "name": "Nude",
-      "poster": "https://images.metahub.space/poster/medium/tt6323306/img",
-      "background": "https://images.metahub.space/background/medium/tt6323306/img",
-      "description": "NUDE explores perceptions of nudity in art by chronicling the creative process of photographer David Bellemere as he's commissioned by NU Muses founder Steve Shaw to shoot a fine art calendar of nude photographs.",
-      "releaseInfo": 2017,
-      "imdbRating": 5.7
+      "name": "365 dni",
+      "poster": "https://images.metahub.space/poster/medium/tt10886166/img",
+      "background": "https://images.metahub.space/background/medium/tt10886166/img",
+      "description": "Massimo is a member of the Sicilian Mafia family and Laura is a sales director. She does not expect that on a trip to Sicily trying to save her relationship, Massimo will kidnap her and give her 365 days to fall in love with him.",
+      "releaseInfo": 2020,
+      "imdbRating": 3.3
     },
     {
       "id": "tt39631280",
@@ -41,24 +31,14 @@
       "imdbRating": 5.9
     },
     {
-      "id": "tt34385135",
+      "id": "tt6323306",
       "type": "movie",
-      "name": "Gunche",
-      "poster": "https://images.metahub.space/poster/medium/tt34385135/img",
-      "background": "https://images.metahub.space/background/medium/tt34385135/img",
-      "description": "Professor Se Jeong attends a biotech conference, only to witness it spiral into catastrophe when a rapidly mutating virus is unleashed. As the outbreak spreads and the infected begin to transform, authorities seal off the entire facility.",
-      "releaseInfo": 2026,
-      "imdbRating": 6.5
-    },
-    {
-      "id": "tt9000310",
-      "type": "movie",
-      "name": "Ghost in the Cell",
-      "poster": "https://images.metahub.space/poster/medium/tt9000310/img",
-      "background": "https://images.metahub.space/background/medium/tt9000310/img",
-      "description": "A notorious prison, an invisible force starts killing inmates brutally, compelling enemy gangs and corrupt guards to work together as they try to survive the mounting bloodshed.",
-      "releaseInfo": 2026,
-      "imdbRating": 6.5
+      "name": "Nude",
+      "poster": "https://images.metahub.space/poster/medium/tt6323306/img",
+      "background": "https://images.metahub.space/background/medium/tt6323306/img",
+      "description": "NUDE explores perceptions of nudity in art by chronicling the creative process of photographer David Bellemere as he's commissioned by NU Muses founder Steve Shaw to shoot a fine art calendar of nude photographs.",
+      "releaseInfo": 2017,
+      "imdbRating": 5.7
     },
     {
       "id": "tt22084616",
@@ -71,6 +51,16 @@
       "imdbRating": 7.9
     },
     {
+      "id": "tt44090278",
+      "type": "movie",
+      "name": "Baththa",
+      "poster": "https://images.metahub.space/poster/medium/tt44090278/img",
+      "background": "https://images.metahub.space/background/medium/tt44090278/img",
+      "description": "In 1986 Madras, a timid eight-year-old boy accidentally locks a feared criminal inside a school restroom. As the man faces hunger and isolation, an unexpected friendship forms between them, transforming both their lives.",
+      "releaseInfo": 2026,
+      "imdbRating": 9
+    },
+    {
       "id": "tt38990864",
       "type": "movie",
       "name": "Dhoomakethu",
@@ -81,14 +71,14 @@
       "imdbRating": 6.5
     },
     {
-      "id": "tt14113634",
+      "id": "tt34385135",
       "type": "movie",
-      "name": "Drishyam 3",
-      "poster": "https://images.metahub.space/poster/medium/tt14113634/img",
-      "background": "https://images.metahub.space/background/medium/tt14113634/img",
-      "description": "To protect his family and their dark secret, Georgekutty faces an organized new threat. As walls close in and cracks widen, how much more is he willing to sacrifice?",
+      "name": "Gunche",
+      "poster": "https://images.metahub.space/poster/medium/tt34385135/img",
+      "background": "https://images.metahub.space/background/medium/tt34385135/img",
+      "description": "Professor Se Jeong attends a biotech conference, only to witness it spiral into catastrophe when a rapidly mutating virus is unleashed. As the outbreak spreads and the infected begin to transform, authorities seal off the entire facility.",
       "releaseInfo": 2026,
-      "imdbRating": 6.6
+      "imdbRating": 6.5
     },
     {
       "id": "tt22890246",
@@ -101,14 +91,34 @@
       "imdbRating": 6.4
     },
     {
-      "id": "tt11663228",
+      "id": "tt14113634",
       "type": "movie",
-      "name": "Jailer",
-      "poster": "https://images.metahub.space/poster/medium/tt11663228/img",
-      "background": "https://images.metahub.space/background/medium/tt11663228/img",
-      "description": "Muthuvel Pandian, a retired, stern yet compassionate jailer lives a peaceful life with his family, but trouble knocks his door when his cop son’s tryst with an antique mafia gang goes awry and forces Muthu to step back into a dark world he had voluntarily took a break from.",
-      "releaseInfo": 2023,
-      "imdbRating": 7.2
+      "name": "Drishyam 3",
+      "poster": "https://images.metahub.space/poster/medium/tt14113634/img",
+      "background": "https://images.metahub.space/background/medium/tt14113634/img",
+      "description": "To protect his family and their dark secret, Georgekutty faces an organized new threat. As walls close in and cracks widen, how much more is he willing to sacrifice?",
+      "releaseInfo": 2026,
+      "imdbRating": 6.6
+    },
+    {
+      "id": "tt37180686",
+      "type": "movie",
+      "name": "Drive - The Pretenders",
+      "poster": "https://images.metahub.space/poster/medium/tt37180686/img",
+      "background": "https://images.metahub.space/background/medium/tt37180686/img",
+      "description": "A young race car mechanic fakes an engagement with racing's most scandalous star - officially for his reputation, secretly for her own shot behind the wheel. But soon the lie threatens to destroy everything - including what's already become so much more than just a deal.",
+      "releaseInfo": 2026,
+      "imdbRating": 0
+    },
+    {
+      "id": "tt9000310",
+      "type": "movie",
+      "name": "Ghost in the Cell",
+      "poster": "https://images.metahub.space/poster/medium/tt9000310/img",
+      "background": "https://images.metahub.space/background/medium/tt9000310/img",
+      "description": "A notorious prison, an invisible force starts killing inmates brutally, compelling enemy gangs and corrupt guards to work together as they try to survive the mounting bloodshed.",
+      "releaseInfo": 2026,
+      "imdbRating": 6.5
     },
     {
       "id": "tt32246771",
@@ -121,6 +131,16 @@
       "imdbRating": 7.1
     },
     {
+      "id": "tt11663228",
+      "type": "movie",
+      "name": "Jailer",
+      "poster": "https://images.metahub.space/poster/medium/tt11663228/img",
+      "background": "https://images.metahub.space/background/medium/tt11663228/img",
+      "description": "Muthuvel Pandian, a retired, stern yet compassionate jailer lives a peaceful life with his family, but trouble knocks his door when his cop son’s tryst with an antique mafia gang goes awry and forces Muthu to step back into a dark world he had voluntarily took a break from.",
+      "releaseInfo": 2023,
+      "imdbRating": 7.2
+    },
+    {
       "id": "tt37287335",
       "type": "movie",
       "name": "Obsession",
@@ -129,16 +149,6 @@
       "description": "After breaking the mysterious \"One Wish Willow\" to win his crush's heart, a hopeless romantic finds himself getting exactly what he asked for but soon discovers that some desires come at a dark, sinister price.",
       "releaseInfo": 2026,
       "imdbRating": 7.8
-    },
-    {
-      "id": "tt31723358",
-      "type": "movie",
-      "name": "Tell Me What You Want",
-      "poster": "https://images.metahub.space/poster/medium/tt31723358/img",
-      "background": "https://images.metahub.space/background/medium/tt31723358/img",
-      "description": "After his father's death, Eric Zimmerman travels to Spain to oversee his company's branches. In Madrid, he falls for Judith and engage in an intense, erotic relationship full of exploration. However, Eric fears his secret may end their affair.",
-      "releaseInfo": 2024,
-      "imdbRating": 4.1
     },
     {
       "id": "tt0060550",
@@ -151,14 +161,14 @@
       "imdbRating": 8.1
     },
     {
-      "id": "tt31184028",
+      "id": "tt31723358",
       "type": "movie",
-      "name": "Together",
-      "poster": "https://images.metahub.space/poster/medium/tt31184028/img",
-      "background": "https://images.metahub.space/background/medium/tt31184028/img",
-      "description": "Years into their relationship, Tim and Millie find themselves at a crossroads as they move to the country, abandoning all that is familiar in their lives except each other. With tensions already flaring, a nightmarish encounter with a mysterious, unnatural force threatens to corrupt their lives, their love, and their flesh.",
-      "releaseInfo": 2025,
-      "imdbRating": 6.7
+      "name": "Tell Me What You Want",
+      "poster": "https://images.metahub.space/poster/medium/tt31723358/img",
+      "background": "https://images.metahub.space/background/medium/tt31723358/img",
+      "description": "After his father's death, Eric Zimmerman travels to Spain to oversee his company's branches. In Madrid, he falls for Judith and engage in an intense, erotic relationship full of exploration. However, Eric fears his secret may end their affair.",
+      "releaseInfo": 2024,
+      "imdbRating": 4.1
     },
     {
       "id": "tt0103874",
@@ -171,24 +181,14 @@
       "imdbRating": 7.4
     },
     {
-      "id": "tt0072190",
+      "id": "tt12042730",
       "type": "movie",
-      "name": "The Golden Fortress",
-      "poster": "https://images.metahub.space/poster/medium/tt0072190/img",
-      "background": "https://images.metahub.space/background/medium/tt0072190/img",
-      "description": "A young boy becomes a target for crooks, after he claims to remember his past life and mentions precious jewels in a golden fortress.",
-      "releaseInfo": 1974,
-      "imdbRating": 8.3
-    },
-    {
-      "id": "tt43655467",
-      "type": "movie",
-      "name": "Ali G: Who Iz I?",
-      "poster": "https://images.metahub.space/poster/medium/tt43655467/img",
-      "background": "https://images.metahub.space/background/medium/tt43655467/img",
-      "description": "After twenty years spent \"chillin', tokin' and bonin'\", Ali G is shocked to discover that his long-term girlfriend, Julie, is 8 months pregnant. Faced with an extra mouth to feed, he gets off his batty and heads to America to reclaim his former glory… but soon encounters adversaries who will ultimately threaten his and his child's very existence.",
+      "name": "Project Hail Mary",
+      "poster": "https://images.metahub.space/poster/medium/tt12042730/img",
+      "background": "https://images.metahub.space/background/medium/tt12042730/img",
+      "description": "Science teacher Ryland Grace wakes up on a spaceship light years from home with no recollection of who he is or how he got there. As his memory returns, he begins to uncover his mission: solve the riddle of the mysterious substance causing the sun to die out. He must call on his scientific knowledge and unorthodox ideas to save everything on Earth from extinction.",
       "releaseInfo": 2026,
-      "imdbRating": 6
+      "imdbRating": 8.2
     },
     {
       "id": "tt0112642",
@@ -201,16 +201,6 @@
       "imdbRating": 6.2
     },
     {
-      "id": "tt0094721",
-      "type": "movie",
-      "name": "Beetlejuice",
-      "poster": "https://images.metahub.space/poster/medium/tt0094721/img",
-      "background": "https://images.metahub.space/background/medium/tt0094721/img",
-      "description": "A newly dead New England couple seeks help from a deranged demon exorcist to scare an affluent New York family out of their home.",
-      "releaseInfo": 1988,
-      "imdbRating": 7.4
-    },
-    {
       "id": "tt0387564",
       "type": "movie",
       "name": "Saw",
@@ -221,94 +211,14 @@
       "imdbRating": 7.6
     },
     {
-      "id": "tt17279496",
+      "id": "tt0072190",
       "type": "movie",
-      "name": "Civil War",
-      "poster": "https://images.metahub.space/poster/medium/tt17279496/img",
-      "background": "https://images.metahub.space/background/medium/tt17279496/img",
-      "description": "In the midst of a U.S. civil war, four reporters make the dangerous trip to the capital to interview the president before he is overthrown.",
-      "releaseInfo": 2024,
-      "imdbRating": 7
-    },
-    {
-      "id": "tt0385880",
-      "type": "movie",
-      "name": "Monster House",
-      "poster": "https://images.metahub.space/poster/medium/tt0385880/img",
-      "background": "https://images.metahub.space/background/medium/tt0385880/img",
-      "description": "Monsters under the bed are scary enough, but what happens when an entire house is out to get you? Three teens aim to find out when they go up against a decrepit neighboring home and unlock its frightening secrets.",
-      "releaseInfo": 2006,
-      "imdbRating": 6.7
-    },
-    {
-      "id": "tt1841611",
-      "type": "movie",
-      "name": "Gandu",
-      "poster": "https://images.metahub.space/poster/medium/tt1841611/img",
-      "background": "https://images.metahub.space/background/medium/tt1841611/img",
-      "description": "After Nihilistic rapper Gandu steals from his mother's lover, he embarks on a drug-fueled rampage with a rickshaw puller.",
-      "releaseInfo": 2010,
-      "imdbRating": 5.3
-    },
-    {
-      "id": "tt12042730",
-      "type": "movie",
-      "name": "Project Hail Mary",
-      "poster": "https://images.metahub.space/poster/medium/tt12042730/img",
-      "background": "https://images.metahub.space/background/medium/tt12042730/img",
-      "description": "Science teacher Ryland Grace wakes up on a spaceship light years from home with no recollection of who he is or how he got there. As his memory returns, he begins to uncover his mission: solve the riddle of the mysterious substance causing the sun to die out. He must call on his scientific knowledge and unorthodox ideas to save everything on Earth from extinction.",
-      "releaseInfo": 2026,
-      "imdbRating": 8.2
-    },
-    {
-      "id": "tt33379543",
-      "type": "movie",
-      "name": "Jana Nayagan",
-      "poster": "https://images.metahub.space/poster/medium/tt33379543/img",
-      "background": "https://images.metahub.space/background/medium/tt33379543/img",
-      "description": "A clash of ideologies. One stands for the people, the other feeds on control. Their paths collided once before. Years later, a child’s silent fear ignites the past, drawing a former police officer into a battle far bigger than personal revenge.",
-      "releaseInfo": 2026,
-      "imdbRating": 5.1
-    },
-    {
-      "id": "tt0185937",
-      "type": "movie",
-      "name": "The Blair Witch Project",
-      "poster": "https://images.metahub.space/poster/medium/tt0185937/img",
-      "background": "https://images.metahub.space/background/medium/tt0185937/img",
-      "description": "In October of 1994 three student filmmakers disappeared in the woods near Burkittsville, Maryland, while shooting a documentary. A year later their footage was found.",
-      "releaseInfo": 1999,
-      "imdbRating": 6.5
-    },
-    {
-      "id": "tt46060457",
-      "type": "movie",
-      "name": "The Swan: Behind the Mirror",
-      "poster": "https://images.metahub.space/poster/medium/tt46060457/img",
-      "background": "https://images.metahub.space/background/medium/tt46060457/img",
-      "description": "A look at the controversial 2004 reality series The Swan, which took self-proclaimed 'ugly ducklings' and set out to make them... not that.",
-      "releaseInfo": 2026,
-      "imdbRating": 6.2
-    },
-    {
-      "id": "tt15501640",
-      "type": "movie",
-      "name": "Drishyam 2",
-      "poster": "https://images.metahub.space/poster/medium/tt15501640/img",
-      "background": "https://images.metahub.space/background/medium/tt15501640/img",
-      "description": "7 years after the case related to Vijay Salgaonkar and his family was closed, a series of unexpected events bring truth to light that threatens to change everything for the Salgaonkars. Can Vijay save his family this time?",
-      "releaseInfo": 2022,
-      "imdbRating": 8.2
-    },
-    {
-      "id": "tt4226388",
-      "type": "movie",
-      "name": "Victoria",
-      "poster": "https://images.metahub.space/poster/medium/tt4226388/img",
-      "background": "https://images.metahub.space/background/medium/tt4226388/img",
-      "description": "A young Spanish woman who has newly moved to Berlin finds her flirtation with a local guy turn potentially deadly as their night out with his friends reveals a dangerous secret.",
-      "releaseInfo": 2015,
-      "imdbRating": 7.5
+      "name": "The Golden Fortress",
+      "poster": "https://images.metahub.space/poster/medium/tt0072190/img",
+      "background": "https://images.metahub.space/background/medium/tt0072190/img",
+      "description": "A young boy becomes a target for crooks, after he claims to remember his past life and mentions precious jewels in a golden fortress.",
+      "releaseInfo": 1974,
+      "imdbRating": 8.3
     },
     {
       "id": "tt22938576",
@@ -321,24 +231,24 @@
       "imdbRating": 5.3
     },
     {
-      "id": "tt0758746",
+      "id": "tt1841611",
       "type": "movie",
-      "name": "Friday the 13th",
-      "poster": "https://images.metahub.space/poster/medium/tt0758746/img",
-      "background": "https://images.metahub.space/background/medium/tt0758746/img",
-      "description": "A group of young adults visit a boarded up campsite named Crystal Lake where they soon encounter the mysterious Jason Voorhees and his deadly intentions.",
-      "releaseInfo": 2009,
-      "imdbRating": 5.5
+      "name": "Gandu",
+      "poster": "https://images.metahub.space/poster/medium/tt1841611/img",
+      "background": "https://images.metahub.space/background/medium/tt1841611/img",
+      "description": "After Nihilistic rapper Gandu steals from his mother's lover, he embarks on a drug-fueled rampage with a rickshaw puller.",
+      "releaseInfo": 2010,
+      "imdbRating": 5.3
     },
     {
-      "id": "tt37535100",
+      "id": "tt33379543",
       "type": "movie",
-      "name": "Bethlehem Kudumba Unit",
-      "poster": "https://images.metahub.space/poster/medium/tt37535100/img",
-      "background": "https://images.metahub.space/background/medium/tt37535100/img",
-      "description": "Ashley's homecoming from abroad takes an emotional turn when a wedding next door stirs memories of her first love, Justin.",
+      "name": "Jana Nayagan",
+      "poster": "https://images.metahub.space/poster/medium/tt33379543/img",
+      "background": "https://images.metahub.space/background/medium/tt33379543/img",
+      "description": "A clash of ideologies. One stands for the people, the other feeds on control. Their paths collided once before. Years later, a child’s silent fear ignites the past, drawing a former police officer into a battle far bigger than personal revenge.",
       "releaseInfo": 2026,
-      "imdbRating": 8
+      "imdbRating": 5.1
     },
     {
       "id": "tt0093437",
@@ -351,34 +261,34 @@
       "imdbRating": 7.2
     },
     {
-      "id": "tt0114388",
+      "id": "tt17279496",
       "type": "movie",
-      "name": "Sense and Sensibility",
-      "poster": "https://images.metahub.space/poster/medium/tt0114388/img",
-      "background": "https://images.metahub.space/background/medium/tt0114388/img",
-      "description": "The Dashwood sisters, sensible Elinor and passionate Marianne, learn that their prospects of marriage seem doomed by their family's sudden loss of fortune. After Henry Dashwood dies unexpectedly, his estate must pass on by law to his son. These circumstances leave Mr. Dashwood's wife and daughters without a home and with barely enough money to live on. As Elinor and Marianne struggle to find romantic fulfillment in a society obsessed with financial and social status, they must learn to mix sense with sensibility in their dealings with both money and men.",
-      "releaseInfo": 1995,
-      "imdbRating": 7.7
+      "name": "Civil War",
+      "poster": "https://images.metahub.space/poster/medium/tt17279496/img",
+      "background": "https://images.metahub.space/background/medium/tt17279496/img",
+      "description": "In the midst of a U.S. civil war, four reporters make the dangerous trip to the capital to interview the president before he is overthrown.",
+      "releaseInfo": 2024,
+      "imdbRating": 7
     },
     {
-      "id": "tt27419466",
+      "id": "tt15501640",
       "type": "movie",
-      "name": "Moana",
-      "poster": "https://images.metahub.space/poster/medium/tt27419466/img",
-      "background": "https://images.metahub.space/background/medium/tt27419466/img",
-      "description": "Teenage Moana answers the Ocean's call and, for the first time, voyages beyond the reef of her island of Motunui with infamous demigod Maui on an unforgettable journey to restore prosperity to her people.",
+      "name": "Drishyam 2",
+      "poster": "https://images.metahub.space/poster/medium/tt15501640/img",
+      "background": "https://images.metahub.space/background/medium/tt15501640/img",
+      "description": "7 years after the case related to Vijay Salgaonkar and his family was closed, a series of unexpected events bring truth to light that threatens to change everything for the Salgaonkars. Can Vijay save his family this time?",
+      "releaseInfo": 2022,
+      "imdbRating": 8.2
+    },
+    {
+      "id": "tt46060457",
+      "type": "movie",
+      "name": "The Swan: Behind the Mirror",
+      "poster": "https://images.metahub.space/poster/medium/tt46060457/img",
+      "background": "https://images.metahub.space/background/medium/tt46060457/img",
+      "description": "A look at the controversial 2004 reality series The Swan, which took self-proclaimed 'ugly ducklings' and set out to make them... not that.",
       "releaseInfo": 2026,
-      "imdbRating": 5.8
-    },
-    {
-      "id": "tt0091635",
-      "type": "movie",
-      "name": "Nine 1/2 Weeks",
-      "poster": "https://images.metahub.space/poster/medium/tt0091635/img",
-      "background": "https://images.metahub.space/background/medium/tt0091635/img",
-      "description": "An erotic story about a woman, the assistant of an art gallery, who gets involved in an impersonal affair with a man. She barely knows about his life, only about the sex games they play, so the relationship begins to get complicated.",
-      "releaseInfo": 1986,
-      "imdbRating": 5.9
+      "imdbRating": 6.2
     },
     {
       "id": "tt0085636",
@@ -391,24 +301,84 @@
       "imdbRating": 5.2
     },
     {
-      "id": "tt8488126",
+      "id": "tt2049403",
       "type": "movie",
-      "name": "The Inventor: Out for Blood in Silicon Valley",
-      "poster": "https://images.metahub.space/poster/medium/tt8488126/img",
-      "background": "https://images.metahub.space/background/medium/tt8488126/img",
-      "description": "With a magical new invention that promised to revolutionize blood testing, Elizabeth Holmes became the world’s youngest self-made billionaire, heralded as the next Steve Jobs. Then, overnight, her 10-billion-dollar company dissolved. The rise and fall of Theranos is a window into the psychology of fraud.",
-      "releaseInfo": 2019,
-      "imdbRating": 7.1
+      "name": "Beetlejuice Beetlejuice",
+      "poster": "https://images.metahub.space/poster/medium/tt2049403/img",
+      "background": "https://images.metahub.space/background/medium/tt2049403/img",
+      "description": "After a family tragedy, three generations of the Deetz family return home to Winter River. Still haunted by Betelgeuse, Lydia's life is turned upside down when her teenage daughter, Astrid, accidentally opens the portal to the Afterlife.",
+      "releaseInfo": 2024,
+      "imdbRating": 6.6
     },
     {
-      "id": "tt2884018",
+      "id": "tt31184028",
       "type": "movie",
-      "name": "Macbeth",
-      "poster": "https://images.metahub.space/poster/medium/tt2884018/img",
-      "background": "https://images.metahub.space/background/medium/tt2884018/img",
-      "description": "Macbeth, the Thane of Glamis, receives a prophecy from a trio of witches that one day he will become King of Scotland. Consumed by ambition and spurred to action by his wife, Macbeth murders his king and takes the throne for himself.",
-      "releaseInfo": 2015,
-      "imdbRating": 6.6
+      "name": "Together",
+      "poster": "https://images.metahub.space/poster/medium/tt31184028/img",
+      "background": "https://images.metahub.space/background/medium/tt31184028/img",
+      "description": "Years into their relationship, Tim and Millie find themselves at a crossroads as they move to the country, abandoning all that is familiar in their lives except each other. With tensions already flaring, a nightmarish encounter with a mysterious, unnatural force threatens to corrupt their lives, their love, and their flesh.",
+      "releaseInfo": 2025,
+      "imdbRating": 6.7
+    },
+    {
+      "id": "tt38265603",
+      "type": "movie",
+      "name": "Pradhama Drishtiya Kuttakkar",
+      "poster": "https://images.metahub.space/poster/medium/tt38265603/img",
+      "background": "https://images.metahub.space/background/medium/tt38265603/img",
+      "description": "After her husband's tragic death, Aleena joins the police force through a compassionate appointment. What begins as a quiet new chapter soon turns into a high-stakes battle of wits and courage, testing everything she believes about justice, loyalty, and herself.",
+      "releaseInfo": 2026,
+      "imdbRating": 7.5
+    },
+    {
+      "id": "tt37535100",
+      "type": "movie",
+      "name": "Bethlehem Kudumba Unit",
+      "poster": "https://images.metahub.space/poster/medium/tt37535100/img",
+      "background": "https://images.metahub.space/background/medium/tt37535100/img",
+      "description": "Ashley's homecoming from abroad takes an emotional turn when a wedding next door stirs memories of her first love, Justin.",
+      "releaseInfo": 2026,
+      "imdbRating": 8
+    },
+    {
+      "id": "tt0385880",
+      "type": "movie",
+      "name": "Monster House",
+      "poster": "https://images.metahub.space/poster/medium/tt0385880/img",
+      "background": "https://images.metahub.space/background/medium/tt0385880/img",
+      "description": "Monsters under the bed are scary enough, but what happens when an entire house is out to get you? Three teens aim to find out when they go up against a decrepit neighboring home and unlock its frightening secrets.",
+      "releaseInfo": 2006,
+      "imdbRating": 6.7
+    },
+    {
+      "id": "tt32321803",
+      "type": "movie",
+      "name": "The Get Out",
+      "poster": "https://images.metahub.space/poster/medium/tt32321803/img",
+      "background": "https://images.metahub.space/background/medium/tt32321803/img",
+      "description": "A nightclub owner is on the verge of leaving his dangerous past behind for retirement with his girlfriend. When masked gunmen rob him and he finds himself squeezed by ruthless cartels, a mysterious newcomer arrives with an interest in buying the business. With danger closing in from all sides, he must navigate a deadly web of deception, power, and survival  -  where escape may no longer be an option.",
+      "releaseInfo": 2026,
+      "imdbRating": 5.7
+    },
+    {
+      "id": "tt28037987",
+      "type": "movie",
+      "name": "Saiyaara",
+      "poster": "https://images.metahub.space/poster/medium/tt28037987/img",
+      "background": "https://images.metahub.space/background/medium/tt28037987/img",
+      "description": "Plot under wraps.",
+      "releaseInfo": 2025,
+      "imdbRating": 6.3
+    },
+    {
+      "id": "tt29355505",
+      "type": "movie",
+      "name": "Toy Story 5",
+      "poster": "https://images.metahub.space/poster/medium/tt29355505/img",
+      "background": "https://images.metahub.space/background/medium/tt29355505/img",
+      "description": "When Bonnie receives a Lilypad tablet as a gift and becomes obsessed, Buzz, Woody, Jessie and the rest of the gang's jobs become exponentially harder when they have to go head to head with the all-new threat to playtime.",
+      "releaseInfo": 2026,
+      "imdbRating": 7.3
     },
     {
       "id": "tt0054215",
@@ -421,14 +391,44 @@
       "imdbRating": 8.5
     },
     {
-      "id": "tt30887701",
+      "id": "tt0094721",
       "type": "movie",
-      "name": "Pinocchio: Unstrung",
-      "poster": "https://images.metahub.space/poster/medium/tt30887701/img",
-      "background": "https://images.metahub.space/background/medium/tt30887701/img",
-      "description": "Influenced by a sinister Cricket and created by Geppetto, Pinocchio launches a violent crusade to carve himself into a real boy like his brother James, one piece at a time.",
+      "name": "Beetlejuice",
+      "poster": "https://images.metahub.space/poster/medium/tt0094721/img",
+      "background": "https://images.metahub.space/background/medium/tt0094721/img",
+      "description": "A newly dead New England couple seeks help from a deranged demon exorcist to scare an affluent New York family out of their home.",
+      "releaseInfo": 1988,
+      "imdbRating": 7.4
+    },
+    {
+      "id": "tt1262416",
+      "type": "movie",
+      "name": "Scream 4",
+      "poster": "https://images.metahub.space/poster/medium/tt1262416/img",
+      "background": "https://images.metahub.space/background/medium/tt1262416/img",
+      "description": "Fifteen years after the original Woodsboro murders, Sidney Prescott returns home to promote her new book about surviving trauma, only for a new Ghostface killer to emerge, targeting a new group of teens.",
+      "releaseInfo": 2011,
+      "imdbRating": 6.3
+    },
+    {
+      "id": "tt2884018",
+      "type": "movie",
+      "name": "Macbeth",
+      "poster": "https://images.metahub.space/poster/medium/tt2884018/img",
+      "background": "https://images.metahub.space/background/medium/tt2884018/img",
+      "description": "Macbeth, the Thane of Glamis, receives a prophecy from a trio of witches that one day he will become King of Scotland. Consumed by ambition and spurred to action by his wife, Macbeth murders his king and takes the throne for himself.",
+      "releaseInfo": 2015,
+      "imdbRating": 6.6
+    },
+    {
+      "id": "tt27419466",
+      "type": "movie",
+      "name": "Moana",
+      "poster": "https://images.metahub.space/poster/medium/tt27419466/img",
+      "background": "https://images.metahub.space/background/medium/tt27419466/img",
+      "description": "Teenage Moana answers the Ocean's call and, for the first time, voyages beyond the reef of her island of Motunui with infamous demigod Maui on an unforgettable journey to restore prosperity to her people.",
       "releaseInfo": 2026,
-      "imdbRating": 5.4
+      "imdbRating": 5.8
     },
     {
       "id": "tt39120306",
@@ -461,44 +461,44 @@
       "imdbRating": 7.2
     },
     {
-      "id": "tt1262416",
+      "id": "tt27543632",
       "type": "movie",
-      "name": "Scream 4",
-      "poster": "https://images.metahub.space/poster/medium/tt1262416/img",
-      "background": "https://images.metahub.space/background/medium/tt1262416/img",
-      "description": "Fifteen years after the original Woodsboro murders, Sidney Prescott returns home to promote her new book about surviving trauma, only for a new Ghostface killer to emerge, targeting a new group of teens.",
-      "releaseInfo": 2011,
-      "imdbRating": 6.3
+      "name": "The Housemaid",
+      "poster": "https://images.metahub.space/poster/medium/tt27543632/img",
+      "background": "https://images.metahub.space/background/medium/tt27543632/img",
+      "description": "Millie, a struggling young woman, becomes a live-in maid for a wealthy couple, Nina and Andrew. She enters a mansion of secrets, manipulation, and escalating psychological games that pull her into a dangerous relationship dynamic.",
+      "releaseInfo": 2025,
+      "imdbRating": 6.7
     },
     {
-      "id": "tt0083907",
+      "id": "tt12583926",
       "type": "movie",
-      "name": "The Evil Dead",
-      "poster": "https://images.metahub.space/poster/medium/tt0083907/img",
-      "background": "https://images.metahub.space/background/medium/tt0083907/img",
-      "description": "In 1979, a group of college students find a Sumerian Book of the Dead in an old wilderness cabin they've rented for a weekend getaway.",
-      "releaseInfo": 1981,
-      "imdbRating": 7.3
+      "name": "Anniversary",
+      "poster": "https://images.metahub.space/poster/medium/tt12583926/img",
+      "background": "https://images.metahub.space/background/medium/tt12583926/img",
+      "description": "When Ellen and Paul’s son Josh introduces his new girlfriend at their 25th anniversary party, no one suspects that it is the beginning of the end for this happy family. The new girlfriend is Liz, Ellen’s former student, who left the university, some years before, after Ellen called her out in class for her radical ideology.",
+      "releaseInfo": 2025,
+      "imdbRating": 6.7
     },
     {
-      "id": "tt0844708",
+      "id": "tt10665342",
       "type": "movie",
-      "name": "The Last House on the Left",
-      "poster": "https://images.metahub.space/poster/medium/tt0844708/img",
-      "background": "https://images.metahub.space/background/medium/tt0844708/img",
-      "description": "When athletic teen Mari Collingwood opts to hang out with her friend Paige in town rather than spend an evening in with her parents vacationing at the family's remote lake house, it marks the beginning of a night no one is going to forget.",
-      "releaseInfo": 2009,
-      "imdbRating": 6.5
+      "name": "Halloween Ends",
+      "poster": "https://images.metahub.space/poster/medium/tt10665342/img",
+      "background": "https://images.metahub.space/background/medium/tt10665342/img",
+      "description": "Four years after the events of Halloween in 2018, Laurie has decided to liberate herself from fear and rage and embrace life. But when a young man is accused of killing a boy he was babysitting, it ignites a cascade of violence and terror that will force Laurie to finally confront the evil she can’t control, once and for all.",
+      "releaseInfo": 2022,
+      "imdbRating": 5
     },
     {
-      "id": "tt32321803",
+      "id": "tt3724898",
       "type": "movie",
-      "name": "The Get Out",
-      "poster": "https://images.metahub.space/poster/medium/tt32321803/img",
-      "background": "https://images.metahub.space/background/medium/tt32321803/img",
-      "description": "A nightclub owner is on the verge of leaving his dangerous past behind for retirement with his girlfriend. When masked gunmen rob him and he finds himself squeezed by ruthless cartels, a mysterious newcomer arrives with an interest in buying the business. With danger closing in from all sides, he must navigate a deadly web of deception, power, and survival  -  where escape may no longer be an option.",
-      "releaseInfo": 2026,
-      "imdbRating": 5.7
+      "name": "Ludo",
+      "poster": "https://images.metahub.space/poster/medium/tt3724898/img",
+      "background": "https://images.metahub.space/background/medium/tt3724898/img",
+      "description": "Needing a secluded place for a late-night tryst, two couples stow away in a mall after hours, but are quickly ensnared in a gruesome and deadly game.",
+      "releaseInfo": 2015,
+      "imdbRating": 2.8
     }
   ]
 }
