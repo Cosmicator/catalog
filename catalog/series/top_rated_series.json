@@ -342,17 +342,6 @@
       "imdbRating": "8.1"
     },
     {
-      "id": "tt0914387",
-      "type": "series",
-      "name": "Damages",
-      "poster": "https://images.metahub.space/poster/small/tt0914387/img",
-      "background": "https://images.metahub.space/background/medium/tt0914387/img",
-      "logo": "https://images.metahub.space/logo/medium/tt0914387/img",
-      "description": "A law school graduate becomes the protégée of a successful high-stakes litigator.",
-      "releaseInfo": "2007–2012",
-      "imdbRating": "8.1"
-    },
-    {
       "id": "tt0092400",
       "type": "series",
       "name": "Married... with Children",
@@ -460,17 +449,6 @@
       "imdbRating": "8.0"
     },
     {
-      "id": "tt9288030",
-      "type": "series",
-      "name": "Reacher",
-      "poster": "https://images.metahub.space/poster/small/tt9288030/img",
-      "background": "https://images.metahub.space/background/medium/tt9288030/img",
-      "logo": "https://images.metahub.space/logo/medium/tt9288030/img",
-      "description": "Itinerant former military policeman Jack Reacher solves crimes and metes out his own brand of street justice. Based on the novels by Lee Child.",
-      "releaseInfo": "2022–",
-      "imdbRating": "8.0"
-    },
-    {
       "id": "tt4643084",
       "type": "series",
       "name": "Counterpart",
@@ -479,6 +457,17 @@
       "logo": "https://images.metahub.space/logo/medium/tt4643084/img",
       "description": "A cog in a bureaucratic agency discovers his agency is guarding a crossing to a parallel dimension.",
       "releaseInfo": "2017–2019",
+      "imdbRating": "8.0"
+    },
+    {
+      "id": "tt9288030",
+      "type": "series",
+      "name": "Reacher",
+      "poster": "https://images.metahub.space/poster/small/tt9288030/img",
+      "background": "https://images.metahub.space/background/medium/tt9288030/img",
+      "logo": "https://images.metahub.space/logo/medium/tt9288030/img",
+      "description": "Itinerant former military policeman Jack Reacher solves crimes and metes out his own brand of street justice. Based on the novels by Lee Child.",
+      "releaseInfo": "2022–",
       "imdbRating": "8.0"
     },
     {
@@ -545,6 +534,17 @@
       "logo": "https://live.metahub.space/logo/medium/tt4014320/img",
       "description": "When a small-town girl , Nandini Murty, wins a scholarship to a prestigious Mumbai academy, she clashes with FAB5, the school's elite and arrogant musical clique and it's leader. What begins as a bitter rivalry soon evolves into a passionate, tumultuous romance with the band's enigmatic leader, Manik Malhotra.",
       "releaseInfo": "2014–2023",
+      "imdbRating": "7.9"
+    },
+    {
+      "id": "tt0484243",
+      "type": "series",
+      "name": "A Haunting",
+      "poster": "https://images.metahub.space/poster/small/tt0484243/img",
+      "background": "https://images.metahub.space/background/medium/tt0484243/img",
+      "logo": "https://images.metahub.space/logo/medium/tt0484243/img",
+      "description": "\"A Haunting\" was a USA paranormal anthology previewing stories told by the victims. Victims tell their terrifying encounters with the paranormal. This show contains narration, frightening re-enactments, and religious content.",
+      "releaseInfo": "2005–2022",
       "imdbRating": "7.9"
     }
   ]

@@ -351,16 +351,6 @@
       "imdbRating": 5.8
     },
     {
-      "id": "tt33335204",
-      "type": "movie",
-      "name": "Peak Everything",
-      "poster": "https://images.metahub.space/poster/medium/tt33335204/img",
-      "background": "https://images.metahub.space/background/medium/tt33335204/img",
-      "description": "A kennel owner, grappling with climate anxiety, falls in love with a customer service rep over the phone. Amid a natural disaster, he embarks on an adventurous, bilingual romantic journey to find her.",
-      "releaseInfo": 2025,
-      "imdbRating": 6.2
-    },
-    {
       "id": "tt9000310",
       "type": "movie",
       "name": "Ghost in the Cell",
@@ -441,16 +431,6 @@
       "imdbRating": 8.2
     },
     {
-      "id": "tt2798920",
-      "type": "movie",
-      "name": "Annihilation",
-      "poster": "https://images.metahub.space/poster/medium/tt2798920/img",
-      "background": "https://images.metahub.space/background/medium/tt2798920/img",
-      "description": "A biologist signs up for a dangerous, secret expedition into a mysterious zone where the laws of nature don't apply.",
-      "releaseInfo": 2018,
-      "imdbRating": 6.8
-    },
-    {
       "id": "tt1262416",
       "type": "movie",
       "name": "Scream 4",
@@ -469,6 +449,16 @@
       "description": "In the smog-choked dystopian Los Angeles of 2019, blade runner Rick Deckard is called out of retirement to terminate a quartet of replicants who have escaped to Earth seeking their creator for a way to extend their short life spans.",
       "releaseInfo": 1982,
       "imdbRating": 8.1
+    },
+    {
+      "id": "tt37027309",
+      "type": "movie",
+      "name": "Therapy Done Right",
+      "poster": "https://images.metahub.space/poster/medium/tt37027309/img",
+      "background": "https://images.metahub.space/background/medium/tt37027309/img",
+      "description": "A renowned psychoanalyst, disillusioned with traditional therapy, begins to secretly intervene in his patients' lives, achieving remarkable results - until a creatively blocked writer enters his practice.",
+      "releaseInfo": 2026,
+      "imdbRating": 6.2
     },
     {
       "id": "tt22938576",
@@ -499,6 +489,16 @@
       "description": "Plot under wraps.",
       "releaseInfo": 2025,
       "imdbRating": 6.3
+    },
+    {
+      "id": "tt37535100",
+      "type": "movie",
+      "name": "Bethlehem Kudumba Unit",
+      "poster": "https://images.metahub.space/poster/medium/tt37535100/img",
+      "background": "https://images.metahub.space/background/medium/tt37535100/img",
+      "description": "Ashley's homecoming from abroad takes an emotional turn when a wedding next door stirs memories of her first love, Justin.",
+      "releaseInfo": 2026,
+      "imdbRating": 8
     }
   ]
 }
