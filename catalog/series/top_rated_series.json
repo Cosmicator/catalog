@@ -526,17 +526,6 @@
       "imdbRating": "7.9"
     },
     {
-      "id": "tt16358384",
-      "type": "series",
-      "name": "Tulsa King",
-      "poster": "https://images.metahub.space/poster/small/tt16358384/img",
-      "background": "https://images.metahub.space/background/medium/tt16358384/img",
-      "logo": "https://images.metahub.space/logo/medium/tt16358384/img",
-      "description": "After being released from prison after 25 years, New York Mafia capo Dwight \"The General\" Manfredi is exiled to Tulsa, Oklahoma.",
-      "releaseInfo": "2022–",
-      "imdbRating": "7.9"
-    },
-    {
       "id": "tt2137109",
       "type": "series",
       "name": "Masters of Sex",
@@ -545,6 +534,17 @@
       "logo": "https://images.metahub.space/logo/medium/tt2137109/img",
       "description": "Drama about the pioneers of the science of human sexuality whose research touched off the sexual revolution.",
       "releaseInfo": "2013–2016",
+      "imdbRating": "7.9"
+    },
+    {
+      "id": "tt16358384",
+      "type": "series",
+      "name": "Tulsa King",
+      "poster": "https://images.metahub.space/poster/small/tt16358384/img",
+      "background": "https://images.metahub.space/background/medium/tt16358384/img",
+      "logo": "https://images.metahub.space/logo/medium/tt16358384/img",
+      "description": "After being released from prison after 25 years, New York Mafia capo Dwight \"The General\" Manfredi is exiled to Tulsa, Oklahoma.",
+      "releaseInfo": "2022–",
       "imdbRating": "7.9"
     }
   ]
