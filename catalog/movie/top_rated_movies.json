@@ -34,17 +34,6 @@
       "imdbRating": "8.9"
     },
     {
-      "id": "tt0291855",
-      "type": "movie",
-      "name": "Devasuram",
-      "poster": "https://live.metahub.space/poster/small/tt0291855/img",
-      "background": "https://live.metahub.space/background/medium/tt0291855/img",
-      "logo": "https://live.metahub.space/logo/medium/tt0291855/img",
-      "description": "Neelakanthan squanders away the inheritance left by his father. However, his life turns upside down when his mother reveals a terrible secret on her deathbed that changes the course of his life.",
-      "releaseInfo": "1993",
-      "imdbRating": "8.7"
-    },
-    {
       "id": "tt36931126",
       "type": "movie",
       "name": "Immortal",
@@ -53,6 +42,28 @@
       "logo": "https://live.metahub.space/logo/medium/tt36931126/img",
       "description": "An unsuspecting man finds himself at the center of a series of mysterious deaths, forcing him to confront a truth that could cost him everything.",
       "releaseInfo": "2026",
+      "imdbRating": "8.7"
+    },
+    {
+      "id": "tt7738784",
+      "type": "movie",
+      "name": "Peranbu",
+      "poster": "https://images.metahub.space/poster/small/tt7738784/img",
+      "background": "https://images.metahub.space/background/medium/tt7738784/img",
+      "logo": "https://images.metahub.space/logo/medium/tt7738784/img",
+      "description": "A single father tries to raise his daughter, who has cerebral palsy, even as she is beginning to wake up to her sexuality.",
+      "releaseInfo": "2018",
+      "imdbRating": "8.7"
+    },
+    {
+      "id": "tt7466810",
+      "type": "movie",
+      "name": "777 Charlie",
+      "poster": "https://images.metahub.space/poster/small/tt7466810/img",
+      "background": "https://images.metahub.space/background/medium/tt7466810/img",
+      "logo": "https://images.metahub.space/logo/medium/tt7466810/img",
+      "description": "Dharma is stuck in a rut with his negative and lonely lifestyle and spends each day in the comfort of his loneliness. A pup named Charlie enters his life and gives him a new perspective towards it.",
+      "releaseInfo": "2022",
       "imdbRating": "8.7"
     },
     {
@@ -119,17 +130,6 @@
       "imdbRating": "8.4"
     },
     {
-      "id": "tt3394420",
-      "type": "movie",
-      "name": "Ulidavaru Kandanthe",
-      "poster": "https://images.metahub.space/poster/small/tt3394420/img",
-      "background": "https://images.metahub.space/background/medium/tt3394420/img",
-      "logo": "https://images.metahub.space/logo/medium/tt3394420/img",
-      "description": "A journalist sets out to uncover the truth behind an incident, through the perspectives of different people, unraveling how they and their lives are intertwined with it.",
-      "releaseInfo": "2014",
-      "imdbRating": "8.4"
-    },
-    {
       "id": "tt0072190",
       "type": "movie",
       "name": "Sonar Kella",
@@ -152,15 +152,15 @@
       "imdbRating": "8.3"
     },
     {
-      "id": "tt12042730",
+      "id": "tt10280296",
       "type": "movie",
-      "name": "Project Hail Mary",
-      "poster": "https://images.metahub.space/poster/small/tt12042730/img",
-      "background": "https://images.metahub.space/background/medium/tt12042730/img",
-      "logo": "https://images.metahub.space/logo/medium/tt12042730/img",
-      "description": "A science teacher wakes up alone on a spaceship. As his memory returns, he uncovers a mission to stop a mysterious substance killing Earth's sun, and realizes that an unexpected friendship may be the key.",
-      "releaseInfo": "2026",
-      "imdbRating": "8.2"
+      "name": "Sardar Udham",
+      "poster": "https://images.metahub.space/poster/small/tt10280296/img",
+      "background": "https://images.metahub.space/background/medium/tt10280296/img",
+      "logo": "https://images.metahub.space/logo/medium/tt10280296/img",
+      "description": "Punjabi Sikh revolutionary Udham Singh spends two decades planning the assassination of the man responsible for the Jallianwala Bagh massacre.",
+      "releaseInfo": "2021",
+      "imdbRating": "8.3"
     },
     {
       "id": "tt4430212",
@@ -171,6 +171,17 @@
       "logo": "https://images.metahub.space/logo/medium/tt4430212/img",
       "description": "Desperate measures are taken by a man who tries to save his family from the dark side of the law, after they commit an unexpected crime.",
       "releaseInfo": "2015",
+      "imdbRating": "8.2"
+    },
+    {
+      "id": "tt12042730",
+      "type": "movie",
+      "name": "Project Hail Mary",
+      "poster": "https://images.metahub.space/poster/small/tt12042730/img",
+      "background": "https://images.metahub.space/background/medium/tt12042730/img",
+      "logo": "https://images.metahub.space/logo/medium/tt12042730/img",
+      "description": "A science teacher wakes up alone on a spaceship. As his memory returns, he uncovers a mission to stop a mysterious substance killing Earth's sun, and realizes that an unexpected friendship may be the key.",
+      "releaseInfo": "2026",
       "imdbRating": "8.2"
     },
     {
@@ -207,17 +218,6 @@
       "imdbRating": "8.2"
     },
     {
-      "id": "tt11604676",
-      "type": "movie",
-      "name": "Nayattu",
-      "poster": "https://images.metahub.space/poster/small/tt11604676/img",
-      "background": "https://images.metahub.space/background/medium/tt11604676/img",
-      "logo": "https://images.metahub.space/logo/medium/tt11604676/img",
-      "description": "Three police officers who are on a run for life, escaping the outbreak against them due to the unlawful arrest and torture of a civilian. It brings in a few shades of arrogant yet very much human police officers and their helpless...",
-      "releaseInfo": "2021",
-      "imdbRating": "8.1"
-    },
-    {
       "id": "tt0083658",
       "type": "movie",
       "name": "Blade Runner",
@@ -226,6 +226,17 @@
       "logo": "https://images.metahub.space/logo/medium/tt0083658/img",
       "description": "A blade runner must pursue and terminate four replicants who stole a ship in space and have returned to Earth to find their creator.",
       "releaseInfo": "1982",
+      "imdbRating": "8.1"
+    },
+    {
+      "id": "tt6315524",
+      "type": "movie",
+      "name": "Take Off",
+      "poster": "https://images.metahub.space/poster/small/tt6315524/img",
+      "background": "https://images.metahub.space/background/medium/tt6315524/img",
+      "logo": "https://images.metahub.space/logo/medium/tt6315524/img",
+      "description": "In 2014, a group of Malayali nurses was captured when terrorists took over the city of Tikrit in Iraq. This movie recounts the ordeal suffered by the nurses following their capture.",
+      "releaseInfo": "2017",
       "imdbRating": "8.1"
     },
     {
@@ -251,17 +262,6 @@
       "imdbRating": "8.0"
     },
     {
-      "id": "tt0366840",
-      "type": "movie",
-      "name": "Okkadu",
-      "poster": "https://images.metahub.space/poster/small/tt0366840/img",
-      "background": "https://images.metahub.space/background/medium/tt0366840/img",
-      "logo": "https://images.metahub.space/logo/medium/tt0366840/img",
-      "description": "A Kabbadi player rescues a young woman from an unwanted marriage and hides her in his home.",
-      "releaseInfo": "2003",
-      "imdbRating": "8.0"
-    },
-    {
       "id": "tt0454921",
       "type": "movie",
       "name": "The Pursuit of Happyness",
@@ -273,36 +273,25 @@
       "imdbRating": "8.0"
     },
     {
-      "id": "tt4833824",
+      "id": "tt11581174",
       "type": "movie",
-      "name": "Uppi 2",
-      "poster": "https://images.metahub.space/poster/small/tt4833824/img",
-      "background": "https://images.metahub.space/background/medium/tt4833824/img",
-      "logo": "https://images.metahub.space/logo/medium/tt4833824/img",
-      "description": "A psychological thriller which depicts the fact that \"Today is a gift - that's why it's called Present\" in an unusual way. It is about a man called Neenu, who lives in the present. The film takes the audience through a journey of ...",
-      "releaseInfo": "2015",
-      "imdbRating": "7.9"
+      "name": "Karnan",
+      "poster": "https://images.metahub.space/poster/small/tt11581174/img",
+      "background": "https://images.metahub.space/background/medium/tt11581174/img",
+      "logo": "https://images.metahub.space/logo/medium/tt11581174/img",
+      "description": "Karnan, a fearless village youth, must fight for the rights of the conservative people of his village, due to the torture given by a police officer.",
+      "releaseInfo": "2021",
+      "imdbRating": "8.0"
     },
     {
-      "id": "tt15546822",
+      "id": "tt1214961",
       "type": "movie",
-      "name": "Mukundan Unni Associates",
-      "poster": "https://images.metahub.space/poster/small/tt15546822/img",
-      "background": "https://images.metahub.space/background/medium/tt15546822/img",
-      "logo": "https://images.metahub.space/logo/medium/tt15546822/img",
-      "description": "Advocate Mukundan Unni, played by Vineeth Sreenivasan wants to be successful and leaves no stone unturned to achieve growth, prosperity, and respect. But this steadfast nature aided with an ample dose of greed comes with a cost.",
-      "releaseInfo": "2022",
-      "imdbRating": "7.9"
-    },
-    {
-      "id": "tt2585562",
-      "type": "movie",
-      "name": "Pizza",
-      "poster": "https://images.metahub.space/poster/small/tt2585562/img",
-      "background": "https://images.metahub.space/background/medium/tt2585562/img",
-      "logo": "https://images.metahub.space/logo/medium/tt2585562/img",
-      "description": "A pizza delivery boy lands in a mysterious circumstance and it works a dramatic change in his life.",
-      "releaseInfo": "2012",
+      "name": "Happy Days",
+      "poster": "https://images.metahub.space/poster/small/tt1214961/img",
+      "background": "https://images.metahub.space/background/medium/tt1214961/img",
+      "logo": "https://images.metahub.space/logo/medium/tt1214961/img",
+      "description": "A group of eight youngsters from an engineering college form an unbreakable friendship after going through various struggles together.",
+      "releaseInfo": "2007",
       "imdbRating": "7.9"
     },
     {
@@ -317,6 +306,28 @@
       "imdbRating": "7.8"
     },
     {
+      "id": "tt0240200",
+      "type": "movie",
+      "name": "Water",
+      "poster": "https://images.metahub.space/poster/small/tt0240200/img",
+      "background": "https://images.metahub.space/background/medium/tt0240200/img",
+      "logo": "https://images.metahub.space/logo/medium/tt0240200/img",
+      "description": "Set in colonial India against Gandhi's rise to power, it's the story of 8-year-old Chuyia, who is widowed and sent to a home to live in penitence; once there, Chuyia's feisty presence deeply affects the lives of the other residents.",
+      "releaseInfo": "2006",
+      "imdbRating": "7.7"
+    },
+    {
+      "id": "tt1705772",
+      "type": "movie",
+      "name": "Mankatha",
+      "poster": "https://images.metahub.space/poster/small/tt1705772/img",
+      "background": "https://images.metahub.space/background/medium/tt1705772/img",
+      "logo": "https://images.metahub.space/logo/medium/tt1705772/img",
+      "description": "Vinayak, a suspended cop, helps a group of four men rob cricket betting money amounting to 500 crores INR. When it comes to splitting the amount, betrayal hits the team hard and a chase ensues.",
+      "releaseInfo": "2011",
+      "imdbRating": "7.7"
+    },
+    {
       "id": "tt1408101",
       "type": "movie",
       "name": "Star Trek Into Darkness",
@@ -325,6 +336,17 @@
       "logo": "https://images.metahub.space/logo/medium/tt1408101/img",
       "description": "After the crew of the Enterprise find an unstoppable force of terror from within their own organization, Captain Kirk leads a manhunt to a war-zone world to capture a one-man weapon of mass destruction.",
       "releaseInfo": "2013",
+      "imdbRating": "7.7"
+    },
+    {
+      "id": "tt2258337",
+      "type": "movie",
+      "name": "Eega",
+      "poster": "https://images.metahub.space/poster/small/tt2258337/img",
+      "background": "https://images.metahub.space/background/medium/tt2258337/img",
+      "logo": "https://images.metahub.space/logo/medium/tt2258337/img",
+      "description": "Nani loves Bindu but is killed by a jealous Sudeep, who lusts after Bindu. Nani is reincarnated as a fly and decides to avenge his death. He teams up with Bindu to make Sudeep's life a living hell.",
+      "releaseInfo": "2012",
       "imdbRating": "7.7"
     },
     {
@@ -350,17 +372,6 @@
       "imdbRating": "7.6"
     },
     {
-      "id": "tt2855648",
-      "type": "movie",
-      "name": "Madras Cafe",
-      "poster": "https://images.metahub.space/poster/small/tt2855648/img",
-      "background": "https://images.metahub.space/background/medium/tt2855648/img",
-      "logo": "https://images.metahub.space/logo/medium/tt2855648/img",
-      "description": "An Indian intelligence agent journeys to a war-torn coastal island to break a resolute rebel group and meets a passionate journalist.",
-      "releaseInfo": "2013",
-      "imdbRating": "7.6"
-    },
-    {
       "id": "tt6484982",
       "type": "movie",
       "name": "Newton",
@@ -372,25 +383,14 @@
       "imdbRating": "7.6"
     },
     {
-      "id": "tt8042292",
+      "id": "tt0299108",
       "type": "movie",
-      "name": "Kannum Kannum Kollaiyadithaal",
-      "poster": "https://images.metahub.space/poster/small/tt8042292/img",
-      "background": "https://images.metahub.space/background/medium/tt8042292/img",
-      "logo": "https://images.metahub.space/logo/medium/tt8042292/img",
-      "description": "Two wily online scammers mend their fraudulent ways after meeting the girls of their dreams - until a deceitful discovery throws their world for a loop.",
-      "releaseInfo": "2020",
-      "imdbRating": "7.6"
-    },
-    {
-      "id": "tt0312004",
-      "type": "movie",
-      "name": "Wallace & Gromit: The Curse of the Were-Rabbit",
-      "poster": "https://images.metahub.space/poster/small/tt0312004/img",
-      "background": "https://images.metahub.space/background/medium/tt0312004/img",
-      "logo": "https://images.metahub.space/logo/medium/tt0312004/img",
-      "description": "Wallace and his loyal dog, Gromit, set out to discover the mystery behind the garden sabotage that plagues their village and threatens the annual giant vegetable growing contest.",
-      "releaseInfo": "2005",
+      "name": "Rehnaa Hai Terre Dil Mein",
+      "poster": "https://images.metahub.space/poster/small/tt0299108/img",
+      "background": "https://images.metahub.space/background/medium/tt0299108/img",
+      "logo": "https://images.metahub.space/logo/medium/tt0299108/img",
+      "description": "Maddy impersonates Rajeev, the person his love interest, Reena, is about to marry and attempts to woo her. However, he is unprepared for the moment when the truth will be revealed.",
+      "releaseInfo": "2001",
       "imdbRating": "7.5"
     },
     {
@@ -405,6 +405,17 @@
       "imdbRating": "7.5"
     },
     {
+      "id": "tt1166100",
+      "type": "movie",
+      "name": "Ghajini",
+      "poster": "https://images.metahub.space/poster/small/tt1166100/img",
+      "background": "https://images.metahub.space/background/medium/tt1166100/img",
+      "logo": "https://images.metahub.space/logo/medium/tt1166100/img",
+      "description": "A short-term memory loss patient goes on a killing spree in order to avenge the death of his ladylove.",
+      "releaseInfo": "2008",
+      "imdbRating": "7.4"
+    },
+    {
       "id": "tt0094721",
       "type": "movie",
       "name": "Beetlejuice",
@@ -416,47 +427,47 @@
       "imdbRating": "7.4"
     },
     {
-      "id": "tt8388508",
+      "id": "tt0114234",
       "type": "movie",
-      "name": "Dear Comrade",
-      "poster": "https://images.metahub.space/poster/small/tt8388508/img",
-      "background": "https://images.metahub.space/background/medium/tt8388508/img",
-      "logo": "https://images.metahub.space/logo/medium/tt8388508/img",
-      "description": "A hot-blooded student union leader falls for a state-level cricketer but his anger management issues and violent streak threatens to derail their love story.",
-      "releaseInfo": "2019",
-      "imdbRating": "7.3"
+      "name": "Rangeela",
+      "poster": "https://images.metahub.space/poster/small/tt0114234/img",
+      "background": "https://images.metahub.space/background/medium/tt0114234/img",
+      "logo": "https://images.metahub.space/logo/medium/tt0114234/img",
+      "description": "A middle-class young woman who dreams of Bollywood fame is caught in a love triangle between her childhood friend and a famous actor.",
+      "releaseInfo": "1995",
+      "imdbRating": "7.4"
     },
     {
-      "id": "tt0087363",
+      "id": "tt15477504",
       "type": "movie",
-      "name": "Gremlins",
-      "poster": "https://images.metahub.space/poster/small/tt0087363/img",
-      "background": "https://images.metahub.space/background/medium/tt0087363/img",
-      "logo": "https://images.metahub.space/logo/medium/tt0087363/img",
-      "description": "After receiving an exotic small animal as a Christmas gift, a young man inadvertently breaks three important rules concerning his new pet, which unleashes a horde of malevolently mischievous creatures on a small town.",
-      "releaseInfo": "1984",
-      "imdbRating": "7.3"
-    },
-    {
-      "id": "tt15145764",
-      "type": "movie",
-      "name": "Freddy",
-      "poster": "https://images.metahub.space/poster/small/tt15145764/img",
-      "background": "https://images.metahub.space/background/medium/tt15145764/img",
-      "logo": "https://images.metahub.space/logo/medium/tt15145764/img",
-      "description": "The lines between love and obsession blur in this romantic thriller packed with unpredictable twists and sharp turns.",
+      "name": "Nanpakal Nerathu Mayakkam",
+      "poster": "https://images.metahub.space/poster/small/tt15477504/img",
+      "background": "https://images.metahub.space/background/medium/tt15477504/img",
+      "logo": "https://images.metahub.space/logo/medium/tt15477504/img",
+      "description": "James wakes up irritable on a bus, believing he is Sundaram, a man who vanished from a quiet village years prior.",
       "releaseInfo": "2022",
-      "imdbRating": "7.3"
+      "imdbRating": "7.4"
     },
     {
-      "id": "tt0082348",
+      "id": "tt15464390",
       "type": "movie",
-      "name": "Excalibur",
-      "poster": "https://images.metahub.space/poster/small/tt0082348/img",
-      "background": "https://images.metahub.space/background/medium/tt0082348/img",
-      "logo": "https://images.metahub.space/logo/medium/tt0082348/img",
-      "description": "Merlin the magician helps Arthur Pendragon unite the Britons around the Round Table of Camelot, even as dark forces conspire to tear it apart.",
-      "releaseInfo": "1981",
+      "name": "Mastaney",
+      "poster": "https://live.metahub.space/poster/small/tt15464390/img",
+      "background": "https://live.metahub.space/background/medium/tt15464390/img",
+      "logo": "https://live.metahub.space/logo/medium/tt15464390/img",
+      "description": "Set in 1739, Nader Shah's undefeated army is attacked by Sikh rebellions. Nadar demands their arrest to no avail. Five civilians are hired to play Sikh rebels but over time, they learn the Sikh way.",
+      "releaseInfo": "2023",
+      "imdbRating": "7.4"
+    },
+    {
+      "id": "tt2178470",
+      "type": "movie",
+      "name": "Yeh Jawaani Hai Deewani",
+      "poster": "https://images.metahub.space/poster/small/tt2178470/img",
+      "background": "https://images.metahub.space/background/medium/tt2178470/img",
+      "logo": "https://images.metahub.space/logo/medium/tt2178470/img",
+      "description": "Kabir and Naina bond during a trekking trip. Before Naina can express herself, Kabir leaves India to pursue his career. They meet again years later, but he still cherishes his dreams more than bonds.",
+      "releaseInfo": "2013",
       "imdbRating": "7.3"
     },
     {
@@ -471,35 +482,46 @@
       "imdbRating": "7.3"
     },
     {
-      "id": "tt6720802",
+      "id": "tt1345777",
       "type": "movie",
-      "name": "Trance",
-      "poster": "https://images.metahub.space/poster/small/tt6720802/img",
-      "background": "https://images.metahub.space/background/medium/tt6720802/img",
-      "logo": "https://images.metahub.space/logo/medium/tt6720802/img",
-      "description": "A disheartened motivational speaker gets hired by a corporate to become a preacher until his live stint on television puts him and his service under the scanner.",
-      "releaseInfo": "2020",
+      "name": "Ishqiya",
+      "poster": "https://images.metahub.space/poster/small/tt1345777/img",
+      "background": "https://images.metahub.space/background/medium/tt1345777/img",
+      "logo": "https://images.metahub.space/logo/medium/tt1345777/img",
+      "description": "While on the run from goons, a man and his nephew fall for a kidnapper's seductive widow.",
+      "releaseInfo": "2010",
       "imdbRating": "7.3"
     },
     {
-      "id": "tt7986222",
+      "id": "tt0087363",
       "type": "movie",
-      "name": "Kolamavu Kokila",
-      "poster": "https://images.metahub.space/poster/small/tt7986222/img",
-      "background": "https://images.metahub.space/background/medium/tt7986222/img",
-      "logo": "https://images.metahub.space/logo/medium/tt7986222/img",
-      "description": "To save her mother from terminal cancer, a young girl gets herself involved with the drug trafficking mafia active in the small towns of Tamil Nadu.",
-      "releaseInfo": "2018",
+      "name": "Gremlins",
+      "poster": "https://images.metahub.space/poster/small/tt0087363/img",
+      "background": "https://images.metahub.space/background/medium/tt0087363/img",
+      "logo": "https://images.metahub.space/logo/medium/tt0087363/img",
+      "description": "After receiving an exotic small animal as a Christmas gift, a young man inadvertently breaks three important rules concerning his new pet, which unleashes a horde of malevolently mischievous creatures on a small town.",
+      "releaseInfo": "1984",
       "imdbRating": "7.3"
     },
     {
-      "id": "tt1373156",
+      "id": "tt0082348",
       "type": "movie",
-      "name": "Karthik Calling Karthik",
-      "poster": "https://images.metahub.space/poster/small/tt1373156/img",
-      "background": "https://images.metahub.space/background/medium/tt1373156/img",
-      "logo": "https://images.metahub.space/logo/medium/tt1373156/img",
-      "description": "A much abused loner achieves success and even wins the heart of his gorgeous co-worker, after getting early morning mysterious phone calls from someone.",
+      "name": "Excalibur",
+      "poster": "https://images.metahub.space/poster/small/tt0082348/img",
+      "background": "https://images.metahub.space/background/medium/tt0082348/img",
+      "logo": "https://images.metahub.space/logo/medium/tt0082348/img",
+      "description": "Merlin the magician helps Arthur Pendragon unite the Britons around the Round Table of Camelot, even as dark forces conspire to tear it apart.",
+      "releaseInfo": "1981",
+      "imdbRating": "7.3"
+    },
+    {
+      "id": "tt1305797",
+      "type": "movie",
+      "name": "Enthiran",
+      "poster": "https://images.metahub.space/poster/small/tt1305797/img",
+      "background": "https://images.metahub.space/background/medium/tt1305797/img",
+      "logo": "https://images.metahub.space/logo/medium/tt1305797/img",
+      "description": "A brilliant scientist creates a humanoid robot to protect mankind, but things go awry when human emotions are programmed and inner turmoil causes the robot to switch sides.",
       "releaseInfo": "2010",
       "imdbRating": "7.2"
     },
@@ -523,28 +545,6 @@
       "logo": "https://images.metahub.space/logo/medium/tt35836025/img",
       "description": "Sanjay Vishwanath has devoted decades to excellence as an international shooter. When age, family duties, and an unexpected romance collide with his ambitions, he must confront what truly makes a life worth living.",
       "releaseInfo": "2026",
-      "imdbRating": "7.2"
-    },
-    {
-      "id": "tt0093437",
-      "type": "movie",
-      "name": "The Lost Boys",
-      "poster": "https://images.metahub.space/poster/small/tt0093437/img",
-      "background": "https://images.metahub.space/background/medium/tt0093437/img",
-      "logo": "https://images.metahub.space/logo/medium/tt0093437/img",
-      "description": "When a recently divorced mother and her two teenage boys move to a coastal town to stay with her father, it doesn't take long for the brothers to realize the area is a haven for something much more sinister than party-going surfers.",
-      "releaseInfo": "1987",
-      "imdbRating": "7.2"
-    },
-    {
-      "id": "tt11663228",
-      "type": "movie",
-      "name": "Jailer",
-      "poster": "https://images.metahub.space/poster/small/tt11663228/img",
-      "background": "https://images.metahub.space/background/medium/tt11663228/img",
-      "logo": "https://images.metahub.space/logo/medium/tt11663228/img",
-      "description": "A retired jailer goes on a manhunt to find his son's killers. But the road leads him to a familiar, albeit a bit darker place. Can he emerge from this complex situation successfully?",
-      "releaseInfo": "2023",
       "imdbRating": "7.2"
     }
   ]
