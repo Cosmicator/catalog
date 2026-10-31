@@ -381,16 +381,6 @@
       "imdbRating": 6.9
     },
     {
-      "id": "tt26933824",
-      "type": "series",
-      "name": "Nobody Wants This",
-      "poster": "https://images.metahub.space/poster/medium/tt26933824/img",
-      "background": "https://images.metahub.space/background/medium/tt26933824/img",
-      "description": "Follows the unexpected relationship between a rogue rabbi and an irascible, loud, agnostic woman.",
-      "releaseInfo": 2024,
-      "imdbRating": 7.7
-    },
-    {
       "id": "tt31589662",
       "type": "series",
       "name": "Georgie & Mandy's First Marriage",
@@ -399,6 +389,16 @@
       "description": "Georgie and Mandy raise their young family in Texas while navigating the challenges of adulthood, parenting, and marriage.",
       "releaseInfo": 2024,
       "imdbRating": 7.1
+    },
+    {
+      "id": "tt26933824",
+      "type": "series",
+      "name": "Nobody Wants This",
+      "poster": "https://images.metahub.space/poster/medium/tt26933824/img",
+      "background": "https://images.metahub.space/background/medium/tt26933824/img",
+      "description": "Follows the unexpected relationship between a rogue rabbi and an irascible, loud, agnostic woman.",
+      "releaseInfo": 2024,
+      "imdbRating": 7.7
     },
     {
       "id": "tt5687612",
