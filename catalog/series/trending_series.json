@@ -16,9 +16,9 @@
       "name": "Akka",
       "poster": "https://images.metahub.space/poster/medium/tt29625288/img",
       "background": "https://images.metahub.space/background/medium/tt29625288/img",
-      "description": "Set in the 1980s matriarchal society of a fictional city of Pernuru, South India, women reign supreme and power has a new name - Akka! Akka is the tale of gangster queens whose matriarchal rule is challenged when an outsider brings an unseen threat, spiralling the all-powerful sisterhood into a chaos storm of violence and survival.",
+      "description": "In a kingdom ruled by women, matriarch Bhavani faces her biggest threat in Rudra, a ruthless rebel eyeing her land and legacy.",
       "releaseInfo": 2026,
-      "imdbRating": 0
+      "imdbRating": 5.7
     },
     {
       "id": "tt1196946",
@@ -48,7 +48,7 @@
       "background": "https://images.metahub.space/background/medium/tt36458668/img",
       "description": "When a man in his 30s, Byeon Hyeok Jun, trying to escape the quagmire of debt and starts a super high-value but secretive part-time job leading to an unfolding of unexpected events.",
       "releaseInfo": 2026,
-      "imdbRating": 8.2
+      "imdbRating": 7.5
     },
     {
       "id": "tt39751377",
@@ -58,7 +58,7 @@
       "background": "https://images.metahub.space/background/medium/tt39751377/img",
       "description": "Years after her mother vanished, Sabina follows a mysterious clue to an uncharted island, where she confronts hidden dark secrets within her own family.",
       "releaseInfo": 2026,
-      "imdbRating": 6
+      "imdbRating": 6.3
     },
     {
       "id": "tt23112594",
@@ -158,7 +158,7 @@
       "background": "https://images.metahub.space/background/medium/tt40856820/img",
       "description": "Four friends steal cars to escape debt, but one job spirals into a massive interstate operation. Hunted by loan sharks, cartels, and cops-loyalty is their only hope.",
       "releaseInfo": 2026,
-      "imdbRating": 7.5
+      "imdbRating": 7.4
     },
     {
       "id": "tt14169960",
@@ -298,7 +298,7 @@
       "background": "https://images.metahub.space/background/medium/tt42220724/img",
       "description": "Teens struggle to run a local pizzeria while juggling school, a manic boss and minimum wage in this series based on the hit social media shorts.",
       "releaseInfo": 2026,
-      "imdbRating": 6.5
+      "imdbRating": 6.6
     },
     {
       "id": "tt28077038",
@@ -326,9 +326,9 @@
       "name": "Nocturne",
       "poster": "https://images.metahub.space/poster/medium/tt26598805/img",
       "background": "https://images.metahub.space/background/medium/tt26598805/img",
-      "description": "Ex-soldier Jonah Lynn leaves Philadelphia for a quiet life. When serial killer Jurek Walter threatens his new home and family, Jonah must protect them, even as he sends his FBI agent daughter Saga to track the killer's last victim.",
+      "description": "When a victim of serial killer Jurek Walter turns up alive, detective Jonah Lynn races to find the one person still missing, while his protégé Saga Bauer goes undercover for answers from the killer himself. Based on the bestselling novel by Lars Kepler.",
       "releaseInfo": 2026,
-      "imdbRating": 0
+      "imdbRating": 7.8
     },
     {
       "id": "tt47743267",
@@ -338,17 +338,7 @@
       "background": "https://images.metahub.space/background/medium/tt47743267/img",
       "description": "Successful writer Kabir dates Suhani, who brings peace to his life. While writing the sequel to his hit novel Ishqa Ishqa, inspired by childhood love Arohi, her return brings fresh inspiration but threatens his relationship with Suhani.",
       "releaseInfo": 2026,
-      "imdbRating": 8.1
-    },
-    {
-      "id": "tt4014320",
-      "type": "series",
-      "name": "Kaisi Yeh Yaariyan",
-      "poster": "https://images.metahub.space/poster/medium/tt4014320/img",
-      "background": "https://images.metahub.space/background/medium/tt4014320/img",
-      "description": "When a small-town girl , Nandini Murty, wins a scholarship to a prestigious Mumbai academy, she clashes with FAB5, the school's elite and arrogant musical clique and it's leader. What begins as a bitter rivalry soon evolves into a passionate, tumultuous romance with the band's enigmatic leader, Manik Malhotra.",
-      "releaseInfo": 2014,
-      "imdbRating": 7.9
+      "imdbRating": 8.2
     },
     {
       "id": "tt42576855",
@@ -358,7 +348,7 @@
       "background": "https://images.metahub.space/background/medium/tt42576855/img",
       "description": "An ambitious street urchin seizes the chance to impersonate a noblewoman and becomes a warlord's bride, but when her comatose husband awakens, she must navigate deadly schemes, win his heart through cunning, and uncover her royal heritage to triumph over rivals and rise from gutter to glory.",
       "releaseInfo": 2026,
-      "imdbRating": 7.6
+      "imdbRating": 7.7
     },
     {
       "id": "tt14688458",
@@ -401,6 +391,16 @@
       "imdbRating": 8
     },
     {
+      "id": "tt4014320",
+      "type": "series",
+      "name": "Kaisi Yeh Yaariyan",
+      "poster": "https://images.metahub.space/poster/medium/tt4014320/img",
+      "background": "https://images.metahub.space/background/medium/tt4014320/img",
+      "description": "When a small-town girl , Nandini Murty, wins a scholarship to a prestigious Mumbai academy, she clashes with FAB5, the school's elite and arrogant musical clique and it's leader. What begins as a bitter rivalry soon evolves into a passionate, tumultuous romance with the band's enigmatic leader, Manik Malhotra.",
+      "releaseInfo": 2014,
+      "imdbRating": 7.9
+    },
+    {
       "id": "tt26744306",
       "type": "series",
       "name": "Shwetkali",
@@ -418,7 +418,7 @@
       "background": "https://images.metahub.space/background/medium/tt49522873/img",
       "description": "A battle for supremacy in a town ruled by crime and politics, where a young shooter's love leads him to glory, ruin, and a truth darker than betrayal.",
       "releaseInfo": 2026,
-      "imdbRating": 6.8
+      "imdbRating": 6.7
     },
     {
       "id": "tt5687612",
@@ -429,16 +429,6 @@
       "description": "A portrait into the mind of a dry-witted, sexual, angry, porn-watching, grief-riddled woman, trying to make sense of the world. As she hurls herself headlong at modern living, Fleabag is thrown roughly up against the walls of contemporary London, with all its frenetic energy, late nights, and bright lights.",
       "releaseInfo": 2016,
       "imdbRating": 8.7
-    },
-    {
-      "id": "tt10473150",
-      "type": "series",
-      "name": "Grand Army",
-      "poster": "https://images.metahub.space/poster/medium/tt10473150/img",
-      "background": "https://images.metahub.space/background/medium/tt10473150/img",
-      "description": "The drama series follows five high-school students through struggles with sexual, racial, and economic politics as they strive to succeed and become somebodies.",
-      "releaseInfo": 2020,
-      "imdbRating": 7.4
     },
     {
       "id": "tt11905720",
@@ -488,7 +478,7 @@
       "background": "https://images.metahub.space/background/medium/tt35854736/img",
       "description": "In a world shattered by a devastating cataclysm, a young Earthbender discovers she's the new Avatar after Korra. But in this dangerous era, that title marks her as humanity's destroyer, not its savior. Hunted by both human and spirit enemies, she and her long-lost twin must uncover their mysterious origins and save the Seven Havens before civilization's last strongholds collapse.",
       "releaseInfo": 2026,
-      "imdbRating": 7.9
+      "imdbRating": 8
     },
     {
       "id": "tt4574334",
@@ -499,6 +489,16 @@
       "description": "When a young boy vanishes, a small town uncovers a mystery involving secret experiments, terrifying supernatural forces, and one strange little girl.",
       "releaseInfo": 2016,
       "imdbRating": 8.6
+    },
+    {
+      "id": "tt38732131",
+      "type": "series",
+      "name": "Money Trap",
+      "poster": "https://images.metahub.space/poster/medium/tt38732131/img",
+      "background": "https://images.metahub.space/background/medium/tt38732131/img",
+      "description": "When a mythical map falls into the hands of a legendary scam artist, he decides to pull one last con before leaving it all behind for good.",
+      "releaseInfo": 2026,
+      "imdbRating": 2.4
     }
   ]
 }

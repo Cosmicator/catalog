@@ -6,9 +6,9 @@
       "name": "Akka",
       "poster": "https://images.metahub.space/poster/medium/tt29625288/img",
       "background": "https://images.metahub.space/background/medium/tt29625288/img",
-      "description": "Set in the 1980s matriarchal society of a fictional city of Pernuru, South India, women reign supreme and power has a new name - Akka! Akka is the tale of gangster queens whose matriarchal rule is challenged when an outsider brings an unseen threat, spiralling the all-powerful sisterhood into a chaos storm of violence and survival.",
+      "description": "In a kingdom ruled by women, matriarch Bhavani faces her biggest threat in Rudra, a ruthless rebel eyeing her land and legacy.",
       "releaseInfo": 2026,
-      "imdbRating": 0
+      "imdbRating": 5.7
     },
     {
       "id": "tt1281973",
@@ -76,9 +76,9 @@
       "name": "Nocturne",
       "poster": "https://images.metahub.space/poster/medium/tt26598805/img",
       "background": "https://images.metahub.space/background/medium/tt26598805/img",
-      "description": "Ex-soldier Jonah Lynn leaves Philadelphia for a quiet life. When serial killer Jurek Walter threatens his new home and family, Jonah must protect them, even as he sends his FBI agent daughter Saga to track the killer's last victim.",
+      "description": "When a victim of serial killer Jurek Walter turns up alive, detective Jonah Lynn races to find the one person still missing, while his protégé Saga Bauer goes undercover for answers from the killer himself. Based on the bestselling novel by Lars Kepler.",
       "releaseInfo": 2026,
-      "imdbRating": 0
+      "imdbRating": 7.8
     },
     {
       "id": "tt36458668",
@@ -88,7 +88,7 @@
       "background": "https://images.metahub.space/background/medium/tt36458668/img",
       "description": "When a man in his 30s, Byeon Hyeok Jun, trying to escape the quagmire of debt and starts a super high-value but secretive part-time job leading to an unfolding of unexpected events.",
       "releaseInfo": 2026,
-      "imdbRating": 8.2
+      "imdbRating": 7.5
     },
     {
       "id": "tt13854248",
@@ -118,7 +118,7 @@
       "background": "https://images.metahub.space/background/medium/tt39751377/img",
       "description": "Years after her mother vanished, Sabina follows a mysterious clue to an uncharted island, where she confronts hidden dark secrets within her own family.",
       "releaseInfo": 2026,
-      "imdbRating": 6
+      "imdbRating": 6.3
     },
     {
       "id": "tt0455275",
@@ -298,7 +298,7 @@
       "background": "https://images.metahub.space/background/medium/tt40856820/img",
       "description": "Four friends steal cars to escape debt, but one job spirals into a massive interstate operation. Hunted by loan sharks, cartels, and cops-loyalty is their only hope.",
       "releaseInfo": 2026,
-      "imdbRating": 7.5
+      "imdbRating": 7.4
     },
     {
       "id": "tt13196080",
@@ -381,16 +381,6 @@
       "imdbRating": 9.5
     },
     {
-      "id": "tt4014320",
-      "type": "series",
-      "name": "Kaisi Yeh Yaariyan",
-      "poster": "https://images.metahub.space/poster/medium/tt4014320/img",
-      "background": "https://images.metahub.space/background/medium/tt4014320/img",
-      "description": "When a small-town girl , Nandini Murty, wins a scholarship to a prestigious Mumbai academy, she clashes with FAB5, the school's elite and arrogant musical clique and it's leader. What begins as a bitter rivalry soon evolves into a passionate, tumultuous romance with the band's enigmatic leader, Manik Malhotra.",
-      "releaseInfo": 2014,
-      "imdbRating": 7.9
-    },
-    {
       "id": "tt34675596",
       "type": "series",
       "name": "Cape Fear",
@@ -409,6 +399,16 @@
       "description": "To carry out the biggest heist in history, a mysterious man called The Professor recruits a band of eight robbers who have a single characteristic: none of them has anything to lose. Five months of seclusion - memorizing every step, every detail, every probability - culminate in eleven days locked up in the National Coinage and Stamp Factory of Spain, surrounded by police forces and with dozens of hostages in their power, to find out whether their suicide wager will lead to everything or nothing.",
       "releaseInfo": 2017,
       "imdbRating": 8.2
+    },
+    {
+      "id": "tt36507686",
+      "type": "series",
+      "name": "Ayyana Mane",
+      "poster": "https://images.metahub.space/poster/medium/tt36507686/img",
+      "background": "https://images.metahub.space/background/medium/tt36507686/img",
+      "description": "In a misty mountain estate, three daughters-in-law have died mysteriously. When Jaji marries into the Ayyana Mane family, she faces dark secrets, possible curses, and a deadly threat-supernatural or human.",
+      "releaseInfo": 2025,
+      "imdbRating": 6.9
     },
     {
       "id": "tt38504111",
@@ -431,14 +431,14 @@
       "imdbRating": 7.7
     },
     {
-      "id": "tt36507686",
+      "id": "tt4014320",
       "type": "series",
-      "name": "Ayyana Mane",
-      "poster": "https://images.metahub.space/poster/medium/tt36507686/img",
-      "background": "https://images.metahub.space/background/medium/tt36507686/img",
-      "description": "In a misty mountain estate, three daughters-in-law have died mysteriously. When Jaji marries into the Ayyana Mane family, she faces dark secrets, possible curses, and a deadly threat-supernatural or human.",
-      "releaseInfo": 2025,
-      "imdbRating": 6.9
+      "name": "Kaisi Yeh Yaariyan",
+      "poster": "https://images.metahub.space/poster/medium/tt4014320/img",
+      "background": "https://images.metahub.space/background/medium/tt4014320/img",
+      "description": "When a small-town girl , Nandini Murty, wins a scholarship to a prestigious Mumbai academy, she clashes with FAB5, the school's elite and arrogant musical clique and it's leader. What begins as a bitter rivalry soon evolves into a passionate, tumultuous romance with the band's enigmatic leader, Manik Malhotra.",
+      "releaseInfo": 2014,
+      "imdbRating": 7.9
     },
     {
       "id": "tt31710249",
@@ -471,14 +471,14 @@
       "imdbRating": 7.1
     },
     {
-      "id": "tt29011445",
+      "id": "tt7949218",
       "type": "series",
-      "name": "Where's Wanda?",
-      "poster": "https://images.metahub.space/poster/medium/tt29011445/img",
-      "background": "https://images.metahub.space/background/medium/tt29011445/img",
-      "description": "After the Klatts' daughter goes missing, they take matters into their own hands and hatch a wild plan: Spy on the neighborhood. As they make their way into small-time espionage, shocking secrets come to light one by one.",
-      "releaseInfo": 2024,
-      "imdbRating": 6.5
+      "name": "See",
+      "poster": "https://images.metahub.space/poster/medium/tt7949218/img",
+      "background": "https://images.metahub.space/background/medium/tt7949218/img",
+      "description": "A virus has decimated humankind. Those who survived emerged blind. Centuries later when twins are born with the mythic ability to see, their father must protect his tribe against a threatened queen.",
+      "releaseInfo": 2019,
+      "imdbRating": 7.6
     },
     {
       "id": "tt49702110",
@@ -498,7 +498,7 @@
       "background": "https://images.metahub.space/background/medium/tt35854736/img",
       "description": "In a world shattered by a devastating cataclysm, a young Earthbender discovers she's the new Avatar after Korra. But in this dangerous era, that title marks her as humanity's destroyer, not its savior. Hunted by both human and spirit enemies, she and her long-lost twin must uncover their mysterious origins and save the Seven Havens before civilization's last strongholds collapse.",
       "releaseInfo": 2026,
-      "imdbRating": 7.9
+      "imdbRating": 8
     }
   ]
 }

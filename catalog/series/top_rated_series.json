@@ -23,17 +23,6 @@
       "imdbRating": "9.2"
     },
     {
-      "id": "tt43730117",
-      "type": "series",
-      "name": "Declassified: Operation Sindoor",
-      "poster": "https://live.metahub.space/poster/small/tt43730117/img",
-      "background": "https://live.metahub.space/background/medium/tt43730117/img",
-      "logo": "https://live.metahub.space/logo/medium/tt43730117/img",
-      "description": "Following the Pahalgam terror attack in April, India's military leadership deliberates and plans Operation Sindoor, an 88-hour military operation launched on May 7, featuring accounts from operatives and experts.",
-      "releaseInfo": "2026–2026",
-      "imdbRating": "9.2"
-    },
-    {
       "id": "tt13854248",
       "type": "series",
       "name": "The Legend of Hanuman",
@@ -534,6 +523,17 @@
       "logo": "https://images.metahub.space/logo/medium/tt22202452/img",
       "description": "In a world overtaken by a mysterious wave of forced happiness, Carol Sturka, one of the immune few, must uncover what's really going on - and save humanity from its artificial bliss.",
       "releaseInfo": "2025–",
+      "imdbRating": "7.9"
+    },
+    {
+      "id": "tt2137109",
+      "type": "series",
+      "name": "Masters of Sex",
+      "poster": "https://images.metahub.space/poster/small/tt2137109/img",
+      "background": "https://images.metahub.space/background/medium/tt2137109/img",
+      "logo": "https://images.metahub.space/logo/medium/tt2137109/img",
+      "description": "Drama about the pioneers of the science of human sexuality whose research touched off the sexual revolution.",
+      "releaseInfo": "2013–2016",
       "imdbRating": "7.9"
     },
     {
