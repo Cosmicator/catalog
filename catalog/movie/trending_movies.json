@@ -261,6 +261,16 @@
       "imdbRating": 7.6
     },
     {
+      "id": "tt33510831",
+      "type": "movie",
+      "name": "Band of Brothers: Legacy",
+      "poster": "https://images.metahub.space/poster/medium/tt33510831/img",
+      "background": "https://images.metahub.space/background/medium/tt33510831/img",
+      "description": "This tribute to the groundbreaking series that helped preserve the story of Easy Company and deepened public appreciation for the sacrifices of the Greatest Generation features new interviews with cast members Damian Lewis, Ron Livingston, Michael Cudlitz, Capt. Dale Dye, USMC (Ret.), David Schwimmer, and more. Through personal reflections and behind-the-scenes stories, participants revisit the experience of making the series and explore its lasting cultural resonance, and also includes never-before-seen archival footage and photographs of Easy Company and World War II.",
+      "releaseInfo": 2026,
+      "imdbRating": 8.2
+    },
+    {
       "id": "tt38793125",
       "type": "movie",
       "name": "Collision Course",
@@ -489,16 +499,6 @@
       "description": "The host of a popular paranormal podcast becomes haunted by terrifying recordings mysteriously sent her way.",
       "releaseInfo": 2026,
       "imdbRating": 5.9
-    },
-    {
-      "id": "tt0082348",
-      "type": "movie",
-      "name": "Excalibur",
-      "poster": "https://images.metahub.space/poster/medium/tt0082348/img",
-      "background": "https://images.metahub.space/background/medium/tt0082348/img",
-      "description": "Arthur fulfills his fate by bringing together the Knights of the Round Table at Camelot and unifying the country. However, this flawed monarch faces greater tests ahead in pursuit of love, the Holy Grail, and his nation's survival.",
-      "releaseInfo": 1981,
-      "imdbRating": 7.3
     }
   ]
 }
