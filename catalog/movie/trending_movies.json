@@ -211,16 +211,6 @@
       "imdbRating": 5.2
     },
     {
-      "id": "tt0109506",
-      "type": "movie",
-      "name": "The Crow",
-      "poster": "https://images.metahub.space/poster/medium/tt0109506/img",
-      "background": "https://images.metahub.space/background/medium/tt0109506/img",
-      "description": "Exactly one year after young rock guitarist Eric Draven and his fiancée are brutally killed by a ruthless gang of criminals, Draven, watched over by a hypnotic crow, returns from the grave to exact revenge.",
-      "releaseInfo": 1994,
-      "imdbRating": 7.5
-    },
-    {
       "id": "tt0084516",
       "type": "movie",
       "name": "Poltergeist",
@@ -269,6 +259,16 @@
       "description": "Two men awaken to find themselves on the opposite sides of a dead body, each with specific instructions to kill the other, escape or face the consequences. These two are the latest contestants in Jigsaw's games.",
       "releaseInfo": 2004,
       "imdbRating": 7.6
+    },
+    {
+      "id": "tt0109506",
+      "type": "movie",
+      "name": "The Crow",
+      "poster": "https://images.metahub.space/poster/medium/tt0109506/img",
+      "background": "https://images.metahub.space/background/medium/tt0109506/img",
+      "description": "Exactly one year after young rock guitarist Eric Draven and his fiancée are brutally killed by a ruthless gang of criminals, Draven, watched over by a hypnotic crow, returns from the grave to exact revenge.",
+      "releaseInfo": 1994,
+      "imdbRating": 7.5
     },
     {
       "id": "tt2049403",
@@ -331,6 +331,16 @@
       "imdbRating": 6.7
     },
     {
+      "id": "tt0047296",
+      "type": "movie",
+      "name": "On the Waterfront",
+      "poster": "https://images.metahub.space/poster/medium/tt0047296/img",
+      "background": "https://images.metahub.space/background/medium/tt0047296/img",
+      "description": "A prizefighter-turned-longshoreman with a conscience goes up against labor leaders to expose corruption, extortion, and murder among the union ranks.",
+      "releaseInfo": 1954,
+      "imdbRating": 8.1
+    },
+    {
       "id": "tt5109784",
       "type": "movie",
       "name": "mother!",
@@ -339,16 +349,6 @@
       "description": "A couple's relationship is tested when uninvited guests arrive at their home, disrupting their tranquil existence.",
       "releaseInfo": 2017,
       "imdbRating": 6.6
-    },
-    {
-      "id": "tt36300841",
-      "type": "movie",
-      "name": "Awarapan 2",
-      "poster": "https://images.metahub.space/poster/medium/tt36300841/img",
-      "background": "https://images.metahub.space/background/medium/tt36300841/img",
-      "description": "Once a feared gangster, Shivam lives hidden away from his past, with no faith left in God or himself. But when fate pulls him into Bangkok's cartel war and forces him back into the darkness he swore never to return to, Shivam must choose what he is willing to live for, when there is nothing left to lose.",
-      "releaseInfo": 2026,
-      "imdbRating": 5.8
     },
     {
       "id": "tt33510831",
@@ -371,16 +371,6 @@
       "imdbRating": 6.2
     },
     {
-      "id": "tt0104231",
-      "type": "movie",
-      "name": "Far and Away",
-      "poster": "https://images.metahub.space/poster/medium/tt0104231/img",
-      "background": "https://images.metahub.space/background/medium/tt0104231/img",
-      "description": "A young free-spirited Irish woman from an affluent Protestant family spontaneously befriends a street-smart commoner cheated by her family’s hostile land takeovers. They escape to America, ready to take advantage of the 19th century Oklahoma land rush.",
-      "releaseInfo": 1992,
-      "imdbRating": 6.6
-    },
-    {
       "id": "tt50426072",
       "type": "movie",
       "name": "A Story of Derry",
@@ -401,6 +391,16 @@
       "imdbRating": 8
     },
     {
+      "id": "tt35538033",
+      "type": "movie",
+      "name": "Resident Evil",
+      "poster": "https://images.metahub.space/poster/medium/tt35538033/img",
+      "background": "https://images.metahub.space/background/medium/tt35538033/img",
+      "description": "Described as a revamp that will return to the franchise's horror roots and be more faithful to the initial games.",
+      "releaseInfo": 2026,
+      "imdbRating": 7.5
+    },
+    {
       "id": "tt0106226",
       "type": "movie",
       "name": "The Age of Innocence",
@@ -411,14 +411,14 @@
       "imdbRating": 7.2
     },
     {
-      "id": "tt0377092",
+      "id": "tt36300841",
       "type": "movie",
-      "name": "Mean Girls",
-      "poster": "https://images.metahub.space/poster/medium/tt0377092/img",
-      "background": "https://images.metahub.space/background/medium/tt0377092/img",
-      "description": "Cady Heron is a hit with The Plastics, the A-list girl clique at her new school, until she makes the mistake of falling for Aaron Samuels, the ex-boyfriend of alpha Plastic Regina George.",
-      "releaseInfo": 2004,
-      "imdbRating": 7.1
+      "name": "Awarapan 2",
+      "poster": "https://images.metahub.space/poster/medium/tt36300841/img",
+      "background": "https://images.metahub.space/background/medium/tt36300841/img",
+      "description": "Once a feared gangster, Shivam lives hidden away from his past, with no faith left in God or himself. But when fate pulls him into Bangkok's cartel war and forces him back into the darkness he swore never to return to, Shivam must choose what he is willing to live for, when there is nothing left to lose.",
+      "releaseInfo": 2026,
+      "imdbRating": 5.8
     },
     {
       "id": "tt4589218",
@@ -481,16 +481,6 @@
       "imdbRating": 7.3
     },
     {
-      "id": "tt0082495",
-      "type": "movie",
-      "name": "Halloween II",
-      "poster": "https://images.metahub.space/poster/medium/tt0082495/img",
-      "background": "https://images.metahub.space/background/medium/tt0082495/img",
-      "description": "After failing to kill stubborn survivor Laurie and taking a bullet or six from former psychiatrist Dr. Sam Loomis, Michael Myers has followed Laurie to the Haddonfield Memorial Hospital, where she's been admitted for Myers' attempt on her life. The institution proves to be particularly suited to serial killers, however, as Myers cuts, stabs and slashes his way through hospital staff to reach his favorite victim.",
-      "releaseInfo": 1981,
-      "imdbRating": 6.5
-    },
-    {
       "id": "tt8439854",
       "type": "movie",
       "name": "Lust Stories",
@@ -499,6 +489,16 @@
       "description": "An anthology of four stories that sheds light on modern relationships from the viewpoint of the Indian woman.",
       "releaseInfo": 2018,
       "imdbRating": 6.3
+    },
+    {
+      "id": "tt33379543",
+      "type": "movie",
+      "name": "Jana Nayagan",
+      "poster": "https://images.metahub.space/poster/medium/tt33379543/img",
+      "background": "https://images.metahub.space/background/medium/tt33379543/img",
+      "description": "A clash of ideologies. One stands for the people, the other feeds on control. Their paths collided once before. Years later, a child’s silent fear ignites the past, drawing a former police officer into a battle far bigger than personal revenge.",
+      "releaseInfo": 2026,
+      "imdbRating": 5.1
     }
   ]
 }
