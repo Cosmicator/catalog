@@ -56,6 +56,28 @@
       "imdbRating": "9.0"
     },
     {
+      "id": "tt12004706",
+      "type": "series",
+      "name": "Panchayat",
+      "poster": "https://images.metahub.space/poster/small/tt12004706/img",
+      "background": "https://images.metahub.space/background/medium/tt12004706/img",
+      "logo": "https://images.metahub.space/logo/medium/tt12004706/img",
+      "description": "A comedy-drama, which captures the journey of an engineering graduate Abhishek, who for lack of a better job option joins as secretary of a Panchayat office in a remote village of Uttar Pradesh.",
+      "releaseInfo": "2020–",
+      "imdbRating": "9.0"
+    },
+    {
+      "id": "tt43484024",
+      "type": "series",
+      "name": "Shayad Yahi Hai Pyaar",
+      "poster": "https://live.metahub.space/poster/small/tt43484024/img",
+      "background": "https://live.metahub.space/background/medium/tt43484024/img",
+      "logo": "https://live.metahub.space/logo/medium/tt43484024/img",
+      "description": "Escaping a toxic relationship, 35-year-old Preeti finds love and solace with Aarav. But the age gap stigma follows them everywhere! Can love overpower it all?",
+      "releaseInfo": "2026–",
+      "imdbRating": "9.0"
+    },
+    {
       "id": "tt33094114",
       "type": "series",
       "name": "India's Got Latent",
@@ -65,17 +87,6 @@
       "description": "Samay Raina and the guest judges hilariously critique the untapped, undeniably entertaining \"latent\" talents of aspiring performers, testing their self-awareness with a unique scoring system.",
       "releaseInfo": "2024–",
       "imdbRating": "8.9"
-    },
-    {
-      "id": "tt14650074",
-      "type": "series",
-      "name": "Dhindora",
-      "poster": "https://images.metahub.space/poster/small/tt14650074/img",
-      "background": "https://images.metahub.space/background/medium/tt14650074/img",
-      "logo": "https://images.metahub.space/logo/medium/tt14650074/img",
-      "description": "It revolves around Bhuvan and his family's everyday lives, when an unexpected purchase leads to a series of events and depicts every common man's larger than life dreams.",
-      "releaseInfo": "2021–",
-      "imdbRating": "8.8"
     },
     {
       "id": "tt0108778",
@@ -111,14 +122,25 @@
       "imdbRating": "8.7"
     },
     {
-      "id": "tt5687612",
+      "id": "tt5753856",
       "type": "series",
-      "name": "Fleabag",
-      "poster": "https://images.metahub.space/poster/small/tt5687612/img",
-      "background": "https://images.metahub.space/background/medium/tt5687612/img",
-      "logo": "https://images.metahub.space/logo/medium/tt5687612/img",
-      "description": "Series adapted from the award-winning play about a young woman trying to cope with life in London whilst coming to terms with a recent tragedy.",
-      "releaseInfo": "2016–2019",
+      "name": "Dark",
+      "poster": "https://images.metahub.space/poster/small/tt5753856/img",
+      "background": "https://images.metahub.space/background/medium/tt5753856/img",
+      "logo": "https://images.metahub.space/logo/medium/tt5753856/img",
+      "description": "A family saga with a supernatural twist, set in a German town where the disappearance of two young children exposes the relationships among four families.",
+      "releaseInfo": "2017–2020",
+      "imdbRating": "8.7"
+    },
+    {
+      "id": "tt0098936",
+      "type": "series",
+      "name": "Twin Peaks",
+      "poster": "https://images.metahub.space/poster/small/tt0098936/img",
+      "background": "https://images.metahub.space/background/medium/tt0098936/img",
+      "logo": "https://images.metahub.space/logo/medium/tt0098936/img",
+      "description": "An idiosyncratic FBI agent investigates the murder of a young woman in the even more idiosyncratic town of Twin Peaks.",
+      "releaseInfo": "1990–1991",
       "imdbRating": "8.7"
     },
     {
@@ -133,17 +155,6 @@
       "imdbRating": "8.6"
     },
     {
-      "id": "tt11280740",
-      "type": "series",
-      "name": "Severance",
-      "poster": "https://images.metahub.space/poster/small/tt11280740/img",
-      "background": "https://images.metahub.space/background/medium/tt11280740/img",
-      "logo": "https://images.metahub.space/logo/medium/tt11280740/img",
-      "description": "Mark leads a team of office workers whose memories have been surgically divided between their work and personal lives. When a mysterious colleague appears outside of work, it begins a journey to discover the truth about their jobs.",
-      "releaseInfo": "2022–",
-      "imdbRating": "8.6"
-    },
-    {
       "id": "tt4574334",
       "type": "series",
       "name": "Stranger Things",
@@ -152,6 +163,17 @@
       "logo": "https://images.metahub.space/logo/medium/tt4574334/img",
       "description": "In 1980s Indiana, a group of young friends witness supernatural forces and secret government exploits. As they search for answers, the children unravel a series of extraordinary mysteries.",
       "releaseInfo": "2016–2025",
+      "imdbRating": "8.6"
+    },
+    {
+      "id": "tt11280740",
+      "type": "series",
+      "name": "Severance",
+      "poster": "https://images.metahub.space/poster/small/tt11280740/img",
+      "background": "https://images.metahub.space/background/medium/tt11280740/img",
+      "logo": "https://images.metahub.space/logo/medium/tt11280740/img",
+      "description": "Mark leads a team of office workers whose memories have been surgically divided between their work and personal lives. When a mysterious colleague appears outside of work, it begins a journey to discover the truth about their jobs.",
+      "releaseInfo": "2022–",
       "imdbRating": "8.6"
     },
     {
@@ -177,25 +199,14 @@
       "imdbRating": "8.5"
     },
     {
-      "id": "tt2306299",
+      "id": "tt1758429",
       "type": "series",
-      "name": "Vikings",
-      "poster": "https://images.metahub.space/poster/small/tt2306299/img",
-      "background": "https://images.metahub.space/background/medium/tt2306299/img",
-      "logo": "https://images.metahub.space/logo/medium/tt2306299/img",
-      "description": "Vikings transports us to the brutal and mysterious world of Ragnar Lothbrok, a Viking warrior and farmer who yearns to explore--and raid--the distant shores across the ocean.",
-      "releaseInfo": "2013–2020",
-      "imdbRating": "8.5"
-    },
-    {
-      "id": "tt1839578",
-      "type": "series",
-      "name": "Person of Interest",
-      "poster": "https://images.metahub.space/poster/small/tt1839578/img",
-      "background": "https://images.metahub.space/background/medium/tt1839578/img",
-      "logo": "https://images.metahub.space/logo/medium/tt1839578/img",
-      "description": "An off-the-grid and presumed-dead former CIA agent, John Reese, is hired by a mysterious tech billionaire software genius, Harold Finch, to prevent violent crimes before they happen in New York City via an advanced surveillance so...",
-      "releaseInfo": "2011–2016",
+      "name": "Spartacus: Gods of the Arena",
+      "poster": "https://images.metahub.space/poster/small/tt1758429/img",
+      "background": "https://images.metahub.space/background/medium/tt1758429/img",
+      "logo": "https://images.metahub.space/logo/medium/tt1758429/img",
+      "description": "In the time before the arrival of Spartacus, the House of Batiatus faces many challenges from competitors, and within its own household.",
+      "releaseInfo": "2011",
       "imdbRating": "8.5"
     },
     {
@@ -218,28 +229,6 @@
       "logo": "https://images.metahub.space/logo/medium/tt6473300/img",
       "description": "A shocking incident at a wedding procession ignites a series of events entangling the lives of two families in the lawless city of Mirzapur.",
       "releaseInfo": "2018–",
-      "imdbRating": "8.4"
-    },
-    {
-      "id": "tt5875444",
-      "type": "series",
-      "name": "Slow Horses",
-      "poster": "https://images.metahub.space/poster/small/tt5875444/img",
-      "background": "https://images.metahub.space/background/medium/tt5875444/img",
-      "logo": "https://images.metahub.space/logo/medium/tt5875444/img",
-      "description": "A dysfunctional team of MI5 agents navigate the espionage world's smoke and mirrors to defend the UK from sinister forces.",
-      "releaseInfo": "2022–",
-      "imdbRating": "8.4"
-    },
-    {
-      "id": "tt1442449",
-      "type": "series",
-      "name": "Spartacus",
-      "poster": "https://images.metahub.space/poster/small/tt1442449/img",
-      "background": "https://images.metahub.space/background/medium/tt1442449/img",
-      "logo": "https://images.metahub.space/logo/medium/tt1442449/img",
-      "description": "The life of Spartacus, the gladiator who led a rebellion against the Romans.",
-      "releaseInfo": "2010–2013",
       "imdbRating": "8.4"
     },
     {
@@ -287,17 +276,6 @@
       "imdbRating": "8.2"
     },
     {
-      "id": "tt6468322",
-      "type": "series",
-      "name": "Money Heist",
-      "poster": "https://live.metahub.space/poster/small/tt6468322/img",
-      "background": "https://live.metahub.space/background/medium/tt6468322/img",
-      "logo": "https://live.metahub.space/logo/medium/tt6468322/img",
-      "description": "To carry out the biggest heist in history, a mysterious man called The Professor recruits a band of eight robbers who have a single characteristic: none of them has anything to lose. Five months of seclusion - memorizing every step, every detail, every probability - culminate in eleven days locked up in the National Coinage and Stamp Factory of Spain, surrounded by police forces and with dozens of hostages in their power, to find out whether their suicide wager will lead to everything or nothing.",
-      "releaseInfo": "2017–2021",
-      "imdbRating": "8.2"
-    },
-    {
       "id": "tt19386538",
       "type": "series",
       "name": "Mussolini: Son of the Century",
@@ -306,6 +284,17 @@
       "logo": "https://images.metahub.space/logo/medium/tt19386538/img",
       "description": "Benito Mussolini's early career from his founding of the Fasci Italiani in 1919 up to the assassination of socialist politician Giacomo Matteotti in 1924 and his speech in Parliament on 3 January 1925.",
       "releaseInfo": "2024–2025",
+      "imdbRating": "8.2"
+    },
+    {
+      "id": "tt6468322",
+      "type": "series",
+      "name": "Money Heist",
+      "poster": "https://live.metahub.space/poster/small/tt6468322/img",
+      "background": "https://live.metahub.space/background/medium/tt6468322/img",
+      "logo": "https://live.metahub.space/logo/medium/tt6468322/img",
+      "description": "To carry out the biggest heist in history, a mysterious man called The Professor recruits a band of eight robbers who have a single characteristic: none of them has anything to lose. Five months of seclusion - memorizing every step, every detail, every probability - culminate in eleven days locked up in the National Coinage and Stamp Factory of Spain, surrounded by police forces and with dozens of hostages in their power, to find out whether their suicide wager will lead to everything or nothing.",
+      "releaseInfo": "2017–2021",
       "imdbRating": "8.2"
     },
     {
@@ -320,13 +309,24 @@
       "imdbRating": "8.2"
     },
     {
-      "id": "tt15469618",
+      "id": "tt7441658",
       "type": "series",
-      "name": "Bad Sisters",
-      "poster": "https://images.metahub.space/poster/small/tt15469618/img",
-      "background": "https://images.metahub.space/background/medium/tt15469618/img",
-      "logo": "https://images.metahub.space/logo/medium/tt15469618/img",
-      "description": "The Garvey sisters are bound together by their parents' deaths and a promise to always protect one another.",
+      "name": "Black Clover",
+      "poster": "https://images.metahub.space/poster/small/tt7441658/img",
+      "background": "https://images.metahub.space/background/medium/tt7441658/img",
+      "logo": "https://images.metahub.space/logo/medium/tt7441658/img",
+      "description": "Asta and Yuno were abandoned together at the same church and have been inseparable since. As children, they promised that they would compete against each other to see who would become the next Emperor Magus.",
+      "releaseInfo": "2017–2026",
+      "imdbRating": "8.2"
+    },
+    {
+      "id": "tt11198330",
+      "type": "series",
+      "name": "House of the Dragon",
+      "poster": "https://images.metahub.space/poster/small/tt11198330/img",
+      "background": "https://images.metahub.space/background/medium/tt11198330/img",
+      "logo": "https://images.metahub.space/logo/medium/tt11198330/img",
+      "description": "An internal succession war within House Targaryen at the height of its power, 172 years before the birth of Daenerys Targaryen.",
       "releaseInfo": "2022–",
       "imdbRating": "8.2"
     },
@@ -342,14 +342,14 @@
       "imdbRating": "8.2"
     },
     {
-      "id": "tt15677150",
+      "id": "tt15469618",
       "type": "series",
-      "name": "Shrinking",
-      "poster": "https://images.metahub.space/poster/small/tt15677150/img",
-      "background": "https://images.metahub.space/background/medium/tt15677150/img",
-      "logo": "https://images.metahub.space/logo/medium/tt15677150/img",
-      "description": "A grieving therapist starts to tell his clients exactly what he thinks. Ignoring his training and ethics, he finds himself making huge changes to people's lives - including his own.",
-      "releaseInfo": "2023–",
+      "name": "Bad Sisters",
+      "poster": "https://images.metahub.space/poster/small/tt15469618/img",
+      "background": "https://images.metahub.space/background/medium/tt15469618/img",
+      "logo": "https://images.metahub.space/logo/medium/tt15469618/img",
+      "description": "The Garvey sisters are bound together by their parents' deaths and a promise to always protect one another.",
+      "releaseInfo": "2022–",
       "imdbRating": "8.2"
     },
     {
@@ -397,28 +397,6 @@
       "imdbRating": "8.1"
     },
     {
-      "id": "tt7203552",
-      "type": "series",
-      "name": "The Morning Show",
-      "poster": "https://images.metahub.space/poster/small/tt7203552/img",
-      "background": "https://images.metahub.space/background/medium/tt7203552/img",
-      "logo": "https://images.metahub.space/logo/medium/tt7203552/img",
-      "description": "An inside look at the lives of the people who help America wake up in the morning, exploring the unique challenges faced by the team.",
-      "releaseInfo": "2019–2027",
-      "imdbRating": "8.1"
-    },
-    {
-      "id": "tt4301160",
-      "type": "series",
-      "name": "Black Bird",
-      "poster": "https://images.metahub.space/poster/small/tt4301160/img",
-      "background": "https://images.metahub.space/background/medium/tt4301160/img",
-      "logo": "https://images.metahub.space/logo/medium/tt4301160/img",
-      "description": "Jimmy Keene is sentenced to 10 years in a minimum security prison but he cuts a deal with the FBI to befriend a suspected serial killer. Keene has to elicit a confession from Larry Hall to find the bodies of as many as eighteen wo...",
-      "releaseInfo": "2022",
-      "imdbRating": "8.1"
-    },
-    {
       "id": "tt0883772",
       "type": "series",
       "name": "Man vs. Wild",
@@ -427,6 +405,17 @@
       "logo": "https://images.metahub.space/logo/medium/tt0883772/img",
       "description": "Bear Grylls travels the world in search of challenges to his survival skills.",
       "releaseInfo": "2006–2020",
+      "imdbRating": "8.1"
+    },
+    {
+      "id": "tt7203552",
+      "type": "series",
+      "name": "The Morning Show",
+      "poster": "https://images.metahub.space/poster/small/tt7203552/img",
+      "background": "https://images.metahub.space/background/medium/tt7203552/img",
+      "logo": "https://images.metahub.space/logo/medium/tt7203552/img",
+      "description": "An inside look at the lives of the people who help America wake up in the morning, exploring the unique challenges faced by the team.",
+      "releaseInfo": "2019–2027",
       "imdbRating": "8.1"
     },
     {
@@ -441,6 +430,28 @@
       "imdbRating": "8.1"
     },
     {
+      "id": "tt21097264",
+      "type": "series",
+      "name": "East of Eden",
+      "poster": "https://images.metahub.space/poster/small/tt21097264/img",
+      "background": "https://images.metahub.space/background/medium/tt21097264/img",
+      "logo": "https://images.metahub.space/logo/medium/tt21097264/img",
+      "description": "In the farmlands of the Salinas Valley in California, successive generations of two families, the Trasks and the Hamiltons, are destined to reenact the fateful story of Cain and Abel.",
+      "releaseInfo": "2026",
+      "imdbRating": "8.1"
+    },
+    {
+      "id": "tt4301160",
+      "type": "series",
+      "name": "Black Bird",
+      "poster": "https://images.metahub.space/poster/small/tt4301160/img",
+      "background": "https://images.metahub.space/background/medium/tt4301160/img",
+      "logo": "https://images.metahub.space/logo/medium/tt4301160/img",
+      "description": "Jimmy Keene is sentenced to 10 years in a minimum security prison but he cuts a deal with the FBI to befriend a suspected serial killer. Keene has to elicit a confession from Larry Hall to find the bodies of as many as eighteen wo...",
+      "releaseInfo": "2022",
+      "imdbRating": "8.1"
+    },
+    {
       "id": "tt1515193",
       "type": "series",
       "name": "The Big C",
@@ -452,14 +463,14 @@
       "imdbRating": "8.1"
     },
     {
-      "id": "tt21097264",
+      "id": "tt11712058",
       "type": "series",
-      "name": "East of Eden",
-      "poster": "https://images.metahub.space/poster/small/tt21097264/img",
-      "background": "https://images.metahub.space/background/medium/tt21097264/img",
-      "logo": "https://images.metahub.space/logo/medium/tt21097264/img",
-      "description": "In the farmlands of the Salinas Valley in California, successive generations of two families, the Trasks and the Hamiltons, are destined to reenact the fateful story of Cain and Abel.",
-      "releaseInfo": "2026",
+      "name": "Mayor of Kingstown",
+      "poster": "https://images.metahub.space/poster/small/tt11712058/img",
+      "background": "https://images.metahub.space/background/medium/tt11712058/img",
+      "logo": "https://images.metahub.space/logo/medium/tt11712058/img",
+      "description": "The McLusky family are power brokers tackling themes of systemic racism, corruption and inequality in Kingstown, Michigan, where the business of incarceration is the only thriving industry.",
+      "releaseInfo": "2021–",
       "imdbRating": "8.1"
     },
     {
@@ -485,14 +496,6 @@
       "imdbRating": "8.0"
     },
     {
-      "id": "tt15404764",
-      "type": "series",
-      "name": "Titoo",
-      "description": "Titoo is an animated kids' comedy show that follows the daily escapades of eight-year-old boy Titoo. Though, he is a good-hearted, intelligent kid who loves to help everyone, but inadvertently manages to brew even more trouble.",
-      "releaseInfo": "2020–",
-      "imdbRating": "8.0"
-    },
-    {
       "id": "tt9288030",
       "type": "series",
       "name": "Reacher",
@@ -504,14 +507,11 @@
       "imdbRating": "8.0"
     },
     {
-      "id": "tt7587890",
+      "id": "tt15404764",
       "type": "series",
-      "name": "The Rookie",
-      "poster": "https://images.metahub.space/poster/small/tt7587890/img",
-      "background": "https://images.metahub.space/background/medium/tt7587890/img",
-      "logo": "https://images.metahub.space/logo/medium/tt7587890/img",
-      "description": "Starting over isn't easy, especially for John Nolan who, after a life-altering incident, is pursuing his dream of joining the LAPD. As their oldest rookie, he's met with skepticism from those who see him as just a walking midlife ...",
-      "releaseInfo": "2018–",
+      "name": "Titoo",
+      "description": "Titoo is an animated kids' comedy show that follows the daily escapades of eight-year-old boy Titoo. Though, he is a good-hearted, intelligent kid who loves to help everyone, but inadvertently manages to brew even more trouble.",
+      "releaseInfo": "2020–",
       "imdbRating": "8.0"
     },
     {
