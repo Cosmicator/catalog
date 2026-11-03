@@ -291,6 +291,16 @@
       "imdbRating": 6.4
     },
     {
+      "id": "tt33510831",
+      "type": "movie",
+      "name": "Band of Brothers: Legacy",
+      "poster": "https://images.metahub.space/poster/medium/tt33510831/img",
+      "background": "https://images.metahub.space/background/medium/tt33510831/img",
+      "description": "This tribute to the groundbreaking series that helped preserve the story of Easy Company and deepened public appreciation for the sacrifices of the Greatest Generation features new interviews with cast members Damian Lewis, Ron Livingston, Michael Cudlitz, Capt. Dale Dye, USMC (Ret.), David Schwimmer, and more. Through personal reflections and behind-the-scenes stories, participants revisit the experience of making the series and explore its lasting cultural resonance, and also includes never-before-seen archival footage and photographs of Easy Company and World War II.",
+      "releaseInfo": 2026,
+      "imdbRating": 8.2
+    },
+    {
       "id": "tt35836025",
       "type": "movie",
       "name": "Vishwanath & Sons",
@@ -311,16 +321,6 @@
       "imdbRating": 8
     },
     {
-      "id": "tt0106220",
-      "type": "movie",
-      "name": "Addams Family Values",
-      "poster": "https://images.metahub.space/poster/medium/tt0106220/img",
-      "background": "https://images.metahub.space/background/medium/tt0106220/img",
-      "description": "Siblings Wednesday and Pugsley Addams will stop at nothing to get rid of Pubert, the new baby boy adored by parents Gomez and Morticia. Things go from bad to worse when the new \"black widow\" nanny, Debbie Jellinsky, launches her plan to add Fester to her collection of dead husbands.",
-      "releaseInfo": 1993,
-      "imdbRating": 6.9
-    },
-    {
       "id": "tt8488126",
       "type": "movie",
       "name": "The Inventor: Out for Blood in Silicon Valley",
@@ -329,16 +329,6 @@
       "description": "With a magical new invention that promised to revolutionize blood testing, Elizabeth Holmes became the world’s youngest self-made billionaire, heralded as the next Steve Jobs. Then, overnight, her 10-billion-dollar company dissolved. The rise and fall of Theranos is a window into the psychology of fraud.",
       "releaseInfo": 2019,
       "imdbRating": 7.1
-    },
-    {
-      "id": "tt0082348",
-      "type": "movie",
-      "name": "Excalibur",
-      "poster": "https://images.metahub.space/poster/medium/tt0082348/img",
-      "background": "https://images.metahub.space/background/medium/tt0082348/img",
-      "description": "Arthur fulfills his fate by bringing together the Knights of the Round Table at Camelot and unifying the country. However, this flawed monarch faces greater tests ahead in pursuit of love, the Holy Grail, and his nation's survival.",
-      "releaseInfo": 1981,
-      "imdbRating": 7.3
     },
     {
       "id": "tt32820897",
@@ -461,16 +451,6 @@
       "imdbRating": 5.1
     },
     {
-      "id": "tt0104231",
-      "type": "movie",
-      "name": "Far and Away",
-      "poster": "https://images.metahub.space/poster/medium/tt0104231/img",
-      "background": "https://images.metahub.space/background/medium/tt0104231/img",
-      "description": "A young free-spirited Irish woman from an affluent Protestant family spontaneously befriends a street-smart commoner cheated by her family’s hostile land takeovers. They escape to America, ready to take advantage of the 19th century Oklahoma land rush.",
-      "releaseInfo": 1992,
-      "imdbRating": 6.6
-    },
-    {
       "id": "tt0047296",
       "type": "movie",
       "name": "On the Waterfront",
@@ -499,6 +479,26 @@
       "description": "The 19 years old Thomas wakes up in a hospital after three years in a coma. He doesn't remember anything. The psychologist Anna tells him that his family has been murdered and that he is the only survivor of the massacre while his sister Laura is still missing.",
       "releaseInfo": 2022,
       "imdbRating": 5.3
+    },
+    {
+      "id": "tt0091419",
+      "type": "movie",
+      "name": "Little Shop of Horrors",
+      "poster": "https://images.metahub.space/poster/medium/tt0091419/img",
+      "background": "https://images.metahub.space/background/medium/tt0091419/img",
+      "description": "Seymour Krelborn is a nerdy orphan working at Mushnik's, a flower shop in urban Skid Row. He harbors a crush on fellow co-worker, Audrey Fulquard, and is berated by Mr. Mushnik daily. One day, Seymour finds a very mysterious unidentified plant which he calls Audrey II. The plant seems to have a craving for blood and soon begins to sing for its supper.",
+      "releaseInfo": 1986,
+      "imdbRating": 7.1
+    },
+    {
+      "id": "tt0106203",
+      "type": "movie",
+      "name": "Aaina",
+      "poster": "https://images.metahub.space/poster/medium/tt0106203/img",
+      "background": "https://images.metahub.space/background/medium/tt0106203/img",
+      "description": "Roma (Amrita Singh) leaves Ravi (Jackie Shroff) at the alter in pursuit of her bigger ambitions. Her sister Reema (Juhi Chawla), a pale reflection of Roma, steps in and saves the day for her family, having secretly been in love with Ravi all her life. The newly weds start building a life together till suddenly Roma returns, determined to get back what she thinks Reema stole from her.",
+      "releaseInfo": 1993,
+      "imdbRating": 6.1
     }
   ]
 }
