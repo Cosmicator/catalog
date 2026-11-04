@@ -18,7 +18,7 @@
       "background": "https://images.metahub.space/background/medium/tt34339725/img",
       "description": "The battle for Mirzapur’s throne intensifies as old enemies resurface and a new threat emerges in the form of Babban Babua, a ruthless businessman from Jaisalmer with ambitions of his own. As the Tripathis face enemies from both the past and present, loyalties are tested while Guddu and Bablu Pandit fight to establish themselves in the power struggle for Mirzapur.",
       "releaseInfo": 2026,
-      "imdbRating": 7.5
+      "imdbRating": 7.4
     },
     {
       "id": "tt37287335",
@@ -128,7 +128,7 @@
       "background": "https://images.metahub.space/background/medium/tt32089596/img",
       "description": "In a naxal-dominated village on the Andhra-Odisha border, a theatre owner uses communist sentiment to keep his old cinema running. He joins the naxals and kidnaps a leader, setting off a chain of events.",
       "releaseInfo": 2026,
-      "imdbRating": 8.3
+      "imdbRating": 8.1
     },
     {
       "id": "tt39239754",
@@ -138,7 +138,7 @@
       "background": "https://images.metahub.space/background/medium/tt39239754/img",
       "description": "A rogue treasure hunter breaks every rule in pursuit of the ultimate score, navigating deadly traps and double-crosses with wit and audacity in this adrenaline-fueled adventure.",
       "releaseInfo": 2026,
-      "imdbRating": 5.3
+      "imdbRating": 4.9
     },
     {
       "id": "tt34792531",
@@ -148,7 +148,7 @@
       "background": "https://images.metahub.space/background/medium/tt34792531/img",
       "description": "Follows Avarachan, his children and the various family and social relationships that shape their lives.",
       "releaseInfo": 2026,
-      "imdbRating": 5.4
+      "imdbRating": 5.5
     },
     {
       "id": "tt14113634",
@@ -331,16 +331,6 @@
       "imdbRating": 6.7
     },
     {
-      "id": "tt0047296",
-      "type": "movie",
-      "name": "On the Waterfront",
-      "poster": "https://images.metahub.space/poster/medium/tt0047296/img",
-      "background": "https://images.metahub.space/background/medium/tt0047296/img",
-      "description": "A prizefighter-turned-longshoreman with a conscience goes up against labor leaders to expose corruption, extortion, and murder among the union ranks.",
-      "releaseInfo": 1954,
-      "imdbRating": 8.1
-    },
-    {
       "id": "tt5109784",
       "type": "movie",
       "name": "mother!",
@@ -499,6 +489,16 @@
       "description": "A clash of ideologies. One stands for the people, the other feeds on control. Their paths collided once before. Years later, a child’s silent fear ignites the past, drawing a former police officer into a battle far bigger than personal revenge.",
       "releaseInfo": 2026,
       "imdbRating": 5.1
+    },
+    {
+      "id": "tt0319343",
+      "type": "movie",
+      "name": "Elf",
+      "poster": "https://images.metahub.space/poster/medium/tt0319343/img",
+      "background": "https://images.metahub.space/background/medium/tt0319343/img",
+      "description": "When young Buddy falls into Santa's gift sack on Christmas Eve, he's transported back to the North Pole and raised as a toy-making elf by Santa's helpers. But as he grows into adulthood, he can't shake the nagging feeling that he doesn't belong. Buddy vows to visit Manhattan and find his real dad, a workaholic.",
+      "releaseInfo": 2003,
+      "imdbRating": 7.1
     }
   ]
 }

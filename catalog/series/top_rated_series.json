@@ -67,17 +67,6 @@
       "imdbRating": "9.0"
     },
     {
-      "id": "tt43484024",
-      "type": "series",
-      "name": "Shayad Yahi Hai Pyaar",
-      "poster": "https://live.metahub.space/poster/small/tt43484024/img",
-      "background": "https://live.metahub.space/background/medium/tt43484024/img",
-      "logo": "https://live.metahub.space/logo/medium/tt43484024/img",
-      "description": "Escaping a toxic relationship, 35-year-old Preeti finds love and solace with Aarav. But the age gap stigma follows them everywhere! Can love overpower it all?",
-      "releaseInfo": "2026–",
-      "imdbRating": "9.0"
-    },
-    {
       "id": "tt33094114",
       "type": "series",
       "name": "India's Got Latent",
@@ -144,6 +133,17 @@
       "imdbRating": "8.7"
     },
     {
+      "id": "tt5687612",
+      "type": "series",
+      "name": "Fleabag",
+      "poster": "https://images.metahub.space/poster/small/tt5687612/img",
+      "background": "https://images.metahub.space/background/medium/tt5687612/img",
+      "logo": "https://images.metahub.space/logo/medium/tt5687612/img",
+      "description": "Series adapted from the award-winning play about a young woman trying to cope with life in London whilst coming to terms with a recent tragedy.",
+      "releaseInfo": "2016–2019",
+      "imdbRating": "8.7"
+    },
+    {
       "id": "tt1489428",
       "type": "series",
       "name": "Justified",
@@ -207,6 +207,17 @@
       "logo": "https://images.metahub.space/logo/medium/tt1758429/img",
       "description": "In the time before the arrival of Spartacus, the House of Batiatus faces many challenges from competitors, and within its own household.",
       "releaseInfo": "2011",
+      "imdbRating": "8.5"
+    },
+    {
+      "id": "tt1839578",
+      "type": "series",
+      "name": "Person of Interest",
+      "poster": "https://images.metahub.space/poster/small/tt1839578/img",
+      "background": "https://images.metahub.space/background/medium/tt1839578/img",
+      "logo": "https://images.metahub.space/logo/medium/tt1839578/img",
+      "description": "An off-the-grid and presumed-dead former CIA agent, John Reese, is hired by a mysterious tech billionaire software genius, Harold Finch, to prevent violent crimes before they happen in New York City via an advanced surveillance so...",
+      "releaseInfo": "2011–2016",
       "imdbRating": "8.5"
     },
     {
@@ -298,17 +309,6 @@
       "imdbRating": "8.2"
     },
     {
-      "id": "tt13911628",
-      "type": "series",
-      "name": "Lessons in Chemistry",
-      "poster": "https://images.metahub.space/poster/small/tt13911628/img",
-      "background": "https://images.metahub.space/background/medium/tt13911628/img",
-      "logo": "https://images.metahub.space/logo/medium/tt13911628/img",
-      "description": "In the 1950s, Elizabeth Zott's dream of being a scientist is challenged by a society that says women belong in the domestic sphere; she accepts a job on a TV cooking show and sets out to teach a nation of housewives way more than ...",
-      "releaseInfo": "2023",
-      "imdbRating": "8.2"
-    },
-    {
       "id": "tt7441658",
       "type": "series",
       "name": "Black Clover",
@@ -320,6 +320,17 @@
       "imdbRating": "8.2"
     },
     {
+      "id": "tt13911628",
+      "type": "series",
+      "name": "Lessons in Chemistry",
+      "poster": "https://images.metahub.space/poster/small/tt13911628/img",
+      "background": "https://images.metahub.space/background/medium/tt13911628/img",
+      "logo": "https://images.metahub.space/logo/medium/tt13911628/img",
+      "description": "In the 1950s, Elizabeth Zott's dream of being a scientist is challenged by a society that says women belong in the domestic sphere; she accepts a job on a TV cooking show and sets out to teach a nation of housewives way more than ...",
+      "releaseInfo": "2023",
+      "imdbRating": "8.2"
+    },
+    {
       "id": "tt11198330",
       "type": "series",
       "name": "House of the Dragon",
@@ -328,17 +339,6 @@
       "logo": "https://images.metahub.space/logo/medium/tt11198330/img",
       "description": "An internal succession war within House Targaryen at the height of its power, 172 years before the birth of Daenerys Targaryen.",
       "releaseInfo": "2022–",
-      "imdbRating": "8.2"
-    },
-    {
-      "id": "tt15384586",
-      "type": "series",
-      "name": "Fellow Travelers",
-      "poster": "https://images.metahub.space/poster/small/tt15384586/img",
-      "background": "https://images.metahub.space/background/medium/tt15384586/img",
-      "logo": "https://images.metahub.space/logo/medium/tt15384586/img",
-      "description": "Decades-long chronicle of the risky, volatile and steamy relationship between the charismatic and ambitious Hawk and the pious and idealistic Tim, two political staffers who fall in love at the height of the 1950s Lavender Scare.",
-      "releaseInfo": "2023",
       "imdbRating": "8.2"
     },
     {
@@ -408,17 +408,6 @@
       "imdbRating": "8.1"
     },
     {
-      "id": "tt7203552",
-      "type": "series",
-      "name": "The Morning Show",
-      "poster": "https://images.metahub.space/poster/small/tt7203552/img",
-      "background": "https://images.metahub.space/background/medium/tt7203552/img",
-      "logo": "https://images.metahub.space/logo/medium/tt7203552/img",
-      "description": "An inside look at the lives of the people who help America wake up in the morning, exploring the unique challenges faced by the team.",
-      "releaseInfo": "2019–2027",
-      "imdbRating": "8.1"
-    },
-    {
       "id": "tt0092400",
       "type": "series",
       "name": "Married... with Children",
@@ -452,6 +441,17 @@
       "imdbRating": "8.1"
     },
     {
+      "id": "tt7203552",
+      "type": "series",
+      "name": "The Morning Show",
+      "poster": "https://images.metahub.space/poster/small/tt7203552/img",
+      "background": "https://images.metahub.space/background/medium/tt7203552/img",
+      "logo": "https://images.metahub.space/logo/medium/tt7203552/img",
+      "description": "An inside look at the lives of the people who help America wake up in the morning, exploring the unique challenges faced by the team.",
+      "releaseInfo": "2019–2027",
+      "imdbRating": "8.1"
+    },
+    {
       "id": "tt1515193",
       "type": "series",
       "name": "The Big C",
@@ -472,17 +472,6 @@
       "description": "The McLusky family are power brokers tackling themes of systemic racism, corruption and inequality in Kingstown, Michigan, where the business of incarceration is the only thriving industry.",
       "releaseInfo": "2021–",
       "imdbRating": "8.1"
-    },
-    {
-      "id": "tt49702110",
-      "type": "series",
-      "name": "Matargashti",
-      "poster": "https://live.metahub.space/poster/small/tt49702110/img",
-      "background": "https://live.metahub.space/background/medium/tt49702110/img",
-      "logo": "https://live.metahub.space/logo/medium/tt49702110/img",
-      "description": "Dhara's plan to explore her sexuality puts her at odds with her horrified father, who becomes determined to sabotage her love life.",
-      "releaseInfo": "2026–",
-      "imdbRating": "8.0"
     },
     {
       "id": "tt4643084",
@@ -545,6 +534,17 @@
       "logo": "https://images.metahub.space/logo/medium/tt2137109/img",
       "description": "Drama about the pioneers of the science of human sexuality whose research touched off the sexual revolution.",
       "releaseInfo": "2013–2016",
+      "imdbRating": "7.9"
+    },
+    {
+      "id": "tt4014320",
+      "type": "series",
+      "name": "Kaisi Yeh Yaariaan",
+      "poster": "https://live.metahub.space/poster/small/tt4014320/img",
+      "background": "https://live.metahub.space/background/medium/tt4014320/img",
+      "logo": "https://live.metahub.space/logo/medium/tt4014320/img",
+      "description": "When a small-town girl , Nandini Murty, wins a scholarship to a prestigious Mumbai academy, she clashes with FAB5, the school's elite and arrogant musical clique and it's leader. What begins as a bitter rivalry soon evolves into a passionate, tumultuous romance with the band's enigmatic leader, Manik Malhotra.",
+      "releaseInfo": "2014–2023",
       "imdbRating": "7.9"
     }
   ]
