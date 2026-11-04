@@ -61,16 +61,6 @@
       "imdbRating": 5.8
     },
     {
-      "id": "tt6323306",
-      "type": "movie",
-      "name": "Nude",
-      "poster": "https://images.metahub.space/poster/medium/tt6323306/img",
-      "background": "https://images.metahub.space/background/medium/tt6323306/img",
-      "description": "NUDE explores perceptions of nudity in art by chronicling the creative process of photographer David Bellemere as he's commissioned by NU Muses founder Steve Shaw to shoot a fine art calendar of nude photographs.",
-      "releaseInfo": 2017,
-      "imdbRating": 5.7
-    },
-    {
       "id": "tt22084616",
       "type": "movie",
       "name": "Spider-Man: Brand New Day",
@@ -81,14 +71,14 @@
       "imdbRating": 7.9
     },
     {
-      "id": "tt39631280",
+      "id": "tt6323306",
       "type": "movie",
-      "name": "Gajab Raat",
-      "poster": "https://images.metahub.space/poster/medium/tt39631280/img",
-      "background": "https://images.metahub.space/background/medium/tt39631280/img",
-      "description": "A corrupt, troubled cop's night spirals out of control when a reluctant act of mercy toward an injured girl pulls him into a deadly web of crime.",
-      "releaseInfo": 2026,
-      "imdbRating": 5.9
+      "name": "Nude",
+      "poster": "https://images.metahub.space/poster/medium/tt6323306/img",
+      "background": "https://images.metahub.space/background/medium/tt6323306/img",
+      "description": "NUDE explores perceptions of nudity in art by chronicling the creative process of photographer David Bellemere as he's commissioned by NU Muses founder Steve Shaw to shoot a fine art calendar of nude photographs.",
+      "releaseInfo": 2017,
+      "imdbRating": 5.7
     },
     {
       "id": "tt22890246",
@@ -101,24 +91,24 @@
       "imdbRating": 6.4
     },
     {
-      "id": "tt0087800",
+      "id": "tt0087332",
       "type": "movie",
-      "name": "A Nightmare on Elm Street",
-      "poster": "https://images.metahub.space/poster/medium/tt0087800/img",
-      "background": "https://images.metahub.space/background/medium/tt0087800/img",
-      "description": "Teenagers in a small town are dropping like flies, apparently in the grip of mass hysteria causing their suicides. A cop's daughter, Nancy Thompson, traces the cause to child molester Fred Krueger, who was burned alive by angry parents many years before. Krueger has now come back in the dreams of his killers' children, claiming their lives as his revenge. Nancy and her boyfriend, Glen, must devise a plan to lure the monster out of the realm of nightmares and into the real world...",
+      "name": "Ghostbusters",
+      "poster": "https://images.metahub.space/poster/medium/tt0087332/img",
+      "background": "https://images.metahub.space/background/medium/tt0087332/img",
+      "description": "After losing their university jobs, three parapsychologists start a ghost-catching business in New York City and uncover a supernatural threat that could destroy the world.",
       "releaseInfo": 1984,
-      "imdbRating": 7.4
+      "imdbRating": 7.8
     },
     {
-      "id": "tt38915678",
+      "id": "tt35538033",
       "type": "movie",
-      "name": "Dorothy",
-      "poster": "https://images.metahub.space/poster/medium/tt38915678/img",
-      "background": "https://images.metahub.space/background/medium/tt38915678/img",
-      "description": "In rural Tamil Nadu, two inseparable childhood friends navigate a world shaped by caste, violence and toxic masculinity, until a compassionate woman enters their lives and quietly challenges the social order around them.",
+      "name": "Resident Evil",
+      "poster": "https://images.metahub.space/poster/medium/tt35538033/img",
+      "background": "https://images.metahub.space/background/medium/tt35538033/img",
+      "description": "Described as a revamp that will return to the franchise's horror roots and be more faithful to the initial games.",
       "releaseInfo": 2026,
-      "imdbRating": 7.7
+      "imdbRating": 7.5
     },
     {
       "id": "tt32089596",
@@ -161,16 +151,6 @@
       "imdbRating": 6.6
     },
     {
-      "id": "tt0087332",
-      "type": "movie",
-      "name": "Ghostbusters",
-      "poster": "https://images.metahub.space/poster/medium/tt0087332/img",
-      "background": "https://images.metahub.space/background/medium/tt0087332/img",
-      "description": "After losing their university jobs, three parapsychologists start a ghost-catching business in New York City and uncover a supernatural threat that could destroy the world.",
-      "releaseInfo": 1984,
-      "imdbRating": 7.8
-    },
-    {
       "id": "tt38793125",
       "type": "movie",
       "name": "Collision Course",
@@ -181,6 +161,86 @@
       "imdbRating": 5.7
     },
     {
+      "id": "tt39631280",
+      "type": "movie",
+      "name": "Gajab Raat",
+      "poster": "https://images.metahub.space/poster/medium/tt39631280/img",
+      "background": "https://images.metahub.space/background/medium/tt39631280/img",
+      "description": "A corrupt, troubled cop's night spirals out of control when a reluctant act of mercy toward an injured girl pulls him into a deadly web of crime.",
+      "releaseInfo": 2026,
+      "imdbRating": 5.9
+    },
+    {
+      "id": "tt38915678",
+      "type": "movie",
+      "name": "Dorothy",
+      "poster": "https://images.metahub.space/poster/medium/tt38915678/img",
+      "background": "https://images.metahub.space/background/medium/tt38915678/img",
+      "description": "In rural Tamil Nadu, two inseparable childhood friends navigate a world shaped by caste, violence and toxic masculinity, until a compassionate woman enters their lives and quietly challenges the social order around them.",
+      "releaseInfo": 2026,
+      "imdbRating": 7.7
+    },
+    {
+      "id": "tt50426072",
+      "type": "movie",
+      "name": "A Story of Derry",
+      "poster": "https://images.metahub.space/poster/medium/tt50426072/img",
+      "background": "https://images.metahub.space/background/medium/tt50426072/img",
+      "description": "Hundreds of years before Pennywise, three youngsters venture into the Western Wood...where they encounter a terrifying ancient spirit.",
+      "releaseInfo": 2026,
+      "imdbRating": 6.7
+    },
+    {
+      "id": "tt0112641",
+      "type": "movie",
+      "name": "Casino",
+      "poster": "https://images.metahub.space/poster/medium/tt0112641/img",
+      "background": "https://images.metahub.space/background/medium/tt0112641/img",
+      "description": "In Las Vegas, two best friends-a casino executive and a Mafia enforcer--compete for a gambling empire and a fast-living, fast-loving socialite.",
+      "releaseInfo": 1995,
+      "imdbRating": 8.2
+    },
+    {
+      "id": "tt0106203",
+      "type": "movie",
+      "name": "Aaina",
+      "poster": "https://images.metahub.space/poster/medium/tt0106203/img",
+      "background": "https://images.metahub.space/background/medium/tt0106203/img",
+      "description": "Roma (Amrita Singh) leaves Ravi (Jackie Shroff) at the alter in pursuit of her bigger ambitions. Her sister Reema (Juhi Chawla), a pale reflection of Roma, steps in and saves the day for her family, having secretly been in love with Ravi all her life. The newly weds start building a life together till suddenly Roma returns, determined to get back what she thinks Reema stole from her.",
+      "releaseInfo": 1993,
+      "imdbRating": 6.1
+    },
+    {
+      "id": "tt33379543",
+      "type": "movie",
+      "name": "Jana Nayagan",
+      "poster": "https://images.metahub.space/poster/medium/tt33379543/img",
+      "background": "https://images.metahub.space/background/medium/tt33379543/img",
+      "description": "A clash of ideologies. One stands for the people, the other feeds on control. Their paths collided once before. Years later, a child’s silent fear ignites the past, drawing a former police officer into a battle far bigger than personal revenge.",
+      "releaseInfo": 2026,
+      "imdbRating": 5.1
+    },
+    {
+      "id": "tt1160419",
+      "type": "movie",
+      "name": "Dune",
+      "poster": "https://images.metahub.space/poster/medium/tt1160419/img",
+      "background": "https://images.metahub.space/background/medium/tt1160419/img",
+      "description": "Paul Atreides, a brilliant and gifted young man born into a great destiny beyond his understanding, must travel to the most dangerous planet in the universe to ensure the future of his family and his people. As malevolent forces explode into conflict over the planet's exclusive supply of the most precious resource in existence - a commodity capable of unlocking humanity's greatest potential - only those who can conquer their fear will survive.",
+      "releaseInfo": 2021,
+      "imdbRating": 8
+    },
+    {
+      "id": "tt11663228",
+      "type": "movie",
+      "name": "Jailer",
+      "poster": "https://images.metahub.space/poster/medium/tt11663228/img",
+      "background": "https://images.metahub.space/background/medium/tt11663228/img",
+      "description": "Muthuvel Pandian, a retired, stern yet compassionate jailer lives a peaceful life with his family, but trouble knocks his door when his cop son’s tryst with an antique mafia gang goes awry and forces Muthu to step back into a dark world he had voluntarily took a break from.",
+      "releaseInfo": 2023,
+      "imdbRating": 7.2
+    },
+    {
       "id": "tt0060550",
       "type": "movie",
       "name": "It's the Great Pumpkin, Charlie Brown",
@@ -189,16 +249,6 @@
       "description": "Join the Peanuts gang for a timeless adventure as Charlie Brown preps for a party, Snoopy sets his sights on the Red Baron, and Linus patiently awaits a pumpkin patch miracle.",
       "releaseInfo": 1966,
       "imdbRating": 8.1
-    },
-    {
-      "id": "tt0094721",
-      "type": "movie",
-      "name": "Beetlejuice",
-      "poster": "https://images.metahub.space/poster/medium/tt0094721/img",
-      "background": "https://images.metahub.space/background/medium/tt0094721/img",
-      "description": "A newly dead New England couple seeks help from a deranged demon exorcist to scare an affluent New York family out of their home.",
-      "releaseInfo": 1988,
-      "imdbRating": 7.4
     },
     {
       "id": "tt0085636",
@@ -221,6 +271,66 @@
       "imdbRating": 7.3
     },
     {
+      "id": "tt1951264",
+      "type": "movie",
+      "name": "The Hunger Games: Catching Fire",
+      "poster": "https://images.metahub.space/poster/medium/tt1951264/img",
+      "background": "https://images.metahub.space/background/medium/tt1951264/img",
+      "description": "After surviving the Hunger Games, Katniss and Peeta struggle with the consequences of their victory as unrest spreads across Panem. Forced back into the spotlight, they become symbols of hope and resistance while the Capitol prepares a new and deadly challenge that will change the future of the nation forever.",
+      "releaseInfo": 2013,
+      "imdbRating": 7.5
+    },
+    {
+      "id": "tt0094721",
+      "type": "movie",
+      "name": "Beetlejuice",
+      "poster": "https://images.metahub.space/poster/medium/tt0094721/img",
+      "background": "https://images.metahub.space/background/medium/tt0094721/img",
+      "description": "A newly dead New England couple seeks help from a deranged demon exorcist to scare an affluent New York family out of their home.",
+      "releaseInfo": 1988,
+      "imdbRating": 7.4
+    },
+    {
+      "id": "tt14966898",
+      "type": "movie",
+      "name": "Late Night with the Devil",
+      "poster": "https://images.metahub.space/poster/medium/tt14966898/img",
+      "background": "https://images.metahub.space/background/medium/tt14966898/img",
+      "description": "A live broadcast of a late-night talk show in 1977 goes horribly wrong, unleashing evil into the nation's living rooms.",
+      "releaseInfo": 2024,
+      "imdbRating": 7
+    },
+    {
+      "id": "tt38999812",
+      "type": "movie",
+      "name": "The Birthday​ Gift​",
+      "poster": "https://images.metahub.space/poster/medium/tt38999812/img",
+      "background": "https://images.metahub.space/background/medium/tt38999812/img",
+      "description": "Single mother Marlene Frischmann organizes a birthday party for her son Theo at her brother's chic country villa, which quickly spirals into family drama, world-view quarrels, and chaos.",
+      "releaseInfo": 2026,
+      "imdbRating": 5
+    },
+    {
+      "id": "tt0290002",
+      "type": "movie",
+      "name": "Meet the Fockers",
+      "poster": "https://images.metahub.space/poster/medium/tt0290002/img",
+      "background": "https://images.metahub.space/background/medium/tt0290002/img",
+      "description": "Hard-to-crack ex-CIA man Jack Byrnes and his wife Dina head for the warmer climes of Florida to meet the parents of their son-in-law-to-be, Greg Focker. Unlike their happily matched offspring, the future in-laws find themselves in a situation of opposites that definitely do not attract.",
+      "releaseInfo": 2004,
+      "imdbRating": 6.4
+    },
+    {
+      "id": "tt5109784",
+      "type": "movie",
+      "name": "mother!",
+      "poster": "https://images.metahub.space/poster/medium/tt5109784/img",
+      "background": "https://images.metahub.space/background/medium/tt5109784/img",
+      "description": "A couple's relationship is tested when uninvited guests arrive at their home, disrupting their tranquil existence.",
+      "releaseInfo": 2017,
+      "imdbRating": 6.6
+    },
+    {
       "id": "tt5606664",
       "type": "movie",
       "name": "Doctor Sleep",
@@ -231,24 +341,54 @@
       "imdbRating": 7.3
     },
     {
-      "id": "tt0093437",
+      "id": "tt0319343",
       "type": "movie",
-      "name": "The Lost Boys",
-      "poster": "https://images.metahub.space/poster/medium/tt0093437/img",
-      "background": "https://images.metahub.space/background/medium/tt0093437/img",
-      "description": "When an unsuspecting town newcomer is drawn to local blood fiends, the Frog brothers and other unlikely heroes gear up to rescue him.",
-      "releaseInfo": 1987,
-      "imdbRating": 7.2
+      "name": "Elf",
+      "poster": "https://images.metahub.space/poster/medium/tt0319343/img",
+      "background": "https://images.metahub.space/background/medium/tt0319343/img",
+      "description": "When young Buddy falls into Santa's gift sack on Christmas Eve, he's transported back to the North Pole and raised as a toy-making elf by Santa's helpers. But as he grows into adulthood, he can't shake the nagging feeling that he doesn't belong. Buddy vows to visit Manhattan and find his real dad, a workaholic.",
+      "releaseInfo": 2003,
+      "imdbRating": 7.1
     },
     {
-      "id": "tt1160419",
+      "id": "tt36300841",
       "type": "movie",
-      "name": "Dune",
-      "poster": "https://images.metahub.space/poster/medium/tt1160419/img",
-      "background": "https://images.metahub.space/background/medium/tt1160419/img",
-      "description": "Paul Atreides, a brilliant and gifted young man born into a great destiny beyond his understanding, must travel to the most dangerous planet in the universe to ensure the future of his family and his people. As malevolent forces explode into conflict over the planet's exclusive supply of the most precious resource in existence - a commodity capable of unlocking humanity's greatest potential - only those who can conquer their fear will survive.",
-      "releaseInfo": 2021,
-      "imdbRating": 8
+      "name": "Awarapan 2",
+      "poster": "https://images.metahub.space/poster/medium/tt36300841/img",
+      "background": "https://images.metahub.space/background/medium/tt36300841/img",
+      "description": "Once a feared gangster, Shivam lives hidden away from his past, with no faith left in God or himself. But when fate pulls him into Bangkok's cartel war and forces him back into the darkness he swore never to return to, Shivam must choose what he is willing to live for, when there is nothing left to lose.",
+      "releaseInfo": 2026,
+      "imdbRating": 5.8
+    },
+    {
+      "id": "tt31723358",
+      "type": "movie",
+      "name": "Tell Me What You Want",
+      "poster": "https://images.metahub.space/poster/medium/tt31723358/img",
+      "background": "https://images.metahub.space/background/medium/tt31723358/img",
+      "description": "After his father's death, Eric Zimmerman travels to Spain to oversee his company's branches. In Madrid, he falls for Judith and engage in an intense, erotic relationship full of exploration. However, Eric fears his secret may end their affair.",
+      "releaseInfo": 2024,
+      "imdbRating": 4.1
+    },
+    {
+      "id": "tt32890033",
+      "type": "movie",
+      "name": "Minions & Monsters",
+      "poster": "https://images.metahub.space/poster/medium/tt32890033/img",
+      "background": "https://images.metahub.space/background/medium/tt32890033/img",
+      "description": "This is the rambunctious, ridiculous and totally true story of how the Minions conquered Hollywood, became movie stars, lost everything, unleashed monsters onto the world and then banded together to try and save the planet from the mayhem they had just created.",
+      "releaseInfo": 2026,
+      "imdbRating": 6.3
+    },
+    {
+      "id": "tt22526100",
+      "type": "movie",
+      "name": "The Love Hypothesis",
+      "poster": "https://images.metahub.space/poster/medium/tt22526100/img",
+      "background": "https://images.metahub.space/background/medium/tt22526100/img",
+      "description": "Olive Smith, a biology PhD candidate, and Dr. Adam Carlsen, a hotshot professor and well-known tyrant, enter into a fake relationship, seeing each of their carefully calculated theories on love get thrown into chaos.",
+      "releaseInfo": 2026,
+      "imdbRating": 6.8
     },
     {
       "id": "tt0387564",
@@ -271,24 +411,14 @@
       "imdbRating": 7.5
     },
     {
-      "id": "tt2049403",
+      "id": "tt1670345",
       "type": "movie",
-      "name": "Beetlejuice Beetlejuice",
-      "poster": "https://images.metahub.space/poster/medium/tt2049403/img",
-      "background": "https://images.metahub.space/background/medium/tt2049403/img",
-      "description": "After a family tragedy, three generations of the Deetz family return home to Winter River. Still haunted by Betelgeuse, Lydia's life is turned upside down when her teenage daughter, Astrid, accidentally opens the portal to the Afterlife.",
-      "releaseInfo": 2024,
-      "imdbRating": 6.6
-    },
-    {
-      "id": "tt35836025",
-      "type": "movie",
-      "name": "Vishwanath & Sons",
-      "poster": "https://images.metahub.space/poster/medium/tt35836025/img",
-      "background": "https://images.metahub.space/background/medium/tt35836025/img",
-      "description": "A celebrated Olympian shooter travels to America looking for a donor to help his sick child — but unexpected romance complicates his search.",
-      "releaseInfo": 2026,
-      "imdbRating": 7.1
+      "name": "Now You See Me",
+      "poster": "https://images.metahub.space/poster/medium/tt1670345/img",
+      "background": "https://images.metahub.space/background/medium/tt1670345/img",
+      "description": "An FBI agent and an Interpol detective track a team of illusionists who pull off bank heists during their performances and reward their audiences with the money.",
+      "releaseInfo": 2013,
+      "imdbRating": 7.2
     },
     {
       "id": "tt17663992",
@@ -301,56 +431,6 @@
       "imdbRating": 6.4
     },
     {
-      "id": "tt0106203",
-      "type": "movie",
-      "name": "Aaina",
-      "poster": "https://images.metahub.space/poster/medium/tt0106203/img",
-      "background": "https://images.metahub.space/background/medium/tt0106203/img",
-      "description": "Roma (Amrita Singh) leaves Ravi (Jackie Shroff) at the alter in pursuit of her bigger ambitions. Her sister Reema (Juhi Chawla), a pale reflection of Roma, steps in and saves the day for her family, having secretly been in love with Ravi all her life. The newly weds start building a life together till suddenly Roma returns, determined to get back what she thinks Reema stole from her.",
-      "releaseInfo": 1993,
-      "imdbRating": 6.1
-    },
-    {
-      "id": "tt31723358",
-      "type": "movie",
-      "name": "Tell Me What You Want",
-      "poster": "https://images.metahub.space/poster/medium/tt31723358/img",
-      "background": "https://images.metahub.space/background/medium/tt31723358/img",
-      "description": "After his father's death, Eric Zimmerman travels to Spain to oversee his company's branches. In Madrid, he falls for Judith and engage in an intense, erotic relationship full of exploration. However, Eric fears his secret may end their affair.",
-      "releaseInfo": 2024,
-      "imdbRating": 4.1
-    },
-    {
-      "id": "tt12583926",
-      "type": "movie",
-      "name": "Anniversary",
-      "poster": "https://images.metahub.space/poster/medium/tt12583926/img",
-      "background": "https://images.metahub.space/background/medium/tt12583926/img",
-      "description": "When Ellen and Paul’s son Josh introduces his new girlfriend at their 25th anniversary party, no one suspects that it is the beginning of the end for this happy family. The new girlfriend is Liz, Ellen’s former student, who left the university, some years before, after Ellen called her out in class for her radical ideology.",
-      "releaseInfo": 2025,
-      "imdbRating": 6.7
-    },
-    {
-      "id": "tt5109784",
-      "type": "movie",
-      "name": "mother!",
-      "poster": "https://images.metahub.space/poster/medium/tt5109784/img",
-      "background": "https://images.metahub.space/background/medium/tt5109784/img",
-      "description": "A couple's relationship is tested when uninvited guests arrive at their home, disrupting their tranquil existence.",
-      "releaseInfo": 2017,
-      "imdbRating": 6.6
-    },
-    {
-      "id": "tt33510831",
-      "type": "movie",
-      "name": "Band of Brothers: Legacy",
-      "poster": "https://images.metahub.space/poster/medium/tt33510831/img",
-      "background": "https://images.metahub.space/background/medium/tt33510831/img",
-      "description": "This tribute to the groundbreaking series that helped preserve the story of Easy Company and deepened public appreciation for the sacrifices of the Greatest Generation features new interviews with cast members Damian Lewis, Ron Livingston, Michael Cudlitz, Capt. Dale Dye, USMC (Ret.), David Schwimmer, and more. Through personal reflections and behind-the-scenes stories, participants revisit the experience of making the series and explore its lasting cultural resonance, and also includes never-before-seen archival footage and photographs of Easy Company and World War II.",
-      "releaseInfo": 2026,
-      "imdbRating": 8.2
-    },
-    {
       "id": "tt46060457",
       "type": "movie",
       "name": "The Swan: Behind the Mirror",
@@ -361,114 +441,24 @@
       "imdbRating": 6.2
     },
     {
-      "id": "tt50426072",
+      "id": "tt0816692",
       "type": "movie",
-      "name": "A Story of Derry",
-      "poster": "https://images.metahub.space/poster/medium/tt50426072/img",
-      "background": "https://images.metahub.space/background/medium/tt50426072/img",
-      "description": "Hundreds of years before Pennywise, three youngsters venture into the Western Wood...where they encounter a terrifying ancient spirit.",
-      "releaseInfo": 2026,
-      "imdbRating": 0
+      "name": "Interstellar",
+      "poster": "https://images.metahub.space/poster/medium/tt0816692/img",
+      "background": "https://images.metahub.space/background/medium/tt0816692/img",
+      "description": "In a dystopian future where Earth has become near-uninhabitable, a team of astronauts embark on a mission to find a new home for humanity.",
+      "releaseInfo": 2014,
+      "imdbRating": 8.7
     },
     {
-      "id": "tt1663202",
+      "id": "tt0075314",
       "type": "movie",
-      "name": "The Revenant",
-      "poster": "https://images.metahub.space/poster/medium/tt1663202/img",
-      "background": "https://images.metahub.space/background/medium/tt1663202/img",
-      "description": "In the 1820s, a frontiersman, Hugh Glass, sets out on a path of vengeance against those who left him for dead after a bear mauling.",
-      "releaseInfo": 2015,
-      "imdbRating": 8
-    },
-    {
-      "id": "tt35538033",
-      "type": "movie",
-      "name": "Resident Evil",
-      "poster": "https://images.metahub.space/poster/medium/tt35538033/img",
-      "background": "https://images.metahub.space/background/medium/tt35538033/img",
-      "description": "Described as a revamp that will return to the franchise's horror roots and be more faithful to the initial games.",
-      "releaseInfo": 2026,
-      "imdbRating": 7.5
-    },
-    {
-      "id": "tt0106226",
-      "type": "movie",
-      "name": "The Age of Innocence",
-      "poster": "https://images.metahub.space/poster/medium/tt0106226/img",
-      "background": "https://images.metahub.space/background/medium/tt0106226/img",
-      "description": "In 19th century New York high society, a young lawyer falls in love with a woman separated from her husband, while he is engaged to the woman's cousin.",
-      "releaseInfo": 1993,
-      "imdbRating": 7.2
-    },
-    {
-      "id": "tt36300841",
-      "type": "movie",
-      "name": "Awarapan 2",
-      "poster": "https://images.metahub.space/poster/medium/tt36300841/img",
-      "background": "https://images.metahub.space/background/medium/tt36300841/img",
-      "description": "Once a feared gangster, Shivam lives hidden away from his past, with no faith left in God or himself. But when fate pulls him into Bangkok's cartel war and forces him back into the darkness he swore never to return to, Shivam must choose what he is willing to live for, when there is nothing left to lose.",
-      "releaseInfo": 2026,
-      "imdbRating": 5.8
-    },
-    {
-      "id": "tt4589218",
-      "type": "movie",
-      "name": "Five Nights at Freddy's",
-      "poster": "https://images.metahub.space/poster/medium/tt4589218/img",
-      "background": "https://images.metahub.space/background/medium/tt4589218/img",
-      "description": "Recently fired and desperate for work, a troubled young man named Mike agrees to take a position as a night security guard at an abandoned theme restaurant: Freddy Fazbear's Pizzeria. But he soon discovers that nothing at Freddy's is what it seems.",
-      "releaseInfo": 2023,
-      "imdbRating": 5.4
-    },
-    {
-      "id": "tt2709692",
-      "type": "movie",
-      "name": "The Grinch",
-      "poster": "https://images.metahub.space/poster/medium/tt2709692/img",
-      "background": "https://images.metahub.space/background/medium/tt2709692/img",
-      "description": "The Grinch hatches a scheme to ruin Christmas when the residents of Whoville plan their annual holiday celebration. But a certain little who might change things.",
-      "releaseInfo": 2018,
-      "imdbRating": 6.4
-    },
-    {
-      "id": "tt28089700",
-      "type": "movie",
-      "name": "Raid 2",
-      "poster": "https://images.metahub.space/poster/medium/tt28089700/img",
-      "background": "https://images.metahub.space/background/medium/tt28089700/img",
-      "description": "Set seven years after the events of the first film, it follows the return of IRS officer Amay Patnaik, who is attempting to take down a seemingly benevolent politician.",
-      "releaseInfo": 2025,
-      "imdbRating": 6.6
-    },
-    {
-      "id": "tt0290002",
-      "type": "movie",
-      "name": "Meet the Fockers",
-      "poster": "https://images.metahub.space/poster/medium/tt0290002/img",
-      "background": "https://images.metahub.space/background/medium/tt0290002/img",
-      "description": "Hard-to-crack ex-CIA man Jack Byrnes and his wife Dina head for the warmer climes of Florida to meet the parents of their son-in-law-to-be, Greg Focker. Unlike their happily matched offspring, the future in-laws find themselves in a situation of opposites that definitely do not attract.",
-      "releaseInfo": 2004,
-      "imdbRating": 6.4
-    },
-    {
-      "id": "tt0112641",
-      "type": "movie",
-      "name": "Casino",
-      "poster": "https://images.metahub.space/poster/medium/tt0112641/img",
-      "background": "https://images.metahub.space/background/medium/tt0112641/img",
-      "description": "In Las Vegas, two best friends-a casino executive and a Mafia enforcer--compete for a gambling empire and a fast-living, fast-loving socialite.",
-      "releaseInfo": 1995,
+      "name": "Taxi Driver",
+      "poster": "https://images.metahub.space/poster/medium/tt0075314/img",
+      "background": "https://images.metahub.space/background/medium/tt0075314/img",
+      "description": "Suffering from insomnia, disturbed loner Travis Bickle takes a job as a New York City cabbie, haunting the streets nightly, growing increasingly detached from reality as he dreams of cleaning up the filthy city.",
+      "releaseInfo": 1976,
       "imdbRating": 8.2
-    },
-    {
-      "id": "tt0087363",
-      "type": "movie",
-      "name": "Gremlins",
-      "poster": "https://images.metahub.space/poster/medium/tt0087363/img",
-      "background": "https://images.metahub.space/background/medium/tt0087363/img",
-      "description": "After receiving an exotic small animal as a Christmas gift, a young man inadvertently breaks three important rules concerning his new pet, which unleashes a horde of malevolently mischievous creatures on a small town.",
-      "releaseInfo": 1984,
-      "imdbRating": 7.3
     },
     {
       "id": "tt8439854",
@@ -481,24 +471,34 @@
       "imdbRating": 6.3
     },
     {
-      "id": "tt33379543",
+      "id": "tt0093437",
       "type": "movie",
-      "name": "Jana Nayagan",
-      "poster": "https://images.metahub.space/poster/medium/tt33379543/img",
-      "background": "https://images.metahub.space/background/medium/tt33379543/img",
-      "description": "A clash of ideologies. One stands for the people, the other feeds on control. Their paths collided once before. Years later, a child’s silent fear ignites the past, drawing a former police officer into a battle far bigger than personal revenge.",
-      "releaseInfo": 2026,
-      "imdbRating": 5.1
+      "name": "The Lost Boys",
+      "poster": "https://images.metahub.space/poster/medium/tt0093437/img",
+      "background": "https://images.metahub.space/background/medium/tt0093437/img",
+      "description": "When an unsuspecting town newcomer is drawn to local blood fiends, the Frog brothers and other unlikely heroes gear up to rescue him.",
+      "releaseInfo": 1987,
+      "imdbRating": 7.2
     },
     {
-      "id": "tt0319343",
+      "id": "tt10374610",
       "type": "movie",
-      "name": "Elf",
-      "poster": "https://images.metahub.space/poster/medium/tt0319343/img",
-      "background": "https://images.metahub.space/background/medium/tt0319343/img",
-      "description": "When young Buddy falls into Santa's gift sack on Christmas Eve, he's transported back to the North Pole and raised as a toy-making elf by Santa's helpers. But as he grows into adulthood, he can't shake the nagging feeling that he doesn't belong. Buddy vows to visit Manhattan and find his real dad, a workaholic.",
-      "releaseInfo": 2003,
-      "imdbRating": 7.1
+      "name": "The Long Walk",
+      "poster": "https://images.metahub.space/poster/medium/tt10374610/img",
+      "background": "https://images.metahub.space/background/medium/tt10374610/img",
+      "description": "In a dystopian America, fifty teenage boys take part in a deadly annual walking contest, forced to maintain a minimum pace or be executed, until only one survivor remains.",
+      "releaseInfo": 2025,
+      "imdbRating": 6.6
+    },
+    {
+      "id": "tt33510831",
+      "type": "movie",
+      "name": "Band of Brothers: Legacy",
+      "poster": "https://images.metahub.space/poster/medium/tt33510831/img",
+      "background": "https://images.metahub.space/background/medium/tt33510831/img",
+      "description": "This tribute to the groundbreaking series that helped preserve the story of Easy Company and deepened public appreciation for the sacrifices of the Greatest Generation features new interviews with cast members Damian Lewis, Ron Livingston, Michael Cudlitz, Capt. Dale Dye, USMC (Ret.), David Schwimmer, and more. Through personal reflections and behind-the-scenes stories, participants revisit the experience of making the series and explore its lasting cultural resonance, and also includes never-before-seen archival footage and photographs of Easy Company and World War II.",
+      "releaseInfo": 2026,
+      "imdbRating": 8.2
     }
   ]
 }
