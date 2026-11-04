@@ -91,16 +91,6 @@
       "imdbRating": 6.4
     },
     {
-      "id": "tt0087332",
-      "type": "movie",
-      "name": "Ghostbusters",
-      "poster": "https://images.metahub.space/poster/medium/tt0087332/img",
-      "background": "https://images.metahub.space/background/medium/tt0087332/img",
-      "description": "After losing their university jobs, three parapsychologists start a ghost-catching business in New York City and uncover a supernatural threat that could destroy the world.",
-      "releaseInfo": 1984,
-      "imdbRating": 7.8
-    },
-    {
       "id": "tt35538033",
       "type": "movie",
       "name": "Resident Evil",
@@ -141,16 +131,6 @@
       "imdbRating": 5.5
     },
     {
-      "id": "tt14113634",
-      "type": "movie",
-      "name": "Drishyam 3",
-      "poster": "https://images.metahub.space/poster/medium/tt14113634/img",
-      "background": "https://images.metahub.space/background/medium/tt14113634/img",
-      "description": "To protect his family and their dark secret, Georgekutty faces an organized new threat. As walls close in and cracks widen, how much more is he willing to sacrifice?",
-      "releaseInfo": 2026,
-      "imdbRating": 6.6
-    },
-    {
       "id": "tt38793125",
       "type": "movie",
       "name": "Collision Course",
@@ -161,6 +141,16 @@
       "imdbRating": 5.7
     },
     {
+      "id": "tt14113634",
+      "type": "movie",
+      "name": "Drishyam 3",
+      "poster": "https://images.metahub.space/poster/medium/tt14113634/img",
+      "background": "https://images.metahub.space/background/medium/tt14113634/img",
+      "description": "To protect his family and their dark secret, Georgekutty faces an organized new threat. As walls close in and cracks widen, how much more is he willing to sacrifice?",
+      "releaseInfo": 2026,
+      "imdbRating": 6.6
+    },
+    {
       "id": "tt39631280",
       "type": "movie",
       "name": "Gajab Raat",
@@ -169,6 +159,16 @@
       "description": "A corrupt, troubled cop's night spirals out of control when a reluctant act of mercy toward an injured girl pulls him into a deadly web of crime.",
       "releaseInfo": 2026,
       "imdbRating": 5.9
+    },
+    {
+      "id": "tt0087332",
+      "type": "movie",
+      "name": "Ghostbusters",
+      "poster": "https://images.metahub.space/poster/medium/tt0087332/img",
+      "background": "https://images.metahub.space/background/medium/tt0087332/img",
+      "description": "After losing their university jobs, three parapsychologists start a ghost-catching business in New York City and uncover a supernatural threat that could destroy the world.",
+      "releaseInfo": 1984,
+      "imdbRating": 7.8
     },
     {
       "id": "tt38915678",
@@ -261,6 +261,16 @@
       "imdbRating": 5.2
     },
     {
+      "id": "tt0094721",
+      "type": "movie",
+      "name": "Beetlejuice",
+      "poster": "https://images.metahub.space/poster/medium/tt0094721/img",
+      "background": "https://images.metahub.space/background/medium/tt0094721/img",
+      "description": "A newly dead New England couple seeks help from a deranged demon exorcist to scare an affluent New York family out of their home.",
+      "releaseInfo": 1988,
+      "imdbRating": 7.4
+    },
+    {
       "id": "tt0084516",
       "type": "movie",
       "name": "Poltergeist",
@@ -281,16 +291,6 @@
       "imdbRating": 7.5
     },
     {
-      "id": "tt0094721",
-      "type": "movie",
-      "name": "Beetlejuice",
-      "poster": "https://images.metahub.space/poster/medium/tt0094721/img",
-      "background": "https://images.metahub.space/background/medium/tt0094721/img",
-      "description": "A newly dead New England couple seeks help from a deranged demon exorcist to scare an affluent New York family out of their home.",
-      "releaseInfo": 1988,
-      "imdbRating": 7.4
-    },
-    {
       "id": "tt14966898",
       "type": "movie",
       "name": "Late Night with the Devil",
@@ -309,16 +309,6 @@
       "description": "Single mother Marlene Frischmann organizes a birthday party for her son Theo at her brother's chic country villa, which quickly spirals into family drama, world-view quarrels, and chaos.",
       "releaseInfo": 2026,
       "imdbRating": 5
-    },
-    {
-      "id": "tt0290002",
-      "type": "movie",
-      "name": "Meet the Fockers",
-      "poster": "https://images.metahub.space/poster/medium/tt0290002/img",
-      "background": "https://images.metahub.space/background/medium/tt0290002/img",
-      "description": "Hard-to-crack ex-CIA man Jack Byrnes and his wife Dina head for the warmer climes of Florida to meet the parents of their son-in-law-to-be, Greg Focker. Unlike their happily matched offspring, the future in-laws find themselves in a situation of opposites that definitely do not attract.",
-      "releaseInfo": 2004,
-      "imdbRating": 6.4
     },
     {
       "id": "tt5109784",
@@ -371,16 +361,6 @@
       "imdbRating": 4.1
     },
     {
-      "id": "tt32890033",
-      "type": "movie",
-      "name": "Minions & Monsters",
-      "poster": "https://images.metahub.space/poster/medium/tt32890033/img",
-      "background": "https://images.metahub.space/background/medium/tt32890033/img",
-      "description": "This is the rambunctious, ridiculous and totally true story of how the Minions conquered Hollywood, became movie stars, lost everything, unleashed monsters onto the world and then banded together to try and save the planet from the mayhem they had just created.",
-      "releaseInfo": 2026,
-      "imdbRating": 6.3
-    },
-    {
       "id": "tt22526100",
       "type": "movie",
       "name": "The Love Hypothesis",
@@ -389,6 +369,16 @@
       "description": "Olive Smith, a biology PhD candidate, and Dr. Adam Carlsen, a hotshot professor and well-known tyrant, enter into a fake relationship, seeing each of their carefully calculated theories on love get thrown into chaos.",
       "releaseInfo": 2026,
       "imdbRating": 6.8
+    },
+    {
+      "id": "tt32890033",
+      "type": "movie",
+      "name": "Minions & Monsters",
+      "poster": "https://images.metahub.space/poster/medium/tt32890033/img",
+      "background": "https://images.metahub.space/background/medium/tt32890033/img",
+      "description": "This is the rambunctious, ridiculous and totally true story of how the Minions conquered Hollywood, became movie stars, lost everything, unleashed monsters onto the world and then banded together to try and save the planet from the mayhem they had just created.",
+      "releaseInfo": 2026,
+      "imdbRating": 6.3
     },
     {
       "id": "tt0387564",
@@ -499,6 +489,16 @@
       "description": "This tribute to the groundbreaking series that helped preserve the story of Easy Company and deepened public appreciation for the sacrifices of the Greatest Generation features new interviews with cast members Damian Lewis, Ron Livingston, Michael Cudlitz, Capt. Dale Dye, USMC (Ret.), David Schwimmer, and more. Through personal reflections and behind-the-scenes stories, participants revisit the experience of making the series and explore its lasting cultural resonance, and also includes never-before-seen archival footage and photographs of Easy Company and World War II.",
       "releaseInfo": 2026,
       "imdbRating": 8.2
+    },
+    {
+      "id": "tt42262473",
+      "type": "movie",
+      "name": "Modha Rathri",
+      "poster": "https://images.metahub.space/poster/medium/tt42262473/img",
+      "background": "https://images.metahub.space/background/medium/tt42262473/img",
+      "description": "Two strangers are brought together at an unusual wedding where, in one night, too many surprises unfold and several lies are told, spiraling into chaos that changes everything.",
+      "releaseInfo": 2026,
+      "imdbRating": 7.5
     }
   ]
 }

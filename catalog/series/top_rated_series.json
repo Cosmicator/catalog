@@ -12,17 +12,6 @@
       "imdbRating": "9.5"
     },
     {
-      "id": "tt0795176",
-      "type": "series",
-      "name": "Planet Earth",
-      "poster": "https://images.metahub.space/poster/small/tt0795176/img",
-      "background": "https://images.metahub.space/background/medium/tt0795176/img",
-      "logo": "https://images.metahub.space/logo/medium/tt0795176/img",
-      "description": "An epic nature documentary series exploring Earth's most spectacular habitats, revealing the wildlife, landscapes, and natural forces that shape life across the planet.",
-      "releaseInfo": "2006",
-      "imdbRating": "9.4"
-    },
-    {
       "id": "tt0944947",
       "type": "series",
       "name": "Game of Thrones",
@@ -177,17 +166,6 @@
       "imdbRating": "8.6"
     },
     {
-      "id": "tt36643714",
-      "type": "series",
-      "name": "Operation Safed Sagar: The Untold Story of the Kargil War",
-      "poster": "https://live.metahub.space/poster/small/tt36643714/img",
-      "background": "https://live.metahub.space/background/medium/tt36643714/img",
-      "logo": "https://live.metahub.space/logo/medium/tt36643714/img",
-      "description": "As the Kargil War erupts between India and Pakistan, the Golden Arrows squadron of the Air Force takes flight on a dangerous mission behind enemy lines.",
-      "releaseInfo": "2026–2026",
-      "imdbRating": "8.6"
-    },
-    {
       "id": "tt0773262",
       "type": "series",
       "name": "Dexter",
@@ -218,6 +196,17 @@
       "logo": "https://images.metahub.space/logo/medium/tt4093826/img",
       "description": "Picks up 25 years after the inhabitants of a quaint northwestern town are stunned when their homecoming queen is murdered.",
       "releaseInfo": "2017",
+      "imdbRating": "8.5"
+    },
+    {
+      "id": "tt36643714",
+      "type": "series",
+      "name": "Operation Safed Sagar: The Untold Story of the Kargil War",
+      "poster": "https://live.metahub.space/poster/small/tt36643714/img",
+      "background": "https://live.metahub.space/background/medium/tt36643714/img",
+      "logo": "https://live.metahub.space/logo/medium/tt36643714/img",
+      "description": "As the Kargil War erupts between India and Pakistan, the Golden Arrows squadron of the Air Force takes flight on a dangerous mission behind enemy lines.",
+      "releaseInfo": "2026–2026",
       "imdbRating": "8.5"
     },
     {
@@ -496,17 +485,6 @@
       "imdbRating": "8.1"
     },
     {
-      "id": "tt49702110",
-      "type": "series",
-      "name": "Matargashti",
-      "poster": "https://live.metahub.space/poster/small/tt49702110/img",
-      "background": "https://live.metahub.space/background/medium/tt49702110/img",
-      "logo": "https://live.metahub.space/logo/medium/tt49702110/img",
-      "description": "Dhara's plan to explore her sexuality puts her at odds with her horrified father, who becomes determined to sabotage her love life.",
-      "releaseInfo": "2026–",
-      "imdbRating": "8.0"
-    },
-    {
       "id": "tt4643084",
       "type": "series",
       "name": "Counterpart",
@@ -545,6 +523,28 @@
       "logo": "https://images.metahub.space/logo/medium/tt23112594/img",
       "description": "Vision is faced with many challenges while trying to regain his memory and humanity.",
       "releaseInfo": "2026",
+      "imdbRating": "7.9"
+    },
+    {
+      "id": "tt22202452",
+      "type": "series",
+      "name": "Pluribus",
+      "poster": "https://images.metahub.space/poster/small/tt22202452/img",
+      "background": "https://images.metahub.space/background/medium/tt22202452/img",
+      "logo": "https://images.metahub.space/logo/medium/tt22202452/img",
+      "description": "In a world overtaken by a mysterious wave of forced happiness, Carol Sturka, one of the immune few, must uncover what's really going on - and save humanity from its artificial bliss.",
+      "releaseInfo": "2025–",
+      "imdbRating": "7.9"
+    },
+    {
+      "id": "tt2137109",
+      "type": "series",
+      "name": "Masters of Sex",
+      "poster": "https://images.metahub.space/poster/small/tt2137109/img",
+      "background": "https://images.metahub.space/background/medium/tt2137109/img",
+      "logo": "https://images.metahub.space/logo/medium/tt2137109/img",
+      "description": "Drama about the pioneers of the science of human sexuality whose research touched off the sexual revolution.",
+      "releaseInfo": "2013–2016",
       "imdbRating": "7.9"
     }
   ]
