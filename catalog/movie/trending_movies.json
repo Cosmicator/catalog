@@ -6,7 +6,7 @@
       "name": "Mirzapur: The Movie",
       "poster": "https://images.metahub.space/poster/medium/tt34339725/img",
       "background": "https://images.metahub.space/background/medium/tt34339725/img",
-      "description": "The battle for Mirzapur’s throne intensifies as old enemies resurface and a new threat emerges in the form of Babban Babua, a ruthless businessman from Jaisalmer with ambitions of his own. As the Tripathis face enemies from both the past and present, loyalties are tested while Guddu and Bablu Pandit fight to establish themselves in the power struggle for Mirzapur.",
+      "description": "Akhandanand Tripathi sits on the throne of Mirzapur. Munna Tripathi is heir apparent. Rati Shankar Shukla is the rival from Jaunpur. And, Guddu and Bablu are the two brothers who came like a tornado and changed things irreversibly. And now comes a new claimant in town. Babban Babua, from the desert of Jaisalmer. A ruthless man who is power hungry.",
       "releaseInfo": 2026,
       "imdbRating": 7.4
     },
@@ -121,16 +121,6 @@
       "imdbRating": 7.8
     },
     {
-      "id": "tt38793125",
-      "type": "movie",
-      "name": "Collision Course",
-      "poster": "https://images.metahub.space/poster/medium/tt38793125/img",
-      "background": "https://images.metahub.space/background/medium/tt38793125/img",
-      "description": "Spain, 2013. After robbing a bank, a getaway crash reveals the hidden side of each thief, exposing betrayals and lies that began long before the heist.",
-      "releaseInfo": 2026,
-      "imdbRating": 5.6
-    },
-    {
       "id": "tt39239754",
       "type": "movie",
       "name": "Sigma",
@@ -139,6 +129,16 @@
       "description": "A rogue treasure hunter breaks every rule in pursuit of the ultimate score, navigating deadly traps and double-crosses with wit and audacity in this adrenaline-fueled adventure.",
       "releaseInfo": 2026,
       "imdbRating": 4.8
+    },
+    {
+      "id": "tt38793125",
+      "type": "movie",
+      "name": "Collision Course",
+      "poster": "https://images.metahub.space/poster/medium/tt38793125/img",
+      "background": "https://images.metahub.space/background/medium/tt38793125/img",
+      "description": "Spain, 2013. After robbing a bank, a getaway crash reveals the hidden side of each thief, exposing betrayals and lies that began long before the heist.",
+      "releaseInfo": 2026,
+      "imdbRating": 5.6
     },
     {
       "id": "tt50426072",
@@ -351,16 +351,6 @@
       "imdbRating": 5.8
     },
     {
-      "id": "tt0290002",
-      "type": "movie",
-      "name": "Meet the Fockers",
-      "poster": "https://images.metahub.space/poster/medium/tt0290002/img",
-      "background": "https://images.metahub.space/background/medium/tt0290002/img",
-      "description": "Hard-to-crack ex-CIA man Jack Byrnes and his wife Dina head for the warmer climes of Florida to meet the parents of their son-in-law-to-be, Greg Focker. Unlike their happily matched offspring, the future in-laws find themselves in a situation of opposites that definitely do not attract.",
-      "releaseInfo": 2004,
-      "imdbRating": 6.4
-    },
-    {
       "id": "tt0319343",
       "type": "movie",
       "name": "Elf",
@@ -391,16 +381,6 @@
       "imdbRating": 7.4
     },
     {
-      "id": "tt0104231",
-      "type": "movie",
-      "name": "Far and Away",
-      "poster": "https://images.metahub.space/poster/medium/tt0104231/img",
-      "background": "https://images.metahub.space/background/medium/tt0104231/img",
-      "description": "A young free-spirited Irish woman from an affluent Protestant family spontaneously befriends a street-smart commoner cheated by her family’s hostile land takeovers. They escape to America, ready to take advantage of the 19th century Oklahoma land rush.",
-      "releaseInfo": 1992,
-      "imdbRating": 6.6
-    },
-    {
       "id": "tt0093437",
       "type": "movie",
       "name": "The Lost Boys",
@@ -409,6 +389,16 @@
       "description": "When an unsuspecting town newcomer is drawn to local blood fiends, the Frog brothers and other unlikely heroes gear up to rescue him.",
       "releaseInfo": 1987,
       "imdbRating": 7.2
+    },
+    {
+      "id": "tt0075314",
+      "type": "movie",
+      "name": "Taxi Driver",
+      "poster": "https://images.metahub.space/poster/medium/tt0075314/img",
+      "background": "https://images.metahub.space/background/medium/tt0075314/img",
+      "description": "Suffering from insomnia, disturbed loner Travis Bickle takes a job as a New York City cabbie, haunting the streets nightly, growing increasingly detached from reality as he dreams of cleaning up the filthy city.",
+      "releaseInfo": 1976,
+      "imdbRating": 8.2
     },
     {
       "id": "tt14966898",
@@ -471,6 +461,16 @@
       "imdbRating": 6.2
     },
     {
+      "id": "tt0104231",
+      "type": "movie",
+      "name": "Far and Away",
+      "poster": "https://images.metahub.space/poster/medium/tt0104231/img",
+      "background": "https://images.metahub.space/background/medium/tt0104231/img",
+      "description": "A young free-spirited Irish woman from an affluent Protestant family spontaneously befriends a street-smart commoner cheated by her family’s hostile land takeovers. They escape to America, ready to take advantage of the 19th century Oklahoma land rush.",
+      "releaseInfo": 1992,
+      "imdbRating": 6.6
+    },
+    {
       "id": "tt38265603",
       "type": "movie",
       "name": "Pradhama Drishtiya Kuttakkar",
@@ -481,24 +481,24 @@
       "imdbRating": 7.5
     },
     {
-      "id": "tt1663202",
+      "id": "tt0290002",
+      "type": "movie",
+      "name": "Meet the Fockers",
+      "poster": "https://images.metahub.space/poster/medium/tt0290002/img",
+      "background": "https://images.metahub.space/background/medium/tt0290002/img",
+      "description": "Hard-to-crack ex-CIA man Jack Byrnes and his wife Dina head for the warmer climes of Florida to meet the parents of their son-in-law-to-be, Greg Focker. Unlike their happily matched offspring, the future in-laws find themselves in a situation of opposites that definitely do not attract.",
+      "releaseInfo": 2004,
+      "imdbRating": 6.4
+    },
+    {
+      "id": "tt1663690",
       "type": "movie",
       "name": "The Revenant",
-      "poster": "https://images.metahub.space/poster/medium/tt1663202/img",
-      "background": "https://images.metahub.space/background/medium/tt1663202/img",
+      "poster": "https://images.metahub.space/poster/medium/tt1663690/img",
+      "background": "https://images.metahub.space/background/medium/tt1663690/img",
       "description": "In the 1820s, a frontiersman, Hugh Glass, sets out on a path of vengeance against those who left him for dead after a bear mauling.",
       "releaseInfo": 2015,
       "imdbRating": 8
-    },
-    {
-      "id": "tt5606664",
-      "type": "movie",
-      "name": "Doctor Sleep",
-      "poster": "https://images.metahub.space/poster/medium/tt5606664/img",
-      "background": "https://images.metahub.space/background/medium/tt5606664/img",
-      "description": "Still scarred by the trauma he endured as a child at the Overlook Hotel, Dan Torrance faces the ghosts of the past when he meets Abra, a courageous teen who desperately needs his help -- and who possesses a powerful extrasensory ability called the \"shine\".",
-      "releaseInfo": 2019,
-      "imdbRating": 7.3
     }
   ]
 }
