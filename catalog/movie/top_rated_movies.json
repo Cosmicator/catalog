@@ -45,6 +45,17 @@
       "imdbRating": "8.9"
     },
     {
+      "id": "tt0282778",
+      "type": "movie",
+      "name": "Nadodikkattu",
+      "poster": "https://live.metahub.space/poster/small/tt0282778/img",
+      "background": "https://live.metahub.space/background/medium/tt0282778/img",
+      "logo": "https://live.metahub.space/logo/medium/tt0282778/img",
+      "description": "After losing their jobs, Dasan and Vijayan have no hope of finding work in Kerala. They plan to escape to Dubai, but end up in Chennai. Can they find luck there?",
+      "releaseInfo": "1987",
+      "imdbRating": "8.8"
+    },
+    {
       "id": "tt36931126",
       "type": "movie",
       "name": "Immortal",
@@ -78,28 +89,6 @@
       "imdbRating": "8.7"
     },
     {
-      "id": "tt0249188",
-      "type": "movie",
-      "name": "Thoovanathumbikal",
-      "poster": "https://images.metahub.space/poster/small/tt0249188/img",
-      "background": "https://images.metahub.space/background/medium/tt0249188/img",
-      "logo": "https://images.metahub.space/logo/medium/tt0249188/img",
-      "description": "Jayakrishnan falls in love with two girls, Radha and Clara, and fights his confusion about whom he should marry and spend his life with.",
-      "releaseInfo": "1987",
-      "imdbRating": "8.6"
-    },
-    {
-      "id": "tt2325915",
-      "type": "movie",
-      "name": "Poove Unakkaga",
-      "poster": "https://images.metahub.space/poster/small/tt2325915/img",
-      "background": "https://images.metahub.space/background/medium/tt2325915/img",
-      "logo": "https://images.metahub.space/logo/medium/tt2325915/img",
-      "description": "When a man realizes that the Hindu woman he loves is in love with a Christian man, he decides to sacrifice his love and unite their families so as to make the love story a success.",
-      "releaseInfo": "1996",
-      "imdbRating": "8.5"
-    },
-    {
       "id": "tt6751668",
       "type": "movie",
       "name": "Parasite",
@@ -109,17 +98,6 @@
       "description": "Greed and class discrimination threaten the newly formed symbiotic relationship between the wealthy Park family and the destitute Kim clan.",
       "releaseInfo": "2019",
       "imdbRating": "8.5"
-    },
-    {
-      "id": "tt0119385",
-      "type": "movie",
-      "name": "Iruvar",
-      "poster": "https://images.metahub.space/poster/small/tt0119385/img",
-      "background": "https://images.metahub.space/background/medium/tt0119385/img",
-      "logo": "https://images.metahub.space/logo/medium/tt0119385/img",
-      "description": "A struggling actor and a writer-politician become friends as young men and rise to great heights in cinema and politics respectively. But when both become contenders for the top political post in the state, a rift develops between...",
-      "releaseInfo": "1997",
-      "imdbRating": "8.4"
     },
     {
       "id": "tt15239678",
@@ -133,14 +111,25 @@
       "imdbRating": "8.4"
     },
     {
-      "id": "tt1695800",
+      "id": "tt11580854",
       "type": "movie",
-      "name": "Pranchiyettan and the Saint",
-      "poster": "https://images.metahub.space/poster/small/tt1695800/img",
-      "background": "https://images.metahub.space/background/medium/tt1695800/img",
-      "logo": "https://images.metahub.space/logo/medium/tt1695800/img",
-      "description": "Pranchiyettan is a successful businessman who often has talks with an imaginary St. Francis of Assisi. The story deals with how he goes about changing his embarrassing image to making a name for himself using wealth and contacts.",
-      "releaseInfo": "2010",
+      "name": "Sarpatta Parambarai",
+      "poster": "https://images.metahub.space/poster/small/tt11580854/img",
+      "background": "https://images.metahub.space/background/medium/tt11580854/img",
+      "logo": "https://images.metahub.space/logo/medium/tt11580854/img",
+      "description": "When Sarpatta Parambarai is challenged to a do-or-die match, will Kabilan, a young labourer, put on the gloves himself and lead his clan to victory, or be dissuaded by his disapproving mother and dangerous politics?",
+      "releaseInfo": "2021",
+      "imdbRating": "8.4"
+    },
+    {
+      "id": "tt21626284",
+      "type": "movie",
+      "name": "Lost Ladies",
+      "poster": "https://images.metahub.space/poster/small/tt21626284/img",
+      "background": "https://images.metahub.space/background/medium/tt21626284/img",
+      "logo": "https://images.metahub.space/logo/medium/tt21626284/img",
+      "description": "The misadventures of two young brides who get lost from the same train. From mistaken identities to laugh-out-aloud escapades, the ensuing chaos guarantees laughter galore and heartwarming moments.",
+      "releaseInfo": "2024",
       "imdbRating": "8.3"
     },
     {
@@ -155,6 +144,17 @@
       "imdbRating": "8.3"
     },
     {
+      "id": "tt10214826",
+      "type": "movie",
+      "name": "Agent Sai Srinivasa Athreya",
+      "poster": "https://images.metahub.space/poster/small/tt10214826/img",
+      "background": "https://images.metahub.space/background/medium/tt10214826/img",
+      "logo": "https://images.metahub.space/logo/medium/tt10214826/img",
+      "description": "Agent Sai Srinivasa Athreya is an authentic humorous investigative thriller revolving around the adventures of a detective based out of Nellore.",
+      "releaseInfo": "2019",
+      "imdbRating": "8.3"
+    },
+    {
       "id": "tt0112641",
       "type": "movie",
       "name": "Casino",
@@ -163,6 +163,17 @@
       "logo": "https://images.metahub.space/logo/medium/tt0112641/img",
       "description": "In Las Vegas, two best friends--a casino executive and a Mafia enforcer--compete for a gambling empire and a fast-living, fast-loving socialite.",
       "releaseInfo": "1995",
+      "imdbRating": "8.2"
+    },
+    {
+      "id": "tt6148156",
+      "type": "movie",
+      "name": "Vikram Vedha",
+      "poster": "https://images.metahub.space/poster/small/tt6148156/img",
+      "background": "https://images.metahub.space/background/medium/tt6148156/img",
+      "logo": "https://images.metahub.space/logo/medium/tt6148156/img",
+      "description": "Vikram, a no-nonsense police officer, accompanied by Simon, his partner, is on the hunt to capture Vedha, a smuggler and a murderer. Vedha tries to change Vikram's life, which leads to a conflict.",
+      "releaseInfo": "2017",
       "imdbRating": "8.2"
     },
     {
@@ -210,25 +221,14 @@
       "imdbRating": "8.2"
     },
     {
-      "id": "tt1280558",
+      "id": "tt0060550",
       "type": "movie",
-      "name": "A Wednesday",
-      "poster": "https://images.metahub.space/poster/small/tt1280558/img",
-      "background": "https://images.metahub.space/background/medium/tt1280558/img",
-      "logo": "https://images.metahub.space/logo/medium/tt1280558/img",
-      "description": "A retiring police officer reminisces about the most astounding day of his career and a case that was never filed but continues to haunt his memories: the case of a man and a Wednesday.",
-      "releaseInfo": "2008",
-      "imdbRating": "8.1"
-    },
-    {
-      "id": "tt3320542",
-      "type": "movie",
-      "name": "Ugramm",
-      "poster": "https://images.metahub.space/poster/small/tt3320542/img",
-      "background": "https://images.metahub.space/background/medium/tt3320542/img",
-      "logo": "https://images.metahub.space/logo/medium/tt3320542/img",
-      "description": "A man with a dangerous past must protect a girl from those who are hell bent on killing her.",
-      "releaseInfo": "2014",
+      "name": "It's the Great Pumpkin, Charlie Brown",
+      "poster": "https://images.metahub.space/poster/small/tt0060550/img",
+      "background": "https://images.metahub.space/background/medium/tt0060550/img",
+      "logo": "https://images.metahub.space/logo/medium/tt0060550/img",
+      "description": "The Peanuts gang celebrates Halloween while Linus waits for the Great Pumpkin.",
+      "releaseInfo": "1966",
       "imdbRating": "8.1"
     },
     {
@@ -243,25 +243,14 @@
       "imdbRating": "8.1"
     },
     {
-      "id": "tt0060550",
+      "id": "tt1821317",
       "type": "movie",
-      "name": "It's the Great Pumpkin, Charlie Brown",
-      "poster": "https://images.metahub.space/poster/small/tt0060550/img",
-      "background": "https://images.metahub.space/background/medium/tt0060550/img",
-      "logo": "https://images.metahub.space/logo/medium/tt0060550/img",
-      "description": "The Peanuts gang celebrates Halloween while Linus waits for the Great Pumpkin.",
-      "releaseInfo": "1966",
-      "imdbRating": "8.1"
-    },
-    {
-      "id": "tt11604676",
-      "type": "movie",
-      "name": "Nayattu",
-      "poster": "https://images.metahub.space/poster/small/tt11604676/img",
-      "background": "https://images.metahub.space/background/medium/tt11604676/img",
-      "logo": "https://images.metahub.space/logo/medium/tt11604676/img",
-      "description": "Three police officers who are on a run for life, escaping the outbreak against them due to the unlawful arrest and torture of a civilian. It brings in a few shades of arrogant yet very much human police officers and their helpless...",
-      "releaseInfo": "2021",
+      "name": "Aadukalam",
+      "poster": "https://images.metahub.space/poster/small/tt1821317/img",
+      "background": "https://images.metahub.space/background/medium/tt1821317/img",
+      "logo": "https://images.metahub.space/logo/medium/tt1821317/img",
+      "description": "Falling in love with Irene as well as refusing to obey his boss Pettaikaran in a rooster fight complicates Karuppu's life.",
+      "releaseInfo": "2011",
       "imdbRating": "8.1"
     },
     {
@@ -298,25 +287,25 @@
       "imdbRating": "8.0"
     },
     {
-      "id": "tt2631186",
+      "id": "tt0296574",
       "type": "movie",
-      "name": "Baahubali: The Beginning",
-      "poster": "https://images.metahub.space/poster/small/tt2631186/img",
-      "background": "https://images.metahub.space/background/medium/tt2631186/img",
-      "logo": "https://images.metahub.space/logo/medium/tt2631186/img",
-      "description": "A child from the Mahishmati kingdom is raised by tribal people and one day learns about his royal heritage, his father's bravery in battle and a mission to overthrow the incumbent ruler.",
-      "releaseInfo": "2015",
+      "name": "Company",
+      "poster": "https://images.metahub.space/poster/small/tt0296574/img",
+      "background": "https://images.metahub.space/background/medium/tt0296574/img",
+      "logo": "https://images.metahub.space/logo/medium/tt0296574/img",
+      "description": "A small-time gangster named Chandu teams up with Malik, a low-level enforcer for a criminal syndicate. Together they eliminate all their enemies, becoming the most feared gangsters in Mumbai.",
+      "releaseInfo": "2002",
       "imdbRating": "8.0"
     },
     {
-      "id": "tt33307144",
+      "id": "tt15546822",
       "type": "movie",
-      "name": "Court - State Vs. A Nobody",
-      "poster": "https://images.metahub.space/poster/small/tt33307144/img",
-      "background": "https://images.metahub.space/background/medium/tt33307144/img",
-      "logo": "https://images.metahub.space/logo/medium/tt33307144/img",
-      "description": "A passionate defense attorney fights against prejudice and corruption in the justice system while representing a teenage client wrongly presumed guilty of a serious crime.",
-      "releaseInfo": "2025",
+      "name": "Mukundan Unni Associates",
+      "poster": "https://images.metahub.space/poster/small/tt15546822/img",
+      "background": "https://images.metahub.space/background/medium/tt15546822/img",
+      "logo": "https://images.metahub.space/logo/medium/tt15546822/img",
+      "description": "Advocate Mukundan Unni, played by Vineeth Sreenivasan wants to be successful and leaves no stone unturned to achieve growth, prosperity, and respect. But this steadfast nature aided with an ample dose of greed comes with a cost.",
+      "releaseInfo": "2022",
       "imdbRating": "7.9"
     },
     {
@@ -331,14 +320,14 @@
       "imdbRating": "7.9"
     },
     {
-      "id": "tt2585562",
+      "id": "tt7294534",
       "type": "movie",
-      "name": "Pizza",
-      "poster": "https://images.metahub.space/poster/small/tt2585562/img",
-      "background": "https://images.metahub.space/background/medium/tt2585562/img",
-      "logo": "https://images.metahub.space/logo/medium/tt2585562/img",
-      "description": "A pizza delivery boy lands in a mysterious circumstance and it works a dramatic change in his life.",
-      "releaseInfo": "2012",
+      "name": "Arjun Reddy",
+      "poster": "https://images.metahub.space/poster/small/tt7294534/img",
+      "background": "https://images.metahub.space/background/medium/tt7294534/img",
+      "logo": "https://images.metahub.space/logo/medium/tt7294534/img",
+      "description": "Arjun Reddy, a short-tempered house surgeon, gets used to drugs and drinks when his girlfriend is forced to marry another person.",
+      "releaseInfo": "2017",
       "imdbRating": "7.9"
     },
     {
@@ -364,17 +353,6 @@
       "imdbRating": "7.8"
     },
     {
-      "id": "tt1907761",
-      "type": "movie",
-      "name": "Stanley Ka Dabba",
-      "poster": "https://images.metahub.space/poster/small/tt1907761/img",
-      "background": "https://images.metahub.space/background/medium/tt1907761/img",
-      "logo": "https://images.metahub.space/logo/medium/tt1907761/img",
-      "description": "A school-teacher, who forces children to share their food with him, forbids one from entering the school until he brings his own Tiffin/Lunch-box.",
-      "releaseInfo": "2011",
-      "imdbRating": "7.8"
-    },
-    {
       "id": "tt1839596",
       "type": "movie",
       "name": "Rockstar",
@@ -386,15 +364,37 @@
       "imdbRating": "7.8"
     },
     {
-      "id": "tt25274786",
+      "id": "tt8590896",
       "type": "movie",
-      "name": "Kannur Squad",
-      "poster": "https://images.metahub.space/poster/small/tt25274786/img",
-      "background": "https://images.metahub.space/background/medium/tt25274786/img",
-      "logo": "https://images.metahub.space/logo/medium/tt25274786/img",
-      "description": "The gripping saga of a police officer and his team, their challenging journey to nab a criminal gang across the country. Further, it shows how he leads his team towards triumph, amidst professional uncertainties in this gripping d...",
-      "releaseInfo": "2023",
-      "imdbRating": "7.6"
+      "name": "Geetha Govindam",
+      "poster": "https://images.metahub.space/poster/small/tt8590896/img",
+      "background": "https://images.metahub.space/background/medium/tt8590896/img",
+      "logo": "https://images.metahub.space/logo/medium/tt8590896/img",
+      "description": "An innocent young lecturer is misunderstood as a pervert and despised by a woman who co-incidentally turns out to be the younger sister of his brother-in-law. Eventually differences subside and love blooms between them.",
+      "releaseInfo": "2018",
+      "imdbRating": "7.7"
+    },
+    {
+      "id": "tt1266583",
+      "type": "movie",
+      "name": "Mumbai Meri Jaan",
+      "poster": "https://images.metahub.space/poster/small/tt1266583/img",
+      "background": "https://images.metahub.space/background/medium/tt1266583/img",
+      "logo": "https://images.metahub.space/logo/medium/tt1266583/img",
+      "description": "A moving portrayal of the 2006 train bombings in Mumbai, this Indian drama follows the interconnected stories of several strangers.",
+      "releaseInfo": "2008",
+      "imdbRating": "7.7"
+    },
+    {
+      "id": "tt7142506",
+      "type": "movie",
+      "name": "Sir",
+      "poster": "https://images.metahub.space/poster/small/tt7142506/img",
+      "background": "https://images.metahub.space/background/medium/tt7142506/img",
+      "logo": "https://images.metahub.space/logo/medium/tt7142506/img",
+      "description": "A prosperous young Indian man falls in love with his servant, a widow with the dream of becoming a fashion designer.",
+      "releaseInfo": "2020",
+      "imdbRating": "7.7"
     },
     {
       "id": "tt17009710",
@@ -408,6 +408,17 @@
       "imdbRating": "7.6"
     },
     {
+      "id": "tt0387564",
+      "type": "movie",
+      "name": "Saw",
+      "poster": "https://images.metahub.space/poster/small/tt0387564/img",
+      "background": "https://images.metahub.space/background/medium/tt0387564/img",
+      "logo": "https://images.metahub.space/logo/medium/tt0387564/img",
+      "description": "Two men awaken to find themselves on the opposite sides of a dead body, each with specific instructions to kill the other, escape or face the consequences. These two are the latest contestants in Jigsaw's games.",
+      "releaseInfo": "2004",
+      "imdbRating": "7.6"
+    },
+    {
       "id": "tt1951264",
       "type": "movie",
       "name": "The Hunger Games: Catching Fire",
@@ -416,6 +427,17 @@
       "logo": "https://images.metahub.space/logo/medium/tt1951264/img",
       "description": "Katniss Everdeen and Peeta Mellark become targets of the Capitol after their victory in the 74th Hunger Games sparks a rebellion in the Districts of Panem.",
       "releaseInfo": "2013",
+      "imdbRating": "7.5"
+    },
+    {
+      "id": "tt0449994",
+      "type": "movie",
+      "name": "Jodhaa Akbar",
+      "poster": "https://images.metahub.space/poster/small/tt0449994/img",
+      "background": "https://images.metahub.space/background/medium/tt0449994/img",
+      "logo": "https://images.metahub.space/logo/medium/tt0449994/img",
+      "description": "A sixteenth century love story about a marriage of alliance that gave birth to true love between a great Mughal emperor, Akbar, and a Rajput princess, Jodha.",
+      "releaseInfo": "2008",
       "imdbRating": "7.5"
     },
     {
@@ -441,6 +463,17 @@
       "imdbRating": "7.5"
     },
     {
+      "id": "tt28679253",
+      "type": "movie",
+      "name": "Eleven",
+      "poster": "https://images.metahub.space/poster/small/tt28679253/img",
+      "background": "https://images.metahub.space/background/medium/tt28679253/img",
+      "logo": "https://images.metahub.space/logo/medium/tt28679253/img",
+      "description": "A brave and skilled officer with a strong record of solving tough cases is assigned to a new, more challenging serial killing investigation.",
+      "releaseInfo": "2025",
+      "imdbRating": "7.4"
+    },
+    {
       "id": "tt0094721",
       "type": "movie",
       "name": "Beetlejuice",
@@ -449,17 +482,6 @@
       "logo": "https://images.metahub.space/logo/medium/tt0094721/img",
       "description": "The spirits of a deceased couple are harassed by an unbearable family that has moved into their home, and hire a malicious spirit to drive them out.",
       "releaseInfo": "1988",
-      "imdbRating": "7.4"
-    },
-    {
-      "id": "tt1385824",
-      "type": "movie",
-      "name": "13B: Fear Has a New Address",
-      "poster": "https://images.metahub.space/poster/small/tt1385824/img",
-      "background": "https://images.metahub.space/background/medium/tt1385824/img",
-      "logo": "https://images.metahub.space/logo/medium/tt1385824/img",
-      "description": "A man experiences a supernatural occurrence at his newly purchased apartment; a soap opera being telecast exclusively on his TV, which shows the future of his family.",
-      "releaseInfo": "2009",
       "imdbRating": "7.4"
     },
     {
@@ -474,14 +496,14 @@
       "imdbRating": "7.3"
     },
     {
-      "id": "tt4258292",
+      "id": "tt2980648",
       "type": "movie",
-      "name": "Yennai Arindhaal",
-      "poster": "https://images.metahub.space/poster/small/tt4258292/img",
-      "background": "https://images.metahub.space/background/medium/tt4258292/img",
-      "logo": "https://images.metahub.space/logo/medium/tt4258292/img",
-      "description": "Sathyadev, a sincere police officer, tries to stop an organ trafficking racket. But he is unaware that the man performing the illegal trade is the same person who killed his beloved.",
-      "releaseInfo": "2015",
+      "name": "The Hundred-Foot Journey",
+      "poster": "https://images.metahub.space/poster/small/tt2980648/img",
+      "background": "https://images.metahub.space/background/medium/tt2980648/img",
+      "logo": "https://images.metahub.space/logo/medium/tt2980648/img",
+      "description": "The Kadam family leaves India for France where they open a restaurant directly across the road from Madame Mallory's Michelin-starred eatery.",
+      "releaseInfo": "2014",
       "imdbRating": "7.3"
     },
     {
@@ -507,6 +529,17 @@
       "imdbRating": "7.3"
     },
     {
+      "id": "tt2330927",
+      "type": "movie",
+      "name": "Julayi",
+      "poster": "https://images.metahub.space/poster/small/tt2330927/img",
+      "background": "https://images.metahub.space/background/medium/tt2330927/img",
+      "logo": "https://images.metahub.space/logo/medium/tt2330927/img",
+      "description": "After helping the police foil a violent heist, a sharp minded young man must evade the criminal mastermind whose plans he has thwarted.",
+      "releaseInfo": "2012",
+      "imdbRating": "7.2"
+    },
+    {
       "id": "tt11663228",
       "type": "movie",
       "name": "Jailer",
@@ -516,39 +549,6 @@
       "description": "A retired jailer goes on a manhunt to find his son's killers. But the road leads him to a familiar, albeit a bit darker place. Can he emerge from this complex situation successfully?",
       "releaseInfo": "2023",
       "imdbRating": "7.2"
-    },
-    {
-      "id": "tt1670345",
-      "type": "movie",
-      "name": "Now You See Me",
-      "poster": "https://images.metahub.space/poster/small/tt1670345/img",
-      "background": "https://images.metahub.space/background/medium/tt1670345/img",
-      "logo": "https://images.metahub.space/logo/medium/tt1670345/img",
-      "description": "An FBI agent and an Interpol detective track a team of illusionists who pull off bank heists during their performances, and reward their audiences with the money.",
-      "releaseInfo": "2013",
-      "imdbRating": "7.2"
-    },
-    {
-      "id": "tt35836025",
-      "type": "movie",
-      "name": "Vishwanath and Sons",
-      "poster": "https://images.metahub.space/poster/small/tt35836025/img",
-      "background": "https://images.metahub.space/background/medium/tt35836025/img",
-      "logo": "https://images.metahub.space/logo/medium/tt35836025/img",
-      "description": "Sanjay Vishwanath has devoted decades to excellence as an international shooter. When age, family duties, and an unexpected romance collide with his ambitions, he must confront what truly makes a life worth living.",
-      "releaseInfo": "2026",
-      "imdbRating": "7.2"
-    },
-    {
-      "id": "tt0319343",
-      "type": "movie",
-      "name": "Elf",
-      "poster": "https://images.metahub.space/poster/small/tt0319343/img",
-      "background": "https://images.metahub.space/background/medium/tt0319343/img",
-      "logo": "https://images.metahub.space/logo/medium/tt0319343/img",
-      "description": "A man raised by Santa's elves travels from the North Pole to New York City to meet his biological father, who doesn't know he exists and is in desperate need of some Christmas spirit.",
-      "releaseInfo": "2003",
-      "imdbRating": "7.1"
     }
   ]
 }
