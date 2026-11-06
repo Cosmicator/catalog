@@ -101,6 +101,16 @@
       "imdbRating": 5.6
     },
     {
+      "id": "tt34792531",
+      "type": "movie",
+      "name": "Avaraachan & Sons",
+      "poster": "https://images.metahub.space/poster/medium/tt34792531/img",
+      "background": "https://images.metahub.space/background/medium/tt34792531/img",
+      "description": "Follows Avarachan, his children and the various family and social relationships that shape their lives.",
+      "releaseInfo": 2026,
+      "imdbRating": 5.5
+    },
+    {
       "id": "tt38793125",
       "type": "movie",
       "name": "Collision Course",
@@ -151,16 +161,6 @@
       "imdbRating": 7.2
     },
     {
-      "id": "tt34792531",
-      "type": "movie",
-      "name": "Avaraachan & Sons",
-      "poster": "https://images.metahub.space/poster/medium/tt34792531/img",
-      "background": "https://images.metahub.space/background/medium/tt34792531/img",
-      "description": "Follows Avarachan, his children and the various family and social relationships that shape their lives.",
-      "releaseInfo": 2026,
-      "imdbRating": 5.5
-    },
-    {
       "id": "tt0121164",
       "type": "movie",
       "name": "Corpse Bride",
@@ -201,6 +201,16 @@
       "imdbRating": 9.2
     },
     {
+      "id": "tt0106203",
+      "type": "movie",
+      "name": "Aaina",
+      "poster": "https://images.metahub.space/poster/medium/tt0106203/img",
+      "background": "https://images.metahub.space/background/medium/tt0106203/img",
+      "description": "Roma (Amrita Singh) leaves Ravi (Jackie Shroff) at the alter in pursuit of her bigger ambitions. Her sister Reema (Juhi Chawla), a pale reflection of Roma, steps in and saves the day for her family, having secretly been in love with Ravi all her life. The newly weds start building a life together till suddenly Roma returns, determined to get back what she thinks Reema stole from her.",
+      "releaseInfo": 1993,
+      "imdbRating": 6.1
+    },
+    {
       "id": "tt5109784",
       "type": "movie",
       "name": "mother!",
@@ -231,16 +241,6 @@
       "imdbRating": 8.2
     },
     {
-      "id": "tt33379543",
-      "type": "movie",
-      "name": "Jana Nayagan",
-      "poster": "https://images.metahub.space/poster/medium/tt33379543/img",
-      "background": "https://images.metahub.space/background/medium/tt33379543/img",
-      "description": "A clash of ideologies. One stands for the people, the other feeds on control. Their paths collided once before. Years later, a child’s silent fear ignites the past, drawing a former police officer into a battle far bigger than personal revenge.",
-      "releaseInfo": 2026,
-      "imdbRating": 5.1
-    },
-    {
       "id": "tt29845247",
       "type": "movie",
       "name": "Noise",
@@ -251,14 +251,14 @@
       "imdbRating": 5.6
     },
     {
-      "id": "tt0106203",
+      "id": "tt33379543",
       "type": "movie",
-      "name": "Aaina",
-      "poster": "https://images.metahub.space/poster/medium/tt0106203/img",
-      "background": "https://images.metahub.space/background/medium/tt0106203/img",
-      "description": "Roma (Amrita Singh) leaves Ravi (Jackie Shroff) at the alter in pursuit of her bigger ambitions. Her sister Reema (Juhi Chawla), a pale reflection of Roma, steps in and saves the day for her family, having secretly been in love with Ravi all her life. The newly weds start building a life together till suddenly Roma returns, determined to get back what she thinks Reema stole from her.",
-      "releaseInfo": 1993,
-      "imdbRating": 6.1
+      "name": "Jana Nayagan",
+      "poster": "https://images.metahub.space/poster/medium/tt33379543/img",
+      "background": "https://images.metahub.space/background/medium/tt33379543/img",
+      "description": "A clash of ideologies. One stands for the people, the other feeds on control. Their paths collided once before. Years later, a child’s silent fear ignites the past, drawing a former police officer into a battle far bigger than personal revenge.",
+      "releaseInfo": 2026,
+      "imdbRating": 5.1
     },
     {
       "id": "tt1160419",
@@ -321,26 +321,6 @@
       "imdbRating": 4.1
     },
     {
-      "id": "tt0060550",
-      "type": "movie",
-      "name": "It's the Great Pumpkin, Charlie Brown",
-      "poster": "https://images.metahub.space/poster/medium/tt0060550/img",
-      "background": "https://images.metahub.space/background/medium/tt0060550/img",
-      "description": "Join the Peanuts gang for a timeless adventure as Charlie Brown preps for a party, Snoopy sets his sights on the Red Baron, and Linus patiently awaits a pumpkin patch miracle.",
-      "releaseInfo": 1966,
-      "imdbRating": 8.1
-    },
-    {
-      "id": "tt42262473",
-      "type": "movie",
-      "name": "Modha Rathri",
-      "poster": "https://images.metahub.space/poster/medium/tt42262473/img",
-      "background": "https://images.metahub.space/background/medium/tt42262473/img",
-      "description": "Two strangers are brought together at an unusual wedding where, in one night, too many surprises unfold and several lies are told, spiraling into chaos that changes everything.",
-      "releaseInfo": 2026,
-      "imdbRating": 7.5
-    },
-    {
       "id": "tt0075314",
       "type": "movie",
       "name": "Taxi Driver",
@@ -351,14 +331,14 @@
       "imdbRating": 8.2
     },
     {
-      "id": "tt0319343",
+      "id": "tt0060550",
       "type": "movie",
-      "name": "Elf",
-      "poster": "https://images.metahub.space/poster/medium/tt0319343/img",
-      "background": "https://images.metahub.space/background/medium/tt0319343/img",
-      "description": "When young Buddy falls into Santa's gift sack on Christmas Eve, he's transported back to the North Pole and raised as a toy-making elf by Santa's helpers. But as he grows into adulthood, he can't shake the nagging feeling that he doesn't belong. Buddy vows to visit Manhattan and find his real dad, a workaholic.",
-      "releaseInfo": 2003,
-      "imdbRating": 7.1
+      "name": "It's the Great Pumpkin, Charlie Brown",
+      "poster": "https://images.metahub.space/poster/medium/tt0060550/img",
+      "background": "https://images.metahub.space/background/medium/tt0060550/img",
+      "description": "Join the Peanuts gang for a timeless adventure as Charlie Brown preps for a party, Snoopy sets his sights on the Red Baron, and Linus patiently awaits a pumpkin patch miracle.",
+      "releaseInfo": 1966,
+      "imdbRating": 8.1
     },
     {
       "id": "tt27989067",
@@ -387,7 +367,7 @@
       "poster": "https://images.metahub.space/poster/medium/tt1663202/img",
       "background": "https://images.metahub.space/background/medium/tt1663202/img",
       "description": "In the 1820s, a frontiersman, Hugh Glass, sets out on a path of vengeance against those who left him for dead after a bear mauling.",
-      "releaseInfo": 2015,
+      "releaseInfo": 2016,
       "imdbRating": 8
     },
     {
@@ -399,6 +379,16 @@
       "description": "Jaskirat Singh Rangi descends deeper into his alias as Hamza Ali Mazari, rising through Karachi's criminal hierarchy to claim the feared title \"Sher-e-Baloch\" while balancing loyalty, betrayal, and survival in a ruthless underworld.",
       "releaseInfo": 2026,
       "imdbRating": 8.2
+    },
+    {
+      "id": "tt42262473",
+      "type": "movie",
+      "name": "Modha Rathri",
+      "poster": "https://images.metahub.space/poster/medium/tt42262473/img",
+      "background": "https://images.metahub.space/background/medium/tt42262473/img",
+      "description": "Two strangers are brought together at an unusual wedding where, in one night, too many surprises unfold and several lies are told, spiraling into chaos that changes everything.",
+      "releaseInfo": 2026,
+      "imdbRating": 7.5
     },
     {
       "id": "tt1951264",
@@ -459,6 +449,16 @@
       "description": "A look at the controversial 2004 reality series The Swan, which took self-proclaimed 'ugly ducklings' and set out to make them... not that.",
       "releaseInfo": 2026,
       "imdbRating": 6.2
+    },
+    {
+      "id": "tt0319343",
+      "type": "movie",
+      "name": "Elf",
+      "poster": "https://images.metahub.space/poster/medium/tt0319343/img",
+      "background": "https://images.metahub.space/background/medium/tt0319343/img",
+      "description": "When young Buddy falls into Santa's gift sack on Christmas Eve, he's transported back to the North Pole and raised as a toy-making elf by Santa's helpers. But as he grows into adulthood, he can't shake the nagging feeling that he doesn't belong. Buddy vows to visit Manhattan and find his real dad, a workaholic.",
+      "releaseInfo": 2003,
+      "imdbRating": 7.1
     },
     {
       "id": "tt14113634",

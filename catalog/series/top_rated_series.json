@@ -265,6 +265,17 @@
       "imdbRating": "8.4"
     },
     {
+      "id": "tt37884717",
+      "type": "series",
+      "name": "The Early Spring",
+      "poster": "https://images.metahub.space/poster/small/tt37884717/img",
+      "background": "https://images.metahub.space/background/medium/tt37884717/img",
+      "logo": "https://images.metahub.space/logo/medium/tt37884717/img",
+      "description": "Fresh graduate Shang Zhitao joins a top global ad agency as a rookie. Her blunt boss Luan Nian tells her to quit on day one, but she perseveres through pressure and challenges to become a skilled professional.",
+      "releaseInfo": "2026",
+      "imdbRating": "8.4"
+    },
+    {
       "id": "tt31510819",
       "type": "series",
       "name": "MobLand",
@@ -397,6 +408,17 @@
       "imdbRating": "8.1"
     },
     {
+      "id": "tt0092400",
+      "type": "series",
+      "name": "Married... with Children",
+      "poster": "https://images.metahub.space/poster/small/tt0092400/img",
+      "background": "https://images.metahub.space/background/medium/tt0092400/img",
+      "logo": "https://images.metahub.space/logo/medium/tt0092400/img",
+      "description": "Al is the quintessential working class dad. Peggy, his wife, always wants more from him. With their children, they go through the highs and lows of ordinary life.",
+      "releaseInfo": "1987–1997",
+      "imdbRating": "8.1"
+    },
+    {
       "id": "tt4406178",
       "type": "series",
       "name": "The Gilded Age",
@@ -438,17 +460,6 @@
       "logo": "https://images.metahub.space/logo/medium/tt14688458/img",
       "description": "Men and women live in a giant silo underground with several regulations which they believe are in place to protect them from the toxic and ruined world on the surface.",
       "releaseInfo": "2023–",
-      "imdbRating": "8.1"
-    },
-    {
-      "id": "tt0092400",
-      "type": "series",
-      "name": "Married... with Children",
-      "poster": "https://images.metahub.space/poster/small/tt0092400/img",
-      "background": "https://images.metahub.space/background/medium/tt0092400/img",
-      "logo": "https://images.metahub.space/logo/medium/tt0092400/img",
-      "description": "Al is the quintessential working class dad. Peggy, his wife, always wants more from him. With their children, they go through the highs and lows of ordinary life.",
-      "releaseInfo": "1987–1997",
       "imdbRating": "8.1"
     },
     {
@@ -534,17 +545,6 @@
       "logo": "https://images.metahub.space/logo/medium/tt23112594/img",
       "description": "Vision is faced with many challenges while trying to regain his memory and humanity.",
       "releaseInfo": "2026",
-      "imdbRating": "7.9"
-    },
-    {
-      "id": "tt22202452",
-      "type": "series",
-      "name": "Pluribus",
-      "poster": "https://images.metahub.space/poster/small/tt22202452/img",
-      "background": "https://images.metahub.space/background/medium/tt22202452/img",
-      "logo": "https://images.metahub.space/logo/medium/tt22202452/img",
-      "description": "In a world overtaken by a mysterious wave of forced happiness, Carol Sturka, one of the immune few, must uncover what's really going on - and save humanity from its artificial bliss.",
-      "releaseInfo": "2025–",
       "imdbRating": "7.9"
     }
   ]
