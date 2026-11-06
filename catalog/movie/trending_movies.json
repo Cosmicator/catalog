@@ -18,7 +18,7 @@
       "background": "https://images.metahub.space/background/medium/tt44090278/img",
       "description": "In 1986 Madras, a timid eight-year-old boy accidentally locks a feared criminal inside a school restroom. As the man faces hunger and isolation, an unexpected friendship forms between them, transforming both their lives.",
       "releaseInfo": 2026,
-      "imdbRating": 8.7
+      "imdbRating": 8.6
     },
     {
       "id": "tt37287335",
@@ -198,7 +198,7 @@
       "background": "https://images.metahub.space/background/medium/tt41221277/img",
       "description": "In rural Anakapalli, a young man enters the criminal underworld under a feared gangster. When love arrives, he faces a choice between power, loyalty, and his former dreams in this tale of action and destiny.",
       "releaseInfo": 2026,
-      "imdbRating": 9.2
+      "imdbRating": 7.4
     },
     {
       "id": "tt0106203",
@@ -471,16 +471,6 @@
       "imdbRating": 6.6
     },
     {
-      "id": "tt47421307",
-      "type": "movie",
-      "name": "SI Yugandhar",
-      "poster": "https://images.metahub.space/poster/medium/tt47421307/img",
-      "background": "https://images.metahub.space/background/medium/tt47421307/img",
-      "description": "An honest cop's discovery of a mysterious body launches a high-stakes investigation, forcing him to uncover a dark web of secrets hidden beneath the city's surface.",
-      "releaseInfo": 2026,
-      "imdbRating": 4.9
-    },
-    {
       "id": "tt22526100",
       "type": "movie",
       "name": "The Love Hypothesis",
@@ -499,6 +489,16 @@
       "description": "When an unsuspecting town newcomer is drawn to local blood fiends, the Frog brothers and other unlikely heroes gear up to rescue him.",
       "releaseInfo": 1987,
       "imdbRating": 7.2
+    },
+    {
+      "id": "tt14966898",
+      "type": "movie",
+      "name": "Late Night with the Devil",
+      "poster": "https://images.metahub.space/poster/medium/tt14966898/img",
+      "background": "https://images.metahub.space/background/medium/tt14966898/img",
+      "description": "A live broadcast of a late-night talk show in 1977 goes horribly wrong, unleashing evil into the nation's living rooms.",
+      "releaseInfo": 2024,
+      "imdbRating": 7
     }
   ]
 }

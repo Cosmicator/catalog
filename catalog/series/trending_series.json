@@ -8,7 +8,7 @@
       "background": "https://images.metahub.space/background/medium/tt29625288/img",
       "description": "In a kingdom ruled by women, matriarch Bhavani faces her biggest threat in Rudra, a ruthless rebel eyeing her land and legacy.",
       "releaseInfo": 2026,
-      "imdbRating": 5
+      "imdbRating": 4.9
     },
     {
       "id": "tt1281973",
@@ -18,7 +18,7 @@
       "background": "https://images.metahub.space/background/medium/tt1281973/img",
       "description": "Isolated from the outside world, the contestants live together in a house under the live cameras that monitor their every move. They perform various tasks and avoid eviction to be declared a winner.",
       "releaseInfo": 2006,
-      "imdbRating": 3.5
+      "imdbRating": 3.6
     },
     {
       "id": "tt36458668",
@@ -108,7 +108,7 @@
       "background": "https://images.metahub.space/background/medium/tt26598805/img",
       "description": "When a victim of serial killer Jurek Walter turns up alive, detective Jonah Lynn races to find the one person still missing, while his protégé Saga Bauer goes undercover for answers from the killer himself. Based on the bestselling novel by Lars Kepler.",
       "releaseInfo": 2026,
-      "imdbRating": 7.5
+      "imdbRating": 7.4
     },
     {
       "id": "tt23112594",
@@ -208,7 +208,7 @@
       "background": "https://images.metahub.space/background/medium/tt49522873/img",
       "description": "A battle for supremacy in a town ruled by crime and politics, where a young shooter's love leads him to glory, ruin, and a truth darker than betrayal.",
       "releaseInfo": 2026,
-      "imdbRating": 6.8
+      "imdbRating": 6.9
     },
     {
       "id": "tt9813792",
@@ -401,11 +401,11 @@
       "imdbRating": 8
     },
     {
-      "id": "tt20320646",
+      "id": "tt11198330",
       "type": "series",
       "name": "House of the Dragon",
-      "poster": "https://images.metahub.space/poster/medium/tt20320646/img",
-      "background": "https://images.metahub.space/background/medium/tt20320646/img",
+      "poster": "https://images.metahub.space/poster/medium/tt11198330/img",
+      "background": "https://images.metahub.space/background/medium/tt11198330/img",
       "description": "An internal succession war within House Targaryen at the height of its power, 172 years before the birth of Daenerys Targaryen.",
       "releaseInfo": 2022,
       "imdbRating": 8.2
@@ -471,6 +471,16 @@
       "imdbRating": 8.1
     },
     {
+      "id": "tt21057450",
+      "type": "series",
+      "name": "School Spirits",
+      "poster": "https://images.metahub.space/poster/medium/tt21057450/img",
+      "background": "https://images.metahub.space/background/medium/tt21057450/img",
+      "description": "Maddie, a teen stuck in the afterlife investigating her own mysterious disappearance, goes on a crime-solving journey as she adjusts to high school purgatory, but the closer she gets to discovering the truth, the more secrets and lies she uncovers.",
+      "releaseInfo": 2023,
+      "imdbRating": 7.6
+    },
+    {
       "id": "tt14420552",
       "type": "series",
       "name": "Maharani",
@@ -489,16 +499,6 @@
       "description": "Jason Dessen is abducted into an alternate version of his life. To get back to his real family, he embarks on a harrowing journey to save them from the most terrifying foe imaginable: himself.",
       "releaseInfo": 2024,
       "imdbRating": 7.6
-    },
-    {
-      "id": "tt43681696",
-      "type": "series",
-      "name": "Taken: Natalee Holloway",
-      "poster": "https://images.metahub.space/poster/medium/tt43681696/img",
-      "background": "https://images.metahub.space/background/medium/tt43681696/img",
-      "description": "Explores the 2005 disappearance of 18-year-old Natalee Holloway during a graduation trip to Aruba and her mother Beth's two-decade search for answers and justice.",
-      "releaseInfo": 2026,
-      "imdbRating": 6.6
     }
   ]
 }
