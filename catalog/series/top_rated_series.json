@@ -1,28 +1,6 @@
 {
   "metas": [
     {
-      "id": "tt0903747",
-      "type": "series",
-      "name": "Breaking Bad",
-      "poster": "https://images.metahub.space/poster/small/tt0903747/img",
-      "background": "https://images.metahub.space/background/medium/tt0903747/img",
-      "logo": "https://images.metahub.space/logo/medium/tt0903747/img",
-      "description": "A chemistry teacher diagnosed with inoperable lung cancer turns to manufacturing and selling methamphetamine with a former student to secure his family's future.",
-      "releaseInfo": "2008–2013",
-      "imdbRating": "9.5"
-    },
-    {
-      "id": "tt30263074",
-      "type": "series",
-      "name": "Sapne Vs Everyone",
-      "poster": "https://images.metahub.space/poster/small/tt30263074/img",
-      "background": "https://images.metahub.space/background/medium/tt30263074/img",
-      "logo": "https://images.metahub.space/logo/medium/tt30263074/img",
-      "description": "Two obsessive dreamers collide with the resistance of expectations, morality and each other.",
-      "releaseInfo": "2023–",
-      "imdbRating": "9.3"
-    },
-    {
       "id": "tt0944947",
       "type": "series",
       "name": "Game of Thrones",
@@ -53,6 +31,17 @@
       "logo": "https://images.metahub.space/logo/medium/tt1475582/img",
       "description": "In modern-day London, brilliant but eccentric detective Sherlock Holmes teams with war veteran Dr. John Watson to crack baffling crimes, outwit formidable foes, and aid Scotland Yard with razor-sharp deduction.",
       "releaseInfo": "2010–2017",
+      "imdbRating": "9.0"
+    },
+    {
+      "id": "tt0388629",
+      "type": "series",
+      "name": "One Piece",
+      "poster": "https://images.metahub.space/poster/small/tt0388629/img",
+      "background": "https://images.metahub.space/background/medium/tt0388629/img",
+      "logo": "https://images.metahub.space/logo/medium/tt0388629/img",
+      "description": "A spirited young pirate sets sail with a growing crew in search of the legendary One Piece, facing dangerous seas and powerful rivals on his quest to become King of the Pirates.",
+      "releaseInfo": "1999–",
       "imdbRating": "9.0"
     },
     {
@@ -89,25 +78,14 @@
       "imdbRating": "8.8"
     },
     {
-      "id": "tt10986410",
+      "id": "tt35495073",
       "type": "series",
-      "name": "Ted Lasso",
-      "poster": "https://images.metahub.space/poster/small/tt10986410/img",
-      "background": "https://images.metahub.space/background/medium/tt10986410/img",
-      "logo": "https://images.metahub.space/logo/medium/tt10986410/img",
-      "description": "American college football coach Ted Lasso is hired to manage AFC Richmond, a struggling English soccer club, and must win over skeptical players, staff, and fans.",
-      "releaseInfo": "2020–",
-      "imdbRating": "8.7"
-    },
-    {
-      "id": "tt0098936",
-      "type": "series",
-      "name": "Twin Peaks",
-      "poster": "https://images.metahub.space/poster/small/tt0098936/img",
-      "background": "https://images.metahub.space/background/medium/tt0098936/img",
-      "logo": "https://images.metahub.space/logo/medium/tt0098936/img",
-      "description": "An idiosyncratic FBI agent investigates the murder of a young woman in the even more idiosyncratic town of Twin Peaks.",
-      "releaseInfo": "1990–1991",
+      "name": "Heated Rivalry",
+      "poster": "https://images.metahub.space/poster/small/tt35495073/img",
+      "background": "https://images.metahub.space/background/medium/tt35495073/img",
+      "logo": "https://images.metahub.space/logo/medium/tt35495073/img",
+      "description": "Two rival hockey stars at the top of their game face an unexpected challenge when they develop feelings for each other, complicating their careers and the sport's expectations.",
+      "releaseInfo": "2025–",
       "imdbRating": "8.7"
     },
     {
@@ -122,15 +100,37 @@
       "imdbRating": "8.7"
     },
     {
-      "id": "tt35495073",
+      "id": "tt0098936",
       "type": "series",
-      "name": "Heated Rivalry",
-      "poster": "https://images.metahub.space/poster/small/tt35495073/img",
-      "background": "https://images.metahub.space/background/medium/tt35495073/img",
-      "logo": "https://images.metahub.space/logo/medium/tt35495073/img",
-      "description": "Two rival hockey stars at the top of their game face an unexpected challenge when they develop feelings for each other, complicating their careers and the sport's expectations.",
-      "releaseInfo": "2025–",
+      "name": "Twin Peaks",
+      "poster": "https://images.metahub.space/poster/small/tt0098936/img",
+      "background": "https://images.metahub.space/background/medium/tt0098936/img",
+      "logo": "https://images.metahub.space/logo/medium/tt0098936/img",
+      "description": "An idiosyncratic FBI agent investigates the murder of a young woman in the even more idiosyncratic town of Twin Peaks.",
+      "releaseInfo": "1990–1991",
       "imdbRating": "8.7"
+    },
+    {
+      "id": "tt10986410",
+      "type": "series",
+      "name": "Ted Lasso",
+      "poster": "https://images.metahub.space/poster/small/tt10986410/img",
+      "background": "https://images.metahub.space/background/medium/tt10986410/img",
+      "logo": "https://images.metahub.space/logo/medium/tt10986410/img",
+      "description": "American college football coach Ted Lasso is hired to manage AFC Richmond, a struggling English soccer club, and must win over skeptical players, staff, and fans.",
+      "releaseInfo": "2020–",
+      "imdbRating": "8.7"
+    },
+    {
+      "id": "tt11280740",
+      "type": "series",
+      "name": "Severance",
+      "poster": "https://images.metahub.space/poster/small/tt11280740/img",
+      "background": "https://images.metahub.space/background/medium/tt11280740/img",
+      "logo": "https://images.metahub.space/logo/medium/tt11280740/img",
+      "description": "Mark leads a team of office workers whose memories have been surgically divided between their work and personal lives. When a mysterious colleague appears outside of work, it begins a journey to discover the truth about their jobs.",
+      "releaseInfo": "2022–",
+      "imdbRating": "8.6"
     },
     {
       "id": "tt4574334",
@@ -141,6 +141,17 @@
       "logo": "https://images.metahub.space/logo/medium/tt4574334/img",
       "description": "In 1980s Indiana, a group of young friends witness supernatural forces and secret government exploits. As they search for answers, the children unravel a series of extraordinary mysteries.",
       "releaseInfo": "2016–2025",
+      "imdbRating": "8.6"
+    },
+    {
+      "id": "tt31862809",
+      "type": "series",
+      "name": "Heart Beat",
+      "poster": "https://live.metahub.space/poster/small/tt31862809/img",
+      "background": "https://live.metahub.space/background/medium/tt31862809/img",
+      "logo": "https://live.metahub.space/logo/medium/tt31862809/img",
+      "description": "RK Multispeciality Hospital is a beacon of hope and healing. Its doctors are resilient even when they have to deal with medical and personal challenges.",
+      "releaseInfo": "2024–",
       "imdbRating": "8.6"
     },
     {
@@ -155,25 +166,14 @@
       "imdbRating": "8.6"
     },
     {
-      "id": "tt11280740",
+      "id": "tt13400006",
       "type": "series",
-      "name": "Severance",
-      "poster": "https://images.metahub.space/poster/small/tt11280740/img",
-      "background": "https://images.metahub.space/background/medium/tt11280740/img",
-      "logo": "https://images.metahub.space/logo/medium/tt11280740/img",
-      "description": "Mark leads a team of office workers whose memories have been surgically divided between their work and personal lives. When a mysterious colleague appears outside of work, it begins a journey to discover the truth about their jobs.",
-      "releaseInfo": "2022–",
-      "imdbRating": "8.6"
-    },
-    {
-      "id": "tt1489428",
-      "type": "series",
-      "name": "Justified",
-      "poster": "https://images.metahub.space/poster/small/tt1489428/img",
-      "background": "https://images.metahub.space/background/medium/tt1489428/img",
-      "logo": "https://images.metahub.space/logo/medium/tt1489428/img",
-      "description": "Enforcing his own brand of justice, U.S. Marshal Raylan Givens, a strong-willed, quiet law-man haunted by his past, returns to his native town to see that justice is served to those in need.",
-      "releaseInfo": "2010–2015",
+      "name": "Mr. Queen",
+      "poster": "https://images.metahub.space/poster/small/tt13400006/img",
+      "background": "https://images.metahub.space/background/medium/tt13400006/img",
+      "logo": "https://images.metahub.space/logo/medium/tt13400006/img",
+      "description": "When a modern day chef gets trapped in the body of a queen in the Joseon era, chaos ensues.",
+      "releaseInfo": "2020–2021",
       "imdbRating": "8.6"
     },
     {
@@ -218,17 +218,6 @@
       "logo": "https://images.metahub.space/logo/medium/tt2306299/img",
       "description": "Vikings transports us to the brutal and mysterious world of Ragnar Lothbrok, a Viking warrior and farmer who yearns to explore--and raid--the distant shores across the ocean.",
       "releaseInfo": "2013–2020",
-      "imdbRating": "8.5"
-    },
-    {
-      "id": "tt1839578",
-      "type": "series",
-      "name": "Person of Interest",
-      "poster": "https://images.metahub.space/poster/small/tt1839578/img",
-      "background": "https://images.metahub.space/background/medium/tt1839578/img",
-      "logo": "https://images.metahub.space/logo/medium/tt1839578/img",
-      "description": "An off-the-grid and presumed-dead former CIA agent, John Reese, is hired by a mysterious tech billionaire software genius, Harold Finch, to prevent violent crimes before they happen in New York City via an advanced surveillance so...",
-      "releaseInfo": "2011–2016",
       "imdbRating": "8.5"
     },
     {
@@ -309,6 +298,17 @@
       "imdbRating": "8.2"
     },
     {
+      "id": "tt13911628",
+      "type": "series",
+      "name": "Lessons in Chemistry",
+      "poster": "https://images.metahub.space/poster/small/tt13911628/img",
+      "background": "https://images.metahub.space/background/medium/tt13911628/img",
+      "logo": "https://images.metahub.space/logo/medium/tt13911628/img",
+      "description": "In the 1950s, Elizabeth Zott's dream of being a scientist is challenged by a society that says women belong in the domestic sphere; she accepts a job on a TV cooking show and sets out to teach a nation of housewives way more than ...",
+      "releaseInfo": "2023",
+      "imdbRating": "8.2"
+    },
+    {
       "id": "tt19386538",
       "type": "series",
       "name": "Mussolini: Son of the Century",
@@ -331,17 +331,6 @@
       "imdbRating": "8.2"
     },
     {
-      "id": "tt13911628",
-      "type": "series",
-      "name": "Lessons in Chemistry",
-      "poster": "https://images.metahub.space/poster/small/tt13911628/img",
-      "background": "https://images.metahub.space/background/medium/tt13911628/img",
-      "logo": "https://images.metahub.space/logo/medium/tt13911628/img",
-      "description": "In the 1950s, Elizabeth Zott's dream of being a scientist is challenged by a society that says women belong in the domestic sphere; she accepts a job on a TV cooking show and sets out to teach a nation of housewives way more than ...",
-      "releaseInfo": "2023",
-      "imdbRating": "8.2"
-    },
-    {
       "id": "tt15677150",
       "type": "series",
       "name": "Shrinking",
@@ -350,17 +339,6 @@
       "logo": "https://images.metahub.space/logo/medium/tt15677150/img",
       "description": "A grieving therapist starts to tell his clients exactly what he thinks. Ignoring his training and ethics, he finds himself making huge changes to people's lives - including his own.",
       "releaseInfo": "2023–",
-      "imdbRating": "8.2"
-    },
-    {
-      "id": "tt20873118",
-      "type": "series",
-      "name": "Suzhal - The Vortex",
-      "poster": "https://images.metahub.space/poster/small/tt20873118/img",
-      "background": "https://images.metahub.space/background/medium/tt20873118/img",
-      "logo": "https://images.metahub.space/logo/medium/tt20873118/img",
-      "description": "In a small South Indian town, a seemingly routine minor case explodes into a twisted crime thriller that rips apart its social fabric.",
-      "releaseInfo": "2022–",
       "imdbRating": "8.2"
     },
     {
@@ -386,17 +364,6 @@
       "imdbRating": "8.1"
     },
     {
-      "id": "tt38504111",
-      "type": "series",
-      "name": "Small Prophets",
-      "poster": "https://images.metahub.space/poster/small/tt38504111/img",
-      "background": "https://images.metahub.space/background/medium/tt38504111/img",
-      "logo": "https://images.metahub.space/logo/medium/tt38504111/img",
-      "description": "Eccentric Michael Sleep, whose darling partner, Clea, disappeared seven years ago, sets out to create Homunculi - magical prophesying spirits that can predict the future.",
-      "releaseInfo": "2026–",
-      "imdbRating": "8.1"
-    },
-    {
       "id": "tt33332385",
       "type": "series",
       "name": "Widow's Bay",
@@ -408,14 +375,14 @@
       "imdbRating": "8.1"
     },
     {
-      "id": "tt14688458",
+      "id": "tt38504111",
       "type": "series",
-      "name": "Silo",
-      "poster": "https://images.metahub.space/poster/small/tt14688458/img",
-      "background": "https://images.metahub.space/background/medium/tt14688458/img",
-      "logo": "https://images.metahub.space/logo/medium/tt14688458/img",
-      "description": "Men and women live in a giant silo underground with several regulations which they believe are in place to protect them from the toxic and ruined world on the surface.",
-      "releaseInfo": "2023–",
+      "name": "Small Prophets",
+      "poster": "https://images.metahub.space/poster/small/tt38504111/img",
+      "background": "https://images.metahub.space/background/medium/tt38504111/img",
+      "logo": "https://images.metahub.space/logo/medium/tt38504111/img",
+      "description": "Eccentric Michael Sleep, whose darling partner, Clea, disappeared seven years ago, sets out to create Homunculi - magical prophesying spirits that can predict the future.",
+      "releaseInfo": "2026–",
       "imdbRating": "8.1"
     },
     {
@@ -441,6 +408,17 @@
       "imdbRating": "8.1"
     },
     {
+      "id": "tt4301160",
+      "type": "series",
+      "name": "Black Bird",
+      "poster": "https://images.metahub.space/poster/small/tt4301160/img",
+      "background": "https://images.metahub.space/background/medium/tt4301160/img",
+      "logo": "https://images.metahub.space/logo/medium/tt4301160/img",
+      "description": "Jimmy Keene is sentenced to 10 years in a minimum security prison but he cuts a deal with the FBI to befriend a suspected serial killer. Keene has to elicit a confession from Larry Hall to find the bodies of as many as eighteen wo...",
+      "releaseInfo": "2022",
+      "imdbRating": "8.1"
+    },
+    {
       "id": "tt7772588",
       "type": "series",
       "name": "For All Mankind",
@@ -452,14 +430,14 @@
       "imdbRating": "8.1"
     },
     {
-      "id": "tt4301160",
+      "id": "tt14688458",
       "type": "series",
-      "name": "Black Bird",
-      "poster": "https://images.metahub.space/poster/small/tt4301160/img",
-      "background": "https://images.metahub.space/background/medium/tt4301160/img",
-      "logo": "https://images.metahub.space/logo/medium/tt4301160/img",
-      "description": "Jimmy Keene is sentenced to 10 years in a minimum security prison but he cuts a deal with the FBI to befriend a suspected serial killer. Keene has to elicit a confession from Larry Hall to find the bodies of as many as eighteen wo...",
-      "releaseInfo": "2022",
+      "name": "Silo",
+      "poster": "https://images.metahub.space/poster/small/tt14688458/img",
+      "background": "https://images.metahub.space/background/medium/tt14688458/img",
+      "logo": "https://images.metahub.space/logo/medium/tt14688458/img",
+      "description": "Men and women live in a giant silo underground with several regulations which they believe are in place to protect them from the toxic and ruined world on the surface.",
+      "releaseInfo": "2023–",
       "imdbRating": "8.1"
     },
     {
@@ -482,6 +460,17 @@
       "logo": "https://images.metahub.space/logo/medium/tt7203552/img",
       "description": "An inside look at the lives of the people who help America wake up in the morning, exploring the unique challenges faced by the team.",
       "releaseInfo": "2019–2027",
+      "imdbRating": "8.1"
+    },
+    {
+      "id": "tt0203259",
+      "type": "series",
+      "name": "Law & Order: Special Victims Unit",
+      "poster": "https://images.metahub.space/poster/small/tt0203259/img",
+      "background": "https://images.metahub.space/background/medium/tt0203259/img",
+      "logo": "https://images.metahub.space/logo/medium/tt0203259/img",
+      "description": "Follows the NYPD's specially trained squad of detectives who investigate sex crimes, including rape, paedophilia, child abuse, human trafficking and domestic violence.",
+      "releaseInfo": "1999–",
       "imdbRating": "8.1"
     },
     {
@@ -526,14 +515,14 @@
       "imdbRating": "8.0"
     },
     {
-      "id": "tt6256692",
+      "id": "tt9288030",
       "type": "series",
-      "name": "Defendant",
-      "poster": "https://images.metahub.space/poster/small/tt6256692/img",
-      "background": "https://images.metahub.space/background/medium/tt6256692/img",
-      "logo": "https://images.metahub.space/logo/medium/tt6256692/img",
-      "description": "A prosecutor has lost his memory and discovers that he is convicted on death row. He is now left with no option but to find the truth behind his condition and prove his innocence.",
-      "releaseInfo": "2017",
+      "name": "Reacher",
+      "poster": "https://images.metahub.space/poster/small/tt9288030/img",
+      "background": "https://images.metahub.space/background/medium/tt9288030/img",
+      "logo": "https://images.metahub.space/logo/medium/tt9288030/img",
+      "description": "Itinerant former military policeman Jack Reacher solves crimes and metes out his own brand of street justice. Based on the novels by Lee Child.",
+      "releaseInfo": "2022–",
       "imdbRating": "8.0"
     },
     {
@@ -545,6 +534,17 @@
       "logo": "https://images.metahub.space/logo/medium/tt23112594/img",
       "description": "Vision is faced with many challenges while trying to regain his memory and humanity.",
       "releaseInfo": "2026",
+      "imdbRating": "7.9"
+    },
+    {
+      "id": "tt22202452",
+      "type": "series",
+      "name": "Pluribus",
+      "poster": "https://images.metahub.space/poster/small/tt22202452/img",
+      "background": "https://images.metahub.space/background/medium/tt22202452/img",
+      "logo": "https://images.metahub.space/logo/medium/tt22202452/img",
+      "description": "In a world overtaken by a mysterious wave of forced happiness, Carol Sturka, one of the immune few, must uncover what's really going on - and save humanity from its artificial bliss.",
+      "releaseInfo": "2025–",
       "imdbRating": "7.9"
     }
   ]
