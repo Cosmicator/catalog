@@ -381,14 +381,14 @@
       "imdbRating": 7.1
     },
     {
-      "id": "tt32374361",
+      "id": "tt35495073",
       "type": "series",
-      "name": "Harry Potter: Wizards of Baking",
-      "poster": "https://images.metahub.space/poster/medium/tt32374361/img",
-      "background": "https://images.metahub.space/background/medium/tt32374361/img",
-      "description": "Pairs of professional bakers compete to create spellbinding edible showpieces on the sets where the Harry Potter films were made.",
-      "releaseInfo": 2024,
-      "imdbRating": 7.3
+      "name": "Heated Rivalry",
+      "poster": "https://images.metahub.space/poster/medium/tt35495073/img",
+      "background": "https://images.metahub.space/background/medium/tt35495073/img",
+      "description": "Two of the biggest stars in Major League Hockey are bound by ambition, rivalry, and a magnetic pull neither of them fully understands. What begins as a secret fling between two fresh faced rookies evolves into a years-long journey of love, denial, and self-discovery. Over the next eight years, as they chase glory on the ice, they struggle to navigate their feelings for each other. Torn between the sport they live for and the love they can’t ignore, they must decide if there’s room in their fiercely competitive world for something as fragile – and powerful – as real love.",
+      "releaseInfo": 2025,
+      "imdbRating": 8.7
     },
     {
       "id": "tt9813792",
@@ -411,36 +411,6 @@
       "imdbRating": 7.7
     },
     {
-      "id": "tt35495073",
-      "type": "series",
-      "name": "Heated Rivalry",
-      "poster": "https://images.metahub.space/poster/medium/tt35495073/img",
-      "background": "https://images.metahub.space/background/medium/tt35495073/img",
-      "description": "Two of the biggest stars in Major League Hockey are bound by ambition, rivalry, and a magnetic pull neither of them fully understands. What begins as a secret fling between two fresh faced rookies evolves into a years-long journey of love, denial, and self-discovery. Over the next eight years, as they chase glory on the ice, they struggle to navigate their feelings for each other. Torn between the sport they live for and the love they can’t ignore, they must decide if there’s room in their fiercely competitive world for something as fragile – and powerful – as real love.",
-      "releaseInfo": 2025,
-      "imdbRating": 8.7
-    },
-    {
-      "id": "tt9288030",
-      "type": "series",
-      "name": "Reacher",
-      "poster": "https://images.metahub.space/poster/medium/tt9288030/img",
-      "background": "https://images.metahub.space/background/medium/tt9288030/img",
-      "description": "Jack Reacher, a veteran military police investigator, has just recently entered civilian life. Reacher is a drifter, carrying no phone and the barest of essentials as he travels the country and explores the nation he once served.",
-      "releaseInfo": 2022,
-      "imdbRating": 8
-    },
-    {
-      "id": "tt31862809",
-      "type": "series",
-      "name": "Heart Beat",
-      "poster": "https://images.metahub.space/poster/medium/tt31862809/img",
-      "background": "https://images.metahub.space/background/medium/tt31862809/img",
-      "description": "Based around RK Multispeciality Hospital and its doctors, who are resilient as they deal with medical and personal challenges.",
-      "releaseInfo": 2024,
-      "imdbRating": 8.6
-    },
-    {
       "id": "tt43730117",
       "type": "series",
       "name": "Declassified: Operation Sindoor",
@@ -451,14 +421,14 @@
       "imdbRating": 9.2
     },
     {
-      "id": "tt49692512",
+      "id": "tt9288030",
       "type": "series",
-      "name": "Final Table",
-      "poster": "https://images.metahub.space/poster/medium/tt49692512/img",
-      "background": "https://images.metahub.space/background/medium/tt49692512/img",
-      "description": "The Table: K-Chef 2026 brings together Korea's top chefs to compete for the title of the country's best chef. Mysterious world-renowned chef Chris K., also known as Kang Han, Song-yi, who is fighting to save her restaurant, perfectionist star chef Woo-jin, and chefs with stories of their own face off in a fierce culinary battle. More than a competition, they find comfort in food and one another.",
-      "releaseInfo": 2026,
-      "imdbRating": 7.8
+      "name": "Reacher",
+      "poster": "https://images.metahub.space/poster/medium/tt9288030/img",
+      "background": "https://images.metahub.space/background/medium/tt9288030/img",
+      "description": "Jack Reacher, a veteran military police investigator, has just recently entered civilian life. Reacher is a drifter, carrying no phone and the barest of essentials as he travels the country and explores the nation he once served.",
+      "releaseInfo": 2022,
+      "imdbRating": 8
     },
     {
       "id": "tt19244304",
@@ -479,6 +449,36 @@
       "description": "A modern update finds the famous sleuth and his doctor partner solving crime in 21st century London.",
       "releaseInfo": 2010,
       "imdbRating": 9
+    },
+    {
+      "id": "tt49692512",
+      "type": "series",
+      "name": "Final Table",
+      "poster": "https://images.metahub.space/poster/medium/tt49692512/img",
+      "background": "https://images.metahub.space/background/medium/tt49692512/img",
+      "description": "The Table: K-Chef 2026 brings together Korea's top chefs to compete for the title of the country's best chef. Mysterious world-renowned chef Chris K., also known as Kang Han, Song-yi, who is fighting to save her restaurant, perfectionist star chef Woo-jin, and chefs with stories of their own face off in a fierce culinary battle. More than a competition, they find comfort in food and one another.",
+      "releaseInfo": 2026,
+      "imdbRating": 7.8
+    },
+    {
+      "id": "tt31862809",
+      "type": "series",
+      "name": "Heart Beat",
+      "poster": "https://images.metahub.space/poster/medium/tt31862809/img",
+      "background": "https://images.metahub.space/background/medium/tt31862809/img",
+      "description": "Based around RK Multispeciality Hospital and its doctors, who are resilient as they deal with medical and personal challenges.",
+      "releaseInfo": 2024,
+      "imdbRating": 8.6
+    },
+    {
+      "id": "tt38992068",
+      "type": "series",
+      "name": "Awkwafina: The Unlikely Cook",
+      "poster": "https://images.metahub.space/poster/medium/tt38992068/img",
+      "background": "https://images.metahub.space/background/medium/tt38992068/img",
+      "description": "Follows Awkwafina as she embarks on a deeply personal cross-country journey exploring contemporary Asian American cuisine, starting with her family's own legacy, despite growing up in the family business but being unable to cook at all.",
+      "releaseInfo": 2026,
+      "imdbRating": 0
     },
     {
       "id": "tt49702110",

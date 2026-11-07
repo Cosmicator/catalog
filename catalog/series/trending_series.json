@@ -371,16 +371,6 @@
       "imdbRating": 7.4
     },
     {
-      "id": "tt14650074",
-      "type": "series",
-      "name": "Dhindora",
-      "poster": "https://images.metahub.space/poster/medium/tt14650074/img",
-      "background": "https://images.metahub.space/background/medium/tt14650074/img",
-      "description": "It revolves around Bhuvan and his family's everyday lives, when an unexpected purchase leads to a series of events and depicts every common man's larger than life dreams.",
-      "releaseInfo": 2021,
-      "imdbRating": 8.7
-    },
-    {
       "id": "tt0388629",
       "type": "series",
       "name": "One Piece",
@@ -421,14 +411,14 @@
       "imdbRating": 7.7
     },
     {
-      "id": "tt31862809",
+      "id": "tt21057450",
       "type": "series",
-      "name": "Heart Beat",
-      "poster": "https://images.metahub.space/poster/medium/tt31862809/img",
-      "background": "https://images.metahub.space/background/medium/tt31862809/img",
-      "description": "Based around RK Multispeciality Hospital and its doctors, who are resilient as they deal with medical and personal challenges.",
-      "releaseInfo": 2024,
-      "imdbRating": 8.6
+      "name": "School Spirits",
+      "poster": "https://images.metahub.space/poster/medium/tt21057450/img",
+      "background": "https://images.metahub.space/background/medium/tt21057450/img",
+      "description": "Maddie, a teen stuck in the afterlife investigating her own mysterious disappearance, goes on a crime-solving journey as she adjusts to high school purgatory, but the closer she gets to discovering the truth, the more secrets and lies she uncovers.",
+      "releaseInfo": 2023,
+      "imdbRating": 7.6
     },
     {
       "id": "tt27898511",
@@ -471,6 +461,16 @@
       "imdbRating": 7.9
     },
     {
+      "id": "tt35064818",
+      "type": "series",
+      "name": "Black Warrant",
+      "poster": "https://images.metahub.space/poster/medium/tt35064818/img",
+      "background": "https://images.metahub.space/background/medium/tt35064818/img",
+      "description": "When an upright officer accepts a job at Tihar Jail, he vows to make amends after witnessing cold-blooded corruption within its walls.",
+      "releaseInfo": 2025,
+      "imdbRating": 7.9
+    },
+    {
       "id": "tt12004706",
       "type": "series",
       "name": "Panchayat",
@@ -491,14 +491,14 @@
       "imdbRating": 8.2
     },
     {
-      "id": "tt39640519",
+      "id": "tt31862809",
       "type": "series",
-      "name": "Chumbak",
-      "poster": "https://images.metahub.space/poster/medium/tt39640519/img",
-      "background": "https://images.metahub.space/background/medium/tt39640519/img",
-      "description": "A young author and quirky support group explore the lives of five families in a Mumbai row-house who laugh, cry, eat, drink, and share everything together, forming a beautiful surrogate family through life's ups and downs.",
-      "releaseInfo": 2026,
-      "imdbRating": 6.7
+      "name": "Heart Beat",
+      "poster": "https://images.metahub.space/poster/medium/tt31862809/img",
+      "background": "https://images.metahub.space/background/medium/tt31862809/img",
+      "description": "Based around RK Multispeciality Hospital and its doctors, who are resilient as they deal with medical and personal challenges.",
+      "releaseInfo": 2024,
+      "imdbRating": 8.6
     }
   ]
 }

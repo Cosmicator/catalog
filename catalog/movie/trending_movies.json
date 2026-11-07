@@ -91,26 +91,6 @@
       "imdbRating": 7.2
     },
     {
-      "id": "tt32089596",
-      "type": "movie",
-      "name": "Comrade Kalyan",
-      "poster": "https://images.metahub.space/poster/medium/tt32089596/img",
-      "background": "https://images.metahub.space/background/medium/tt32089596/img",
-      "description": "In a naxal-dominated village on the Andhra-Odisha border, a theatre owner uses communist sentiment to keep his old cinema running. He joins the naxals and kidnaps a leader, setting off a chain of events.",
-      "releaseInfo": 2026,
-      "imdbRating": 8.1
-    },
-    {
-      "id": "tt34792531",
-      "type": "movie",
-      "name": "Avaraachan & Sons",
-      "poster": "https://images.metahub.space/poster/medium/tt34792531/img",
-      "background": "https://images.metahub.space/background/medium/tt34792531/img",
-      "description": "Follows Avarachan, his children and the various family and social relationships that shape their lives.",
-      "releaseInfo": 2026,
-      "imdbRating": 5.5
-    },
-    {
       "id": "tt0087332",
       "type": "movie",
       "name": "Ghostbusters",
@@ -119,16 +99,6 @@
       "description": "After losing their university jobs, three parapsychologists start a ghost-catching business in New York City and uncover a supernatural threat that could destroy the world.",
       "releaseInfo": 1984,
       "imdbRating": 7.8
-    },
-    {
-      "id": "tt39239754",
-      "type": "movie",
-      "name": "Sigma",
-      "poster": "https://images.metahub.space/poster/medium/tt39239754/img",
-      "background": "https://images.metahub.space/background/medium/tt39239754/img",
-      "description": "A rogue treasure hunter breaks every rule in pursuit of the ultimate score, navigating deadly traps and double-crosses with wit and audacity in this adrenaline-fueled adventure.",
-      "releaseInfo": 2026,
-      "imdbRating": 4.8
     },
     {
       "id": "tt5109784",
@@ -181,6 +151,16 @@
       "imdbRating": 7.4
     },
     {
+      "id": "tt39239754",
+      "type": "movie",
+      "name": "Sigma",
+      "poster": "https://images.metahub.space/poster/medium/tt39239754/img",
+      "background": "https://images.metahub.space/background/medium/tt39239754/img",
+      "description": "A rogue treasure hunter breaks every rule in pursuit of the ultimate score, navigating deadly traps and double-crosses with wit and audacity in this adrenaline-fueled adventure.",
+      "releaseInfo": 2026,
+      "imdbRating": 4.8
+    },
+    {
       "id": "tt34284946",
       "type": "movie",
       "name": "I'm Game",
@@ -201,6 +181,16 @@
       "imdbRating": 6.3
     },
     {
+      "id": "tt32089596",
+      "type": "movie",
+      "name": "Comrade Kalyan",
+      "poster": "https://images.metahub.space/poster/medium/tt32089596/img",
+      "background": "https://images.metahub.space/background/medium/tt32089596/img",
+      "description": "In a naxal-dominated village on the Andhra-Odisha border, a theatre owner uses communist sentiment to keep his old cinema running. He joins the naxals and kidnaps a leader, setting off a chain of events.",
+      "releaseInfo": 2026,
+      "imdbRating": 8.1
+    },
+    {
       "id": "tt29845247",
       "type": "movie",
       "name": "Noise",
@@ -219,6 +209,16 @@
       "description": "Greg Focker is ready to marry his girlfriend, Pam, but before he pops the question, he must win over her formidable father, humorless former CIA agent Jack Byrnes, at the wedding of Pam's sister. As Greg bends over backward to make a good impression, his visit to the Byrnes home turns into a hilarious series of disasters, and everything that can go wrong does, all under Jack's critical, hawklike gaze.",
       "releaseInfo": 2000,
       "imdbRating": 7
+    },
+    {
+      "id": "tt38265603",
+      "type": "movie",
+      "name": "Pradhama Drishtiya Kuttakkar",
+      "poster": "https://images.metahub.space/poster/medium/tt38265603/img",
+      "background": "https://images.metahub.space/background/medium/tt38265603/img",
+      "description": "After her husband's tragic death, Aleena joins the police force through a compassionate appointment. What begins as a quiet new chapter soon turns into a high-stakes battle of wits and courage, testing everything she believes about justice, loyalty, and herself.",
+      "releaseInfo": 2026,
+      "imdbRating": 7.5
     },
     {
       "id": "tt0106203",
@@ -281,16 +281,6 @@
       "imdbRating": 7
     },
     {
-      "id": "tt36300841",
-      "type": "movie",
-      "name": "Awarapan 2",
-      "poster": "https://images.metahub.space/poster/medium/tt36300841/img",
-      "background": "https://images.metahub.space/background/medium/tt36300841/img",
-      "description": "Once a feared gangster, Shivam lives hidden away from his past, with no faith left in God or himself. But when fate pulls him into Bangkok's cartel war and forces him back into the darkness he swore never to return to, Shivam must choose what he is willing to live for, when there is nothing left to lose.",
-      "releaseInfo": 2026,
-      "imdbRating": 5.8
-    },
-    {
       "id": "tt11663228",
       "type": "movie",
       "name": "Jailer",
@@ -311,14 +301,14 @@
       "imdbRating": 8.2
     },
     {
-      "id": "tt38265603",
+      "id": "tt0319343",
       "type": "movie",
-      "name": "Pradhama Drishtiya Kuttakkar",
-      "poster": "https://images.metahub.space/poster/medium/tt38265603/img",
-      "background": "https://images.metahub.space/background/medium/tt38265603/img",
-      "description": "After her husband's tragic death, Aleena joins the police force through a compassionate appointment. What begins as a quiet new chapter soon turns into a high-stakes battle of wits and courage, testing everything she believes about justice, loyalty, and herself.",
-      "releaseInfo": 2026,
-      "imdbRating": 7.5
+      "name": "Elf",
+      "poster": "https://images.metahub.space/poster/medium/tt0319343/img",
+      "background": "https://images.metahub.space/background/medium/tt0319343/img",
+      "description": "When young Buddy falls into Santa's gift sack on Christmas Eve, he's transported back to the North Pole and raised as a toy-making elf by Santa's helpers. But as he grows into adulthood, he can't shake the nagging feeling that he doesn't belong. Buddy vows to visit Manhattan and find his real dad, a workaholic.",
+      "releaseInfo": 2003,
+      "imdbRating": 7.1
     },
     {
       "id": "tt38793125",
@@ -351,24 +341,14 @@
       "imdbRating": 6.2
     },
     {
-      "id": "tt0060550",
+      "id": "tt42262473",
       "type": "movie",
-      "name": "It's the Great Pumpkin, Charlie Brown",
-      "poster": "https://images.metahub.space/poster/medium/tt0060550/img",
-      "background": "https://images.metahub.space/background/medium/tt0060550/img",
-      "description": "Join the Peanuts gang for a timeless adventure as Charlie Brown preps for a party, Snoopy sets his sights on the Red Baron, and Linus patiently awaits a pumpkin patch miracle.",
-      "releaseInfo": 1966,
-      "imdbRating": 8.1
-    },
-    {
-      "id": "tt27989067",
-      "type": "movie",
-      "name": "Lust Stories 2",
-      "poster": "https://images.metahub.space/poster/medium/tt27989067/img",
-      "background": "https://images.metahub.space/background/medium/tt27989067/img",
-      "description": "Four eminent Indian directors explore sex, desire and love through short films in this sequel to 2018's Emmy-nominated 'Lust Stories'.",
-      "releaseInfo": 2023,
-      "imdbRating": 5.7
+      "name": "Modha Rathri",
+      "poster": "https://images.metahub.space/poster/medium/tt42262473/img",
+      "background": "https://images.metahub.space/background/medium/tt42262473/img",
+      "description": "Two strangers are brought together at an unusual wedding where, in one night, too many surprises unfold and several lies are told, spiraling into chaos that changes everything.",
+      "releaseInfo": 2026,
+      "imdbRating": 7.5
     },
     {
       "id": "tt0816692",
@@ -381,16 +361,6 @@
       "imdbRating": 8.7
     },
     {
-      "id": "tt39139925",
-      "type": "movie",
-      "name": "Dhurandhar: The Revenge",
-      "poster": "https://images.metahub.space/poster/medium/tt39139925/img",
-      "background": "https://images.metahub.space/background/medium/tt39139925/img",
-      "description": "Jaskirat Singh Rangi descends deeper into his alias as Hamza Ali Mazari, rising through Karachi's criminal hierarchy to claim the feared title \"Sher-e-Baloch\" while balancing loyalty, betrayal, and survival in a ruthless underworld.",
-      "releaseInfo": 2026,
-      "imdbRating": 8.2
-    },
-    {
       "id": "tt37180686",
       "type": "movie",
       "name": "Drive - The Pretenders",
@@ -399,16 +369,6 @@
       "description": "A young mechanic fakes an engagement with racing's most scandalous star — officially for his reputation, secretly for her own shot behind the wheel. But soon the lie threatens to destroy everything — including what's already become so much more than just a deal.",
       "releaseInfo": 2026,
       "imdbRating": 5.6
-    },
-    {
-      "id": "tt42262473",
-      "type": "movie",
-      "name": "Modha Rathri",
-      "poster": "https://images.metahub.space/poster/medium/tt42262473/img",
-      "background": "https://images.metahub.space/background/medium/tt42262473/img",
-      "description": "Two strangers are brought together at an unusual wedding where, in one night, too many surprises unfold and several lies are told, spiraling into chaos that changes everything.",
-      "releaseInfo": 2026,
-      "imdbRating": 7.5
     },
     {
       "id": "tt1663202",
@@ -431,6 +391,16 @@
       "imdbRating": 6.5
     },
     {
+      "id": "tt0060550",
+      "type": "movie",
+      "name": "It's the Great Pumpkin, Charlie Brown",
+      "poster": "https://images.metahub.space/poster/medium/tt0060550/img",
+      "background": "https://images.metahub.space/background/medium/tt0060550/img",
+      "description": "Join the Peanuts gang for a timeless adventure as Charlie Brown preps for a party, Snoopy sets his sights on the Red Baron, and Linus patiently awaits a pumpkin patch miracle.",
+      "releaseInfo": 1966,
+      "imdbRating": 8.1
+    },
+    {
       "id": "tt1853728",
       "type": "movie",
       "name": "Django Unchained",
@@ -439,16 +409,6 @@
       "description": "With the help of a German bounty hunter, a freed slave sets out to rescue his wife from a brutal Mississippi plantation owner.",
       "releaseInfo": 2012,
       "imdbRating": 8.5
-    },
-    {
-      "id": "tt46060457",
-      "type": "movie",
-      "name": "The Swan: Behind the Mirror",
-      "poster": "https://images.metahub.space/poster/medium/tt46060457/img",
-      "background": "https://images.metahub.space/background/medium/tt46060457/img",
-      "description": "A look at the controversial 2004 reality series The Swan, which took self-proclaimed 'ugly ducklings' and set out to make them... not that.",
-      "releaseInfo": 2026,
-      "imdbRating": 6.2
     },
     {
       "id": "tt0085636",
@@ -481,6 +441,26 @@
       "imdbRating": 7.4
     },
     {
+      "id": "tt34792531",
+      "type": "movie",
+      "name": "Avaraachan & Sons",
+      "poster": "https://images.metahub.space/poster/medium/tt34792531/img",
+      "background": "https://images.metahub.space/background/medium/tt34792531/img",
+      "description": "Follows Avarachan, his children and the various family and social relationships that shape their lives.",
+      "releaseInfo": 2026,
+      "imdbRating": 5.5
+    },
+    {
+      "id": "tt39400218",
+      "type": "movie",
+      "name": "Cerita Lila",
+      "poster": "https://images.metahub.space/poster/medium/tt39400218/img",
+      "background": "https://images.metahub.space/background/medium/tt39400218/img",
+      "description": "Following a fatal history of severe maternal domestic abuse, the discarnate spirit of a young twin navigates the afterlife in a desperate search for her separated sister, uncovering a clandestine metaphysical conspiracy designed to obscure the truth of their deaths.",
+      "releaseInfo": 2026,
+      "imdbRating": 5.6
+    },
+    {
       "id": "tt39400541",
       "type": "movie",
       "name": "One Year to Live, Buy a Man",
@@ -491,14 +471,34 @@
       "imdbRating": 6.7
     },
     {
-      "id": "tt0319343",
+      "id": "tt46060457",
       "type": "movie",
-      "name": "Elf",
-      "poster": "https://images.metahub.space/poster/medium/tt0319343/img",
-      "background": "https://images.metahub.space/background/medium/tt0319343/img",
-      "description": "When young Buddy falls into Santa's gift sack on Christmas Eve, he's transported back to the North Pole and raised as a toy-making elf by Santa's helpers. But as he grows into adulthood, he can't shake the nagging feeling that he doesn't belong. Buddy vows to visit Manhattan and find his real dad, a workaholic.",
-      "releaseInfo": 2003,
-      "imdbRating": 7.1
+      "name": "The Swan: Behind the Mirror",
+      "poster": "https://images.metahub.space/poster/medium/tt46060457/img",
+      "background": "https://images.metahub.space/background/medium/tt46060457/img",
+      "description": "A look at the controversial 2004 reality series The Swan, which took self-proclaimed 'ugly ducklings' and set out to make them... not that.",
+      "releaseInfo": 2026,
+      "imdbRating": 6.2
+    },
+    {
+      "id": "tt0126029",
+      "type": "movie",
+      "name": "Shrek",
+      "poster": "https://images.metahub.space/poster/medium/tt0126029/img",
+      "background": "https://images.metahub.space/background/medium/tt0126029/img",
+      "description": "It ain't easy bein' green -- especially if you're a likable (albeit smelly) ogre named Shrek. On a mission to retrieve a gorgeous princess from the clutches of a fire-breathing dragon, Shrek teams up with an unlikely compatriot -- a wisecracking donkey.",
+      "releaseInfo": 2001,
+      "imdbRating": 7.9
+    },
+    {
+      "id": "tt0084516",
+      "type": "movie",
+      "name": "Poltergeist",
+      "poster": "https://images.metahub.space/poster/medium/tt0084516/img",
+      "background": "https://images.metahub.space/background/medium/tt0084516/img",
+      "description": "The Freelings' suburban home becomes the center of paranormal activity that opens a portal to the 'other side'. With help, they must cross over to get their daughter back.",
+      "releaseInfo": 1982,
+      "imdbRating": 7.3
     }
   ]
 }
