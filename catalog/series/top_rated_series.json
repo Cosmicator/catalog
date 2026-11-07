@@ -20,7 +20,7 @@
       "logo": "https://live.metahub.space/logo/medium/tt43730117/img",
       "description": "Following the Pahalgam terror attack in April, India's military leadership deliberates and plans Operation Sindoor, an 88-hour military operation launched on May 7, featuring accounts from operatives and experts.",
       "releaseInfo": "2026–2026",
-      "imdbRating": "9.1"
+      "imdbRating": "9.2"
     },
     {
       "id": "tt33043892",
@@ -155,6 +155,17 @@
       "imdbRating": "8.6"
     },
     {
+      "id": "tt36643714",
+      "type": "series",
+      "name": "Operation Safed Sagar: The Untold Story of the Kargil War",
+      "poster": "https://live.metahub.space/poster/small/tt36643714/img",
+      "background": "https://live.metahub.space/background/medium/tt36643714/img",
+      "logo": "https://live.metahub.space/logo/medium/tt36643714/img",
+      "description": "As the Kargil War erupts between India and Pakistan, the Golden Arrows squadron of the Air Force takes flight on a dangerous mission behind enemy lines.",
+      "releaseInfo": "2026–2026",
+      "imdbRating": "8.6"
+    },
+    {
       "id": "tt0773262",
       "type": "series",
       "name": "Dexter",
@@ -207,17 +218,6 @@
       "logo": "https://images.metahub.space/logo/medium/tt4093826/img",
       "description": "Picks up 25 years after the inhabitants of a quaint northwestern town are stunned when their homecoming queen is murdered.",
       "releaseInfo": "2017",
-      "imdbRating": "8.5"
-    },
-    {
-      "id": "tt36643714",
-      "type": "series",
-      "name": "Operation Safed Sagar: The Untold Story of the Kargil War",
-      "poster": "https://live.metahub.space/poster/small/tt36643714/img",
-      "background": "https://live.metahub.space/background/medium/tt36643714/img",
-      "logo": "https://live.metahub.space/logo/medium/tt36643714/img",
-      "description": "As the Kargil War erupts between India and Pakistan, the Golden Arrows squadron of the Air Force takes flight on a dangerous mission behind enemy lines.",
-      "releaseInfo": "2026–2026",
       "imdbRating": "8.5"
     },
     {
@@ -529,6 +529,17 @@
       "imdbRating": "8.0"
     },
     {
+      "id": "tt49702110",
+      "type": "series",
+      "name": "Matargashti",
+      "poster": "https://live.metahub.space/poster/small/tt49702110/img",
+      "background": "https://live.metahub.space/background/medium/tt49702110/img",
+      "logo": "https://live.metahub.space/logo/medium/tt49702110/img",
+      "description": "Dhara's plan to explore her sexuality puts her at odds with her horrified father, who becomes determined to sabotage her love life.",
+      "releaseInfo": "2026–",
+      "imdbRating": "8.0"
+    },
+    {
       "id": "tt4643084",
       "type": "series",
       "name": "Counterpart",
@@ -537,14 +548,6 @@
       "logo": "https://images.metahub.space/logo/medium/tt4643084/img",
       "description": "A cog in a bureaucratic agency discovers his agency is guarding a crossing to a parallel dimension.",
       "releaseInfo": "2017–2019",
-      "imdbRating": "8.0"
-    },
-    {
-      "id": "tt15404764",
-      "type": "series",
-      "name": "Titoo",
-      "description": "Titoo is an animated kids' comedy show that follows the daily escapades of eight-year-old boy Titoo. Though, he is a good-hearted, intelligent kid who loves to help everyone, but inadvertently manages to brew even more trouble.",
-      "releaseInfo": "2020–",
       "imdbRating": "8.0"
     }
   ]
