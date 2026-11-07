@@ -98,7 +98,7 @@
       "background": "https://images.metahub.space/background/medium/tt49522873/img",
       "description": "A battle for supremacy in a town ruled by crime and politics, where a young shooter's love leads him to glory, ruin, and a truth darker than betrayal.",
       "releaseInfo": 2026,
-      "imdbRating": 6.9
+      "imdbRating": 6.8
     },
     {
       "id": "tt33546863",
@@ -128,7 +128,7 @@
       "background": "https://images.metahub.space/background/medium/tt39943756/img",
       "description": "Lois has everything going for her: she's been accepted into the prestigious Belrose University alongside her lifelong love, Max. Lane, on the other hand, lives by his own rules. Creator of Campus Drivers, the hottest app on campus, he is as famous for his devastating smile as for his inability to commit. Their paths were never supposed to cross. Until the night when Lois, heartbroken, shows up on his doorstep. An unexpected cohabitation. Two worlds colliding. And an attraction impossible to ignore. But some encounters change everything… even awakening buried wounds. And when love arrives uninvited, nothing is certain anymore.",
       "releaseInfo": 2026,
-      "imdbRating": 0
+      "imdbRating": 7.4
     },
     {
       "id": "tt26598805",
@@ -198,7 +198,7 @@
       "background": "https://images.metahub.space/background/medium/tt45246384/img",
       "description": "Taekang Group's successor, Yoon Yi-jun, is the prime suspect of a shocking murder. To uncover the truth, Kang Jae-hee goes undercover as a male secretary to keep an eye on Yi-jun. The closer they get to what really happened, the closer Yi-jun and Jae-hee become. Will Jae-hee, who is hiding her identity, and Yi-jun, who is hiding a secret, be able to let their true feelings be known to one another?",
       "releaseInfo": 2026,
-      "imdbRating": 7.6
+      "imdbRating": 7.7
     },
     {
       "id": "tt31510819",
@@ -251,16 +251,6 @@
       "imdbRating": 8
     },
     {
-      "id": "tt49692512",
-      "type": "series",
-      "name": "Final Table",
-      "poster": "https://images.metahub.space/poster/medium/tt49692512/img",
-      "background": "https://images.metahub.space/background/medium/tt49692512/img",
-      "description": "The Table: K-Chef 2026 brings together Korea's top chefs to compete for the title of the country's best chef. Mysterious world-renowned chef Chris K., also known as Kang Han, Song-yi, who is fighting to save her restaurant, perfectionist star chef Woo-jin, and chefs with stories of their own face off in a fierce culinary battle. More than a competition, they find comfort in food and one another.",
-      "releaseInfo": 2026,
-      "imdbRating": 7.8
-    },
-    {
       "id": "tt11198330",
       "type": "series",
       "name": "House of the Dragon",
@@ -278,7 +268,7 @@
       "background": "https://images.metahub.space/background/medium/tt49702110/img",
       "description": "Dhara's plan to explore her sexuality puts her at odds with her horrified father, who becomes determined to sabotage her love life.",
       "releaseInfo": 2026,
-      "imdbRating": 7.4
+      "imdbRating": 7.3
     },
     {
       "id": "tt11540908",
@@ -308,7 +298,7 @@
       "background": "https://images.metahub.space/background/medium/tt37762350/img",
       "description": "November 1985: The armed group, M-19, storms the Palace of Justice in Bogotá, unleashing a wave of violence that would change Colombia forever. Amid crossfire, desperate hostages, an unrelenting army, and a guerrilla movement ready to risk everything, the nation watches as war tears through the heart of its capital for the first time. The 27 hours of horror would be followed by 40 years of unanswered questions.",
       "releaseInfo": 2026,
-      "imdbRating": 0
+      "imdbRating": 6.2
     },
     {
       "id": "tt1442449",
@@ -461,16 +451,6 @@
       "imdbRating": 7.9
     },
     {
-      "id": "tt35064818",
-      "type": "series",
-      "name": "Black Warrant",
-      "poster": "https://images.metahub.space/poster/medium/tt35064818/img",
-      "background": "https://images.metahub.space/background/medium/tt35064818/img",
-      "description": "When an upright officer accepts a job at Tihar Jail, he vows to make amends after witnessing cold-blooded corruption within its walls.",
-      "releaseInfo": 2025,
-      "imdbRating": 7.9
-    },
-    {
       "id": "tt12004706",
       "type": "series",
       "name": "Panchayat",
@@ -499,6 +479,26 @@
       "description": "Based around RK Multispeciality Hospital and its doctors, who are resilient as they deal with medical and personal challenges.",
       "releaseInfo": 2024,
       "imdbRating": 8.6
+    },
+    {
+      "id": "tt39640519",
+      "type": "series",
+      "name": "Chumbak",
+      "poster": "https://images.metahub.space/poster/medium/tt39640519/img",
+      "background": "https://images.metahub.space/background/medium/tt39640519/img",
+      "description": "A young author and quirky support group explore the lives of five families in a Mumbai row-house who laugh, cry, eat, drink, and share everything together, forming a beautiful surrogate family through life's ups and downs.",
+      "releaseInfo": 2026,
+      "imdbRating": 6.7
+    },
+    {
+      "id": "tt0988824",
+      "type": "series",
+      "name": "Naruto: Shippûden",
+      "poster": "https://images.metahub.space/poster/medium/tt0988824/img",
+      "background": "https://images.metahub.space/background/medium/tt0988824/img",
+      "description": "Naruto Uzumaki, is a loud, hyperactive, adolescent ninja who constantly searches for approval and recognition, as well as to become Hokage, who is acknowledged as the leader and strongest of all ninja in the village.",
+      "releaseInfo": 2007,
+      "imdbRating": 8.7
     }
   ]
 }

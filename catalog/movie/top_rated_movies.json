@@ -12,6 +12,17 @@
       "imdbRating": "9.9"
     },
     {
+      "id": "tt16747572",
+      "type": "movie",
+      "name": "The Silence of Swastika",
+      "poster": "https://images.metahub.space/poster/small/tt16747572/img",
+      "background": "https://images.metahub.space/background/medium/tt16747572/img",
+      "logo": "https://images.metahub.space/logo/medium/tt16747572/img",
+      "description": "Hitler used a symbol for his political and racial ideology. The world today calls that symbol \"Swastika\", an Indian name to a symbol used by Hindus, Buddhists, and Jains for ages. But was it a Swastika? or Something else?",
+      "releaseInfo": "2021",
+      "imdbRating": "9.5"
+    },
+    {
       "id": "tt44090278",
       "type": "movie",
       "name": "Baththa",
@@ -67,6 +78,17 @@
       "imdbRating": "8.7"
     },
     {
+      "id": "tt9263550",
+      "type": "movie",
+      "name": "Rocketry: The Nambi Effect",
+      "poster": "https://images.metahub.space/poster/small/tt9263550/img",
+      "background": "https://images.metahub.space/background/medium/tt9263550/img",
+      "logo": "https://images.metahub.space/logo/medium/tt9263550/img",
+      "description": "The story of Indian Space Research Organization scientist Nambi Narayanan, who was framed for being a spy and arrested in 1994.",
+      "releaseInfo": "2022",
+      "imdbRating": "8.6"
+    },
+    {
       "id": "tt0103064",
       "type": "movie",
       "name": "Terminator 2: Judgment Day",
@@ -100,6 +122,39 @@
       "imdbRating": "8.5"
     },
     {
+      "id": "tt0052572",
+      "type": "movie",
+      "name": "The World of Apu",
+      "poster": "https://images.metahub.space/poster/small/tt0052572/img",
+      "background": "https://images.metahub.space/background/medium/tt0052572/img",
+      "logo": "https://images.metahub.space/logo/medium/tt0052572/img",
+      "description": "An orphaned young man in India pursues his dream of becoming a writer while navigating life's challenges and personal growth.",
+      "releaseInfo": "1960",
+      "imdbRating": "8.4"
+    },
+    {
+      "id": "tt1187043",
+      "type": "movie",
+      "name": "3 Idiots",
+      "poster": "https://images.metahub.space/poster/small/tt1187043/img",
+      "background": "https://images.metahub.space/background/medium/tt1187043/img",
+      "logo": "https://images.metahub.space/logo/medium/tt1187043/img",
+      "description": "Two friends search for a brilliant, free-spirited classmate whose unconventional approach to engineering school changed their lives and challenged a rigid education system.",
+      "releaseInfo": "2009",
+      "imdbRating": "8.4"
+    },
+    {
+      "id": "tt0057277",
+      "type": "movie",
+      "name": "The Big City",
+      "poster": "https://images.metahub.space/poster/small/tt0057277/img",
+      "background": "https://images.metahub.space/background/medium/tt0057277/img",
+      "logo": "https://images.metahub.space/logo/medium/tt0057277/img",
+      "description": "Life at home changes when a house-wife from a middle-class, conservative family in Calcutta gets a job as a saleswoman.",
+      "releaseInfo": "1963",
+      "imdbRating": "8.3"
+    },
+    {
       "id": "tt32820897",
       "type": "movie",
       "name": "Demon Slayer: Kimetsu No Yaiba Infinity Castle",
@@ -109,39 +164,6 @@
       "description": "The Demon Slayer Corps are drawn into the Infinity Castle, where Tanjiro and the Hashira face terrifying Upper Rank Hindi mein demons in a desperate fight as the final battle against Muzan Kibutsuji begins.",
       "releaseInfo": "2025",
       "imdbRating": "8.3"
-    },
-    {
-      "id": "tt10214826",
-      "type": "movie",
-      "name": "Agent Sai Srinivasa Athreya",
-      "poster": "https://images.metahub.space/poster/small/tt10214826/img",
-      "background": "https://images.metahub.space/background/medium/tt10214826/img",
-      "logo": "https://images.metahub.space/logo/medium/tt10214826/img",
-      "description": "Agent Sai Srinivasa Athreya is an authentic humorous investigative thriller revolving around the adventures of a detective based out of Nellore.",
-      "releaseInfo": "2019",
-      "imdbRating": "8.3"
-    },
-    {
-      "id": "tt5504168",
-      "type": "movie",
-      "name": "Kshanam",
-      "poster": "https://images.metahub.space/poster/small/tt5504168/img",
-      "background": "https://images.metahub.space/background/medium/tt5504168/img",
-      "logo": "https://images.metahub.space/logo/medium/tt5504168/img",
-      "description": "Rishi, a non-resident Indian, returns to India to help his ex-lover find her kidnapped daughter.",
-      "releaseInfo": "2016",
-      "imdbRating": "8.2"
-    },
-    {
-      "id": "tt8239946",
-      "type": "movie",
-      "name": "Tumbbad",
-      "poster": "https://images.metahub.space/poster/small/tt8239946/img",
-      "background": "https://images.metahub.space/background/medium/tt8239946/img",
-      "logo": "https://images.metahub.space/logo/medium/tt8239946/img",
-      "description": "A mythological story about a goddess who created the entire universe. The plot revolves around the consequences when humans build a temple for her first-born.",
-      "releaseInfo": "2018",
-      "imdbRating": "8.2"
     },
     {
       "id": "tt0107290",
@@ -163,17 +185,6 @@
       "logo": "https://images.metahub.space/logo/medium/tt0075314/img",
       "description": "A mentally unstable veteran works as a nighttime taxi driver in New York City, where the perceived decadence and sleaze fuels his urge for violent action.",
       "releaseInfo": "1976",
-      "imdbRating": "8.2"
-    },
-    {
-      "id": "tt1620933",
-      "type": "movie",
-      "name": "Paan Singh Tomar",
-      "poster": "https://images.metahub.space/poster/small/tt1620933/img",
-      "background": "https://images.metahub.space/background/medium/tt1620933/img",
-      "logo": "https://images.metahub.space/logo/medium/tt1620933/img",
-      "description": "The story of Paan Singh Tomar, an Indian athlete and seven-time national steeplechase champion who becomes one of the most feared dacoits in Chambal Valley after his retirement.",
-      "releaseInfo": "2012",
       "imdbRating": "8.2"
     },
     {
@@ -210,25 +221,14 @@
       "imdbRating": "8.2"
     },
     {
-      "id": "tt3863552",
+      "id": "tt0112553",
       "type": "movie",
-      "name": "Bajrangi Bhaijaan",
-      "poster": "https://images.metahub.space/poster/small/tt3863552/img",
-      "background": "https://images.metahub.space/background/medium/tt3863552/img",
-      "logo": "https://images.metahub.space/logo/medium/tt3863552/img",
-      "description": "An Indian man with a magnanimous heart takes a young mute Pakistani girl back to her homeland to reunite her with her family.",
-      "releaseInfo": "2015",
-      "imdbRating": "8.1"
-    },
-    {
-      "id": "tt0405508",
-      "type": "movie",
-      "name": "Rang De Basanti",
-      "poster": "https://images.metahub.space/poster/small/tt0405508/img",
-      "background": "https://images.metahub.space/background/medium/tt0405508/img",
-      "logo": "https://images.metahub.space/logo/medium/tt0405508/img",
-      "description": "The story of six young Indians who assist an English woman to film a documentary on the freedom fighters from their past, and the events that lead them to relive the long-forgotten saga of freedom.",
-      "releaseInfo": "2006",
+      "name": "Bombay",
+      "poster": "https://images.metahub.space/poster/small/tt0112553/img",
+      "background": "https://images.metahub.space/background/medium/tt0112553/img",
+      "logo": "https://images.metahub.space/logo/medium/tt0112553/img",
+      "description": "A Hindu man and a Muslim woman fall in love in a small village and move to Mumbai, where they have two children. However, growing religious tensions and erupting riots threaten to tear the family apart.",
+      "releaseInfo": "1995",
       "imdbRating": "8.1"
     },
     {
@@ -240,6 +240,17 @@
       "logo": "https://images.metahub.space/logo/medium/tt0060550/img",
       "description": "The Peanuts gang celebrates Halloween while Linus waits for the Great Pumpkin.",
       "releaseInfo": "1966",
+      "imdbRating": "8.1"
+    },
+    {
+      "id": "tt0375611",
+      "type": "movie",
+      "name": "Black",
+      "poster": "https://images.metahub.space/poster/small/tt0375611/img",
+      "background": "https://images.metahub.space/background/medium/tt0375611/img",
+      "logo": "https://images.metahub.space/logo/medium/tt0375611/img",
+      "description": "Michelle, a disabled girl who can't see, hear, or speak, suffering in a world that has given up on her. But when the teacher Debraj enters her life, he becomes a ray of hope that she might pursue her passions and have a normal life.",
+      "releaseInfo": "2005",
       "imdbRating": "8.1"
     },
     {
@@ -276,15 +287,37 @@
       "imdbRating": "8.0"
     },
     {
-      "id": "tt0456144",
+      "id": "tt2199711",
       "type": "movie",
-      "name": "Lage Raho Munna Bhai",
-      "poster": "https://images.metahub.space/poster/small/tt0456144/img",
-      "background": "https://images.metahub.space/background/medium/tt0456144/img",
-      "logo": "https://images.metahub.space/logo/medium/tt0456144/img",
-      "description": "Munna Bhai embarks on a journey with Mahatma Gandhi in order to fight against a corrupt property dealer.",
-      "releaseInfo": "2006",
-      "imdbRating": "8.0"
+      "name": "Vishwaroopam",
+      "poster": "https://images.metahub.space/poster/small/tt2199711/img",
+      "background": "https://images.metahub.space/background/medium/tt2199711/img",
+      "logo": "https://images.metahub.space/logo/medium/tt2199711/img",
+      "description": "A nuclear oncologist's simple investigation into her husband's daily routine as a dance teacher spirals into a complex web of revelations about his true identity.",
+      "releaseInfo": "2013",
+      "imdbRating": "7.9"
+    },
+    {
+      "id": "tt7294534",
+      "type": "movie",
+      "name": "Arjun Reddy",
+      "poster": "https://images.metahub.space/poster/small/tt7294534/img",
+      "background": "https://images.metahub.space/background/medium/tt7294534/img",
+      "logo": "https://images.metahub.space/logo/medium/tt7294534/img",
+      "description": "Arjun Reddy, a short-tempered house surgeon, gets used to drugs and drinks when his girlfriend is forced to marry another person.",
+      "releaseInfo": "2017",
+      "imdbRating": "7.9"
+    },
+    {
+      "id": "tt3562110",
+      "type": "movie",
+      "name": "Kesari Chapter 2: The Untold Story of Jallianwala Bagh",
+      "poster": "https://images.metahub.space/poster/small/tt3562110/img",
+      "background": "https://images.metahub.space/background/medium/tt3562110/img",
+      "logo": "https://images.metahub.space/logo/medium/tt3562110/img",
+      "description": "After learning the truth behind the brutal massacre at the Jallianwala Bagh, C Sankaran Nair, a member of the Viceroy's Council, sets out to challenge the Crown and the military general responsible.",
+      "releaseInfo": "2025",
+      "imdbRating": "7.9"
     },
     {
       "id": "tt0126029",
@@ -331,15 +364,15 @@
       "imdbRating": "7.8"
     },
     {
-      "id": "tt2180477",
+      "id": "tt4168188",
       "type": "movie",
-      "name": "Nanban",
-      "poster": "https://images.metahub.space/poster/small/tt2180477/img",
-      "background": "https://images.metahub.space/background/medium/tt2180477/img",
-      "logo": "https://images.metahub.space/logo/medium/tt2180477/img",
-      "description": "10 years after leaving college, two best friends and their rival go on a search for their third friend, while finding out some truths along the way.",
-      "releaseInfo": "2012",
-      "imdbRating": "7.8"
+      "name": "Chaar Sahibzaade",
+      "poster": "https://images.metahub.space/poster/small/tt4168188/img",
+      "background": "https://images.metahub.space/background/medium/tt4168188/img",
+      "logo": "https://images.metahub.space/logo/medium/tt4168188/img",
+      "description": "The sacrifices of the four sons of Guru Gobind Singh ji (tenth guru of Sikhs) - Baba Ajit Singh ji, Baba Jujhar Singh ji, Baba Zorawar Singh ji and Baba Fateh Singh ji.",
+      "releaseInfo": "2014",
+      "imdbRating": "7.7"
     },
     {
       "id": "tt0926084",
@@ -353,15 +386,37 @@
       "imdbRating": "7.7"
     },
     {
-      "id": "tt13528564",
+      "id": "tt11490170",
       "type": "movie",
-      "name": "Ante Sundharaniki",
-      "poster": "https://images.metahub.space/poster/small/tt13528564/img",
-      "background": "https://images.metahub.space/background/medium/tt13528564/img",
-      "logo": "https://images.metahub.space/logo/medium/tt13528564/img",
-      "description": "A Hindu Brahmin falls for a Christian girl and they both lie to their parents, only for their lies to be revealed.",
-      "releaseInfo": "2022",
+      "name": "HIT",
+      "poster": "https://images.metahub.space/poster/small/tt11490170/img",
+      "background": "https://images.metahub.space/background/medium/tt11490170/img",
+      "logo": "https://images.metahub.space/logo/medium/tt11490170/img",
+      "description": "An officer of the 'Homicide Intervention Team' who frequently suffers from having his panic attacks does everything in his power to rescue a woman who went missing.",
+      "releaseInfo": "2020",
       "imdbRating": "7.6"
+    },
+    {
+      "id": "tt6206564",
+      "type": "movie",
+      "name": "Trapped",
+      "poster": "https://images.metahub.space/poster/small/tt6206564/img",
+      "background": "https://images.metahub.space/background/medium/tt6206564/img",
+      "logo": "https://images.metahub.space/logo/medium/tt6206564/img",
+      "description": "A man struggles to survive after he unintentionally locks himself up in a high rise devoid of food, water and electricity.",
+      "releaseInfo": "2016",
+      "imdbRating": "7.5"
+    },
+    {
+      "id": "tt8385474",
+      "type": "movie",
+      "name": "A Dog's Journey",
+      "poster": "https://images.metahub.space/poster/small/tt8385474/img",
+      "background": "https://images.metahub.space/background/medium/tt8385474/img",
+      "logo": "https://images.metahub.space/logo/medium/tt8385474/img",
+      "description": "A dog finds the meaning of his own existence through the lives of the humans he meets.",
+      "releaseInfo": "2019",
+      "imdbRating": "7.5"
     },
     {
       "id": "tt1951264",
@@ -386,36 +441,36 @@
       "imdbRating": "7.5"
     },
     {
-      "id": "tt1790885",
+      "id": "tt0800956",
       "type": "movie",
-      "name": "Zero Dark Thirty",
-      "poster": "https://images.metahub.space/poster/small/tt1790885/img",
-      "background": "https://images.metahub.space/background/medium/tt1790885/img",
-      "logo": "https://images.metahub.space/logo/medium/tt1790885/img",
-      "description": "A chronicle of the decade-long hunt for al-Qaeda terrorist leader Osama bin Laden after the September 2001 attacks, and his death at the hands of the Navy S.E.A.L.s Team 6 in May 2011.",
-      "releaseInfo": "2013",
+      "name": "Life in a Metro",
+      "poster": "https://images.metahub.space/poster/small/tt0800956/img",
+      "background": "https://images.metahub.space/background/medium/tt0800956/img",
+      "logo": "https://images.metahub.space/logo/medium/tt0800956/img",
+      "description": "Six different stories, about nine people, each with different issues and problems, all occurring within one place: the METRO.",
+      "releaseInfo": "2007",
       "imdbRating": "7.4"
     },
     {
-      "id": "tt23790740",
+      "id": "tt0453201",
       "type": "movie",
-      "name": "Srikanth",
-      "poster": "https://images.metahub.space/poster/small/tt23790740/img",
-      "background": "https://images.metahub.space/background/medium/tt23790740/img",
-      "logo": "https://images.metahub.space/logo/medium/tt23790740/img",
-      "description": "Blind Srikanth gets into MIT, founds Bollant Industries. Pursues goals for visually impaired while facing entrepreneurial challenges, navigating personal sacrifices. Highlights obstacles overcome by the blind in academics and busi...",
-      "releaseInfo": "2024",
+      "name": "Sachien",
+      "poster": "https://images.metahub.space/poster/small/tt0453201/img",
+      "background": "https://images.metahub.space/background/medium/tt0453201/img",
+      "logo": "https://images.metahub.space/logo/medium/tt0453201/img",
+      "description": "A love triangle on a college campus between two young students who try to deny their feelings for each other. The entry of a lecturer who has a soft corner for the boy, changes things around.",
+      "releaseInfo": "2005",
       "imdbRating": "7.4"
     },
     {
-      "id": "tt14598754",
+      "id": "tt8055888",
       "type": "movie",
-      "name": "Honsla Rakh",
-      "poster": "https://images.metahub.space/poster/small/tt14598754/img",
-      "background": "https://images.metahub.space/background/medium/tt14598754/img",
-      "logo": "https://images.metahub.space/logo/medium/tt14598754/img",
-      "description": "A lovable, rooted, desi and punjabi young single father of a 7-year-old boy attempts to find love again.",
-      "releaseInfo": "2021",
+      "name": "The Man Who Feels No Pain",
+      "poster": "https://images.metahub.space/poster/small/tt8055888/img",
+      "background": "https://images.metahub.space/background/medium/tt8055888/img",
+      "logo": "https://images.metahub.space/logo/medium/tt8055888/img",
+      "description": "It is a story of a young boy Surya who has a rare condition of Congenital Insensitivity to pain meaning he can not feel pain, and he sets out to learn martial arts and hunt down muggers.",
+      "releaseInfo": "2018",
       "imdbRating": "7.3"
     },
     {
@@ -430,6 +485,17 @@
       "imdbRating": "7.2"
     },
     {
+      "id": "tt29272469",
+      "type": "movie",
+      "name": "Golam",
+      "poster": "https://images.metahub.space/poster/small/tt29272469/img",
+      "background": "https://images.metahub.space/background/medium/tt29272469/img",
+      "logo": "https://images.metahub.space/logo/medium/tt29272469/img",
+      "description": "A mysterious death during work hours in an office puzzles all but only Investigator ASP Sandeep Krishna observes it as a murder.",
+      "releaseInfo": "2024",
+      "imdbRating": "7.2"
+    },
+    {
       "id": "tt11663228",
       "type": "movie",
       "name": "Jailer",
@@ -441,37 +507,26 @@
       "imdbRating": "7.2"
     },
     {
-      "id": "tt0190419",
+      "id": "tt0437407",
       "type": "movie",
-      "name": "Ghulam",
-      "poster": "https://images.metahub.space/poster/small/tt0190419/img",
-      "background": "https://images.metahub.space/background/medium/tt0190419/img",
-      "logo": "https://images.metahub.space/logo/medium/tt0190419/img",
-      "description": "An amateur boxer runs errands for a local gangster but revolts against him after the gangster kills his friend and his conscience is awakened.",
-      "releaseInfo": "1998",
+      "name": "Parineeta",
+      "poster": "https://images.metahub.space/poster/small/tt0437407/img",
+      "background": "https://images.metahub.space/background/medium/tt0437407/img",
+      "logo": "https://images.metahub.space/logo/medium/tt0437407/img",
+      "description": "The lifelong romance between Lolita (Balan) and Shekar (Khan) is upset by the arrival of another man.",
+      "releaseInfo": "2005",
       "imdbRating": "7.2"
     },
     {
-      "id": "tt3405236",
+      "id": "tt0439662",
       "type": "movie",
-      "name": "Raees",
-      "poster": "https://images.metahub.space/poster/small/tt3405236/img",
-      "background": "https://images.metahub.space/background/medium/tt3405236/img",
-      "logo": "https://images.metahub.space/logo/medium/tt3405236/img",
-      "description": "Criticizing the prohibition of alcohol and illegal drugs in Gujarat, this film unfolds the story of a cruel and clever bootlegger, whose business is challenged by a tough cop.",
-      "releaseInfo": "2017",
-      "imdbRating": "7.2"
-    },
-    {
-      "id": "tt3885714",
-      "type": "movie",
-      "name": "Karthikeya",
-      "poster": "https://images.metahub.space/poster/small/tt3885714/img",
-      "background": "https://images.metahub.space/background/medium/tt3885714/img",
-      "logo": "https://images.metahub.space/logo/medium/tt3885714/img",
-      "description": "Karthikeya, who loves to solve mysteries, goes to Subramanyapuram to investigate where the villagers are frightened by a deadly snake in the temple.",
-      "releaseInfo": "2014",
-      "imdbRating": "7.2"
+      "name": "Fanaa",
+      "poster": "https://images.metahub.space/poster/small/tt0439662/img",
+      "background": "https://images.metahub.space/background/medium/tt0439662/img",
+      "logo": "https://images.metahub.space/logo/medium/tt0439662/img",
+      "description": "A sweet blind girl Zooni meets a flirty Rehan. She ignores her friends' warnings. It's her time to discover life. Is she making the right love choice?",
+      "releaseInfo": "2006",
+      "imdbRating": "7.1"
     },
     {
       "id": "tt0319343",
@@ -485,17 +540,6 @@
       "imdbRating": "7.1"
     },
     {
-      "id": "tt16118524",
-      "type": "movie",
-      "name": "Baby",
-      "poster": "https://images.metahub.space/poster/small/tt16118524/img",
-      "background": "https://images.metahub.space/background/medium/tt16118524/img",
-      "logo": "https://images.metahub.space/logo/medium/tt16118524/img",
-      "description": "Two high-school sweethearts face challenges in their relationship when they take different directions in life.",
-      "releaseInfo": "2023",
-      "imdbRating": "7.1"
-    },
-    {
       "id": "tt0212338",
       "type": "movie",
       "name": "Meet the Parents",
@@ -505,50 +549,6 @@
       "description": "A chronic underachiever meets his girlfriend's parents before proposing, but unfortunately for him her father is an overprotective former CIA agent.",
       "releaseInfo": "2000",
       "imdbRating": "7.0"
-    },
-    {
-      "id": "tt14966898",
-      "type": "movie",
-      "name": "Late Night with the Devil",
-      "poster": "https://images.metahub.space/poster/small/tt14966898/img",
-      "background": "https://images.metahub.space/background/medium/tt14966898/img",
-      "logo": "https://images.metahub.space/logo/medium/tt14966898/img",
-      "description": "A live television broadcast in 1977 goes horribly wrong, unleashing evil into the nation's living rooms.",
-      "releaseInfo": "2024",
-      "imdbRating": "7.0"
-    },
-    {
-      "id": "tt1216300",
-      "type": "movie",
-      "name": "Jannat: In Search of Heaven...",
-      "poster": "https://images.metahub.space/poster/small/tt1216300/img",
-      "background": "https://images.metahub.space/background/medium/tt1216300/img",
-      "logo": "https://images.metahub.space/logo/medium/tt1216300/img",
-      "description": "Arjun is a reckless young man with an obsession for making money at card games. A chance meeting with a girl in a mall, Zoya, gives him the reasons he was looking for the move out of his ordinary life. He steps up from playing sma...",
-      "releaseInfo": "2008",
-      "imdbRating": "6.9"
-    },
-    {
-      "id": "tt15392282",
-      "type": "movie",
-      "name": "Merry Christmas",
-      "poster": "https://images.metahub.space/poster/small/tt15392282/img",
-      "background": "https://images.metahub.space/background/medium/tt15392282/img",
-      "logo": "https://images.metahub.space/logo/medium/tt15392282/img",
-      "description": "Two strangers meet on a fateful Christmas Eve. A night of delirious romance turns into a nightmare. Revealing anything more would be a crime.",
-      "releaseInfo": "2024",
-      "imdbRating": "6.9"
-    },
-    {
-      "id": "tt1390411",
-      "type": "movie",
-      "name": "In the Heart of the Sea",
-      "poster": "https://images.metahub.space/poster/small/tt1390411/img",
-      "background": "https://images.metahub.space/background/medium/tt1390411/img",
-      "logo": "https://images.metahub.space/logo/medium/tt1390411/img",
-      "description": "A recounting of a New England whaling ship's sinking by a giant whale in 1820, an experience that later inspired the great novel Moby-Dick.",
-      "releaseInfo": "2015",
-      "imdbRating": "6.9"
     }
   ]
 }
