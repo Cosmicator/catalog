@@ -128,7 +128,7 @@
       "background": "https://images.metahub.space/background/medium/tt41221277/img",
       "description": "In rural Anakapalli, a young man enters the criminal underworld under a feared gangster. When love arrives, he faces a choice between power, loyalty, and his former dreams in this tale of action and destiny.",
       "releaseInfo": 2026,
-      "imdbRating": 7.3
+      "imdbRating": 6.7
     },
     {
       "id": "tt50426072",
@@ -169,16 +169,6 @@
       "description": "This is the rambunctious, ridiculous and totally true story of how the Minions conquered Hollywood, became movie stars, lost everything, unleashed monsters onto the world and then banded together to try and save the planet from the mayhem they had just created.",
       "releaseInfo": 2026,
       "imdbRating": 6.3
-    },
-    {
-      "id": "tt29845247",
-      "type": "movie",
-      "name": "Noise",
-      "poster": "https://images.metahub.space/poster/medium/tt29845247/img",
-      "background": "https://images.metahub.space/background/medium/tt29845247/img",
-      "description": "A young woman with a hearing impairment investigates her sister’s mysterious disappearance from her apartment, but as she searches for answers, strange sounds and an ominous presence begin to haunt her.",
-      "releaseInfo": 2025,
-      "imdbRating": 5.6
     },
     {
       "id": "tt11663228",
@@ -251,6 +241,16 @@
       "imdbRating": 5.6
     },
     {
+      "id": "tt29845247",
+      "type": "movie",
+      "name": "Noise",
+      "poster": "https://images.metahub.space/poster/medium/tt29845247/img",
+      "background": "https://images.metahub.space/background/medium/tt29845247/img",
+      "description": "A young woman with a hearing impairment investigates her sister’s mysterious disappearance from her apartment, but as she searches for answers, strange sounds and an ominous presence begin to haunt her.",
+      "releaseInfo": 2025,
+      "imdbRating": 5.6
+    },
+    {
       "id": "tt0075314",
       "type": "movie",
       "name": "Taxi Driver",
@@ -288,7 +288,7 @@
       "background": "https://images.metahub.space/background/medium/tt12915716/img",
       "description": "A modern adaptation of the Indian epic Ramayana which follows the exiled prince Raghav's journey to rescue his wife Janaki from the demon king Lankesh.",
       "releaseInfo": 2023,
-      "imdbRating": 2.6
+      "imdbRating": 2.5
     },
     {
       "id": "tt31723358",
@@ -328,7 +328,7 @@
       "background": "https://images.metahub.space/background/medium/tt43716419/img",
       "description": "A single misplaced object sets off a wild 24-hour chain reaction, sweeping six strangers into chaotic fun. As it changes hands, petty blunders and comic mix-ups collide, forging unexpected connections that upend all their lives forever.",
       "releaseInfo": 2026,
-      "imdbRating": 10
+      "imdbRating": 9.4
     },
     {
       "id": "tt36751759",
@@ -398,7 +398,7 @@
       "background": "https://images.metahub.space/background/medium/tt39400541/img",
       "description": "Given a year to live, frugal 40-year-old Yui finally lets herself spend: \"buying\" nightclub host Sena. What begins as a contract takes an unexpected turn.",
       "releaseInfo": 2026,
-      "imdbRating": 6.4
+      "imdbRating": 6.3
     },
     {
       "id": "tt23289160",
@@ -408,7 +408,7 @@
       "background": "https://images.metahub.space/background/medium/tt23289160/img",
       "description": "In postwar Japan, Godzilla brings new devastation to an already scorched landscape. With no military intervention or government help in sight, the survivors must join together in the face of despair and fight back against an unrelenting horror.",
       "releaseInfo": 2023,
-      "imdbRating": 7.6
+      "imdbRating": 7.7
     },
     {
       "id": "tt14173636",
@@ -441,16 +441,6 @@
       "imdbRating": 6.3
     },
     {
-      "id": "tt46060457",
-      "type": "movie",
-      "name": "The Swan: Behind the Mirror",
-      "poster": "https://images.metahub.space/poster/medium/tt46060457/img",
-      "background": "https://images.metahub.space/background/medium/tt46060457/img",
-      "description": "A look at the controversial 2004 reality series The Swan, which took self-proclaimed 'ugly ducklings' and set out to make them... not that.",
-      "releaseInfo": 2026,
-      "imdbRating": 6.2
-    },
-    {
       "id": "tt1853728",
       "type": "movie",
       "name": "Django Unchained",
@@ -471,11 +461,11 @@
       "imdbRating": 6.8
     },
     {
-      "id": "tt0060550",
+      "id": "tt15446248",
       "type": "movie",
       "name": "It's the Great Pumpkin, Charlie Brown",
-      "poster": "https://images.metahub.space/poster/medium/tt0060550/img",
-      "background": "https://images.metahub.space/background/medium/tt0060550/img",
+      "poster": "https://images.metahub.space/poster/medium/tt15446248/img",
+      "background": "https://images.metahub.space/background/medium/tt15446248/img",
       "description": "Join the Peanuts gang for a timeless adventure as Charlie Brown preps for a party, Snoopy sets his sights on the Red Baron, and Linus patiently awaits a pumpkin patch miracle.",
       "releaseInfo": 1966,
       "imdbRating": 8.1
@@ -489,6 +479,16 @@
       "description": "In a 19th-century European village, a young man about to be married is whisked away to the underworld and wed to a mysterious corpse bride, while his real bride waits bereft in the land of the living.",
       "releaseInfo": 2005,
       "imdbRating": 7.4
+    },
+    {
+      "id": "tt46060457",
+      "type": "movie",
+      "name": "The Swan: Behind the Mirror",
+      "poster": "https://images.metahub.space/poster/medium/tt46060457/img",
+      "background": "https://images.metahub.space/background/medium/tt46060457/img",
+      "description": "A look at the controversial 2004 reality series The Swan, which took self-proclaimed 'ugly ducklings' and set out to make them... not that.",
+      "releaseInfo": 2026,
+      "imdbRating": 6.2
     },
     {
       "id": "tt27543632",
