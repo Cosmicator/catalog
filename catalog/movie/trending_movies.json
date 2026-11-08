@@ -1,6 +1,16 @@
 {
   "metas": [
     {
+      "id": "tt10886166",
+      "type": "movie",
+      "name": "365 dni",
+      "poster": "https://images.metahub.space/poster/medium/tt10886166/img",
+      "background": "https://images.metahub.space/background/medium/tt10886166/img",
+      "description": "Massimo is a member of the Sicilian Mafia family and Laura is a sales director. She does not expect that on a trip to Sicily trying to save her relationship, Massimo will kidnap her and give her 365 days to fall in love with him.",
+      "releaseInfo": 2020,
+      "imdbRating": 3.3
+    },
+    {
       "id": "tt34339725",
       "type": "movie",
       "name": "Mirzapur: The Movie",
@@ -9,6 +19,16 @@
       "description": "Akhandanand Tripathi sits on the throne of Mirzapur. Munna Tripathi is heir apparent. Rati Shankar Shukla is the rival from Jaunpur. And, Guddu and Bablu are the two brothers who came like a tornado and changed things irreversibly. And now comes a new claimant in town. Babban Babua, from the desert of Jaisalmer. A ruthless man who is power hungry.",
       "releaseInfo": 2026,
       "imdbRating": 7.3
+    },
+    {
+      "id": "tt35538033",
+      "type": "movie",
+      "name": "Resident Evil",
+      "poster": "https://images.metahub.space/poster/medium/tt35538033/img",
+      "background": "https://images.metahub.space/background/medium/tt35538033/img",
+      "description": "Described as a revamp that will return to the franchise's horror roots and be more faithful to the initial games.",
+      "releaseInfo": 2026,
+      "imdbRating": 7.5
     },
     {
       "id": "tt37287335",
@@ -21,14 +41,24 @@
       "imdbRating": 7.8
     },
     {
-      "id": "tt10886166",
+      "id": "tt22084616",
       "type": "movie",
-      "name": "365 dni",
-      "poster": "https://images.metahub.space/poster/medium/tt10886166/img",
-      "background": "https://images.metahub.space/background/medium/tt10886166/img",
-      "description": "Massimo is a member of the Sicilian Mafia family and Laura is a sales director. She does not expect that on a trip to Sicily trying to save her relationship, Massimo will kidnap her and give her 365 days to fall in love with him.",
-      "releaseInfo": 2020,
-      "imdbRating": 3.3
+      "name": "Spider-Man: Brand New Day",
+      "poster": "https://images.metahub.space/poster/medium/tt22084616/img",
+      "background": "https://images.metahub.space/background/medium/tt22084616/img",
+      "description": "Fighting crime full-time as Spider-Man in a world that doesn't remember him—and the pressure of seeing his old friends move on without him—sparks a change in Peter Parker he may not have the power to control. But that transformation might also be the only thing that can stop a shocking new threat to the city and those he loves - a powerful villain no one can even see.",
+      "releaseInfo": 2026,
+      "imdbRating": 7.9
+    },
+    {
+      "id": "tt7526136",
+      "type": "movie",
+      "name": "Heart of the Beast",
+      "poster": "https://images.metahub.space/poster/medium/tt7526136/img",
+      "background": "https://images.metahub.space/background/medium/tt7526136/img",
+      "description": "After a harrowing plane crash, Special Forces officer James Belmont and his combat dog, Odin, find themselves stranded deep in the Alaskan wilderness. Together, they are forced into a brutal fight for survival against the elements.",
+      "releaseInfo": 2026,
+      "imdbRating": 7.2
     },
     {
       "id": "tt44090278",
@@ -51,26 +81,6 @@
       "imdbRating": 5.8
     },
     {
-      "id": "tt35538033",
-      "type": "movie",
-      "name": "Resident Evil",
-      "poster": "https://images.metahub.space/poster/medium/tt35538033/img",
-      "background": "https://images.metahub.space/background/medium/tt35538033/img",
-      "description": "Described as a revamp that will return to the franchise's horror roots and be more faithful to the initial games.",
-      "releaseInfo": 2026,
-      "imdbRating": 7.5
-    },
-    {
-      "id": "tt22084616",
-      "type": "movie",
-      "name": "Spider-Man: Brand New Day",
-      "poster": "https://images.metahub.space/poster/medium/tt22084616/img",
-      "background": "https://images.metahub.space/background/medium/tt22084616/img",
-      "description": "Fighting crime full-time as Spider-Man in a world that doesn't remember him—and the pressure of seeing his old friends move on without him—sparks a change in Peter Parker he may not have the power to control. But that transformation might also be the only thing that can stop a shocking new threat to the city and those he loves - a powerful villain no one can even see.",
-      "releaseInfo": 2026,
-      "imdbRating": 7.9
-    },
-    {
       "id": "tt22890246",
       "type": "movie",
       "name": "How to Have Sex",
@@ -79,86 +89,6 @@
       "description": "Three British teenage girls go on a rites-of-passage holiday - drinking, clubbing and hooking up, in what should be the best summer of their lives.",
       "releaseInfo": 2023,
       "imdbRating": 6.4
-    },
-    {
-      "id": "tt7526136",
-      "type": "movie",
-      "name": "Heart of the Beast",
-      "poster": "https://images.metahub.space/poster/medium/tt7526136/img",
-      "background": "https://images.metahub.space/background/medium/tt7526136/img",
-      "description": "After a harrowing plane crash, Special Forces officer James Belmont and his combat dog, Odin, find themselves stranded deep in the Alaskan wilderness. Together, they are forced into a brutal fight for survival against the elements.",
-      "releaseInfo": 2026,
-      "imdbRating": 7.2
-    },
-    {
-      "id": "tt0087332",
-      "type": "movie",
-      "name": "Ghostbusters",
-      "poster": "https://images.metahub.space/poster/medium/tt0087332/img",
-      "background": "https://images.metahub.space/background/medium/tt0087332/img",
-      "description": "After losing their university jobs, three parapsychologists start a ghost-catching business in New York City and uncover a supernatural threat that could destroy the world.",
-      "releaseInfo": 1984,
-      "imdbRating": 7.8
-    },
-    {
-      "id": "tt5109784",
-      "type": "movie",
-      "name": "mother!",
-      "poster": "https://images.metahub.space/poster/medium/tt5109784/img",
-      "background": "https://images.metahub.space/background/medium/tt5109784/img",
-      "description": "A couple's relationship is tested when uninvited guests arrive at their home, disrupting their tranquil existence.",
-      "releaseInfo": 2017,
-      "imdbRating": 6.6
-    },
-    {
-      "id": "tt50426072",
-      "type": "movie",
-      "name": "A Story of Derry",
-      "poster": "https://images.metahub.space/poster/medium/tt50426072/img",
-      "background": "https://images.metahub.space/background/medium/tt50426072/img",
-      "description": "Hundreds of years before Pennywise, three youngsters venture into the Western Wood...where they encounter a terrifying ancient spirit.",
-      "releaseInfo": 2026,
-      "imdbRating": 6.4
-    },
-    {
-      "id": "tt13611778",
-      "type": "movie",
-      "name": "The Mongoose",
-      "poster": "https://images.metahub.space/poster/medium/tt13611778/img",
-      "background": "https://images.metahub.space/background/medium/tt13611778/img",
-      "description": "A highly decorated combat vet, Ryan ''Fang'' Flanagan, is fleeing a murder scene at 130 miles an hour in a Mustang Shelby Super Snake GT350.",
-      "releaseInfo": 2026,
-      "imdbRating": 5
-    },
-    {
-      "id": "tt31036941",
-      "type": "movie",
-      "name": "Jurassic World: Rebirth",
-      "poster": "https://images.metahub.space/poster/medium/tt31036941/img",
-      "background": "https://images.metahub.space/background/medium/tt31036941/img",
-      "description": "Five years post-Jurassic World: Dominion (2022), an expedition braves isolated equatorial regions to extract DNA from three massive prehistoric creatures for a groundbreaking medical breakthrough.",
-      "releaseInfo": 2025,
-      "imdbRating": 5.8
-    },
-    {
-      "id": "tt41221277",
-      "type": "movie",
-      "name": "Anakapalli",
-      "poster": "https://images.metahub.space/poster/medium/tt41221277/img",
-      "background": "https://images.metahub.space/background/medium/tt41221277/img",
-      "description": "In rural Anakapalli, a young man enters the criminal underworld under a feared gangster. When love arrives, he faces a choice between power, loyalty, and his former dreams in this tale of action and destiny.",
-      "releaseInfo": 2026,
-      "imdbRating": 7.3
-    },
-    {
-      "id": "tt39239754",
-      "type": "movie",
-      "name": "Sigma",
-      "poster": "https://images.metahub.space/poster/medium/tt39239754/img",
-      "background": "https://images.metahub.space/background/medium/tt39239754/img",
-      "description": "A rogue treasure hunter breaks every rule in pursuit of the ultimate score, navigating deadly traps and double-crosses with wit and audacity in this adrenaline-fueled adventure.",
-      "releaseInfo": 2026,
-      "imdbRating": 4.8
     },
     {
       "id": "tt34284946",
@@ -171,44 +101,54 @@
       "imdbRating": 6.2
     },
     {
-      "id": "tt32890033",
+      "id": "tt31036941",
       "type": "movie",
-      "name": "Minions & Monsters",
-      "poster": "https://images.metahub.space/poster/medium/tt32890033/img",
-      "background": "https://images.metahub.space/background/medium/tt32890033/img",
-      "description": "This is the rambunctious, ridiculous and totally true story of how the Minions conquered Hollywood, became movie stars, lost everything, unleashed monsters onto the world and then banded together to try and save the planet from the mayhem they had just created.",
-      "releaseInfo": 2026,
-      "imdbRating": 6.3
-    },
-    {
-      "id": "tt32089596",
-      "type": "movie",
-      "name": "Comrade Kalyan",
-      "poster": "https://images.metahub.space/poster/medium/tt32089596/img",
-      "background": "https://images.metahub.space/background/medium/tt32089596/img",
-      "description": "In a naxal-dominated village on the Andhra-Odisha border, a theatre owner uses communist sentiment to keep his old cinema running. He joins the naxals and kidnaps a leader, setting off a chain of events.",
-      "releaseInfo": 2026,
-      "imdbRating": 8.1
-    },
-    {
-      "id": "tt29845247",
-      "type": "movie",
-      "name": "Noise",
-      "poster": "https://images.metahub.space/poster/medium/tt29845247/img",
-      "background": "https://images.metahub.space/background/medium/tt29845247/img",
-      "description": "A young woman with a hearing impairment investigates her sister’s mysterious disappearance from her apartment, but as she searches for answers, strange sounds and an ominous presence begin to haunt her.",
+      "name": "Jurassic World: Rebirth",
+      "poster": "https://images.metahub.space/poster/medium/tt31036941/img",
+      "background": "https://images.metahub.space/background/medium/tt31036941/img",
+      "description": "Five years post-Jurassic World: Dominion (2022), an expedition braves isolated equatorial regions to extract DNA from three massive prehistoric creatures for a groundbreaking medical breakthrough.",
       "releaseInfo": 2025,
-      "imdbRating": 5.6
+      "imdbRating": 5.8
     },
     {
-      "id": "tt0212338",
+      "id": "tt13611778",
       "type": "movie",
-      "name": "Meet the Parents",
-      "poster": "https://images.metahub.space/poster/medium/tt0212338/img",
-      "background": "https://images.metahub.space/background/medium/tt0212338/img",
-      "description": "Greg Focker is ready to marry his girlfriend, Pam, but before he pops the question, he must win over her formidable father, humorless former CIA agent Jack Byrnes, at the wedding of Pam's sister. As Greg bends over backward to make a good impression, his visit to the Byrnes home turns into a hilarious series of disasters, and everything that can go wrong does, all under Jack's critical, hawklike gaze.",
-      "releaseInfo": 2000,
-      "imdbRating": 7
+      "name": "The Mongoose",
+      "poster": "https://images.metahub.space/poster/medium/tt13611778/img",
+      "background": "https://images.metahub.space/background/medium/tt13611778/img",
+      "description": "A highly decorated combat vet, Ryan ''Fang'' Flanagan, is fleeing a murder scene at 130 miles an hour in a Mustang Shelby Super Snake GT350.",
+      "releaseInfo": 2026,
+      "imdbRating": 5
+    },
+    {
+      "id": "tt41221277",
+      "type": "movie",
+      "name": "Anakapalli",
+      "poster": "https://images.metahub.space/poster/medium/tt41221277/img",
+      "background": "https://images.metahub.space/background/medium/tt41221277/img",
+      "description": "In rural Anakapalli, a young man enters the criminal underworld under a feared gangster. When love arrives, he faces a choice between power, loyalty, and his former dreams in this tale of action and destiny.",
+      "releaseInfo": 2026,
+      "imdbRating": 7.3
+    },
+    {
+      "id": "tt50426072",
+      "type": "movie",
+      "name": "A Story of Derry",
+      "poster": "https://images.metahub.space/poster/medium/tt50426072/img",
+      "background": "https://images.metahub.space/background/medium/tt50426072/img",
+      "description": "Hundreds of years before Pennywise, three youngsters venture into the Western Wood...where they encounter a terrifying ancient spirit.",
+      "releaseInfo": 2026,
+      "imdbRating": 6.4
+    },
+    {
+      "id": "tt5109784",
+      "type": "movie",
+      "name": "mother!",
+      "poster": "https://images.metahub.space/poster/medium/tt5109784/img",
+      "background": "https://images.metahub.space/background/medium/tt5109784/img",
+      "description": "A couple's relationship is tested when uninvited guests arrive at their home, disrupting their tranquil existence.",
+      "releaseInfo": 2017,
+      "imdbRating": 6.6
     },
     {
       "id": "tt38265603",
@@ -221,54 +161,24 @@
       "imdbRating": 7.5
     },
     {
-      "id": "tt0106203",
+      "id": "tt32890033",
       "type": "movie",
-      "name": "Aaina",
-      "poster": "https://images.metahub.space/poster/medium/tt0106203/img",
-      "background": "https://images.metahub.space/background/medium/tt0106203/img",
-      "description": "Roma (Amrita Singh) leaves Ravi (Jackie Shroff) at the alter in pursuit of her bigger ambitions. Her sister Reema (Juhi Chawla), a pale reflection of Roma, steps in and saves the day for her family, having secretly been in love with Ravi all her life. The newly weds start building a life together till suddenly Roma returns, determined to get back what she thinks Reema stole from her.",
-      "releaseInfo": 1993,
-      "imdbRating": 6.1
-    },
-    {
-      "id": "tt33379543",
-      "type": "movie",
-      "name": "Jana Nayagan",
-      "poster": "https://images.metahub.space/poster/medium/tt33379543/img",
-      "background": "https://images.metahub.space/background/medium/tt33379543/img",
-      "description": "A clash of ideologies. One stands for the people, the other feeds on control. Their paths collided once before. Years later, a child’s silent fear ignites the past, drawing a former police officer into a battle far bigger than personal revenge.",
+      "name": "Minions & Monsters",
+      "poster": "https://images.metahub.space/poster/medium/tt32890033/img",
+      "background": "https://images.metahub.space/background/medium/tt32890033/img",
+      "description": "This is the rambunctious, ridiculous and totally true story of how the Minions conquered Hollywood, became movie stars, lost everything, unleashed monsters onto the world and then banded together to try and save the planet from the mayhem they had just created.",
       "releaseInfo": 2026,
-      "imdbRating": 5.1
+      "imdbRating": 6.3
     },
     {
-      "id": "tt31723358",
+      "id": "tt29845247",
       "type": "movie",
-      "name": "Tell Me What You Want",
-      "poster": "https://images.metahub.space/poster/medium/tt31723358/img",
-      "background": "https://images.metahub.space/background/medium/tt31723358/img",
-      "description": "After his father's death, Eric Zimmerman travels to Spain to oversee his company's branches. In Madrid, he falls for Judith and engage in an intense, erotic relationship full of exploration. However, Eric fears his secret may end their affair.",
-      "releaseInfo": 2024,
-      "imdbRating": 4.1
-    },
-    {
-      "id": "tt0107290",
-      "type": "movie",
-      "name": "Jurassic Park",
-      "poster": "https://images.metahub.space/poster/medium/tt0107290/img",
-      "background": "https://images.metahub.space/background/medium/tt0107290/img",
-      "description": "A wealthy entrepreneur secretly creates a theme park featuring living dinosaurs drawn from prehistoric DNA. Before opening day, he invites a team of experts and his two eager grandchildren to experience the park and help calm anxious investors. However, the park is anything but amusing as the security systems go off-line and the dinosaurs escape.",
-      "releaseInfo": 1993,
-      "imdbRating": 8.2
-    },
-    {
-      "id": "tt14966898",
-      "type": "movie",
-      "name": "Late Night with the Devil",
-      "poster": "https://images.metahub.space/poster/medium/tt14966898/img",
-      "background": "https://images.metahub.space/background/medium/tt14966898/img",
-      "description": "A live broadcast of a late-night talk show in 1977 goes horribly wrong, unleashing evil into the nation's living rooms.",
-      "releaseInfo": 2024,
-      "imdbRating": 7
+      "name": "Noise",
+      "poster": "https://images.metahub.space/poster/medium/tt29845247/img",
+      "background": "https://images.metahub.space/background/medium/tt29845247/img",
+      "description": "A young woman with a hearing impairment investigates her sister’s mysterious disappearance from her apartment, but as she searches for answers, strange sounds and an ominous presence begin to haunt her.",
+      "releaseInfo": 2025,
+      "imdbRating": 5.6
     },
     {
       "id": "tt11663228",
@@ -281,174 +191,44 @@
       "imdbRating": 7.2
     },
     {
-      "id": "tt0075314",
+      "id": "tt33379543",
       "type": "movie",
-      "name": "Taxi Driver",
-      "poster": "https://images.metahub.space/poster/medium/tt0075314/img",
-      "background": "https://images.metahub.space/background/medium/tt0075314/img",
-      "description": "Suffering from insomnia, disturbed loner Travis Bickle takes a job as a New York City cabbie, haunting the streets nightly, growing increasingly detached from reality as he dreams of cleaning up the filthy city.",
-      "releaseInfo": 1976,
-      "imdbRating": 8.2
-    },
-    {
-      "id": "tt0319343",
-      "type": "movie",
-      "name": "Elf",
-      "poster": "https://images.metahub.space/poster/medium/tt0319343/img",
-      "background": "https://images.metahub.space/background/medium/tt0319343/img",
-      "description": "When young Buddy falls into Santa's gift sack on Christmas Eve, he's transported back to the North Pole and raised as a toy-making elf by Santa's helpers. But as he grows into adulthood, he can't shake the nagging feeling that he doesn't belong. Buddy vows to visit Manhattan and find his real dad, a workaholic.",
-      "releaseInfo": 2003,
-      "imdbRating": 7.1
-    },
-    {
-      "id": "tt38793125",
-      "type": "movie",
-      "name": "Collision Course",
-      "poster": "https://images.metahub.space/poster/medium/tt38793125/img",
-      "background": "https://images.metahub.space/background/medium/tt38793125/img",
-      "description": "Spain, 2013. After robbing a bank, a getaway crash reveals the hidden side of each thief, exposing betrayals and lies that began long before the heist.",
+      "name": "Jana Nayagan",
+      "poster": "https://images.metahub.space/poster/medium/tt33379543/img",
+      "background": "https://images.metahub.space/background/medium/tt33379543/img",
+      "description": "A clash of ideologies. One stands for the people, the other feeds on control. Their paths collided once before. Years later, a child’s silent fear ignites the past, drawing a former police officer into a battle far bigger than personal revenge.",
       "releaseInfo": 2026,
-      "imdbRating": 5.6
+      "imdbRating": 5.1
     },
     {
-      "id": "tt1160419",
+      "id": "tt0106203",
       "type": "movie",
-      "name": "Dune",
-      "poster": "https://images.metahub.space/poster/medium/tt1160419/img",
-      "background": "https://images.metahub.space/background/medium/tt1160419/img",
-      "description": "Paul Atreides, a brilliant and gifted young man born into a great destiny beyond his understanding, must travel to the most dangerous planet in the universe to ensure the future of his family and his people. As malevolent forces explode into conflict over the planet's exclusive supply of the most precious resource in existence - a commodity capable of unlocking humanity's greatest potential - only those who can conquer their fear will survive.",
-      "releaseInfo": 2021,
+      "name": "Aaina",
+      "poster": "https://images.metahub.space/poster/medium/tt0106203/img",
+      "background": "https://images.metahub.space/background/medium/tt0106203/img",
+      "description": "Roma (Amrita Singh) leaves Ravi (Jackie Shroff) at the alter in pursuit of her bigger ambitions. Her sister Reema (Juhi Chawla), a pale reflection of Roma, steps in and saves the day for her family, having secretly been in love with Ravi all her life. The newly weds start building a life together till suddenly Roma returns, determined to get back what she thinks Reema stole from her.",
+      "releaseInfo": 1993,
+      "imdbRating": 6.1
+    },
+    {
+      "id": "tt37803364",
+      "type": "movie",
+      "name": "Possible Love",
+      "poster": "https://images.metahub.space/poster/medium/tt37803364/img",
+      "background": "https://images.metahub.space/background/medium/tt37803364/img",
+      "description": "Four strangers' paths cross by chance, leading to complex emotional entanglements that challenge their existing relationships and force them to confront uncomfortable truths about love and commitment.",
+      "releaseInfo": 2026,
       "imdbRating": 8
     },
     {
-      "id": "tt13751694",
+      "id": "tt14966898",
       "type": "movie",
-      "name": "Animal",
-      "poster": "https://images.metahub.space/poster/medium/tt13751694/img",
-      "background": "https://images.metahub.space/background/medium/tt13751694/img",
-      "description": "The hardened son of a powerful industrialist returns home after years abroad and vows to take bloody revenge on those threatening his father's life.",
-      "releaseInfo": 2023,
-      "imdbRating": 6.2
-    },
-    {
-      "id": "tt42262473",
-      "type": "movie",
-      "name": "Modha Rathri",
-      "poster": "https://images.metahub.space/poster/medium/tt42262473/img",
-      "background": "https://images.metahub.space/background/medium/tt42262473/img",
-      "description": "Two strangers are brought together at an unusual wedding where, in one night, too many surprises unfold and several lies are told, spiraling into chaos that changes everything.",
-      "releaseInfo": 2026,
-      "imdbRating": 7.5
-    },
-    {
-      "id": "tt0816692",
-      "type": "movie",
-      "name": "Interstellar",
-      "poster": "https://images.metahub.space/poster/medium/tt0816692/img",
-      "background": "https://images.metahub.space/background/medium/tt0816692/img",
-      "description": "In a dystopian future where Earth has become near-uninhabitable, a team of astronauts embark on a mission to find a new home for humanity.",
-      "releaseInfo": 2014,
-      "imdbRating": 8.7
-    },
-    {
-      "id": "tt37180686",
-      "type": "movie",
-      "name": "Drive - The Pretenders",
-      "poster": "https://images.metahub.space/poster/medium/tt37180686/img",
-      "background": "https://images.metahub.space/background/medium/tt37180686/img",
-      "description": "A young mechanic fakes an engagement with racing's most scandalous star — officially for his reputation, secretly for her own shot behind the wheel. But soon the lie threatens to destroy everything — including what's already become so much more than just a deal.",
-      "releaseInfo": 2026,
-      "imdbRating": 5.6
-    },
-    {
-      "id": "tt1663202",
-      "type": "movie",
-      "name": "The Revenant",
-      "poster": "https://images.metahub.space/poster/medium/tt1663202/img",
-      "background": "https://images.metahub.space/background/medium/tt1663202/img",
-      "description": "In the 1820s, a frontiersman, Hugh Glass, sets out on a path of vengeance against those who left him for dead after a bear mauling.",
-      "releaseInfo": 2016,
-      "imdbRating": 8
-    },
-    {
-      "id": "tt0290002",
-      "type": "movie",
-      "name": "Meet the Fockers",
-      "poster": "https://images.metahub.space/poster/medium/tt0290002/img",
-      "background": "https://images.metahub.space/background/medium/tt0290002/img",
-      "description": "Hard-to-crack ex-CIA man Jack Byrnes and his wife Dina head for the warmer climes of Florida to meet the parents of their son-in-law-to-be, Greg Focker. Unlike their happily matched offspring, the future in-laws find themselves in a situation of opposites that definitely do not attract.",
-      "releaseInfo": 2004,
-      "imdbRating": 6.4
-    },
-    {
-      "id": "tt33305882",
-      "type": "movie",
-      "name": "A Great Awakening",
-      "poster": "https://images.metahub.space/poster/medium/tt33305882/img",
-      "background": "https://images.metahub.space/background/medium/tt33305882/img",
-      "description": "One of the most defining moments in American history is the story of an unlikely friendship between the Reverend George Whitefield and Benjamin Franklin.",
-      "releaseInfo": 2026,
-      "imdbRating": 6.5
-    },
-    {
-      "id": "tt0060550",
-      "type": "movie",
-      "name": "It's the Great Pumpkin, Charlie Brown",
-      "poster": "https://images.metahub.space/poster/medium/tt0060550/img",
-      "background": "https://images.metahub.space/background/medium/tt0060550/img",
-      "description": "Join the Peanuts gang for a timeless adventure as Charlie Brown preps for a party, Snoopy sets his sights on the Red Baron, and Linus patiently awaits a pumpkin patch miracle.",
-      "releaseInfo": 1966,
-      "imdbRating": 8.1
-    },
-    {
-      "id": "tt1853728",
-      "type": "movie",
-      "name": "Django Unchained",
-      "poster": "https://images.metahub.space/poster/medium/tt1853728/img",
-      "background": "https://images.metahub.space/background/medium/tt1853728/img",
-      "description": "With the help of a German bounty hunter, a freed slave sets out to rescue his wife from a brutal Mississippi plantation owner.",
-      "releaseInfo": 2012,
-      "imdbRating": 8.5
-    },
-    {
-      "id": "tt0085636",
-      "type": "movie",
-      "name": "Halloween III: Season of the Witch",
-      "poster": "https://images.metahub.space/poster/medium/tt0085636/img",
-      "background": "https://images.metahub.space/background/medium/tt0085636/img",
-      "description": "After a terrified toy salesman is mysteriously attacked and brought to the hospital clutching the year's most popular Halloween mask, Dr. Daniel Challis sets out to investigate the strange events and finds himself thrust into a nightmarish conspiracy.",
-      "releaseInfo": 1982,
-      "imdbRating": 5.2
-    },
-    {
-      "id": "tt1839596",
-      "type": "movie",
-      "name": "Rockstar",
-      "poster": "https://images.metahub.space/poster/medium/tt1839596/img",
-      "background": "https://images.metahub.space/background/medium/tt1839596/img",
-      "description": "College student Janardhan is a simpleton who desperately seeks inspiration for the musician inside him. Although heartbreak helps him reach his goal, it also leads him to self-destruction.",
-      "releaseInfo": 2011,
-      "imdbRating": 7.8
-    },
-    {
-      "id": "tt0121164",
-      "type": "movie",
-      "name": "Corpse Bride",
-      "poster": "https://images.metahub.space/poster/medium/tt0121164/img",
-      "background": "https://images.metahub.space/background/medium/tt0121164/img",
-      "description": "In a 19th-century European village, a young man about to be married is whisked away to the underworld and wed to a mysterious corpse bride, while his real bride waits bereft in the land of the living.",
-      "releaseInfo": 2005,
-      "imdbRating": 7.4
-    },
-    {
-      "id": "tt34792531",
-      "type": "movie",
-      "name": "Avaraachan & Sons",
-      "poster": "https://images.metahub.space/poster/medium/tt34792531/img",
-      "background": "https://images.metahub.space/background/medium/tt34792531/img",
-      "description": "Follows Avarachan, his children and the various family and social relationships that shape their lives.",
-      "releaseInfo": 2026,
-      "imdbRating": 5.5
+      "name": "Late Night with the Devil",
+      "poster": "https://images.metahub.space/poster/medium/tt14966898/img",
+      "background": "https://images.metahub.space/background/medium/tt14966898/img",
+      "description": "A live broadcast of a late-night talk show in 1977 goes horribly wrong, unleashing evil into the nation's living rooms.",
+      "releaseInfo": 2024,
+      "imdbRating": 7
     },
     {
       "id": "tt39400218",
@@ -461,6 +241,186 @@
       "imdbRating": 5.6
     },
     {
+      "id": "tt0075314",
+      "type": "movie",
+      "name": "Taxi Driver",
+      "poster": "https://images.metahub.space/poster/medium/tt0075314/img",
+      "background": "https://images.metahub.space/background/medium/tt0075314/img",
+      "description": "Suffering from insomnia, disturbed loner Travis Bickle takes a job as a New York City cabbie, haunting the streets nightly, growing increasingly detached from reality as he dreams of cleaning up the filthy city.",
+      "releaseInfo": 1976,
+      "imdbRating": 8.2
+    },
+    {
+      "id": "tt1160419",
+      "type": "movie",
+      "name": "Dune",
+      "poster": "https://images.metahub.space/poster/medium/tt1160419/img",
+      "background": "https://images.metahub.space/background/medium/tt1160419/img",
+      "description": "Paul Atreides, a brilliant and gifted young man born into a great destiny beyond his understanding, must travel to the most dangerous planet in the universe to ensure the future of his family and his people. As malevolent forces explode into conflict over the planet's exclusive supply of the most precious resource in existence - a commodity capable of unlocking humanity's greatest potential - only those who can conquer their fear will survive.",
+      "releaseInfo": 2021,
+      "imdbRating": 8
+    },
+    {
+      "id": "tt0093779",
+      "type": "movie",
+      "name": "The Princess Bride",
+      "poster": "https://images.metahub.space/poster/medium/tt0093779/img",
+      "background": "https://images.metahub.space/background/medium/tt0093779/img",
+      "description": "In this enchantingly cracked fairy tale, the beautiful Princess Buttercup and the dashing Westley must overcome staggering odds to find happiness amid six-fingered swordsmen, murderous princes, Sicilians and rodents of unusual size. But even death can't stop these true lovebirds from triumphing.",
+      "releaseInfo": 1987,
+      "imdbRating": 8
+    },
+    {
+      "id": "tt12915716",
+      "type": "movie",
+      "name": "Adipurush",
+      "poster": "https://images.metahub.space/poster/medium/tt12915716/img",
+      "background": "https://images.metahub.space/background/medium/tt12915716/img",
+      "description": "A modern adaptation of the Indian epic Ramayana which follows the exiled prince Raghav's journey to rescue his wife Janaki from the demon king Lankesh.",
+      "releaseInfo": 2023,
+      "imdbRating": 2.6
+    },
+    {
+      "id": "tt31723358",
+      "type": "movie",
+      "name": "Tell Me What You Want",
+      "poster": "https://images.metahub.space/poster/medium/tt31723358/img",
+      "background": "https://images.metahub.space/background/medium/tt31723358/img",
+      "description": "After his father's death, Eric Zimmerman travels to Spain to oversee his company's branches. In Madrid, he falls for Judith and engage in an intense, erotic relationship full of exploration. However, Eric fears his secret may end their affair.",
+      "releaseInfo": 2024,
+      "imdbRating": 4.1
+    },
+    {
+      "id": "tt42262473",
+      "type": "movie",
+      "name": "Modha Rathri",
+      "poster": "https://images.metahub.space/poster/medium/tt42262473/img",
+      "background": "https://images.metahub.space/background/medium/tt42262473/img",
+      "description": "Two strangers are brought together at an unusual wedding where, in one night, too many surprises unfold and several lies are told, spiraling into chaos that changes everything.",
+      "releaseInfo": 2026,
+      "imdbRating": 7.5
+    },
+    {
+      "id": "tt6933238",
+      "type": "movie",
+      "name": "Unabomber",
+      "poster": "https://images.metahub.space/poster/medium/tt6933238/img",
+      "background": "https://images.metahub.space/background/medium/tt6933238/img",
+      "description": "In this drama inspired by true events, Ted Kaczynski's transformation from Harvard prodigy to the infamous Unabomber unfolds as the FBI hunts him down.",
+      "releaseInfo": 2026,
+      "imdbRating": 6.2
+    },
+    {
+      "id": "tt43716419",
+      "type": "movie",
+      "name": "Baa Baa Black Sheep",
+      "poster": "https://images.metahub.space/poster/medium/tt43716419/img",
+      "background": "https://images.metahub.space/background/medium/tt43716419/img",
+      "description": "A single misplaced object sets off a wild 24-hour chain reaction, sweeping six strangers into chaotic fun. As it changes hands, petty blunders and comic mix-ups collide, forging unexpected connections that upend all their lives forever.",
+      "releaseInfo": 2026,
+      "imdbRating": 10
+    },
+    {
+      "id": "tt36751759",
+      "type": "movie",
+      "name": "Wick Is Pain",
+      "poster": "https://images.metahub.space/poster/medium/tt36751759/img",
+      "background": "https://images.metahub.space/background/medium/tt36751759/img",
+      "description": "The never-before-seen footage and story behind the John Wick (2014) phenomenon, from independent film to billion-dollar franchise.",
+      "releaseInfo": 2025,
+      "imdbRating": 7.6
+    },
+    {
+      "id": "tt13751694",
+      "type": "movie",
+      "name": "Animal",
+      "poster": "https://images.metahub.space/poster/medium/tt13751694/img",
+      "background": "https://images.metahub.space/background/medium/tt13751694/img",
+      "description": "The hardened son of a powerful industrialist returns home after years abroad and vows to take bloody revenge on those threatening his father's life.",
+      "releaseInfo": 2023,
+      "imdbRating": 6.2
+    },
+    {
+      "id": "tt1663202",
+      "type": "movie",
+      "name": "The Revenant",
+      "poster": "https://images.metahub.space/poster/medium/tt1663202/img",
+      "background": "https://images.metahub.space/background/medium/tt1663202/img",
+      "description": "In the 1820s, a frontiersman, Hugh Glass, sets out on a path of vengeance against those who left him for dead after a bear mauling.",
+      "releaseInfo": 2016,
+      "imdbRating": 8
+    },
+    {
+      "id": "tt0319343",
+      "type": "movie",
+      "name": "Elf",
+      "poster": "https://images.metahub.space/poster/medium/tt0319343/img",
+      "background": "https://images.metahub.space/background/medium/tt0319343/img",
+      "description": "When young Buddy falls into Santa's gift sack on Christmas Eve, he's transported back to the North Pole and raised as a toy-making elf by Santa's helpers. But as he grows into adulthood, he can't shake the nagging feeling that he doesn't belong. Buddy vows to visit Manhattan and find his real dad, a workaholic.",
+      "releaseInfo": 2003,
+      "imdbRating": 7.1
+    },
+    {
+      "id": "tt1839596",
+      "type": "movie",
+      "name": "Rockstar",
+      "poster": "https://images.metahub.space/poster/medium/tt1839596/img",
+      "background": "https://images.metahub.space/background/medium/tt1839596/img",
+      "description": "College student Janardhan is a simpleton who desperately seeks inspiration for the musician inside him. Although heartbreak helps him reach his goal, it also leads him to self-destruction.",
+      "releaseInfo": 2011,
+      "imdbRating": 7.8
+    },
+    {
+      "id": "tt32089596",
+      "type": "movie",
+      "name": "Comrade Kalyan",
+      "poster": "https://images.metahub.space/poster/medium/tt32089596/img",
+      "background": "https://images.metahub.space/background/medium/tt32089596/img",
+      "description": "In a naxal-dominated village on the Andhra-Odisha border, a theatre owner uses communist sentiment to keep his old cinema running. He joins the naxals and kidnaps a leader, setting off a chain of events.",
+      "releaseInfo": 2026,
+      "imdbRating": 8.1
+    },
+    {
+      "id": "tt0060550",
+      "type": "movie",
+      "name": "It's the Great Pumpkin, Charlie Brown",
+      "poster": "https://images.metahub.space/poster/medium/tt0060550/img",
+      "background": "https://images.metahub.space/background/medium/tt0060550/img",
+      "description": "Join the Peanuts gang for a timeless adventure as Charlie Brown preps for a party, Snoopy sets his sights on the Red Baron, and Linus patiently awaits a pumpkin patch miracle.",
+      "releaseInfo": 1966,
+      "imdbRating": 8.1
+    },
+    {
+      "id": "tt0085636",
+      "type": "movie",
+      "name": "Halloween III: Season of the Witch",
+      "poster": "https://images.metahub.space/poster/medium/tt0085636/img",
+      "background": "https://images.metahub.space/background/medium/tt0085636/img",
+      "description": "After a terrified toy salesman is mysteriously attacked and brought to the hospital clutching the year's most popular Halloween mask, Dr. Daniel Challis sets out to investigate the strange events and finds himself thrust into a nightmarish conspiracy.",
+      "releaseInfo": 1982,
+      "imdbRating": 5.2
+    },
+    {
+      "id": "tt23289160",
+      "type": "movie",
+      "name": "Godzilla Minus One",
+      "poster": "https://images.metahub.space/poster/medium/tt23289160/img",
+      "background": "https://images.metahub.space/background/medium/tt23289160/img",
+      "description": "In postwar Japan, Godzilla brings new devastation to an already scorched landscape. With no military intervention or government help in sight, the survivors must join together in the face of despair and fight back against an unrelenting horror.",
+      "releaseInfo": 2023,
+      "imdbRating": 7.6
+    },
+    {
+      "id": "tt14173636",
+      "type": "movie",
+      "name": "The Invite",
+      "poster": "https://images.metahub.space/poster/medium/tt14173636/img",
+      "background": "https://images.metahub.space/background/medium/tt14173636/img",
+      "description": "Joe and Angela's marriage is on the rocks. When they invite their enigmatic upstairs neighbors over for dinner, the evening takes an unexpected turn.",
+      "releaseInfo": 2026,
+      "imdbRating": 7.4
+    },
+    {
       "id": "tt39400541",
       "type": "movie",
       "name": "One Year to Live, Buy a Man",
@@ -469,6 +429,26 @@
       "description": "Given a year to live, frugal 40-year-old Yui finally lets herself spend: \"buying\" nightclub host Sena. What begins as a contract takes an unexpected turn.",
       "releaseInfo": 2026,
       "imdbRating": 6.4
+    },
+    {
+      "id": "tt12003946",
+      "type": "movie",
+      "name": "Violent Night",
+      "poster": "https://images.metahub.space/poster/medium/tt12003946/img",
+      "background": "https://images.metahub.space/background/medium/tt12003946/img",
+      "description": "When a team of mercenaries breaks into a wealthy family compound on Christmas Eve, taking everyone inside hostage, the team isn’t prepared for a surprise combatant: Santa Claus is on the grounds, and he’s about to show why this Nick is no saint.",
+      "releaseInfo": 2022,
+      "imdbRating": 6.7
+    },
+    {
+      "id": "tt0080761",
+      "type": "movie",
+      "name": "Friday the 13th",
+      "poster": "https://images.metahub.space/poster/medium/tt0080761/img",
+      "background": "https://images.metahub.space/background/medium/tt0080761/img",
+      "description": "Camp counselors are stalked and murdered by an unknown assailant while trying to reopen a summer camp that was the site of a child's drowning.",
+      "releaseInfo": 1980,
+      "imdbRating": 6.3
     },
     {
       "id": "tt46060457",
@@ -481,24 +461,44 @@
       "imdbRating": 6.2
     },
     {
-      "id": "tt0126029",
+      "id": "tt1853728",
       "type": "movie",
-      "name": "Shrek",
-      "poster": "https://images.metahub.space/poster/medium/tt0126029/img",
-      "background": "https://images.metahub.space/background/medium/tt0126029/img",
-      "description": "It ain't easy bein' green -- especially if you're a likable (albeit smelly) ogre named Shrek. On a mission to retrieve a gorgeous princess from the clutches of a fire-breathing dragon, Shrek teams up with an unlikely compatriot -- a wisecracking donkey.",
-      "releaseInfo": 2001,
-      "imdbRating": 7.9
+      "name": "Django Unchained",
+      "poster": "https://images.metahub.space/poster/medium/tt1853728/img",
+      "background": "https://images.metahub.space/background/medium/tt1853728/img",
+      "description": "With the help of a German bounty hunter, a freed slave sets out to rescue his wife from a brutal Mississippi plantation owner.",
+      "releaseInfo": 2012,
+      "imdbRating": 8.5
     },
     {
-      "id": "tt0084516",
+      "id": "tt22526100",
       "type": "movie",
-      "name": "Poltergeist",
-      "poster": "https://images.metahub.space/poster/medium/tt0084516/img",
-      "background": "https://images.metahub.space/background/medium/tt0084516/img",
-      "description": "The Freelings' suburban home becomes the center of paranormal activity that opens a portal to the 'other side'. With help, they must cross over to get their daughter back.",
-      "releaseInfo": 1982,
-      "imdbRating": 7.3
+      "name": "The Love Hypothesis",
+      "poster": "https://images.metahub.space/poster/medium/tt22526100/img",
+      "background": "https://images.metahub.space/background/medium/tt22526100/img",
+      "description": "Olive Smith, a biology PhD candidate, and Dr. Adam Carlsen, a hotshot professor and well-known tyrant, enter into a fake relationship, seeing each of their carefully calculated theories on love get thrown into chaos.",
+      "releaseInfo": 2026,
+      "imdbRating": 6.8
+    },
+    {
+      "id": "tt0121164",
+      "type": "movie",
+      "name": "Corpse Bride",
+      "poster": "https://images.metahub.space/poster/medium/tt0121164/img",
+      "background": "https://images.metahub.space/background/medium/tt0121164/img",
+      "description": "In a 19th-century European village, a young man about to be married is whisked away to the underworld and wed to a mysterious corpse bride, while his real bride waits bereft in the land of the living.",
+      "releaseInfo": 2005,
+      "imdbRating": 7.4
+    },
+    {
+      "id": "tt27543632",
+      "type": "movie",
+      "name": "The Housemaid",
+      "poster": "https://images.metahub.space/poster/medium/tt27543632/img",
+      "background": "https://images.metahub.space/background/medium/tt27543632/img",
+      "description": "Millie, a struggling young woman, becomes a live-in maid for a wealthy couple, Nina and Andrew. She enters a mansion of secrets, manipulation, and escalating psychological games that pull her into a dangerous relationship dynamic.",
+      "releaseInfo": 2025,
+      "imdbRating": 6.7
     }
   ]
 }
