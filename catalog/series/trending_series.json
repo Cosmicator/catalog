@@ -371,16 +371,6 @@
       "imdbRating": 7.9
     },
     {
-      "id": "tt18278410",
-      "type": "series",
-      "name": "Titans: The Rise of Wall Street",
-      "poster": "https://images.metahub.space/poster/medium/tt18278410/img",
-      "background": "https://images.metahub.space/background/medium/tt18278410/img",
-      "description": "Money made America a global empire and for the last 150 years America’s riches have been controlled by the titans of Wall Street.",
-      "releaseInfo": 2022,
-      "imdbRating": 7.4
-    },
-    {
       "id": "tt2580046",
       "type": "series",
       "name": "Miraculous: Les aventures de Ladybug et Chat Noir",
@@ -421,16 +411,6 @@
       "imdbRating": 7.3
     },
     {
-      "id": "tt31862809",
-      "type": "series",
-      "name": "Heart Beat",
-      "poster": "https://images.metahub.space/poster/medium/tt31862809/img",
-      "background": "https://images.metahub.space/background/medium/tt31862809/img",
-      "description": "Based around RK Multispeciality Hospital and its doctors, who are resilient as they deal with medical and personal challenges.",
-      "releaseInfo": 2024,
-      "imdbRating": 8.6
-    },
-    {
       "id": "tt31589662",
       "type": "series",
       "name": "Georgie & Mandy's First Marriage",
@@ -449,6 +429,16 @@
       "description": "A minor girl goes missing in a small town in Tamilnadu and an investigation follows. A sub inspector investigating a missing girl's case in a uncovers some shocking revelations and dirty truths those threaten to shake up the cultural societal fabric.",
       "releaseInfo": 2022,
       "imdbRating": 8.1
+    },
+    {
+      "id": "tt31862809",
+      "type": "series",
+      "name": "Heart Beat",
+      "poster": "https://images.metahub.space/poster/medium/tt31862809/img",
+      "background": "https://images.metahub.space/background/medium/tt31862809/img",
+      "description": "Based around RK Multispeciality Hospital and its doctors, who are resilient as they deal with medical and personal challenges.",
+      "releaseInfo": 2024,
+      "imdbRating": 8.6
     },
     {
       "id": "tt33043892",
@@ -499,6 +489,16 @@
       "description": "Skeptical forensic psychologist Kristen Bouchard joins priest-in-training David Acosta and technology expert Ben Shakir as they investigate supposed miracles, demonic possessions, and other extraordinary occurrences to assess for a scientific explanation or if something truly supernatural is at work.",
       "releaseInfo": 2019,
       "imdbRating": 7.7
+    },
+    {
+      "id": "tt26915338",
+      "type": "series",
+      "name": "Gyaarah Gyaarah",
+      "poster": "https://images.metahub.space/poster/medium/tt26915338/img",
+      "background": "https://images.metahub.space/background/medium/tt26915338/img",
+      "description": "Investigative drama following events in 1990, 2001, 2016. Intertwining storylines blending mysticism, science and mystery across the decades.",
+      "releaseInfo": 2024,
+      "imdbRating": 8.1
     }
   ]
 }

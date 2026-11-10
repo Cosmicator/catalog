@@ -144,6 +144,17 @@
       "imdbRating": "8.7"
     },
     {
+      "id": "tt0758745",
+      "type": "series",
+      "name": "Friday Night Lights",
+      "poster": "https://images.metahub.space/poster/small/tt0758745/img",
+      "background": "https://images.metahub.space/background/medium/tt0758745/img",
+      "logo": "https://images.metahub.space/logo/medium/tt0758745/img",
+      "description": "A drama that follows the lives of the Dillon Panthers, one of the nation's best high school football teams, and their head coach Eric Taylor.",
+      "releaseInfo": "2006–2011",
+      "imdbRating": "8.7"
+    },
+    {
       "id": "tt4574334",
       "type": "series",
       "name": "Stranger Things",
@@ -534,17 +545,6 @@
       "logo": "https://images.metahub.space/logo/medium/tt7772588/img",
       "description": "In an alternative version of 1969, the Soviet Union beats the United States to the Moon, and the space race continues on for decades with still grander challenges and goals.",
       "releaseInfo": "2019–2027",
-      "imdbRating": "8.1"
-    },
-    {
-      "id": "tt11239552",
-      "type": "series",
-      "name": "Itaewon Class",
-      "poster": "https://images.metahub.space/poster/small/tt11239552/img",
-      "background": "https://images.metahub.space/background/medium/tt11239552/img",
-      "logo": "https://images.metahub.space/logo/medium/tt11239552/img",
-      "description": "An ex-con opens a street bar in Itaewon, while also seeking revenge on the family who was responsible for his father's death.",
-      "releaseInfo": "2020",
       "imdbRating": "8.1"
     }
   ]
