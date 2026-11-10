@@ -12,17 +12,6 @@
       "imdbRating": "9.9"
     },
     {
-      "id": "tt39089210",
-      "type": "movie",
-      "name": "All Pass",
-      "poster": "https://live.metahub.space/poster/small/tt39089210/img",
-      "background": "https://live.metahub.space/background/medium/tt39089210/img",
-      "logo": "https://live.metahub.space/logo/medium/tt39089210/img",
-      "description": "Three families from different parts of North Chennai come together through circumstances and, despite financial struggles, decide to live under one roof in Sathya Nagar. Their friendship grows into a close-knit bond, with the three families living like one. But when a conflict threatens this unity and puts their relationships at risk, they must face its consequences and decide whether their bond can survive.",
-      "releaseInfo": "2026",
-      "imdbRating": "9.9"
-    },
-    {
       "id": "tt44090278",
       "type": "movie",
       "name": "Baththa",
@@ -32,6 +21,28 @@
       "description": "In 1986 Madras, a timid eight-year-old boy accidentally locks a feared criminal inside a school restroom. As the man faces hunger and isolation, an unexpected friendship forms between them, transforming both their lives.",
       "releaseInfo": "2026",
       "imdbRating": "9.2"
+    },
+    {
+      "id": "tt32089596",
+      "type": "movie",
+      "name": "Comrade Kalyan",
+      "poster": "https://live.metahub.space/poster/small/tt32089596/img",
+      "background": "https://live.metahub.space/background/medium/tt32089596/img",
+      "logo": "https://live.metahub.space/logo/medium/tt32089596/img",
+      "description": "In a naxal-dominated village on the Andhra-Odisha border, a theatre owner uses communist sentiment to keep his old cinema running. He joins the naxals and kidnaps a leader, setting off a chain of events.",
+      "releaseInfo": "2026",
+      "imdbRating": "9.1"
+    },
+    {
+      "id": "tt39089210",
+      "type": "movie",
+      "name": "All Pass",
+      "poster": "https://live.metahub.space/poster/small/tt39089210/img",
+      "background": "https://live.metahub.space/background/medium/tt39089210/img",
+      "logo": "https://live.metahub.space/logo/medium/tt39089210/img",
+      "description": "Three families from different parts of North Chennai come together through circumstances and, despite financial struggles, decide to live under one roof in Sathya Nagar. Their friendship grows into a close-knit bond, with the three families living like one. But when a conflict threatens this unity and puts their relationships at risk, they must face its consequences and decide whether their bond can survive.",
+      "releaseInfo": "2026",
+      "imdbRating": "9.0"
     },
     {
       "id": "tt42262473",
@@ -53,28 +64,6 @@
       "imdbRating": "8.8"
     },
     {
-      "id": "tt36931126",
-      "type": "movie",
-      "name": "Immortal",
-      "poster": "https://live.metahub.space/poster/small/tt36931126/img",
-      "background": "https://live.metahub.space/background/medium/tt36931126/img",
-      "logo": "https://live.metahub.space/logo/medium/tt36931126/img",
-      "description": "An unsuspecting man finds himself at the center of a series of mysterious deaths, forcing him to confront a truth that could cost him everything.",
-      "releaseInfo": "2026",
-      "imdbRating": "8.7"
-    },
-    {
-      "id": "tt0214915",
-      "type": "movie",
-      "name": "Manichitrathazhu",
-      "poster": "https://images.metahub.space/poster/small/tt0214915/img",
-      "background": "https://images.metahub.space/background/medium/tt0214915/img",
-      "logo": "https://images.metahub.space/logo/medium/tt0214915/img",
-      "description": "When a forbidden room in an old bungalow is unbolted, the spirit of a vengeful dancer is unleashed.",
-      "releaseInfo": "1993",
-      "imdbRating": "8.7"
-    },
-    {
       "id": "tt0816692",
       "type": "movie",
       "name": "Interstellar",
@@ -86,15 +75,81 @@
       "imdbRating": "8.7"
     },
     {
-      "id": "tt1853728",
+      "id": "tt8948790",
       "type": "movie",
-      "name": "Django Unchained",
-      "poster": "https://images.metahub.space/poster/small/tt1853728/img",
-      "background": "https://images.metahub.space/background/medium/tt1853728/img",
-      "logo": "https://images.metahub.space/logo/medium/tt1853728/img",
-      "description": "With the help of a German bounty-hunter, a freed slave sets out to rescue his wife from a brutal plantation owner in Mississippi.",
-      "releaseInfo": "2012",
+      "name": "Jersey",
+      "poster": "https://images.metahub.space/poster/small/tt8948790/img",
+      "background": "https://images.metahub.space/background/medium/tt8948790/img",
+      "logo": "https://images.metahub.space/logo/medium/tt8948790/img",
+      "description": "A failed cricketer decides to revive his cricketing career in his late 30's despite everyone being skeptical of his ability to do so.",
+      "releaseInfo": "2019",
       "imdbRating": "8.5"
+    },
+    {
+      "id": "tt3973410",
+      "type": "movie",
+      "name": "The Crow's Egg",
+      "poster": "https://images.metahub.space/poster/small/tt3973410/img",
+      "background": "https://images.metahub.space/background/medium/tt3973410/img",
+      "logo": "https://images.metahub.space/logo/medium/tt3973410/img",
+      "description": "Two slum kids yearn to taste a pizza after being enticed by the pizza shop that has opened near their locality. What happens when they manage to find the money to buy one?",
+      "releaseInfo": "2014",
+      "imdbRating": "8.3"
+    },
+    {
+      "id": "tt1517561",
+      "type": "movie",
+      "name": "Thulladha Manamum Thullum",
+      "poster": "https://images.metahub.space/poster/small/tt1517561/img",
+      "background": "https://images.metahub.space/background/medium/tt1517561/img",
+      "logo": "https://images.metahub.space/logo/medium/tt1517561/img",
+      "description": "Kutty is a good-hearted soul, but unfortunate incidents tend to portray his ruffian side whenever he encounters the girl he loves. A bizarre incident brings them closer and yet keeps them apart.",
+      "releaseInfo": "1999",
+      "imdbRating": "8.3"
+    },
+    {
+      "id": "tt0060742",
+      "type": "movie",
+      "name": "The Hero",
+      "poster": "https://images.metahub.space/poster/small/tt0060742/img",
+      "background": "https://images.metahub.space/background/medium/tt0060742/img",
+      "logo": "https://images.metahub.space/logo/medium/tt0060742/img",
+      "description": "En route to Delhi to receive an award, a Bengali film star reevaluates his success through his fellow passengers, dreams, and past experiences.",
+      "releaseInfo": "1966",
+      "imdbRating": "8.3"
+    },
+    {
+      "id": "tt5312232",
+      "type": "movie",
+      "name": "Sairat",
+      "poster": "https://images.metahub.space/poster/small/tt5312232/img",
+      "background": "https://images.metahub.space/background/medium/tt5312232/img",
+      "logo": "https://images.metahub.space/logo/medium/tt5312232/img",
+      "description": "In interior Maharashtra, a fisherman's son and a local politician's daughter fall in love against the restrictions of caste hierarchy.",
+      "releaseInfo": "2016",
+      "imdbRating": "8.3"
+    },
+    {
+      "id": "tt9052870",
+      "type": "movie",
+      "name": "Chhichhore",
+      "poster": "https://images.metahub.space/poster/small/tt9052870/img",
+      "background": "https://images.metahub.space/background/medium/tt9052870/img",
+      "logo": "https://images.metahub.space/logo/medium/tt9052870/img",
+      "description": "A tragic incident forces Anirudh, a middle-aged man, to take a trip down memory lane and reminisce his college days along with his friends, who were labelled as losers.",
+      "releaseInfo": "2019",
+      "imdbRating": "8.3"
+    },
+    {
+      "id": "tt27719898",
+      "type": "movie",
+      "name": "Kaiva",
+      "poster": "https://images.metahub.space/poster/small/tt27719898/img",
+      "background": "https://images.metahub.space/background/medium/tt27719898/img",
+      "logo": "https://images.metahub.space/logo/medium/tt27719898/img",
+      "description": "Inspired from the true incidents occurred in Bengaluru - 1983, Kaiva brings the visual grandeur of Old Bengaluru showing the lights of world famous Bengaluru Karaga and the dark underworld of the city as well.",
+      "releaseInfo": "2023",
+      "imdbRating": "8.2"
     },
     {
       "id": "tt39139925",
@@ -105,39 +160,6 @@
       "logo": "https://images.metahub.space/logo/medium/tt39139925/img",
       "description": "Jaskirat Singh Rangi descends deeper into his alias as Hamza Ali Mazari, rising through Karachi's criminal hierarchy to claim the feared title \"Sher-e-Baloch\" while balancing loyalty, betrayal, and survival in a ruthless underworld.",
       "releaseInfo": "2026",
-      "imdbRating": "8.2"
-    },
-    {
-      "id": "tt0075314",
-      "type": "movie",
-      "name": "Taxi Driver",
-      "poster": "https://images.metahub.space/poster/small/tt0075314/img",
-      "background": "https://images.metahub.space/background/medium/tt0075314/img",
-      "logo": "https://images.metahub.space/logo/medium/tt0075314/img",
-      "description": "A mentally unstable veteran works as a nighttime taxi driver in New York City, where the perceived decadence and sleaze fuels his urge for violent action.",
-      "releaseInfo": "1976",
-      "imdbRating": "8.2"
-    },
-    {
-      "id": "tt11992424",
-      "type": "movie",
-      "name": "Saptha Sagaradaache Ello - Side A",
-      "poster": "https://images.metahub.space/poster/small/tt11992424/img",
-      "background": "https://images.metahub.space/background/medium/tt11992424/img",
-      "logo": "https://images.metahub.space/logo/medium/tt11992424/img",
-      "description": "Manu and Priya hail from a middle-class background and fall in love. When circumstances land Manu in jail, his relationship with Priya is put in jeopardy.",
-      "releaseInfo": "2023",
-      "imdbRating": "8.2"
-    },
-    {
-      "id": "tt10698680",
-      "type": "movie",
-      "name": "K.G.F: Chapter 2",
-      "poster": "https://images.metahub.space/poster/small/tt10698680/img",
-      "background": "https://images.metahub.space/background/medium/tt10698680/img",
-      "logo": "https://images.metahub.space/logo/medium/tt10698680/img",
-      "description": "In the blood-soaked Kolar Gold Fields, Rocky's name strikes fear into his foes, while the government sees him as a threat to law and order. Rocky must battle threats from all sides for unchallenged supremacy.",
-      "releaseInfo": "2022",
       "imdbRating": "8.2"
     },
     {
@@ -152,37 +174,48 @@
       "imdbRating": "8.2"
     },
     {
-      "id": "tt25405130",
+      "id": "tt10698680",
       "type": "movie",
-      "name": "Dada",
-      "poster": "https://images.metahub.space/poster/small/tt25405130/img",
-      "background": "https://images.metahub.space/background/medium/tt25405130/img",
-      "logo": "https://images.metahub.space/logo/medium/tt25405130/img",
-      "description": "A couple in love, accidentally become teenage parents. Unpleasant situations make them fall apart. Manikandan, left alone with his son, struggles as a single teenage father. Fate owns him, bringing Sindhu back into his life.",
-      "releaseInfo": "2023",
+      "name": "K.G.F: Chapter 2",
+      "poster": "https://images.metahub.space/poster/small/tt10698680/img",
+      "background": "https://images.metahub.space/background/medium/tt10698680/img",
+      "logo": "https://images.metahub.space/logo/medium/tt10698680/img",
+      "description": "In the blood-soaked Kolar Gold Fields, Rocky's name strikes fear into his foes, while the government sees him as a threat to law and order. Rocky must battle threats from all sides for unchallenged supremacy.",
+      "releaseInfo": "2022",
+      "imdbRating": "8.2"
+    },
+    {
+      "id": "tt0292490",
+      "type": "movie",
+      "name": "Dil Chahta Hai",
+      "poster": "https://images.metahub.space/poster/small/tt0292490/img",
+      "background": "https://images.metahub.space/background/medium/tt0292490/img",
+      "logo": "https://images.metahub.space/logo/medium/tt0292490/img",
+      "description": "Three inseparable childhood friends are just out of college. Nothing comes between them - until they each fall in love, and their wildly different approaches to relationships creates tension.",
+      "releaseInfo": "2001",
       "imdbRating": "8.1"
     },
     {
-      "id": "tt0319736",
+      "id": "tt27007466",
       "type": "movie",
-      "name": "The Legend of Bhagat Singh",
-      "poster": "https://images.metahub.space/poster/small/tt0319736/img",
-      "background": "https://images.metahub.space/background/medium/tt0319736/img",
-      "logo": "https://images.metahub.space/logo/medium/tt0319736/img",
-      "description": "The story of a young revolutionary who raised an armed resistance against the British rule in India.",
-      "releaseInfo": "2002",
+      "name": "Lubber Pandhu",
+      "poster": "https://images.metahub.space/poster/small/tt27007466/img",
+      "background": "https://images.metahub.space/background/medium/tt27007466/img",
+      "logo": "https://images.metahub.space/logo/medium/tt27007466/img",
+      "description": "Set against the rural backdrop, explores gully cricket stars Gethu and Anbu's intense rivalry. Anbu's romantic involvement with Gethu's daughter escalates the clash. Their skills and emotions are put to the ultimate test.",
+      "releaseInfo": "2024",
       "imdbRating": "8.1"
     },
     {
-      "id": "tt0296574",
+      "id": "tt0060550",
       "type": "movie",
-      "name": "Company",
-      "poster": "https://images.metahub.space/poster/small/tt0296574/img",
-      "background": "https://images.metahub.space/background/medium/tt0296574/img",
-      "logo": "https://images.metahub.space/logo/medium/tt0296574/img",
-      "description": "A small-time gangster named Chandu teams up with Malik, a low-level enforcer for a criminal syndicate. Together they eliminate all their enemies, becoming the most feared gangsters in Mumbai.",
-      "releaseInfo": "2002",
-      "imdbRating": "8.0"
+      "name": "It's the Great Pumpkin, Charlie Brown",
+      "poster": "https://images.metahub.space/poster/small/tt0060550/img",
+      "background": "https://images.metahub.space/background/medium/tt0060550/img",
+      "logo": "https://images.metahub.space/logo/medium/tt0060550/img",
+      "description": "The Peanuts gang celebrates Halloween while Linus waits for the Great Pumpkin.",
+      "releaseInfo": "1966",
+      "imdbRating": "8.1"
     },
     {
       "id": "tt22084616",
@@ -207,6 +240,17 @@
       "imdbRating": "8.0"
     },
     {
+      "id": "tt4888834",
+      "type": "movie",
+      "name": "Ennu Ninte Moideen",
+      "poster": "https://images.metahub.space/poster/small/tt4888834/img",
+      "background": "https://images.metahub.space/background/medium/tt4888834/img",
+      "logo": "https://images.metahub.space/logo/medium/tt4888834/img",
+      "description": "Based on the real-life love story of Moideen and Kanchanamala, which happened in the 1960s in the backdrop of Calicut.",
+      "releaseInfo": "2015",
+      "imdbRating": "8.0"
+    },
+    {
       "id": "tt1160419",
       "type": "movie",
       "name": "Dune",
@@ -218,58 +262,14 @@
       "imdbRating": "8.0"
     },
     {
-      "id": "tt32089596",
+      "id": "tt2882328",
       "type": "movie",
-      "name": "Comrade Kalyan",
-      "poster": "https://live.metahub.space/poster/small/tt32089596/img",
-      "background": "https://live.metahub.space/background/medium/tt32089596/img",
-      "logo": "https://live.metahub.space/logo/medium/tt32089596/img",
-      "description": "In a naxal-dominated village on the Andhra-Odisha border, a theatre owner uses communist sentiment to keep his old cinema running. He joins the naxals and kidnaps a leader, setting off a chain of events.",
-      "releaseInfo": "2026",
-      "imdbRating": "8.0"
-    },
-    {
-      "id": "tt11773308",
-      "type": "movie",
-      "name": "Rangamarthanda",
-      "poster": "https://live.metahub.space/poster/small/tt11773308/img",
-      "background": "https://live.metahub.space/background/medium/tt11773308/img",
-      "logo": "https://live.metahub.space/logo/medium/tt11773308/img",
-      "description": "After retirement, a Shakespearean theater actor, divides his property amongst his two children. However, their ungratefulness leaves him and his wife homeless during their old age.",
-      "releaseInfo": "2023",
-      "imdbRating": "8.0"
-    },
-    {
-      "id": "tt0093779",
-      "type": "movie",
-      "name": "The Princess Bride",
-      "poster": "https://images.metahub.space/poster/small/tt0093779/img",
-      "background": "https://images.metahub.space/background/medium/tt0093779/img",
-      "logo": "https://images.metahub.space/logo/medium/tt0093779/img",
-      "description": "A bedridden boy's grandfather reads him the story of a farmboy-turned-pirate who encounters numerous obstacles, enemies and allies in his quest to be reunited with his true love.",
-      "releaseInfo": "1987",
-      "imdbRating": "8.0"
-    },
-    {
-      "id": "tt0072860",
-      "type": "movie",
-      "name": "Deewaar",
-      "poster": "https://images.metahub.space/poster/small/tt0072860/img",
-      "background": "https://images.metahub.space/background/medium/tt0072860/img",
-      "logo": "https://images.metahub.space/logo/medium/tt0072860/img",
-      "description": "Vijay struggles as a dockworker and eventually becomes a leading figure of the underworld, while his younger brother Ravi is an educated, upright policeman. This divide causes problems in their relationship.",
-      "releaseInfo": "1975",
-      "imdbRating": "8.0"
-    },
-    {
-      "id": "tt0455829",
-      "type": "movie",
-      "name": "Vettaiyaadu Vilaiyaadu",
-      "poster": "https://images.metahub.space/poster/small/tt0455829/img",
-      "background": "https://images.metahub.space/background/medium/tt0455829/img",
-      "logo": "https://images.metahub.space/logo/medium/tt0455829/img",
-      "description": "A Police Officer investigates a series of brutal rapes and murders, with the culprits seeming to cover more than one country.",
-      "releaseInfo": "2006",
+      "name": "Ugly",
+      "poster": "https://images.metahub.space/poster/small/tt2882328/img",
+      "background": "https://images.metahub.space/background/medium/tt2882328/img",
+      "logo": "https://images.metahub.space/logo/medium/tt2882328/img",
+      "description": "The case of a missing girl takes us through a journey of human greed and brushes upon the egos and repressed emotions of the characters.",
+      "releaseInfo": "2013",
       "imdbRating": "7.9"
     },
     {
@@ -284,14 +284,25 @@
       "imdbRating": "7.8"
     },
     {
-      "id": "tt26660021",
+      "id": "tt32333324",
       "type": "movie",
-      "name": "Aavesham",
-      "poster": "https://images.metahub.space/poster/small/tt26660021/img",
-      "background": "https://images.metahub.space/background/medium/tt26660021/img",
-      "logo": "https://images.metahub.space/logo/medium/tt26660021/img",
-      "description": "Three teenagers reach Bangalore for their engineering degree and gets involved in a fight with seniors. They find a local gangster named Ranga to help them take revenge.",
-      "releaseInfo": "2024",
+      "name": "Batman: Knightfall - Part 1: Knightfall",
+      "poster": "https://images.metahub.space/poster/small/tt32333324/img",
+      "background": "https://images.metahub.space/background/medium/tt32333324/img",
+      "logo": "https://images.metahub.space/logo/medium/tt32333324/img",
+      "description": "When the mysterious behemoth known only as Bane frees Batman's entire rogue's gallery from Arkham Asylum, the Caped Crusader is pushed to his mental and physical breaking point.",
+      "releaseInfo": "2026",
+      "imdbRating": "7.8"
+    },
+    {
+      "id": "tt32284154",
+      "type": "movie",
+      "name": "Rekhachithram",
+      "poster": "https://images.metahub.space/poster/small/tt32284154/img",
+      "background": "https://images.metahub.space/background/medium/tt32284154/img",
+      "logo": "https://images.metahub.space/logo/medium/tt32284154/img",
+      "description": "Suspended cop Vivek Gopinath rejoins after gambling scandal. Tasked with solving 40-year-old murder case with faceless victim, he seeks redemption by cracking the long-unsolved mystery.",
+      "releaseInfo": "2025",
       "imdbRating": "7.8"
     },
     {
@@ -306,36 +317,14 @@
       "imdbRating": "7.8"
     },
     {
-      "id": "tt7218518",
+      "id": "tt26660021",
       "type": "movie",
-      "name": "Pad Man",
-      "poster": "https://images.metahub.space/poster/small/tt7218518/img",
-      "background": "https://images.metahub.space/background/medium/tt7218518/img",
-      "logo": "https://images.metahub.space/logo/medium/tt7218518/img",
-      "description": "Upon realizing the extent to which women are affected by their menses, a man sets out to create a sanitary pad machine and to provide inexpensive sanitary pads to the women of rural India.",
-      "releaseInfo": "2018",
-      "imdbRating": "7.8"
-    },
-    {
-      "id": "tt32333324",
-      "type": "movie",
-      "name": "Batman: Knightfall - Part 1: Knightfall",
-      "poster": "https://images.metahub.space/poster/small/tt32333324/img",
-      "background": "https://images.metahub.space/background/medium/tt32333324/img",
-      "logo": "https://images.metahub.space/logo/medium/tt32333324/img",
-      "description": "When the mysterious behemoth known only as Bane frees Batman's entire rogue's gallery from Arkham Asylum, the Caped Crusader is pushed to his mental and physical breaking point.",
-      "releaseInfo": "2026",
-      "imdbRating": "7.8"
-    },
-    {
-      "id": "tt1568346",
-      "type": "movie",
-      "name": "The Girl with the Dragon Tattoo",
-      "poster": "https://images.metahub.space/poster/small/tt1568346/img",
-      "background": "https://images.metahub.space/background/medium/tt1568346/img",
-      "logo": "https://images.metahub.space/logo/medium/tt1568346/img",
-      "description": "Journalist Mikael Blomkvist is aided by eccentric hacker Lisbeth Salander in his search for a woman who has been missing for 40 years.",
-      "releaseInfo": "2011",
+      "name": "Aavesham",
+      "poster": "https://images.metahub.space/poster/small/tt26660021/img",
+      "background": "https://images.metahub.space/background/medium/tt26660021/img",
+      "logo": "https://images.metahub.space/logo/medium/tt26660021/img",
+      "description": "Three teenagers reach Bangalore for their engineering degree and gets involved in a fight with seniors. They find a local gangster named Ranga to help them take revenge.",
+      "releaseInfo": "2024",
       "imdbRating": "7.8"
     },
     {
@@ -350,15 +339,26 @@
       "imdbRating": "7.8"
     },
     {
-      "id": "tt0843328",
+      "id": "tt30783769",
       "type": "movie",
-      "name": "Chatrapathi",
-      "poster": "https://images.metahub.space/poster/small/tt0843328/img",
-      "background": "https://images.metahub.space/background/medium/tt0843328/img",
-      "logo": "https://images.metahub.space/logo/medium/tt0843328/img",
-      "description": "Displaced Sri Lankans in a Vizag port are ruled by a local rowdy. This is the story of Chatrapati Sivaji who overcomes this oppression and how he reunites with his long lost mother and brother.",
-      "releaseInfo": "2005",
-      "imdbRating": "7.6"
+      "name": "Kaam Chalu Hai",
+      "poster": "https://images.metahub.space/poster/small/tt30783769/img",
+      "background": "https://images.metahub.space/background/medium/tt30783769/img",
+      "logo": "https://images.metahub.space/logo/medium/tt30783769/img",
+      "description": "A father channels his pain into a revolutionary movement, while cherishing his small, happy world with his daughter Gudiya and wife Radha. His mission is to fulfill Gudiya's dream of becoming a cricketer.",
+      "releaseInfo": "2024",
+      "imdbRating": "7.7"
+    },
+    {
+      "id": "tt36583977",
+      "type": "movie",
+      "name": "Forgotten Island",
+      "poster": "https://images.metahub.space/poster/small/tt36583977/img",
+      "background": "https://images.metahub.space/background/medium/tt36583977/img",
+      "logo": "https://images.metahub.space/logo/medium/tt36583977/img",
+      "description": "Two best friends become stranded on the mystical world of Nakali, where their only escape might cost them their shared lifetime of memories.",
+      "releaseInfo": "2026",
+      "imdbRating": "7.7"
     },
     {
       "id": "tt23289160",
@@ -383,13 +383,13 @@
       "imdbRating": "7.6"
     },
     {
-      "id": "tt7919680",
+      "id": "tt6826438",
       "type": "movie",
-      "name": "Karwaan",
-      "poster": "https://images.metahub.space/poster/small/tt7919680/img",
-      "background": "https://images.metahub.space/background/medium/tt7919680/img",
-      "logo": "https://images.metahub.space/logo/medium/tt7919680/img",
-      "description": "Two friends and a chirpy teenager take a road trip from Bangalore to Kochi.",
+      "name": "Parmanu: The Story of Pokhran",
+      "poster": "https://images.metahub.space/poster/small/tt6826438/img",
+      "background": "https://images.metahub.space/background/medium/tt6826438/img",
+      "logo": "https://images.metahub.space/logo/medium/tt6826438/img",
+      "description": "Ashwat Raina and his teammates arrive in Pokhran to re-conduct a confidential nuclear test, where they face challenges from the American Lacrosse satellite and local spies.",
       "releaseInfo": "2018",
       "imdbRating": "7.6"
     },
@@ -416,58 +416,25 @@
       "imdbRating": "7.5"
     },
     {
-      "id": "tt7190460",
+      "id": "tt0110076",
       "type": "movie",
-      "name": "Thupparivaalan",
-      "poster": "https://images.metahub.space/poster/small/tt7190460/img",
-      "background": "https://images.metahub.space/background/medium/tt7190460/img",
-      "logo": "https://images.metahub.space/logo/medium/tt7190460/img",
-      "description": "A detective is hungry for a challenging case to investigate and the mystery of a murdered dog leads to a rival who could be the match for him.",
+      "name": "Hum Aapke Hain Koun..!",
+      "poster": "https://images.metahub.space/poster/small/tt0110076/img",
+      "background": "https://images.metahub.space/background/medium/tt0110076/img",
+      "logo": "https://images.metahub.space/logo/medium/tt0110076/img",
+      "description": "Prem and Nisha meet and fall in love at the wedding of their elder siblings, but their plans to be together are put in jeopardy when Nisha's sister dies, leaving behind a baby.",
+      "releaseInfo": "1994",
+      "imdbRating": "7.5"
+    },
+    {
+      "id": "tt7159382",
+      "type": "movie",
+      "name": "Fidaa",
+      "poster": "https://images.metahub.space/poster/small/tt7159382/img",
+      "background": "https://images.metahub.space/background/medium/tt7159382/img",
+      "logo": "https://images.metahub.space/logo/medium/tt7159382/img",
+      "description": "A vivacious young woman clashes with a charming NRI medical student, sparking a whirlwind romance filled with ego battles, family drama, and heartfelt moments that turn hate into forever love.",
       "releaseInfo": "2017",
-      "imdbRating": "7.5"
-    },
-    {
-      "id": "tt8108206",
-      "type": "movie",
-      "name": "Saand Ki Aankh",
-      "poster": "https://images.metahub.space/poster/small/tt8108206/img",
-      "background": "https://images.metahub.space/background/medium/tt8108206/img",
-      "logo": "https://images.metahub.space/logo/medium/tt8108206/img",
-      "description": "Both over the age of 60, Chandro Tomar and Prakashi Tomar inspire other women in India when they demonstrate their expert sharpshooting skills.",
-      "releaseInfo": "2019",
-      "imdbRating": "7.5"
-    },
-    {
-      "id": "tt8108202",
-      "type": "movie",
-      "name": "Stree",
-      "poster": "https://images.metahub.space/poster/small/tt8108202/img",
-      "background": "https://images.metahub.space/background/medium/tt8108202/img",
-      "logo": "https://images.metahub.space/logo/medium/tt8108202/img",
-      "description": "In the small town of Chanderi, the menfolk live in fear of an evil spirit named \"Stree\" who abducts men in the night. Based on the urban legend of \"Nale Ba\" that went viral in Karnataka in the 1990s.",
-      "releaseInfo": "2018",
-      "imdbRating": "7.5"
-    },
-    {
-      "id": "tt28679253",
-      "type": "movie",
-      "name": "Eleven",
-      "poster": "https://images.metahub.space/poster/small/tt28679253/img",
-      "background": "https://images.metahub.space/background/medium/tt28679253/img",
-      "logo": "https://images.metahub.space/logo/medium/tt28679253/img",
-      "description": "A brave and skilled officer with a strong record of solving tough cases is assigned to a new, more challenging serial killing investigation.",
-      "releaseInfo": "2025",
-      "imdbRating": "7.4"
-    },
-    {
-      "id": "tt0121164",
-      "type": "movie",
-      "name": "Corpse Bride",
-      "poster": "https://images.metahub.space/poster/small/tt0121164/img",
-      "background": "https://images.metahub.space/background/medium/tt0121164/img",
-      "logo": "https://images.metahub.space/logo/medium/tt0121164/img",
-      "description": "When a shy groom practices his wedding vows in the inadvertent presence of a deceased young woman, she rises from the grave assuming he has married her.",
-      "releaseInfo": "2005",
       "imdbRating": "7.4"
     },
     {
@@ -482,25 +449,47 @@
       "imdbRating": "7.4"
     },
     {
-      "id": "tt0150992",
+      "id": "tt5946128",
       "type": "movie",
-      "name": "Straight from the Heart",
-      "poster": "https://images.metahub.space/poster/small/tt0150992/img",
-      "background": "https://images.metahub.space/background/medium/tt0150992/img",
-      "logo": "https://images.metahub.space/logo/medium/tt0150992/img",
-      "description": "Nandini has to choose between Sameer, the man who taught her to fall in love; and Vanraj, the man from whom she learnt how to abide and fulfill promises of love.",
-      "releaseInfo": "1999",
+      "name": "Dear Zindagi",
+      "poster": "https://images.metahub.space/poster/small/tt5946128/img",
+      "background": "https://images.metahub.space/background/medium/tt5946128/img",
+      "logo": "https://images.metahub.space/logo/medium/tt5946128/img",
+      "description": "Kaira is a budding cinematographer in search of a perfect life. Her encounter with Jug, an unconventional thinker, helps her gain a new perspective on life. She discovers that happiness is all about finding comfort in life's imper...",
+      "releaseInfo": "2016",
       "imdbRating": "7.4"
     },
     {
-      "id": "tt0284137",
+      "id": "tt1790885",
       "type": "movie",
-      "name": "Gadar: Ek Prem Katha",
-      "poster": "https://images.metahub.space/poster/small/tt0284137/img",
-      "background": "https://images.metahub.space/background/medium/tt0284137/img",
-      "logo": "https://images.metahub.space/logo/medium/tt0284137/img",
-      "description": "During the Partition of India in 1947, a Sikh truck driver falls in love with a Muslim girl belonging to an aristocratic family.",
-      "releaseInfo": "2001",
+      "name": "Zero Dark Thirty",
+      "poster": "https://images.metahub.space/poster/small/tt1790885/img",
+      "background": "https://images.metahub.space/background/medium/tt1790885/img",
+      "logo": "https://images.metahub.space/logo/medium/tt1790885/img",
+      "description": "A chronicle of the decade-long hunt for al-Qaeda terrorist leader Osama bin Laden after the September 2001 attacks, and his death at the hands of the Navy S.E.A.L.s Team 6 in May 2011.",
+      "releaseInfo": "2013",
+      "imdbRating": "7.4"
+    },
+    {
+      "id": "tt0995740",
+      "type": "movie",
+      "name": "No Smoking",
+      "poster": "https://images.metahub.space/poster/small/tt0995740/img",
+      "background": "https://images.metahub.space/background/medium/tt0995740/img",
+      "logo": "https://images.metahub.space/logo/medium/tt0995740/img",
+      "description": "A heavily addicted smoker is unprepared for the true price he must pay when he asks a guru's help to kick the habit.",
+      "releaseInfo": "2007",
+      "imdbRating": "7.3"
+    },
+    {
+      "id": "tt36931126",
+      "type": "movie",
+      "name": "Immortal",
+      "poster": "https://live.metahub.space/poster/small/tt36931126/img",
+      "background": "https://live.metahub.space/background/medium/tt36931126/img",
+      "logo": "https://live.metahub.space/logo/medium/tt36931126/img",
+      "description": "An unsuspecting man finds himself at the center of a series of mysterious deaths, forcing him to confront a truth that could cost him everything.",
+      "releaseInfo": "2026",
       "imdbRating": "7.3"
     },
     {
@@ -515,17 +504,6 @@
       "imdbRating": "7.3"
     },
     {
-      "id": "tt0265343",
-      "type": "movie",
-      "name": "Monsoon Wedding",
-      "poster": "https://images.metahub.space/poster/small/tt0265343/img",
-      "background": "https://images.metahub.space/background/medium/tt0265343/img",
-      "logo": "https://images.metahub.space/logo/medium/tt0265343/img",
-      "description": "A stressed father, a bride-to-be with a secret, a smitten event planner, and relatives from around the world create much ado about the preparations for an arranged marriage in India.",
-      "releaseInfo": "2002",
-      "imdbRating": "7.3"
-    },
-    {
       "id": "tt7526136",
       "type": "movie",
       "name": "Heart of the Beast",
@@ -537,6 +515,17 @@
       "imdbRating": "7.2"
     },
     {
+      "id": "tt1836912",
+      "type": "movie",
+      "name": "Shaitan",
+      "poster": "https://images.metahub.space/poster/small/tt1836912/img",
+      "background": "https://images.metahub.space/background/medium/tt1836912/img",
+      "logo": "https://images.metahub.space/logo/medium/tt1836912/img",
+      "description": "Five substance-abusing friends decide to fake a kidnapping in order to bribe a police constable for covering-up a hit-and-run accident.",
+      "releaseInfo": "2011",
+      "imdbRating": "7.2"
+    },
+    {
       "id": "tt11663228",
       "type": "movie",
       "name": "Jailer",
@@ -545,6 +534,17 @@
       "logo": "https://images.metahub.space/logo/medium/tt11663228/img",
       "description": "A retired jailer goes on a manhunt to find his son's killers. But the road leads him to a familiar, albeit a bit darker place. Can he emerge from this complex situation successfully?",
       "releaseInfo": "2023",
+      "imdbRating": "7.2"
+    },
+    {
+      "id": "tt35836025",
+      "type": "movie",
+      "name": "Vishwanath and Sons",
+      "poster": "https://images.metahub.space/poster/small/tt35836025/img",
+      "background": "https://images.metahub.space/background/medium/tt35836025/img",
+      "logo": "https://images.metahub.space/logo/medium/tt35836025/img",
+      "description": "Sanjay Vishwanath has devoted decades to excellence as an international shooter. When age, family duties, and an unexpected romance collide with his ambitions, he must confront what truly makes a life worth living.",
+      "releaseInfo": "2026",
       "imdbRating": "7.2"
     }
   ]
