@@ -251,6 +251,16 @@
       "imdbRating": 8.7
     },
     {
+      "id": "tt35304338",
+      "type": "series",
+      "name": "Study Group",
+      "poster": "https://images.metahub.space/poster/medium/tt35304338/img",
+      "background": "https://images.metahub.space/background/medium/tt35304338/img",
+      "description": "A struggling student at Korea's worst high school forms a study group while protecting his classmates with his fighting skills, hoping to overcome academic challenges and secure a spot in college.",
+      "releaseInfo": 2025,
+      "imdbRating": 8.2
+    },
+    {
       "id": "tt45246384",
       "type": "series",
       "name": "Love in Disguise",
@@ -489,16 +499,6 @@
       "description": "Skeptical forensic psychologist Kristen Bouchard joins priest-in-training David Acosta and technology expert Ben Shakir as they investigate supposed miracles, demonic possessions, and other extraordinary occurrences to assess for a scientific explanation or if something truly supernatural is at work.",
       "releaseInfo": 2019,
       "imdbRating": 7.7
-    },
-    {
-      "id": "tt26915338",
-      "type": "series",
-      "name": "Gyaarah Gyaarah",
-      "poster": "https://images.metahub.space/poster/medium/tt26915338/img",
-      "background": "https://images.metahub.space/background/medium/tt26915338/img",
-      "description": "Investigative drama following events in 1990, 2001, 2016. Intertwining storylines blending mysticism, science and mystery across the decades.",
-      "releaseInfo": 2024,
-      "imdbRating": 8.1
     }
   ]
 }

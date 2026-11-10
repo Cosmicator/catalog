@@ -271,6 +271,16 @@
       "imdbRating": 7.4
     },
     {
+      "id": "tt37535100",
+      "type": "movie",
+      "name": "Bethlehem Kudumba Unit",
+      "poster": "https://images.metahub.space/poster/medium/tt37535100/img",
+      "background": "https://images.metahub.space/background/medium/tt37535100/img",
+      "description": "Ashley's homecoming from abroad takes an emotional turn when a wedding next door stirs memories of her first love, Justin.",
+      "releaseInfo": 2026,
+      "imdbRating": 8
+    },
+    {
       "id": "tt1160419",
       "type": "movie",
       "name": "Dune",
@@ -311,16 +321,6 @@
       "imdbRating": 6.9
     },
     {
-      "id": "tt32089596",
-      "type": "movie",
-      "name": "Comrade Kalyan",
-      "poster": "https://images.metahub.space/poster/medium/tt32089596/img",
-      "background": "https://images.metahub.space/background/medium/tt32089596/img",
-      "description": "In a naxal-dominated village on the Andhra-Odisha border, a theatre owner uses communist sentiment to keep his old cinema running. He joins the naxals and kidnaps a leader, setting off a chain of events.",
-      "releaseInfo": 2026,
-      "imdbRating": 7.9
-    },
-    {
       "id": "tt27543632",
       "type": "movie",
       "name": "The Housemaid",
@@ -341,26 +341,6 @@
       "imdbRating": 5.6
     },
     {
-      "id": "tt14966898",
-      "type": "movie",
-      "name": "Late Night with the Devil",
-      "poster": "https://images.metahub.space/poster/medium/tt14966898/img",
-      "background": "https://images.metahub.space/background/medium/tt14966898/img",
-      "description": "A live broadcast of a late-night talk show in 1977 goes horribly wrong, unleashing evil into the nation's living rooms.",
-      "releaseInfo": 2024,
-      "imdbRating": 7
-    },
-    {
-      "id": "tt37535100",
-      "type": "movie",
-      "name": "Bethlehem Kudumba Unit",
-      "poster": "https://images.metahub.space/poster/medium/tt37535100/img",
-      "background": "https://images.metahub.space/background/medium/tt37535100/img",
-      "description": "Ashley's homecoming from abroad takes an emotional turn when a wedding next door stirs memories of her first love, Justin.",
-      "releaseInfo": 2026,
-      "imdbRating": 8
-    },
-    {
       "id": "tt46060457",
       "type": "movie",
       "name": "The Swan: Behind the Mirror",
@@ -379,16 +359,6 @@
       "description": "The hardened son of a powerful industrialist returns home after years abroad and vows to take bloody revenge on those threatening his father's life.",
       "releaseInfo": 2023,
       "imdbRating": 6.2
-    },
-    {
-      "id": "tt0060550",
-      "type": "movie",
-      "name": "It's the Great Pumpkin, Charlie Brown",
-      "poster": "https://images.metahub.space/poster/medium/tt0060550/img",
-      "background": "https://images.metahub.space/background/medium/tt0060550/img",
-      "description": "Join the Peanuts gang for a timeless adventure as Charlie Brown preps for a party, Snoopy sets his sights on the Red Baron, and Linus patiently awaits a pumpkin patch miracle.",
-      "releaseInfo": 1966,
-      "imdbRating": 8.1
     },
     {
       "id": "tt50426072",
@@ -451,16 +421,6 @@
       "imdbRating": 6.3
     },
     {
-      "id": "tt0085636",
-      "type": "movie",
-      "name": "Halloween III: Season of the Witch",
-      "poster": "https://images.metahub.space/poster/medium/tt0085636/img",
-      "background": "https://images.metahub.space/background/medium/tt0085636/img",
-      "description": "After a terrified toy salesman is mysteriously attacked and brought to the hospital clutching the year's most popular Halloween mask, Dr. Daniel Challis sets out to investigate the strange events and finds himself thrust into a nightmarish conspiracy.",
-      "releaseInfo": 1982,
-      "imdbRating": 5.2
-    },
-    {
       "id": "tt22526100",
       "type": "movie",
       "name": "The Love Hypothesis",
@@ -471,6 +431,16 @@
       "imdbRating": 6.8
     },
     {
+      "id": "tt0060550",
+      "type": "movie",
+      "name": "It's the Great Pumpkin, Charlie Brown",
+      "poster": "https://images.metahub.space/poster/medium/tt0060550/img",
+      "background": "https://images.metahub.space/background/medium/tt0060550/img",
+      "description": "Join the Peanuts gang for a timeless adventure as Charlie Brown preps for a party, Snoopy sets his sights on the Red Baron, and Linus patiently awaits a pumpkin patch miracle.",
+      "releaseInfo": 1966,
+      "imdbRating": 8.1
+    },
+    {
       "id": "tt0338348",
       "type": "movie",
       "name": "The Polar Express",
@@ -479,6 +449,36 @@
       "description": "When a doubting young boy takes an extraordinary train ride to the North Pole, he embarks on a journey of self-discovery that shows him that the wonder of life never fades for those who believe.",
       "releaseInfo": 2004,
       "imdbRating": 6.6
+    },
+    {
+      "id": "tt0085636",
+      "type": "movie",
+      "name": "Halloween III: Season of the Witch",
+      "poster": "https://images.metahub.space/poster/medium/tt0085636/img",
+      "background": "https://images.metahub.space/background/medium/tt0085636/img",
+      "description": "After a terrified toy salesman is mysteriously attacked and brought to the hospital clutching the year's most popular Halloween mask, Dr. Daniel Challis sets out to investigate the strange events and finds himself thrust into a nightmarish conspiracy.",
+      "releaseInfo": 1982,
+      "imdbRating": 5.2
+    },
+    {
+      "id": "tt37458193",
+      "type": "movie",
+      "name": "Minha Melhor Amiga",
+      "poster": "https://images.metahub.space/poster/medium/tt37458193/img",
+      "background": "https://images.metahub.space/background/medium/tt37458193/img",
+      "description": "Facing menopause and empty-nest anxiety, friends Julia and Clara decide to travel together to visit their daughters who are on an exchange program abroad.",
+      "releaseInfo": 2026,
+      "imdbRating": 6.2
+    },
+    {
+      "id": "tt32089596",
+      "type": "movie",
+      "name": "Comrade Kalyan",
+      "poster": "https://images.metahub.space/poster/medium/tt32089596/img",
+      "background": "https://images.metahub.space/background/medium/tt32089596/img",
+      "description": "In a naxal-dominated village on the Andhra-Odisha border, a theatre owner uses communist sentiment to keep his old cinema running. He joins the naxals and kidnaps a leader, setting off a chain of events.",
+      "releaseInfo": 2026,
+      "imdbRating": 7.9
     },
     {
       "id": "tt11311958",
