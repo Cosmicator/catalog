@@ -38,7 +38,7 @@
       "background": "https://images.metahub.space/background/medium/tt34284946/img",
       "description": "A fearless gambler who trusts luck more than life gets caught in a series of crazy and unexpected events that turn his world upside down.",
       "releaseInfo": 2026,
-      "imdbRating": 6.1
+      "imdbRating": 6
     },
     {
       "id": "tt35538033",
@@ -48,7 +48,7 @@
       "background": "https://images.metahub.space/background/medium/tt35538033/img",
       "description": "Described as a revamp that will return to the franchise's horror roots and be more faithful to the initial games.",
       "releaseInfo": 2026,
-      "imdbRating": 7.5
+      "imdbRating": 7.4
     },
     {
       "id": "tt34339725",
@@ -88,7 +88,7 @@
       "background": "https://images.metahub.space/background/medium/tt38265603/img",
       "description": "After her husband's tragic death, Aleena joins the police force through a compassionate appointment. What begins as a quiet new chapter soon turns into a high-stakes battle of wits and courage, testing everything she believes about justice, loyalty, and herself.",
       "releaseInfo": 2026,
-      "imdbRating": 7.5
+      "imdbRating": 7.4
     },
     {
       "id": "tt43716419",
@@ -108,7 +108,7 @@
       "background": "https://images.metahub.space/background/medium/tt37803364/img",
       "description": "Four strangers' paths cross by chance, leading to complex emotional entanglements that challenge their existing relationships and force them to confront uncomfortable truths about love and commitment.",
       "releaseInfo": 2026,
-      "imdbRating": 7.9
+      "imdbRating": 7.8
     },
     {
       "id": "tt22890246",
@@ -129,6 +129,16 @@
       "description": "A modern adaptation of the Indian epic Ramayana which follows the exiled prince Raghav's journey to rescue his wife Janaki from the demon king Lankesh.",
       "releaseInfo": 2023,
       "imdbRating": 2.5
+    },
+    {
+      "id": "tt29845247",
+      "type": "movie",
+      "name": "Noise",
+      "poster": "https://images.metahub.space/poster/medium/tt29845247/img",
+      "background": "https://images.metahub.space/background/medium/tt29845247/img",
+      "description": "A young woman with a hearing impairment investigates her sister’s mysterious disappearance from her apartment, but as she searches for answers, strange sounds and an ominous presence begin to haunt her.",
+      "releaseInfo": 2025,
+      "imdbRating": 5.6
     },
     {
       "id": "tt14173636",
@@ -231,16 +241,6 @@
       "imdbRating": 6.7
     },
     {
-      "id": "tt37535100",
-      "type": "movie",
-      "name": "Bethlehem Kudumba Unit",
-      "poster": "https://images.metahub.space/poster/medium/tt37535100/img",
-      "background": "https://images.metahub.space/background/medium/tt37535100/img",
-      "description": "Ashley's homecoming from abroad takes an emotional turn when a wedding next door stirs memories of her first love, Justin.",
-      "releaseInfo": 2026,
-      "imdbRating": 8
-    },
-    {
       "id": "tt0118571",
       "type": "movie",
       "name": "Air Force One",
@@ -289,16 +289,6 @@
       "description": "Paul Atreides, a brilliant and gifted young man born into a great destiny beyond his understanding, must travel to the most dangerous planet in the universe to ensure the future of his family and his people. As malevolent forces explode into conflict over the planet's exclusive supply of the most precious resource in existence - a commodity capable of unlocking humanity's greatest potential - only those who can conquer their fear will survive.",
       "releaseInfo": 2021,
       "imdbRating": 8
-    },
-    {
-      "id": "tt29845247",
-      "type": "movie",
-      "name": "Noise",
-      "poster": "https://images.metahub.space/poster/medium/tt29845247/img",
-      "background": "https://images.metahub.space/background/medium/tt29845247/img",
-      "description": "A young woman with a hearing impairment investigates her sister’s mysterious disappearance from her apartment, but as she searches for answers, strange sounds and an ominous presence begin to haunt her.",
-      "releaseInfo": 2025,
-      "imdbRating": 5.6
     },
     {
       "id": "tt46060457",
@@ -361,36 +351,6 @@
       "imdbRating": 8.8
     },
     {
-      "id": "tt1839596",
-      "type": "movie",
-      "name": "Rockstar",
-      "poster": "https://images.metahub.space/poster/medium/tt1839596/img",
-      "background": "https://images.metahub.space/background/medium/tt1839596/img",
-      "description": "College student Janardhan is a simpleton who desperately seeks inspiration for the musician inside him. Although heartbreak helps him reach his goal, it also leads him to self-destruction.",
-      "releaseInfo": 2011,
-      "imdbRating": 7.8
-    },
-    {
-      "id": "tt50107649",
-      "type": "movie",
-      "name": "Dilwali Diwali",
-      "poster": "https://images.metahub.space/poster/medium/tt50107649/img",
-      "background": "https://images.metahub.space/background/medium/tt50107649/img",
-      "description": "Ansh Sikkha returns to his Punjabi family home for Diwali after years working abroad. As the Sikkas gather for the festival, their clashing views on what constitutes a fulfilling life create friction and connection.",
-      "releaseInfo": 2026,
-      "imdbRating": 5.8
-    },
-    {
-      "id": "tt0085636",
-      "type": "movie",
-      "name": "Halloween III: Season of the Witch",
-      "poster": "https://images.metahub.space/poster/medium/tt0085636/img",
-      "background": "https://images.metahub.space/background/medium/tt0085636/img",
-      "description": "After a terrified toy salesman is mysteriously attacked and brought to the hospital clutching the year's most popular Halloween mask, Dr. Daniel Challis sets out to investigate the strange events and finds himself thrust into a nightmarish conspiracy.",
-      "releaseInfo": 1982,
-      "imdbRating": 5.2
-    },
-    {
       "id": "tt39139925",
       "type": "movie",
       "name": "Dhurandhar: The Revenge",
@@ -399,16 +359,6 @@
       "description": "Jaskirat Singh Rangi descends deeper into his alias as Hamza Ali Mazari, rising through Karachi's criminal hierarchy to claim the feared title \"Sher-e-Baloch\" while balancing loyalty, betrayal, and survival in a ruthless underworld.",
       "releaseInfo": 2026,
       "imdbRating": 8.2
-    },
-    {
-      "id": "tt32089596",
-      "type": "movie",
-      "name": "Comrade Kalyan",
-      "poster": "https://images.metahub.space/poster/medium/tt32089596/img",
-      "background": "https://images.metahub.space/background/medium/tt32089596/img",
-      "description": "In a naxal-dominated village on the Andhra-Odisha border, a theatre owner uses communist sentiment to keep his old cinema running. He joins the naxals and kidnaps a leader, setting off a chain of events.",
-      "releaseInfo": 2026,
-      "imdbRating": 7.9
     },
     {
       "id": "tt35836025",
@@ -431,34 +381,14 @@
       "imdbRating": 8.1
     },
     {
-      "id": "tt23577326",
+      "id": "tt0085636",
       "type": "movie",
-      "name": "I Am Kathalan",
-      "poster": "https://images.metahub.space/poster/medium/tt23577326/img",
-      "background": "https://images.metahub.space/background/medium/tt23577326/img",
-      "description": "A college student decides to hack into the security system of a company owned by his ex-girlfriend's father.",
-      "releaseInfo": 2024,
-      "imdbRating": 6.8
-    },
-    {
-      "id": "tt12583926",
-      "type": "movie",
-      "name": "Anniversary",
-      "poster": "https://images.metahub.space/poster/medium/tt12583926/img",
-      "background": "https://images.metahub.space/background/medium/tt12583926/img",
-      "description": "A close-knit family is caught in the turmoil of a controversial rising movement known as \"The Change.” Ellen and Paul witness their lives fall apart when Ellen's former student Liz reappears and starts dating their son. As Liz becomes a part of the Taylor family, tensions rise and loyalties are tested.",
-      "releaseInfo": 2025,
-      "imdbRating": 6.7
-    },
-    {
-      "id": "tt0084516",
-      "type": "movie",
-      "name": "Poltergeist",
-      "poster": "https://images.metahub.space/poster/medium/tt0084516/img",
-      "background": "https://images.metahub.space/background/medium/tt0084516/img",
-      "description": "The Freelings' suburban home becomes the center of paranormal activity that opens a portal to the 'other side'. With help, they must cross over to get their daughter back.",
+      "name": "Halloween III: Season of the Witch",
+      "poster": "https://images.metahub.space/poster/medium/tt0085636/img",
+      "background": "https://images.metahub.space/background/medium/tt0085636/img",
+      "description": "After a terrified toy salesman is mysteriously attacked and brought to the hospital clutching the year's most popular Halloween mask, Dr. Daniel Challis sets out to investigate the strange events and finds himself thrust into a nightmarish conspiracy.",
       "releaseInfo": 1982,
-      "imdbRating": 7.3
+      "imdbRating": 5.2
     },
     {
       "id": "tt13751694",
@@ -478,7 +408,17 @@
       "background": "https://images.metahub.space/background/medium/tt39453578/img",
       "description": "Léonard Landry, a flamboyant criminal defence lawyer, overdoses in the middle of the courtroom. After undergoing rehab, he has one week to save his career and prepare for his own trial, reluctantly assisted by a tenacious intern, Noé. This marks the beginning of a frantic race involving legal manoeuvres, temptations and dramatic twists.",
       "releaseInfo": 2026,
-      "imdbRating": 6.5
+      "imdbRating": 6.4
+    },
+    {
+      "id": "tt32089596",
+      "type": "movie",
+      "name": "Comrade Kalyan",
+      "poster": "https://images.metahub.space/poster/medium/tt32089596/img",
+      "background": "https://images.metahub.space/background/medium/tt32089596/img",
+      "description": "In a naxal-dominated village on the Andhra-Odisha border, a theatre owner uses communist sentiment to keep his old cinema running. He joins the naxals and kidnaps a leader, setting off a chain of events.",
+      "releaseInfo": 2026,
+      "imdbRating": 7.7
     },
     {
       "id": "tt39400541",
@@ -498,7 +438,67 @@
       "background": "https://images.metahub.space/background/medium/tt37458193/img",
       "description": "Facing menopause and empty-nest anxiety, friends Julia and Clara decide to travel together to visit their daughters who are on an exchange program abroad.",
       "releaseInfo": 2026,
-      "imdbRating": 6.2
+      "imdbRating": 6.1
+    },
+    {
+      "id": "tt0084516",
+      "type": "movie",
+      "name": "Poltergeist",
+      "poster": "https://images.metahub.space/poster/medium/tt0084516/img",
+      "background": "https://images.metahub.space/background/medium/tt0084516/img",
+      "description": "The Freelings' suburban home becomes the center of paranormal activity that opens a portal to the 'other side'. With help, they must cross over to get their daughter back.",
+      "releaseInfo": 1982,
+      "imdbRating": 7.3
+    },
+    {
+      "id": "tt0083658",
+      "type": "movie",
+      "name": "Blade Runner",
+      "poster": "https://images.metahub.space/poster/medium/tt0083658/img",
+      "background": "https://images.metahub.space/background/medium/tt0083658/img",
+      "description": "In the smog-choked dystopian Los Angeles of 2019, blade runner Rick Deckard is called out of retirement to terminate a quartet of replicants who have escaped to Earth seeking their creator for a way to extend their short life spans.",
+      "releaseInfo": 1982,
+      "imdbRating": 8.1
+    },
+    {
+      "id": "tt41790460",
+      "type": "movie",
+      "name": "Agadha",
+      "poster": "https://images.metahub.space/poster/medium/tt41790460/img",
+      "background": "https://images.metahub.space/background/medium/tt41790460/img",
+      "description": "A solitary girl encounters a towering twelve-handed mystical idol in a torch lit shadowy cave, creating an atmosphere of spirituality and dark intrigue.",
+      "releaseInfo": 2026,
+      "imdbRating": 5.1
+    },
+    {
+      "id": "tt0107798",
+      "type": "movie",
+      "name": "The Pelican Brief",
+      "poster": "https://images.metahub.space/poster/medium/tt0107798/img",
+      "background": "https://images.metahub.space/background/medium/tt0107798/img",
+      "description": "A law student's theory about the recent deaths of two Supreme Court justices embroils her in a far-reaching web of murder, corruption, and greed.",
+      "releaseInfo": 1993,
+      "imdbRating": 6.7
+    },
+    {
+      "id": "tt0338348",
+      "type": "movie",
+      "name": "The Polar Express",
+      "poster": "https://images.metahub.space/poster/medium/tt0338348/img",
+      "background": "https://images.metahub.space/background/medium/tt0338348/img",
+      "description": "When a doubting young boy takes an extraordinary train ride to the North Pole, he embarks on a journey of self-discovery that shows him that the wonder of life never fades for those who believe.",
+      "releaseInfo": 2004,
+      "imdbRating": 6.6
+    },
+    {
+      "id": "tt0252503",
+      "type": "movie",
+      "name": "Heist",
+      "poster": "https://images.metahub.space/poster/medium/tt0252503/img",
+      "background": "https://images.metahub.space/background/medium/tt0252503/img",
+      "description": "Joe Moore has a job he loves. He's a thief. His job goes sour when he gets caught on security camera tape. His fence, Bergman, reneges on the money he's owed, and his wife may be betraying him with the fence's young lieutenant. Moore and his partner, Bobby Blane, and their utility man, Pinky Pincus, find themselves broke, betrayed, and blackmailed. Moore is forced to commit his crew to do one last big job.",
+      "releaseInfo": 2001,
+      "imdbRating": 6.5
     }
   ]
 }

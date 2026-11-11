@@ -287,14 +287,6 @@
       "imdbRating": "8.4"
     },
     {
-      "id": "tt45712181",
-      "type": "series",
-      "name": "Indian Game Show",
-      "description": "Hosted by Bharti Singh and Harssh Limbachiyaa, this high-energy comedy game show features celebrity guests competing in hilarious physical challenges and quirky tasks, delivering non-stop laughter and family entertainment.",
-      "releaseInfo": "2026–",
-      "imdbRating": "8.4"
-    },
-    {
       "id": "tt34809853",
       "type": "series",
       "name": "Teach You a Lesson",
@@ -325,6 +317,25 @@
       "logo": "https://images.metahub.space/logo/medium/tt31510819/img",
       "description": "Power is up for grabs as two warring crime families clash in a battle that threatens to topple empires. In the crossfire stands Harry Da Souza, a street-smart 'fixer' who knows too well where loyalties lie when opposing forces col...",
       "releaseInfo": "2025–",
+      "imdbRating": "8.3"
+    },
+    {
+      "id": "tt45712181",
+      "type": "series",
+      "name": "Indian Game Show",
+      "description": "Hosted by Bharti Singh and Harssh Limbachiyaa, this high-energy comedy game show features celebrity guests competing in hilarious physical challenges and quirky tasks, delivering non-stop laughter and family entertainment.",
+      "releaseInfo": "2026–",
+      "imdbRating": "8.3"
+    },
+    {
+      "id": "tt15477488",
+      "type": "series",
+      "name": "Farzi",
+      "poster": "https://images.metahub.space/poster/small/tt15477488/img",
+      "background": "https://images.metahub.space/background/medium/tt15477488/img",
+      "logo": "https://images.metahub.space/logo/medium/tt15477488/img",
+      "description": "Talented artist Sunny creates a flawless counterfeit bill, thrusting him into a dangerous world. Unconventional task force officer Michael is determined to eliminate counterfeiting. In this high-stakes chase, neither can afford to...",
+      "releaseInfo": "2023–",
       "imdbRating": "8.3"
     },
     {
@@ -534,17 +545,6 @@
       "logo": "https://images.metahub.space/logo/medium/tt4643084/img",
       "description": "A cog in a bureaucratic agency discovers his agency is guarding a crossing to a parallel dimension.",
       "releaseInfo": "2017–2019",
-      "imdbRating": "8.0"
-    },
-    {
-      "id": "tt9288030",
-      "type": "series",
-      "name": "Reacher",
-      "poster": "https://images.metahub.space/poster/small/tt9288030/img",
-      "background": "https://images.metahub.space/background/medium/tt9288030/img",
-      "logo": "https://images.metahub.space/logo/medium/tt9288030/img",
-      "description": "Itinerant former military policeman Jack Reacher solves crimes and metes out his own brand of street justice. Based on the novels by Lee Child.",
-      "releaseInfo": "2022–",
       "imdbRating": "8.0"
     }
   ]
