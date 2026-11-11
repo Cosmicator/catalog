@@ -20,18 +20,7 @@
       "logo": "https://live.metahub.space/logo/medium/tt39089210/img",
       "description": "Three families from different parts of North Chennai come together through circumstances and, despite financial struggles, decide to live under one roof in Sathya Nagar. Their friendship grows into a close-knit bond, with the three families living like one. But when a conflict threatens this unity and puts their relationships at risk, they must face its consequences and decide whether their bond can survive.",
       "releaseInfo": "2026",
-      "imdbRating": "9.4"
-    },
-    {
-      "id": "tt32089596",
-      "type": "movie",
-      "name": "Comrade Kalyan",
-      "poster": "https://live.metahub.space/poster/small/tt32089596/img",
-      "background": "https://live.metahub.space/background/medium/tt32089596/img",
-      "logo": "https://live.metahub.space/logo/medium/tt32089596/img",
-      "description": "In a naxal-dominated village on the Andhra-Odisha border, a theatre owner uses communist sentiment to keep his old cinema running. He joins the naxals and kidnaps a leader, setting off a chain of events.",
-      "releaseInfo": "2026",
-      "imdbRating": "9.1"
+      "imdbRating": "9.0"
     },
     {
       "id": "tt43716419",
@@ -185,6 +174,17 @@
       "imdbRating": "8.0"
     },
     {
+      "id": "tt32089596",
+      "type": "movie",
+      "name": "Comrade Kalyan",
+      "poster": "https://live.metahub.space/poster/small/tt32089596/img",
+      "background": "https://live.metahub.space/background/medium/tt32089596/img",
+      "logo": "https://live.metahub.space/logo/medium/tt32089596/img",
+      "description": "In a naxal-dominated village on the Andhra-Odisha border, a theatre owner uses communist sentiment to keep his old cinema running. He joins the naxals and kidnaps a leader, setting off a chain of events.",
+      "releaseInfo": "2026",
+      "imdbRating": "8.0"
+    },
+    {
       "id": "tt0093779",
       "type": "movie",
       "name": "The Princess Bride",
@@ -260,17 +260,6 @@
       "description": "Nora and Hae Sung, two deeply connected childhood friends, are wrested apart after Nora's family emigrates from South Korea. Twenty years later, they are reunited for one fateful week as they confront notions of love and destiny.",
       "releaseInfo": "2023",
       "imdbRating": "7.8"
-    },
-    {
-      "id": "tt30050236",
-      "type": "movie",
-      "name": "Mahendragiri Vaaraahi",
-      "poster": "https://live.metahub.space/poster/small/tt30050236/img",
-      "background": "https://live.metahub.space/background/medium/tt30050236/img",
-      "logo": "https://live.metahub.space/logo/medium/tt30050236/img",
-      "description": "Siddharth, an atheist and skeptic, is drawn into a mysterious journey surrounding the ancient Varahi temple at Mahendragiri. As he uncovers secrets connected to the sacred site, he is forced to confront forces beyond his understanding, challenging his beliefs and changing his perception of faith, destiny, and the supernatural.",
-      "releaseInfo": "2026",
-      "imdbRating": "7.7"
     },
     {
       "id": "tt2258337",
@@ -368,6 +357,17 @@
       "background": "https://images.metahub.space/background/medium/tt14173636/img",
       "logo": "https://images.metahub.space/logo/medium/tt14173636/img",
       "description": "Joe and Angela's marriage is on thin ice. When they invite their enigmatic upstairs neighbors for a dinner party, the night spirals into unexpected places.",
+      "releaseInfo": "2026",
+      "imdbRating": "7.5"
+    },
+    {
+      "id": "tt30050236",
+      "type": "movie",
+      "name": "Mahendragiri Vaaraahi",
+      "poster": "https://live.metahub.space/poster/small/tt30050236/img",
+      "background": "https://live.metahub.space/background/medium/tt30050236/img",
+      "logo": "https://live.metahub.space/logo/medium/tt30050236/img",
+      "description": "Siddharth, an atheist and skeptic, is drawn into a mysterious journey surrounding the ancient Varahi temple at Mahendragiri. As he uncovers secrets connected to the sacred site, he is forced to confront forces beyond his understanding, challenging his beliefs and changing his perception of faith, destiny, and the supernatural.",
       "releaseInfo": "2026",
       "imdbRating": "7.5"
     },
