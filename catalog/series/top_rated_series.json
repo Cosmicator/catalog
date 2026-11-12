@@ -67,15 +67,15 @@
       "imdbRating": "9.0"
     },
     {
-      "id": "tt33094114",
+      "id": "tt12004706",
       "type": "series",
-      "name": "India's Got Latent",
-      "poster": "https://images.metahub.space/poster/small/tt33094114/img",
-      "background": "https://images.metahub.space/background/medium/tt33094114/img",
-      "logo": "https://images.metahub.space/logo/medium/tt33094114/img",
-      "description": "Samay Raina and the guest judges hilariously critique the untapped, undeniably entertaining \"latent\" talents of aspiring performers, testing their self-awareness with a unique scoring system.",
-      "releaseInfo": "2024–",
-      "imdbRating": "8.9"
+      "name": "Panchayat",
+      "poster": "https://images.metahub.space/poster/small/tt12004706/img",
+      "background": "https://images.metahub.space/background/medium/tt12004706/img",
+      "logo": "https://images.metahub.space/logo/medium/tt12004706/img",
+      "description": "A comedy-drama, which captures the journey of an engineering graduate Abhishek, who for lack of a better job option joins as secretary of a Panchayat office in a remote village of Uttar Pradesh.",
+      "releaseInfo": "2020–",
+      "imdbRating": "9.0"
     },
     {
       "id": "tt35495073",
@@ -111,6 +111,17 @@
       "imdbRating": "8.7"
     },
     {
+      "id": "tt10986410",
+      "type": "series",
+      "name": "Ted Lasso",
+      "poster": "https://images.metahub.space/poster/small/tt10986410/img",
+      "background": "https://images.metahub.space/background/medium/tt10986410/img",
+      "logo": "https://images.metahub.space/logo/medium/tt10986410/img",
+      "description": "American college football coach Ted Lasso is hired to manage AFC Richmond, a struggling English soccer club, and must win over skeptical players, staff, and fans.",
+      "releaseInfo": "2020–",
+      "imdbRating": "8.7"
+    },
+    {
       "id": "tt5753856",
       "type": "series",
       "name": "Dark",
@@ -120,17 +131,6 @@
       "description": "A family saga with a supernatural twist, set in a German town where the disappearance of two young children exposes the relationships among four families.",
       "releaseInfo": "2017–2020",
       "imdbRating": "8.7"
-    },
-    {
-      "id": "tt4574334",
-      "type": "series",
-      "name": "Stranger Things",
-      "poster": "https://images.metahub.space/poster/small/tt4574334/img",
-      "background": "https://images.metahub.space/background/medium/tt4574334/img",
-      "logo": "https://images.metahub.space/logo/medium/tt4574334/img",
-      "description": "In 1980s Indiana, a group of young friends witness supernatural forces and secret government exploits. As they search for answers, the children unravel a series of extraordinary mysteries.",
-      "releaseInfo": "2016–2025",
-      "imdbRating": "8.6"
     },
     {
       "id": "tt11280740",
@@ -144,14 +144,14 @@
       "imdbRating": "8.6"
     },
     {
-      "id": "tt31862809",
+      "id": "tt4574334",
       "type": "series",
-      "name": "Heart Beat",
-      "poster": "https://live.metahub.space/poster/small/tt31862809/img",
-      "background": "https://live.metahub.space/background/medium/tt31862809/img",
-      "logo": "https://live.metahub.space/logo/medium/tt31862809/img",
-      "description": "RK Multispeciality Hospital is a beacon of hope and healing. Its doctors are resilient even when they have to deal with medical and personal challenges.",
-      "releaseInfo": "2024–",
+      "name": "Stranger Things",
+      "poster": "https://images.metahub.space/poster/small/tt4574334/img",
+      "background": "https://images.metahub.space/background/medium/tt4574334/img",
+      "logo": "https://images.metahub.space/logo/medium/tt4574334/img",
+      "description": "In 1980s Indiana, a group of young friends witness supernatural forces and secret government exploits. As they search for answers, the children unravel a series of extraordinary mysteries.",
+      "releaseInfo": "2016–2025",
       "imdbRating": "8.6"
     },
     {
@@ -166,17 +166,6 @@
       "imdbRating": "8.6"
     },
     {
-      "id": "tt15336554",
-      "type": "series",
-      "name": "For the Love of Kitchens",
-      "poster": "https://live.metahub.space/poster/small/tt15336554/img",
-      "background": "https://live.metahub.space/background/medium/tt15336554/img",
-      "logo": "https://live.metahub.space/logo/medium/tt15336554/img",
-      "description": "Paul O'Leary, Helen Parker and Robin McLellan of deVOL Kitchens lead their skilled team of artisans to craft beautiful kitchens and furnishings for their clients from their 16th-century water mill-turned-workshop in the heart of the English countryside.",
-      "releaseInfo": "2021–2023",
-      "imdbRating": "8.5"
-    },
-    {
       "id": "tt1190634",
       "type": "series",
       "name": "The Boys",
@@ -188,17 +177,6 @@
       "imdbRating": "8.5"
     },
     {
-      "id": "tt9335498",
-      "type": "series",
-      "name": "Demon Slayer: Kimetsu no Yaiba",
-      "poster": "https://images.metahub.space/poster/small/tt9335498/img",
-      "background": "https://images.metahub.space/background/medium/tt9335498/img",
-      "logo": "https://images.metahub.space/logo/medium/tt9335498/img",
-      "description": "A family is attacked by demons and only two members survive - Tanjiro and his sister Nezuko, who is turning into a demon slowly. Tanjiro sets out to become a demon slayer to avenge his family and cure his sister.",
-      "releaseInfo": "2019–2024",
-      "imdbRating": "8.5"
-    },
-    {
       "id": "tt1586680",
       "type": "series",
       "name": "Shameless",
@@ -207,6 +185,17 @@
       "logo": "https://images.metahub.space/logo/medium/tt1586680/img",
       "description": "A scrappy, feisty, fiercely loyal Chicago family makes no apologies.",
       "releaseInfo": "2011–2021",
+      "imdbRating": "8.5"
+    },
+    {
+      "id": "tt9335498",
+      "type": "series",
+      "name": "Demon Slayer: Kimetsu no Yaiba",
+      "poster": "https://images.metahub.space/poster/small/tt9335498/img",
+      "background": "https://images.metahub.space/background/medium/tt9335498/img",
+      "logo": "https://images.metahub.space/logo/medium/tt9335498/img",
+      "description": "A family is attacked by demons and only two members survive - Tanjiro and his sister Nezuko, who is turning into a demon slowly. Tanjiro sets out to become a demon slayer to avenge his family and cure his sister.",
+      "releaseInfo": "2019–2024",
       "imdbRating": "8.5"
     },
     {
@@ -243,14 +232,14 @@
       "imdbRating": "8.4"
     },
     {
-      "id": "tt9059760",
+      "id": "tt5875444",
       "type": "series",
-      "name": "Normal People",
-      "poster": "https://images.metahub.space/poster/small/tt9059760/img",
-      "background": "https://images.metahub.space/background/medium/tt9059760/img",
-      "logo": "https://images.metahub.space/logo/medium/tt9059760/img",
-      "description": "A man and a woman embark on an on-again/off-again romance that starts at school and continues through college, testing their relationship as they explore different versions of themselves.",
-      "releaseInfo": "2020",
+      "name": "Slow Horses",
+      "poster": "https://images.metahub.space/poster/small/tt5875444/img",
+      "background": "https://images.metahub.space/background/medium/tt5875444/img",
+      "logo": "https://images.metahub.space/logo/medium/tt5875444/img",
+      "description": "A dysfunctional team of MI5 agents navigate the espionage world's smoke and mirrors to defend the UK from sinister forces.",
+      "releaseInfo": "2022–",
       "imdbRating": "8.4"
     },
     {
@@ -265,25 +254,14 @@
       "imdbRating": "8.4"
     },
     {
-      "id": "tt5875444",
+      "id": "tt20234568",
       "type": "series",
-      "name": "Slow Horses",
-      "poster": "https://images.metahub.space/poster/small/tt5875444/img",
-      "background": "https://images.metahub.space/background/medium/tt5875444/img",
-      "logo": "https://images.metahub.space/logo/medium/tt5875444/img",
-      "description": "A dysfunctional team of MI5 agents navigate the espionage world's smoke and mirrors to defend the UK from sinister forces.",
+      "name": "Weak Hero Class 1",
+      "poster": "https://images.metahub.space/poster/small/tt20234568/img",
+      "background": "https://images.metahub.space/background/medium/tt20234568/img",
+      "logo": "https://images.metahub.space/logo/medium/tt20234568/img",
+      "description": "Yeon Shi-eun is a model student, who ranks at the top at his school. Physically, he appears like a weak boy, but, by using his smarts, tools, and psychology, he fights against violence that takes place inside and outside of his sc...",
       "releaseInfo": "2022–",
-      "imdbRating": "8.4"
-    },
-    {
-      "id": "tt0460681",
-      "type": "series",
-      "name": "Supernatural",
-      "poster": "https://images.metahub.space/poster/small/tt0460681/img",
-      "background": "https://images.metahub.space/background/medium/tt0460681/img",
-      "logo": "https://images.metahub.space/logo/medium/tt0460681/img",
-      "description": "Two brothers follow their father's footsteps as hunters, fighting evil supernatural beings of many kinds, including monsters, demons, and gods that roam the earth.",
-      "releaseInfo": "2005–2020",
       "imdbRating": "8.4"
     },
     {
@@ -298,6 +276,17 @@
       "imdbRating": "8.4"
     },
     {
+      "id": "tt0460681",
+      "type": "series",
+      "name": "Supernatural",
+      "poster": "https://images.metahub.space/poster/small/tt0460681/img",
+      "background": "https://images.metahub.space/background/medium/tt0460681/img",
+      "logo": "https://images.metahub.space/logo/medium/tt0460681/img",
+      "description": "Two brothers follow their father's footsteps as hunters, fighting evil supernatural beings of many kinds, including monsters, demons, and gods that roam the earth.",
+      "releaseInfo": "2005–2020",
+      "imdbRating": "8.4"
+    },
+    {
       "id": "tt45712181",
       "type": "series",
       "name": "Indian Game Show",
@@ -306,14 +295,14 @@
       "imdbRating": "8.4"
     },
     {
-      "id": "tt20234568",
+      "id": "tt9059760",
       "type": "series",
-      "name": "Weak Hero Class 1",
-      "poster": "https://images.metahub.space/poster/small/tt20234568/img",
-      "background": "https://images.metahub.space/background/medium/tt20234568/img",
-      "logo": "https://images.metahub.space/logo/medium/tt20234568/img",
-      "description": "Yeon Shi-eun is a model student, who ranks at the top at his school. Physically, he appears like a weak boy, but, by using his smarts, tools, and psychology, he fights against violence that takes place inside and outside of his sc...",
-      "releaseInfo": "2022–",
+      "name": "Normal People",
+      "poster": "https://images.metahub.space/poster/small/tt9059760/img",
+      "background": "https://images.metahub.space/background/medium/tt9059760/img",
+      "logo": "https://images.metahub.space/logo/medium/tt9059760/img",
+      "description": "A man and a woman embark on an on-again/off-again romance that starts at school and continues through college, testing their relationship as they explore different versions of themselves.",
+      "releaseInfo": "2020",
       "imdbRating": "8.4"
     },
     {
@@ -350,17 +339,6 @@
       "imdbRating": "8.2"
     },
     {
-      "id": "tt7441658",
-      "type": "series",
-      "name": "Black Clover",
-      "poster": "https://images.metahub.space/poster/small/tt7441658/img",
-      "background": "https://images.metahub.space/background/medium/tt7441658/img",
-      "logo": "https://images.metahub.space/logo/medium/tt7441658/img",
-      "description": "Asta and Yuno were abandoned together at the same church and have been inseparable since. As children, they promised that they would compete against each other to see who would become the next Emperor Magus.",
-      "releaseInfo": "2017–2026",
-      "imdbRating": "8.2"
-    },
-    {
       "id": "tt35304338",
       "type": "series",
       "name": "Study Group",
@@ -372,14 +350,14 @@
       "imdbRating": "8.2"
     },
     {
-      "id": "tt6468322",
+      "id": "tt7441658",
       "type": "series",
-      "name": "Money Heist",
-      "poster": "https://live.metahub.space/poster/small/tt6468322/img",
-      "background": "https://live.metahub.space/background/medium/tt6468322/img",
-      "logo": "https://live.metahub.space/logo/medium/tt6468322/img",
-      "description": "To carry out the biggest heist in history, a mysterious man called The Professor recruits a band of eight robbers who have a single characteristic: none of them has anything to lose. Five months of seclusion - memorizing every step, every detail, every probability - culminate in eleven days locked up in the National Coinage and Stamp Factory of Spain, surrounded by police forces and with dozens of hostages in their power, to find out whether their suicide wager will lead to everything or nothing.",
-      "releaseInfo": "2017–2021",
+      "name": "Black Clover",
+      "poster": "https://images.metahub.space/poster/small/tt7441658/img",
+      "background": "https://images.metahub.space/background/medium/tt7441658/img",
+      "logo": "https://images.metahub.space/logo/medium/tt7441658/img",
+      "description": "Asta and Yuno were abandoned together at the same church and have been inseparable since. As children, they promised that they would compete against each other to see who would become the next Emperor Magus.",
+      "releaseInfo": "2017–2026",
       "imdbRating": "8.2"
     },
     {
@@ -394,6 +372,17 @@
       "imdbRating": "8.2"
     },
     {
+      "id": "tt6468322",
+      "type": "series",
+      "name": "Money Heist",
+      "poster": "https://live.metahub.space/poster/small/tt6468322/img",
+      "background": "https://live.metahub.space/background/medium/tt6468322/img",
+      "logo": "https://live.metahub.space/logo/medium/tt6468322/img",
+      "description": "To carry out the biggest heist in history, a mysterious man called The Professor recruits a band of eight robbers who have a single characteristic: none of them has anything to lose. Five months of seclusion - memorizing every step, every detail, every probability - culminate in eleven days locked up in the National Coinage and Stamp Factory of Spain, surrounded by police forces and with dozens of hostages in their power, to find out whether their suicide wager will lead to everything or nothing.",
+      "releaseInfo": "2017–2021",
+      "imdbRating": "8.2"
+    },
+    {
       "id": "tt11198330",
       "type": "series",
       "name": "House of the Dragon",
@@ -401,17 +390,6 @@
       "background": "https://images.metahub.space/background/medium/tt11198330/img",
       "logo": "https://images.metahub.space/logo/medium/tt11198330/img",
       "description": "An internal succession war within House Targaryen at the height of its power, 172 years before the birth of Daenerys Targaryen.",
-      "releaseInfo": "2022–",
-      "imdbRating": "8.2"
-    },
-    {
-      "id": "tt15469618",
-      "type": "series",
-      "name": "Bad Sisters",
-      "poster": "https://images.metahub.space/poster/small/tt15469618/img",
-      "background": "https://images.metahub.space/background/medium/tt15469618/img",
-      "logo": "https://images.metahub.space/logo/medium/tt15469618/img",
-      "description": "The Garvey sisters are bound together by their parents' deaths and a promise to always protect one another.",
       "releaseInfo": "2022–",
       "imdbRating": "8.2"
     },
@@ -438,37 +416,15 @@
       "imdbRating": "8.2"
     },
     {
-      "id": "tt20873118",
+      "id": "tt9140554",
       "type": "series",
-      "name": "Suzhal - The Vortex",
-      "poster": "https://images.metahub.space/poster/small/tt20873118/img",
-      "background": "https://images.metahub.space/background/medium/tt20873118/img",
-      "logo": "https://images.metahub.space/logo/medium/tt20873118/img",
-      "description": "In a small South Indian town, a seemingly routine minor case explodes into a twisted crime thriller that rips apart its social fabric.",
-      "releaseInfo": "2022–",
+      "name": "Loki",
+      "poster": "https://images.metahub.space/poster/small/tt9140554/img",
+      "background": "https://images.metahub.space/background/medium/tt9140554/img",
+      "logo": "https://images.metahub.space/logo/medium/tt9140554/img",
+      "description": "The mercurial villain Loki resumes his role as the God of Mischief in a new series that takes place after the events of “Avengers: Endgame.”",
+      "releaseInfo": "2021–2023",
       "imdbRating": "8.2"
-    },
-    {
-      "id": "tt11761194",
-      "type": "series",
-      "name": "Power Book IV: Force",
-      "poster": "https://images.metahub.space/poster/small/tt11761194/img",
-      "background": "https://images.metahub.space/background/medium/tt11761194/img",
-      "logo": "https://images.metahub.space/logo/medium/tt11761194/img",
-      "description": "Follows Tommy Egan after he cuts ties and puts New York in his rearview mirror for good.",
-      "releaseInfo": "2022–2026",
-      "imdbRating": "8.1"
-    },
-    {
-      "id": "tt33332385",
-      "type": "series",
-      "name": "Widow's Bay",
-      "poster": "https://images.metahub.space/poster/small/tt33332385/img",
-      "background": "https://images.metahub.space/background/medium/tt33332385/img",
-      "logo": "https://images.metahub.space/logo/medium/tt33332385/img",
-      "description": "A skeptical mayor leads the superstitious residents of a cursed New England island.",
-      "releaseInfo": "2026–",
-      "imdbRating": "8.1"
     },
     {
       "id": "tt14688458",
@@ -482,14 +438,25 @@
       "imdbRating": "8.1"
     },
     {
-      "id": "tt38504111",
+      "id": "tt11761194",
       "type": "series",
-      "name": "Small Prophets",
-      "poster": "https://images.metahub.space/poster/small/tt38504111/img",
-      "background": "https://images.metahub.space/background/medium/tt38504111/img",
-      "logo": "https://images.metahub.space/logo/medium/tt38504111/img",
-      "description": "Eccentric Michael Sleep, whose darling partner, Clea, disappeared seven years ago, sets out to create Homunculi - magical prophesying spirits that can predict the future.",
-      "releaseInfo": "2026–",
+      "name": "Power Book IV: Force",
+      "poster": "https://images.metahub.space/poster/small/tt11761194/img",
+      "background": "https://images.metahub.space/background/medium/tt11761194/img",
+      "logo": "https://images.metahub.space/logo/medium/tt11761194/img",
+      "description": "Follows Tommy Egan after he cuts ties and puts New York in his rearview mirror for good.",
+      "releaseInfo": "2022–2026",
+      "imdbRating": "8.1"
+    },
+    {
+      "id": "tt0758790",
+      "type": "series",
+      "name": "The Tudors",
+      "poster": "https://images.metahub.space/poster/small/tt0758790/img",
+      "background": "https://images.metahub.space/background/medium/tt0758790/img",
+      "logo": "https://images.metahub.space/logo/medium/tt0758790/img",
+      "description": "Epic series reveals the scandalous life of a young king whose affairs and obsession with producing a male heir changed marriage, the church, and the world.",
+      "releaseInfo": "2007–2010",
       "imdbRating": "8.1"
     },
     {
@@ -504,14 +471,25 @@
       "imdbRating": "8.1"
     },
     {
-      "id": "tt11239552",
+      "id": "tt33332385",
       "type": "series",
-      "name": "Itaewon Class",
-      "poster": "https://images.metahub.space/poster/small/tt11239552/img",
-      "background": "https://images.metahub.space/background/medium/tt11239552/img",
-      "logo": "https://images.metahub.space/logo/medium/tt11239552/img",
-      "description": "An ex-con opens a street bar in Itaewon, while also seeking revenge on the family who was responsible for his father's death.",
-      "releaseInfo": "2020",
+      "name": "Widow's Bay",
+      "poster": "https://images.metahub.space/poster/small/tt33332385/img",
+      "background": "https://images.metahub.space/background/medium/tt33332385/img",
+      "logo": "https://images.metahub.space/logo/medium/tt33332385/img",
+      "description": "A skeptical mayor leads the superstitious residents of a cursed New England island.",
+      "releaseInfo": "2026–",
+      "imdbRating": "8.1"
+    },
+    {
+      "id": "tt4301160",
+      "type": "series",
+      "name": "Black Bird",
+      "poster": "https://images.metahub.space/poster/small/tt4301160/img",
+      "background": "https://images.metahub.space/background/medium/tt4301160/img",
+      "logo": "https://images.metahub.space/logo/medium/tt4301160/img",
+      "description": "Jimmy Keene is sentenced to 10 years in a minimum security prison but he cuts a deal with the FBI to befriend a suspected serial killer. Keene has to elicit a confession from Larry Hall to find the bodies of as many as eighteen wo...",
+      "releaseInfo": "2022",
       "imdbRating": "8.1"
     },
     {
@@ -537,14 +515,36 @@
       "imdbRating": "8.1"
     },
     {
-      "id": "tt4301160",
+      "id": "tt38504111",
       "type": "series",
-      "name": "Black Bird",
-      "poster": "https://images.metahub.space/poster/small/tt4301160/img",
-      "background": "https://images.metahub.space/background/medium/tt4301160/img",
-      "logo": "https://images.metahub.space/logo/medium/tt4301160/img",
-      "description": "Jimmy Keene is sentenced to 10 years in a minimum security prison but he cuts a deal with the FBI to befriend a suspected serial killer. Keene has to elicit a confession from Larry Hall to find the bodies of as many as eighteen wo...",
-      "releaseInfo": "2022",
+      "name": "Small Prophets",
+      "poster": "https://images.metahub.space/poster/small/tt38504111/img",
+      "background": "https://images.metahub.space/background/medium/tt38504111/img",
+      "logo": "https://images.metahub.space/logo/medium/tt38504111/img",
+      "description": "Eccentric Michael Sleep, whose darling partner, Clea, disappeared seven years ago, sets out to create Homunculi - magical prophesying spirits that can predict the future.",
+      "releaseInfo": "2026–",
+      "imdbRating": "8.1"
+    },
+    {
+      "id": "tt0914387",
+      "type": "series",
+      "name": "Damages",
+      "poster": "https://images.metahub.space/poster/small/tt0914387/img",
+      "background": "https://images.metahub.space/background/medium/tt0914387/img",
+      "logo": "https://images.metahub.space/logo/medium/tt0914387/img",
+      "description": "A law school graduate becomes the protégée of a successful high-stakes litigator.",
+      "releaseInfo": "2007–2012",
+      "imdbRating": "8.1"
+    },
+    {
+      "id": "tt5700398",
+      "type": "series",
+      "name": "Siya Ke Ram",
+      "poster": "https://images.metahub.space/poster/small/tt5700398/img",
+      "background": "https://images.metahub.space/background/medium/tt5700398/img",
+      "logo": "https://images.metahub.space/logo/medium/tt5700398/img",
+      "description": "Traces the story of ramayan character Sita from a very different perspective. For the first time the story is televised in this detail.",
+      "releaseInfo": "2015–2016",
       "imdbRating": "8.1"
     }
   ]
