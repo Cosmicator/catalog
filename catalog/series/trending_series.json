@@ -391,16 +391,6 @@
       "imdbRating": 6.5
     },
     {
-      "id": "tt10732104",
-      "type": "series",
-      "name": "Power Book II: Ghost",
-      "poster": "https://images.metahub.space/poster/medium/tt10732104/img",
-      "background": "https://images.metahub.space/background/medium/tt10732104/img",
-      "description": "The journey of some of Power's most controversial characters.",
-      "releaseInfo": 2020,
-      "imdbRating": 7.5
-    },
-    {
       "id": "tt34809853",
       "type": "series",
       "name": "Teach You a Lesson",
@@ -499,6 +489,16 @@
       "description": "India's Got Latent is an Indian Hindi comedy talent show hosted by Samay Raina on YouTube. Inspired by the international Got Talent franchise and Kill Tony, it features a wide variety of acts including singing, dancing, magic, and comedy.",
       "releaseInfo": 2024,
       "imdbRating": 8.8
+    },
+    {
+      "id": "tt9544034",
+      "type": "series",
+      "name": "The Family Man",
+      "poster": "https://images.metahub.space/poster/medium/tt9544034/img",
+      "background": "https://images.metahub.space/background/medium/tt9544034/img",
+      "description": "The story of a middle-class man who works for a special cell of the National Investigation Agency. While he tries to protect the nation from terrorists, he also has to protect his family from the impact of his secretive, high-pressure, and low paying job.",
+      "releaseInfo": 2019,
+      "imdbRating": 8.6
     }
   ]
 }

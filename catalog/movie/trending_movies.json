@@ -51,6 +51,16 @@
       "imdbRating": 7.4
     },
     {
+      "id": "tt33318732",
+      "type": "movie",
+      "name": "Jailer 2",
+      "poster": "https://images.metahub.space/poster/medium/tt33318732/img",
+      "background": "https://images.metahub.space/background/medium/tt33318732/img",
+      "description": "When a dangerous syndicate expands its reach to threaten his family's peace, retired jailer Tiger Muthuvel Pandian goes undercover as a driver. Operating from the shadows, he takes on ruthless new enemies to protect his home.",
+      "releaseInfo": 2026,
+      "imdbRating": 8.1
+    },
+    {
       "id": "tt34339725",
       "type": "movie",
       "name": "Mirzapur: The Movie",
@@ -71,16 +81,6 @@
       "imdbRating": 5
     },
     {
-      "id": "tt31036941",
-      "type": "movie",
-      "name": "Jurassic World: Rebirth",
-      "poster": "https://images.metahub.space/poster/medium/tt31036941/img",
-      "background": "https://images.metahub.space/background/medium/tt31036941/img",
-      "description": "Five years post-Jurassic World: Dominion (2022), an expedition braves isolated equatorial regions to extract DNA from three massive prehistoric creatures for a groundbreaking medical breakthrough.",
-      "releaseInfo": 2025,
-      "imdbRating": 5.8
-    },
-    {
       "id": "tt38265603",
       "type": "movie",
       "name": "Pradhama Drishtiya Kuttakkar",
@@ -91,6 +91,16 @@
       "imdbRating": 7.4
     },
     {
+      "id": "tt31036941",
+      "type": "movie",
+      "name": "Jurassic World: Rebirth",
+      "poster": "https://images.metahub.space/poster/medium/tt31036941/img",
+      "background": "https://images.metahub.space/background/medium/tt31036941/img",
+      "description": "Five years post-Jurassic World: Dominion (2022), an expedition braves isolated equatorial regions to extract DNA from three massive prehistoric creatures for a groundbreaking medical breakthrough.",
+      "releaseInfo": 2025,
+      "imdbRating": 5.8
+    },
+    {
       "id": "tt43716419",
       "type": "movie",
       "name": "Baa Baa Black Sheep",
@@ -98,7 +108,7 @@
       "background": "https://images.metahub.space/background/medium/tt43716419/img",
       "description": "A single misplaced object sets off a wild 24-hour chain reaction, sweeping six strangers into chaotic fun. As it changes hands, petty blunders and comic mix-ups collide, forging unexpected connections that upend all their lives forever.",
       "releaseInfo": 2026,
-      "imdbRating": 9.4
+      "imdbRating": 9.3
     },
     {
       "id": "tt37803364",
@@ -181,16 +191,6 @@
       "imdbRating": 7.7
     },
     {
-      "id": "tt39400218",
-      "type": "movie",
-      "name": "Cerita Lila",
-      "poster": "https://images.metahub.space/poster/medium/tt39400218/img",
-      "background": "https://images.metahub.space/background/medium/tt39400218/img",
-      "description": "Following a fatal history of severe maternal domestic abuse, the discarnate spirit of a young twin navigates the afterlife in a desperate search for her separated sister, uncovering a clandestine metaphysical conspiracy designed to obscure the truth of their deaths.",
-      "releaseInfo": 2026,
-      "imdbRating": 5.7
-    },
-    {
       "id": "tt11663228",
       "type": "movie",
       "name": "Jailer",
@@ -231,14 +231,14 @@
       "imdbRating": 6.6
     },
     {
-      "id": "tt41221277",
+      "id": "tt39400218",
       "type": "movie",
-      "name": "Anakapalli",
-      "poster": "https://images.metahub.space/poster/medium/tt41221277/img",
-      "background": "https://images.metahub.space/background/medium/tt41221277/img",
-      "description": "In rural Anakapalli, a young man enters the criminal underworld under a feared gangster. When love arrives, he faces a choice between power, loyalty, and his former dreams in this tale of action and destiny.",
+      "name": "Cerita Lila",
+      "poster": "https://images.metahub.space/poster/medium/tt39400218/img",
+      "background": "https://images.metahub.space/background/medium/tt39400218/img",
+      "description": "Following a fatal history of severe maternal domestic abuse, the discarnate spirit of a young twin navigates the afterlife in a desperate search for her separated sister, uncovering a clandestine metaphysical conspiracy designed to obscure the truth of their deaths.",
       "releaseInfo": 2026,
-      "imdbRating": 6.7
+      "imdbRating": 5.7
     },
     {
       "id": "tt0118571",
@@ -291,16 +291,6 @@
       "imdbRating": 8
     },
     {
-      "id": "tt46060457",
-      "type": "movie",
-      "name": "The Swan: Behind the Mirror",
-      "poster": "https://images.metahub.space/poster/medium/tt46060457/img",
-      "background": "https://images.metahub.space/background/medium/tt46060457/img",
-      "description": "A look at the controversial 2004 reality series The Swan, which took self-proclaimed 'ugly ducklings' and set out to make them... not that.",
-      "releaseInfo": 2026,
-      "imdbRating": 6.2
-    },
-    {
       "id": "tt11311958",
       "type": "movie",
       "name": "Mookuthi Amman",
@@ -351,6 +341,26 @@
       "imdbRating": 8.8
     },
     {
+      "id": "tt46060457",
+      "type": "movie",
+      "name": "The Swan: Behind the Mirror",
+      "poster": "https://images.metahub.space/poster/medium/tt46060457/img",
+      "background": "https://images.metahub.space/background/medium/tt46060457/img",
+      "description": "A look at the controversial 2004 reality series The Swan, which took self-proclaimed 'ugly ducklings' and set out to make them... not that.",
+      "releaseInfo": 2026,
+      "imdbRating": 6.2
+    },
+    {
+      "id": "tt50107649",
+      "type": "movie",
+      "name": "Dilwali Diwali",
+      "poster": "https://images.metahub.space/poster/medium/tt50107649/img",
+      "background": "https://images.metahub.space/background/medium/tt50107649/img",
+      "description": "Ansh Sikkha returns to his Punjabi family home for Diwali after years working abroad. As the Sikkas gather for the festival, their clashing views on what constitutes a fulfilling life create friction and connection.",
+      "releaseInfo": 2026,
+      "imdbRating": 5.8
+    },
+    {
       "id": "tt39139925",
       "type": "movie",
       "name": "Dhurandhar: The Revenge",
@@ -389,6 +399,16 @@
       "description": "After a terrified toy salesman is mysteriously attacked and brought to the hospital clutching the year's most popular Halloween mask, Dr. Daniel Challis sets out to investigate the strange events and finds himself thrust into a nightmarish conspiracy.",
       "releaseInfo": 1982,
       "imdbRating": 5.2
+    },
+    {
+      "id": "tt12583926",
+      "type": "movie",
+      "name": "Anniversary",
+      "poster": "https://images.metahub.space/poster/medium/tt12583926/img",
+      "background": "https://images.metahub.space/background/medium/tt12583926/img",
+      "description": "A close-knit family is caught in the turmoil of a controversial rising movement known as \"The Change.” Ellen and Paul witness their lives fall apart when Ellen's former student Liz reappears and starts dating their son. As Liz becomes a part of the Taylor family, tensions rise and loyalties are tested.",
+      "releaseInfo": 2025,
+      "imdbRating": 6.7
     },
     {
       "id": "tt13751694",
@@ -431,6 +451,16 @@
       "imdbRating": 6.3
     },
     {
+      "id": "tt0084516",
+      "type": "movie",
+      "name": "Poltergeist",
+      "poster": "https://images.metahub.space/poster/medium/tt0084516/img",
+      "background": "https://images.metahub.space/background/medium/tt0084516/img",
+      "description": "The Freelings' suburban home becomes the center of paranormal activity that opens a portal to the 'other side'. With help, they must cross over to get their daughter back.",
+      "releaseInfo": 1982,
+      "imdbRating": 7.3
+    },
+    {
       "id": "tt37458193",
       "type": "movie",
       "name": "Minha Melhor Amiga",
@@ -441,14 +471,14 @@
       "imdbRating": 6.1
     },
     {
-      "id": "tt0084516",
+      "id": "tt0126029",
       "type": "movie",
-      "name": "Poltergeist",
-      "poster": "https://images.metahub.space/poster/medium/tt0084516/img",
-      "background": "https://images.metahub.space/background/medium/tt0084516/img",
-      "description": "The Freelings' suburban home becomes the center of paranormal activity that opens a portal to the 'other side'. With help, they must cross over to get their daughter back.",
-      "releaseInfo": 1982,
-      "imdbRating": 7.3
+      "name": "Shrek",
+      "poster": "https://images.metahub.space/poster/medium/tt0126029/img",
+      "background": "https://images.metahub.space/background/medium/tt0126029/img",
+      "description": "It ain't easy bein' green -- especially if you're a likable (albeit smelly) ogre named Shrek. On a mission to retrieve a gorgeous princess from the clutches of a fire-breathing dragon, Shrek teams up with an unlikely compatriot -- a wisecracking donkey.",
+      "releaseInfo": 2001,
+      "imdbRating": 7.9
     },
     {
       "id": "tt0083658",
@@ -461,44 +491,14 @@
       "imdbRating": 8.1
     },
     {
-      "id": "tt41790460",
+      "id": "tt41221277",
       "type": "movie",
-      "name": "Agadha",
-      "poster": "https://images.metahub.space/poster/medium/tt41790460/img",
-      "background": "https://images.metahub.space/background/medium/tt41790460/img",
-      "description": "A solitary girl encounters a towering twelve-handed mystical idol in a torch lit shadowy cave, creating an atmosphere of spirituality and dark intrigue.",
+      "name": "Anakapalli",
+      "poster": "https://images.metahub.space/poster/medium/tt41221277/img",
+      "background": "https://images.metahub.space/background/medium/tt41221277/img",
+      "description": "In rural Anakapalli, a young man enters the criminal underworld under a feared gangster. When love arrives, he faces a choice between power, loyalty, and his former dreams in this tale of action and destiny.",
       "releaseInfo": 2026,
-      "imdbRating": 5.1
-    },
-    {
-      "id": "tt0107798",
-      "type": "movie",
-      "name": "The Pelican Brief",
-      "poster": "https://images.metahub.space/poster/medium/tt0107798/img",
-      "background": "https://images.metahub.space/background/medium/tt0107798/img",
-      "description": "A law student's theory about the recent deaths of two Supreme Court justices embroils her in a far-reaching web of murder, corruption, and greed.",
-      "releaseInfo": 1993,
-      "imdbRating": 6.7
-    },
-    {
-      "id": "tt0338348",
-      "type": "movie",
-      "name": "The Polar Express",
-      "poster": "https://images.metahub.space/poster/medium/tt0338348/img",
-      "background": "https://images.metahub.space/background/medium/tt0338348/img",
-      "description": "When a doubting young boy takes an extraordinary train ride to the North Pole, he embarks on a journey of self-discovery that shows him that the wonder of life never fades for those who believe.",
-      "releaseInfo": 2004,
-      "imdbRating": 6.6
-    },
-    {
-      "id": "tt0252503",
-      "type": "movie",
-      "name": "Heist",
-      "poster": "https://images.metahub.space/poster/medium/tt0252503/img",
-      "background": "https://images.metahub.space/background/medium/tt0252503/img",
-      "description": "Joe Moore has a job he loves. He's a thief. His job goes sour when he gets caught on security camera tape. His fence, Bergman, reneges on the money he's owed, and his wife may be betraying him with the fence's young lieutenant. Moore and his partner, Bobby Blane, and their utility man, Pinky Pincus, find themselves broke, betrayed, and blackmailed. Moore is forced to commit his crew to do one last big job.",
-      "releaseInfo": 2001,
-      "imdbRating": 6.5
+      "imdbRating": 6.1
     }
   ]
 }
