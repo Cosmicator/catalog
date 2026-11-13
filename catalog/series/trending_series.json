@@ -181,16 +181,6 @@
       "imdbRating": 9.1
     },
     {
-      "id": "tt4574334",
-      "type": "series",
-      "name": "Stranger Things",
-      "poster": "https://images.metahub.space/poster/medium/tt4574334/img",
-      "background": "https://images.metahub.space/background/medium/tt4574334/img",
-      "description": "When a young boy vanishes, a small town uncovers a mystery involving secret experiments, terrifying supernatural forces, and one strange little girl.",
-      "releaseInfo": 2016,
-      "imdbRating": 8.6
-    },
-    {
       "id": "tt9813792",
       "type": "series",
       "name": "FROM",
@@ -199,6 +189,16 @@
       "description": "Unravel the mystery of a nightmarish town in middle America that traps all those who enter. As the unwilling residents fight to keep a sense of normalcy and search for a way out, they must also survive the threats of the surrounding forest – including the terrifying creatures that come out when the sun goes down.",
       "releaseInfo": 2022,
       "imdbRating": 7.7
+    },
+    {
+      "id": "tt4574334",
+      "type": "series",
+      "name": "Stranger Things",
+      "poster": "https://images.metahub.space/poster/medium/tt4574334/img",
+      "background": "https://images.metahub.space/background/medium/tt4574334/img",
+      "description": "When a young boy vanishes, a small town uncovers a mystery involving secret experiments, terrifying supernatural forces, and one strange little girl.",
+      "releaseInfo": 2016,
+      "imdbRating": 8.6
     },
     {
       "id": "tt10839422",
@@ -351,6 +351,16 @@
       "imdbRating": 7.5
     },
     {
+      "id": "tt18278410",
+      "type": "series",
+      "name": "Titans: The Rise of Wall Street",
+      "poster": "https://images.metahub.space/poster/medium/tt18278410/img",
+      "background": "https://images.metahub.space/background/medium/tt18278410/img",
+      "description": "Money made America a global empire and for the last 150 years America’s riches have been controlled by the titans of Wall Street.",
+      "releaseInfo": 2022,
+      "imdbRating": 7.4
+    },
+    {
       "id": "tt7587890",
       "type": "series",
       "name": "The Rookie",
@@ -471,16 +481,6 @@
       "imdbRating": 8.2
     },
     {
-      "id": "tt45712181",
-      "type": "series",
-      "name": "Indian Game Show",
-      "poster": "https://images.metahub.space/poster/medium/tt45712181/img",
-      "background": "https://images.metahub.space/background/medium/tt45712181/img",
-      "description": "The Indian Game Show is a high-energy comedy game show created and hosted by Bharti Singh and Haarsh Limbachiyaa. Featuring popular television actors, choreographers, musicians, and social media influencers, contestants face off in physical stunts, comedy challenges, and quirky tasks to win prizes while avoiding hilarious punishments",
-      "releaseInfo": 2021,
-      "imdbRating": 8.4
-    },
-    {
       "id": "tt1586680",
       "type": "series",
       "name": "Shameless",
@@ -491,14 +491,14 @@
       "imdbRating": 8.5
     },
     {
-      "id": "tt26915338",
+      "id": "tt37180305",
       "type": "series",
-      "name": "Gyaarah Gyaarah",
-      "poster": "https://images.metahub.space/poster/medium/tt26915338/img",
-      "background": "https://images.metahub.space/background/medium/tt26915338/img",
-      "description": "Investigative drama following events in 1990, 2001, 2016. Intertwining storylines blending mysticism, science and mystery across the decades.",
-      "releaseInfo": 2024,
-      "imdbRating": 8.1
+      "name": "Friends Sex and Games",
+      "poster": "https://images.metahub.space/poster/medium/tt37180305/img",
+      "background": "https://images.metahub.space/background/medium/tt37180305/img",
+      "description": "A group of friends starts a daring game. Everyone throws their keys into a bowl—whoever picks one spends the night with the owner of that key.",
+      "releaseInfo": 2026,
+      "imdbRating": 5.2
     }
   ]
 }

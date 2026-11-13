@@ -306,7 +306,7 @@
       "name": "The Good Lawyer",
       "poster": "https://images.metahub.space/poster/medium/tt39453578/img",
       "background": "https://images.metahub.space/background/medium/tt39453578/img",
-      "description": "Léonard Landry, a flamboyant criminal defence lawyer, overdoses in the middle of the courtroom. After undergoing rehab, he has one week to save his career and prepare for his own trial, reluctantly assisted by a tenacious intern, Noé. This marks the beginning of a frantic race involving legal manoeuvres, temptations and dramatic twists.",
+      "description": "After a courtroom overdose lands him in rehab, a lawyer has one week to save his career and prepare for his own trial, with the help of a dogged intern.",
       "releaseInfo": 2026,
       "imdbRating": 6.5
     },
@@ -368,7 +368,7 @@
       "background": "https://images.metahub.space/background/medium/tt30050236/img",
       "description": "Siddharth, an atheist skeptical of the supernatural, investigates a series of mysterious deaths in Mahendragiri attributed to the goddess Vaaraahi.",
       "releaseInfo": 2026,
-      "imdbRating": 7.5
+      "imdbRating": 7.4
     },
     {
       "id": "tt0060550",
@@ -391,16 +391,6 @@
       "imdbRating": 5.2
     },
     {
-      "id": "tt32089596",
-      "type": "movie",
-      "name": "Comrade Kalyan",
-      "poster": "https://images.metahub.space/poster/medium/tt32089596/img",
-      "background": "https://images.metahub.space/background/medium/tt32089596/img",
-      "description": "In a naxal-dominated village on the Andhra-Odisha border, a theatre owner uses communist sentiment to keep his old cinema running. He joins the naxals and kidnaps a leader, setting off a chain of events.",
-      "releaseInfo": 2026,
-      "imdbRating": 7.7
-    },
-    {
       "id": "tt33014583",
       "type": "movie",
       "name": "Dhurandhar",
@@ -409,16 +399,6 @@
       "description": "In the early 2000s, an undercover operative infiltrates Karachi's underworld, breaking into its inner circle to dismantle a violent nexus from within.",
       "releaseInfo": 2025,
       "imdbRating": 8.2
-    },
-    {
-      "id": "tt38907371",
-      "type": "movie",
-      "name": "Oh..! Sukumari",
-      "poster": "https://images.metahub.space/poster/medium/tt38907371/img",
-      "background": "https://images.metahub.space/background/medium/tt38907371/img",
-      "description": "Follows an aspiring politician who falls in love with Sukumari, a beautiful and soft-natured woman, while her father conceals a secret that threatens their relationship.",
-      "releaseInfo": 2026,
-      "imdbRating": 4.6
     },
     {
       "id": "tt0084516",
@@ -439,6 +419,16 @@
       "description": "A close-knit family is caught in the turmoil of a controversial rising movement known as \"The Change.” Ellen and Paul witness their lives fall apart when Ellen's former student Liz reappears and starts dating their son. As Liz becomes a part of the Taylor family, tensions rise and loyalties are tested.",
       "releaseInfo": 2025,
       "imdbRating": 6.7
+    },
+    {
+      "id": "tt32089596",
+      "type": "movie",
+      "name": "Comrade Kalyan",
+      "poster": "https://images.metahub.space/poster/medium/tt32089596/img",
+      "background": "https://images.metahub.space/background/medium/tt32089596/img",
+      "description": "In a naxal-dominated village on the Andhra-Odisha border, a theatre owner uses communist sentiment to keep his old cinema running. He joins the naxals and kidnaps a leader, setting off a chain of events.",
+      "releaseInfo": 2026,
+      "imdbRating": 7.6
     },
     {
       "id": "tt41790460",
@@ -479,6 +469,16 @@
       "description": "A clash of ideologies. One stands for the people, the other feeds on control. Their paths collided once before. Years later, a child’s silent fear ignites the past, drawing a former police officer into a battle far bigger than personal revenge.",
       "releaseInfo": 2026,
       "imdbRating": 5.1
+    },
+    {
+      "id": "tt7181546",
+      "type": "movie",
+      "name": "Ballerina",
+      "poster": "https://images.metahub.space/poster/medium/tt7181546/img",
+      "background": "https://images.metahub.space/background/medium/tt7181546/img",
+      "description": "Taking place during the events of John Wick: Chapter 3 – Parabellum, Eve Macarro begins her training in the assassin traditions of the Ruska Roma.",
+      "releaseInfo": 2025,
+      "imdbRating": 6.8
     },
     {
       "id": "tt39400541",
