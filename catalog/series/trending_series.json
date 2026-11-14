@@ -381,16 +381,6 @@
       "imdbRating": 0
     },
     {
-      "id": "tt12004706",
-      "type": "series",
-      "name": "Panchayat",
-      "poster": "https://images.metahub.space/poster/medium/tt12004706/img",
-      "background": "https://images.metahub.space/background/medium/tt12004706/img",
-      "description": "A comedy-drama, which captures the journey of an engineering graduate Abhishek, who for lack of a better job option joins as secretary of a Panchayat office in a remote village of Uttar Pradesh.",
-      "releaseInfo": 2020,
-      "imdbRating": 9
-    },
-    {
       "id": "tt27995115",
       "type": "series",
       "name": "The Devil's Plan",
@@ -408,6 +398,16 @@
       "background": "https://images.metahub.space/background/medium/tt0386676/img",
       "description": "A mockumentary on a group of typical office workers, where the workday consists of ego clashes, inappropriate behavior, tedium and romance.",
       "releaseInfo": 2005,
+      "imdbRating": 9
+    },
+    {
+      "id": "tt12004706",
+      "type": "series",
+      "name": "Panchayat",
+      "poster": "https://images.metahub.space/poster/medium/tt12004706/img",
+      "background": "https://images.metahub.space/background/medium/tt12004706/img",
+      "description": "A comedy-drama, which captures the journey of an engineering graduate Abhishek, who for lack of a better job option joins as secretary of a Panchayat office in a remote village of Uttar Pradesh.",
+      "releaseInfo": 2020,
       "imdbRating": 9
     },
     {

@@ -151,6 +151,16 @@
       "imdbRating": 2.5
     },
     {
+      "id": "tt31036941",
+      "type": "movie",
+      "name": "Jurassic World: Rebirth",
+      "poster": "https://images.metahub.space/poster/medium/tt31036941/img",
+      "background": "https://images.metahub.space/background/medium/tt31036941/img",
+      "description": "Five years post-Jurassic World: Dominion (2022), an expedition braves isolated equatorial regions to extract DNA from three massive prehistoric creatures for a groundbreaking medical breakthrough.",
+      "releaseInfo": 2025,
+      "imdbRating": 5.8
+    },
+    {
       "id": "tt32588798",
       "type": "movie",
       "name": "Practical Magic 2",
@@ -489,16 +499,6 @@
       "description": "Join the Peanuts gang for a timeless adventure as Charlie Brown preps for a party, Snoopy sets his sights on the Red Baron, and Linus patiently awaits a pumpkin patch miracle.",
       "releaseInfo": 1966,
       "imdbRating": 8.1
-    },
-    {
-      "id": "tt0085636",
-      "type": "movie",
-      "name": "Halloween III: Season of the Witch",
-      "poster": "https://images.metahub.space/poster/medium/tt0085636/img",
-      "background": "https://images.metahub.space/background/medium/tt0085636/img",
-      "description": "After a terrified toy salesman is mysteriously attacked and brought to the hospital clutching the year's most popular Halloween mask, Dr. Daniel Challis sets out to investigate the strange events and finds himself thrust into a nightmarish conspiracy.",
-      "releaseInfo": 1982,
-      "imdbRating": 5.2
     }
   ]
 }
