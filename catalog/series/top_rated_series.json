@@ -408,17 +408,6 @@
       "imdbRating": "8.2"
     },
     {
-      "id": "tt19386538",
-      "type": "series",
-      "name": "Mussolini: Son of the Century",
-      "poster": "https://images.metahub.space/poster/small/tt19386538/img",
-      "background": "https://images.metahub.space/background/medium/tt19386538/img",
-      "logo": "https://images.metahub.space/logo/medium/tt19386538/img",
-      "description": "Benito Mussolini's early career from his founding of the Fasci Italiani in 1919 up to the assassination of socialist politician Giacomo Matteotti in 1924 and his speech in Parliament on 3 January 1925.",
-      "releaseInfo": "2024–2025",
-      "imdbRating": "8.2"
-    },
-    {
       "id": "tt14688458",
       "type": "series",
       "name": "Silo",
@@ -548,6 +537,17 @@
       "logo": "https://images.metahub.space/logo/medium/tt7587890/img",
       "description": "Starting over isn't easy, especially for John Nolan who, after a life-altering incident, is pursuing his dream of joining the LAPD. As their oldest rookie, he's met with skepticism from those who see him as just a walking midlife ...",
       "releaseInfo": "2018–",
+      "imdbRating": "8.0"
+    },
+    {
+      "id": "tt23649128",
+      "type": "series",
+      "name": "The Studio",
+      "poster": "https://images.metahub.space/poster/small/tt23649128/img",
+      "background": "https://images.metahub.space/background/medium/tt23649128/img",
+      "logo": "https://images.metahub.space/logo/medium/tt23649128/img",
+      "description": "Follows a legacy Hollywood movie studio striving to survive in a world where it is increasingly difficult for art and business to live together.",
+      "releaseInfo": "2025–",
       "imdbRating": "8.0"
     }
   ]
