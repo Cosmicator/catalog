@@ -8,7 +8,7 @@
       "background": "https://images.metahub.space/background/medium/tt39943756/img",
       "description": "Lois arrives in Belrose with Max, the love of her life. Lane, the creator of Campus Drivers, the hottest app on campus, is known for never getting attached. Their paths were never meant to cross. But some encounters change everything, reopening old wounds. And when love appears unexpectedly, nothing is certain anymore.",
       "releaseInfo": 2026,
-      "imdbRating": 7.4
+      "imdbRating": 7.3
     },
     {
       "id": "tt1281973",
@@ -48,7 +48,7 @@
       "background": "https://images.metahub.space/background/medium/tt8014982/img",
       "description": "A group of misbehaving Catholic school girls experience prophetic visions after a dance-team initiation goes wrong, triggering mass hysteria throughout their town.",
       "releaseInfo": 2026,
-      "imdbRating": 6.9
+      "imdbRating": 7.4
     },
     {
       "id": "tt7631058",
@@ -81,34 +81,14 @@
       "imdbRating": 8.3
     },
     {
-      "id": "tt27485777",
+      "id": "tt33094114",
       "type": "series",
-      "name": "Erotic Stories",
-      "poster": "https://images.metahub.space/poster/medium/tt27485777/img",
-      "background": "https://images.metahub.space/background/medium/tt27485777/img",
-      "description": "Erotic Stories is a bold and transgressive anthology series exploring sex and intimacy amongst diverse characters not traditionally seen as sexual leads.",
-      "releaseInfo": 2023,
-      "imdbRating": 5.2
-    },
-    {
-      "id": "tt37762350",
-      "type": "series",
-      "name": "Palace",
-      "poster": "https://images.metahub.space/poster/medium/tt37762350/img",
-      "background": "https://images.metahub.space/background/medium/tt37762350/img",
-      "description": "November 1985: The armed group, M-19, storms the Palace of Justice in Bogotá, unleashing a wave of violence that would change Colombia forever. Amid crossfire, desperate hostages, an unrelenting army, and a guerrilla movement ready to risk everything, the nation watches as war tears through the heart of its capital for the first time. The 27 hours of horror would be followed by 40 years of unanswered questions.",
-      "releaseInfo": 2026,
-      "imdbRating": 6.6
-    },
-    {
-      "id": "tt27995113",
-      "type": "series",
-      "name": "Black Doves",
-      "poster": "https://images.metahub.space/poster/medium/tt27995113/img",
-      "background": "https://images.metahub.space/background/medium/tt27995113/img",
-      "description": "When a spy posing as a politician's wife learns her lover has been murdered, an old assassin friend joins her on a quest for truth — and vengeance.",
+      "name": "India's Got Latent",
+      "poster": "https://images.metahub.space/poster/medium/tt33094114/img",
+      "background": "https://images.metahub.space/background/medium/tt33094114/img",
+      "description": "India's Got Latent is an Indian Hindi comedy talent show hosted by Samay Raina on YouTube. Inspired by the international Got Talent franchise and Kill Tony, it features a wide variety of acts including singing, dancing, magic, and comedy.",
       "releaseInfo": 2024,
-      "imdbRating": 7.2
+      "imdbRating": 8.8
     },
     {
       "id": "tt45246384",
@@ -121,16 +101,6 @@
       "imdbRating": 8
     },
     {
-      "id": "tt49522873",
-      "type": "series",
-      "name": "Duniya Ki Thain Thain",
-      "poster": "https://images.metahub.space/poster/medium/tt49522873/img",
-      "background": "https://images.metahub.space/background/medium/tt49522873/img",
-      "description": "A battle for supremacy in a town ruled by crime and politics, where a young shooter's love leads him to glory, ruin, and a truth darker than betrayal.",
-      "releaseInfo": 2026,
-      "imdbRating": 6.7
-    },
-    {
       "id": "tt35304338",
       "type": "series",
       "name": "Study Group",
@@ -141,14 +111,34 @@
       "imdbRating": 8.2
     },
     {
-      "id": "tt7441658",
+      "id": "tt27485777",
       "type": "series",
-      "name": "Black Clover",
-      "poster": "https://images.metahub.space/poster/medium/tt7441658/img",
-      "background": "https://images.metahub.space/background/medium/tt7441658/img",
-      "description": "Asta and Yuno were abandoned together at the same church and have been inseparable since. As children, they promised that they would compete against each other to see who would become the next Emperor Magus.",
-      "releaseInfo": 2017,
-      "imdbRating": 8.3
+      "name": "Erotic Stories",
+      "poster": "https://images.metahub.space/poster/medium/tt27485777/img",
+      "background": "https://images.metahub.space/background/medium/tt27485777/img",
+      "description": "Erotic Stories is a bold and transgressive anthology series exploring sex and intimacy amongst diverse characters not traditionally seen as sexual leads.",
+      "releaseInfo": 2023,
+      "imdbRating": 5.2
+    },
+    {
+      "id": "tt13854248",
+      "type": "series",
+      "name": "The Legend of Hanuman",
+      "poster": "https://images.metahub.space/poster/medium/tt13854248/img",
+      "background": "https://images.metahub.space/background/medium/tt13854248/img",
+      "description": "When the power-hungry Ravan tore through the world to unleash evil, in his way stood a humble vaanar awoken to his divinity to become an immortal legend.",
+      "releaseInfo": 2021,
+      "imdbRating": 9.1
+    },
+    {
+      "id": "tt6473300",
+      "type": "series",
+      "name": "Mirzapur",
+      "poster": "https://images.metahub.space/poster/medium/tt6473300/img",
+      "background": "https://images.metahub.space/background/medium/tt6473300/img",
+      "description": "The iron-fisted Akhandanand Tripathi is a millionaire carpet exporter and the mafia don of Mirzapur. His son, Munna, is an unworthy, power-hungry heir who will stop at nothing to inherit his father's legacy. An incident at a wedding procession forces him to cross paths with Ramakant Pandit, an upstanding lawyer, and his sons, Guddu and Bablu. It snowballs into a game of ambition, power and greed that threatens the fabric of this lawless city.",
+      "releaseInfo": 2018,
+      "imdbRating": 8.4
     },
     {
       "id": "tt0944947",
@@ -161,14 +151,14 @@
       "imdbRating": 9.2
     },
     {
-      "id": "tt33546863",
+      "id": "tt7441658",
       "type": "series",
-      "name": "Off Campus",
-      "poster": "https://images.metahub.space/poster/medium/tt33546863/img",
-      "background": "https://images.metahub.space/background/medium/tt33546863/img",
-      "description": "A college-set romantic drama chronicling the unexpected love story between a music student and the university's star hockey player, exploring themes of love and the complexities of adulthood through deep friendships and enduring bonds.",
-      "releaseInfo": 2026,
-      "imdbRating": 7.8
+      "name": "Black Clover",
+      "poster": "https://images.metahub.space/poster/medium/tt7441658/img",
+      "background": "https://images.metahub.space/background/medium/tt7441658/img",
+      "description": "Asta and Yuno were abandoned together at the same church and have been inseparable since. As children, they promised that they would compete against each other to see who would become the next Emperor Magus.",
+      "releaseInfo": 2017,
+      "imdbRating": 8.3
     },
     {
       "id": "tt4574334",
@@ -181,14 +171,14 @@
       "imdbRating": 8.6
     },
     {
-      "id": "tt13854248",
+      "id": "tt33546863",
       "type": "series",
-      "name": "The Legend of Hanuman",
-      "poster": "https://images.metahub.space/poster/medium/tt13854248/img",
-      "background": "https://images.metahub.space/background/medium/tt13854248/img",
-      "description": "When the power-hungry Ravan tore through the world to unleash evil, in his way stood a humble vaanar awoken to his divinity to become an immortal legend.",
-      "releaseInfo": 2021,
-      "imdbRating": 9.1
+      "name": "Off Campus",
+      "poster": "https://images.metahub.space/poster/medium/tt33546863/img",
+      "background": "https://images.metahub.space/background/medium/tt33546863/img",
+      "description": "A college-set romantic drama chronicling the unexpected love story between a music student and the university's star hockey player, exploring themes of love and the complexities of adulthood through deep friendships and enduring bonds.",
+      "releaseInfo": 2026,
+      "imdbRating": 7.8
     },
     {
       "id": "tt9813792",
@@ -211,14 +201,14 @@
       "imdbRating": 8.2
     },
     {
-      "id": "tt6473300",
+      "id": "tt3212600",
       "type": "series",
-      "name": "Mirzapur",
-      "poster": "https://images.metahub.space/poster/medium/tt6473300/img",
-      "background": "https://images.metahub.space/background/medium/tt6473300/img",
-      "description": "The iron-fisted Akhandanand Tripathi is a millionaire carpet exporter and the mafia don of Mirzapur. His son, Munna, is an unworthy, power-hungry heir who will stop at nothing to inherit his father's legacy. An incident at a wedding procession forces him to cross paths with Ramakant Pandit, an upstanding lawyer, and his sons, Guddu and Bablu. It snowballs into a game of ambition, power and greed that threatens the fabric of this lawless city.",
-      "releaseInfo": 2018,
-      "imdbRating": 8.4
+      "name": "Mahabharatham",
+      "poster": "https://images.metahub.space/poster/medium/tt3212600/img",
+      "background": "https://images.metahub.space/background/medium/tt3212600/img",
+      "description": "Mahabharat is a 2013 drama TV series on Star Plus based on Indian legendary epic of the same name. It has been produced by Swastik Pictures and features actors such as Saurabh Raj Jain as Lord Krishna, Shaheer Sheikh as Arjuna, Pooja Sharma as Draupadi, Aham Sharma as Karna and Arav Chowdhary as Bhishma Pitamah. The producers had creative associations with writer Salim Khan, author Devdutt Pattanaik, designer Bhanu Athaiya, music directors Ajay-Atul and Ismail Darbar, action director Ram Shetty and set designer Omang Kumar. The casting of the show is done by Sahil Ansari, Mahesh Chandra Bhatt, Arun Mitra. It started broadcasting on 16 September 2013.",
+      "releaseInfo": 2013,
+      "imdbRating": 8.7
     },
     {
       "id": "tt10839422",
@@ -231,14 +221,14 @@
       "imdbRating": 5.6
     },
     {
-      "id": "tt3212600",
+      "id": "tt12540080",
       "type": "series",
-      "name": "Mahabharatham",
-      "poster": "https://images.metahub.space/poster/medium/tt3212600/img",
-      "background": "https://images.metahub.space/background/medium/tt3212600/img",
-      "description": "Mahabharat is a 2013 drama TV series on Star Plus based on Indian legendary epic of the same name. It has been produced by Swastik Pictures and features actors such as Saurabh Raj Jain as Lord Krishna, Shaheer Sheikh as Arjuna, Pooja Sharma as Draupadi, Aham Sharma as Karna and Arav Chowdhary as Bhishma Pitamah. The producers had creative associations with writer Salim Khan, author Devdutt Pattanaik, designer Bhanu Athaiya, music directors Ajay-Atul and Ismail Darbar, action director Ram Shetty and set designer Omang Kumar. The casting of the show is done by Sahil Ansari, Mahesh Chandra Bhatt, Arun Mitra. It started broadcasting on 16 September 2013.",
-      "releaseInfo": 2013,
-      "imdbRating": 8.7
+      "name": "Dark Desire",
+      "poster": "https://images.metahub.space/poster/medium/tt12540080/img",
+      "background": "https://images.metahub.space/background/medium/tt12540080/img",
+      "description": "Married Alma spends a fateful weekend away from home that ignites passion, ends in tragedy and leads her to question the truth about those close to her.",
+      "releaseInfo": 2020,
+      "imdbRating": 6.5
     },
     {
       "id": "tt39201866",
@@ -251,34 +241,14 @@
       "imdbRating": 8.3
     },
     {
-      "id": "tt12540080",
+      "id": "tt37762350",
       "type": "series",
-      "name": "Dark Desire",
-      "poster": "https://images.metahub.space/poster/medium/tt12540080/img",
-      "background": "https://images.metahub.space/background/medium/tt12540080/img",
-      "description": "Married Alma spends a fateful weekend away from home that ignites passion, ends in tragedy and leads her to question the truth about those close to her.",
-      "releaseInfo": 2020,
-      "imdbRating": 6.5
-    },
-    {
-      "id": "tt2580046",
-      "type": "series",
-      "name": "Miraculous: Les aventures de Ladybug et Chat Noir",
-      "poster": "https://images.metahub.space/poster/medium/tt2580046/img",
-      "background": "https://images.metahub.space/background/medium/tt2580046/img",
-      "description": "Miraculous superheroes Ladybug and Cat Noir protect the city of Paris from akumatized villains.",
-      "releaseInfo": 2015,
-      "imdbRating": 7.5
-    },
-    {
-      "id": "tt11198330",
-      "type": "series",
-      "name": "House of the Dragon",
-      "poster": "https://images.metahub.space/poster/medium/tt11198330/img",
-      "background": "https://images.metahub.space/background/medium/tt11198330/img",
-      "description": "An internal succession war within House Targaryen at the height of its power, 172 years before the birth of Daenerys Targaryen.",
-      "releaseInfo": 2022,
-      "imdbRating": 8.2
+      "name": "Under Siege",
+      "poster": "https://images.metahub.space/poster/medium/tt37762350/img",
+      "background": "https://images.metahub.space/background/medium/tt37762350/img",
+      "description": "Caught in the crossfire, hostages, militaries and guerrillas are swept into a tragedy that brings turmoil to Colombia.",
+      "releaseInfo": 2026,
+      "imdbRating": 6.3
     },
     {
       "id": "tt7587890",
@@ -291,34 +261,54 @@
       "imdbRating": 8
     },
     {
-      "id": "tt0988824",
+      "id": "tt11301642",
       "type": "series",
-      "name": "Naruto: Shippûden",
-      "poster": "https://images.metahub.space/poster/medium/tt0988824/img",
-      "background": "https://images.metahub.space/background/medium/tt0988824/img",
-      "description": "Naruto Uzumaki, is a loud, hyperactive, adolescent ninja who constantly searches for approval and recognition, as well as to become Hokage, who is acknowledged as the leader and strongest of all ninja in the village.",
-      "releaseInfo": 2007,
-      "imdbRating": 8.7
-    },
-    {
-      "id": "tt11905720",
-      "type": "series",
-      "name": "She",
-      "poster": "https://images.metahub.space/poster/medium/tt11905720/img",
-      "background": "https://images.metahub.space/background/medium/tt11905720/img",
-      "description": "An undercover assignment to expose a drug ring becomes a timid Mumbai constable's road to empowerment as she realizes her dormant sexuality's potential.",
+      "name": "Ethos",
+      "poster": "https://images.metahub.space/poster/medium/tt11301642/img",
+      "background": "https://images.metahub.space/background/medium/tt11301642/img",
+      "description": "A group of unique characters from dramatically different socio-cultural backgrounds meet in startling circumstances in the vibrant and colorful city of Istanbul, some by chance and some by force of will.",
       "releaseInfo": 2020,
-      "imdbRating": 6.4
+      "imdbRating": 8.4
     },
     {
-      "id": "tt34809853",
+      "id": "tt27995113",
       "type": "series",
-      "name": "Teach You a Lesson",
-      "poster": "https://images.metahub.space/poster/medium/tt34809853/img",
-      "background": "https://images.metahub.space/background/medium/tt34809853/img",
-      "description": "An inspector from the Educational Rights Protection Bureau (ERPB) who is authorized by the government to use physical intervention and unconventional methods to discipline delinquent students and reform the educational system.",
-      "releaseInfo": 2026,
+      "name": "Black Doves",
+      "poster": "https://images.metahub.space/poster/medium/tt27995113/img",
+      "background": "https://images.metahub.space/background/medium/tt27995113/img",
+      "description": "When a spy posing as a politician's wife learns her lover has been murdered, an old assassin friend joins her on a quest for truth — and vengeance.",
+      "releaseInfo": 2024,
+      "imdbRating": 7.2
+    },
+    {
+      "id": "tt20234568",
+      "type": "series",
+      "name": "Weak Hero",
+      "poster": "https://images.metahub.space/poster/medium/tt20234568/img",
+      "background": "https://images.metahub.space/background/medium/tt20234568/img",
+      "description": "With the aid of unexpected friends, a gifted but introverted student confronts bullies and violent foes — unaware of how dangerous his world will become.",
+      "releaseInfo": 2022,
       "imdbRating": 8.4
+    },
+    {
+      "id": "tt28077038",
+      "type": "series",
+      "name": "Pritam and Pedro",
+      "poster": "https://images.metahub.space/poster/medium/tt28077038/img",
+      "background": "https://images.metahub.space/background/medium/tt28077038/img",
+      "description": "When a tech-illiterate Goa cop is demoted to the cyber cell, he must team up with a quirky hacker to track down a minister's kidnapped son and win back his old job.",
+      "releaseInfo": 2026,
+      "imdbRating": 7.7
+    },
+    {
+      "id": "tt37180305",
+      "type": "series",
+      "name": "Friends Sex and Games",
+      "poster": "https://images.metahub.space/poster/medium/tt37180305/img",
+      "background": "https://images.metahub.space/background/medium/tt37180305/img",
+      "description": "A group of friends starts a daring game. Everyone throws their keys into a bowl—whoever picks one spends the night with the owner of that key.",
+      "releaseInfo": 2026,
+      "imdbRating": 5.3
     },
     {
       "id": "tt18278410",
@@ -331,6 +321,16 @@
       "imdbRating": 7.4
     },
     {
+      "id": "tt2580046",
+      "type": "series",
+      "name": "Miraculous: Les aventures de Ladybug et Chat Noir",
+      "poster": "https://images.metahub.space/poster/medium/tt2580046/img",
+      "background": "https://images.metahub.space/background/medium/tt2580046/img",
+      "description": "Miraculous superheroes Ladybug and Cat Noir protect the city of Paris from akumatized villains.",
+      "releaseInfo": 2015,
+      "imdbRating": 7.5
+    },
+    {
       "id": "tt49702110",
       "type": "series",
       "name": "Matargashti",
@@ -341,14 +341,84 @@
       "imdbRating": 7.3
     },
     {
-      "id": "tt20234568",
+      "id": "tt0988824",
       "type": "series",
-      "name": "Weak Hero",
-      "poster": "https://images.metahub.space/poster/medium/tt20234568/img",
-      "background": "https://images.metahub.space/background/medium/tt20234568/img",
-      "description": "With the aid of unexpected friends, a gifted but introverted student confronts bullies and violent foes — unaware of how dangerous his world will become.",
-      "releaseInfo": 2022,
+      "name": "Naruto: Shippûden",
+      "poster": "https://images.metahub.space/poster/medium/tt0988824/img",
+      "background": "https://images.metahub.space/background/medium/tt0988824/img",
+      "description": "Naruto Uzumaki, is a loud, hyperactive, adolescent ninja who constantly searches for approval and recognition, as well as to become Hokage, who is acknowledged as the leader and strongest of all ninja in the village.",
+      "releaseInfo": 2007,
+      "imdbRating": 8.7
+    },
+    {
+      "id": "tt34809853",
+      "type": "series",
+      "name": "Teach You a Lesson",
+      "poster": "https://images.metahub.space/poster/medium/tt34809853/img",
+      "background": "https://images.metahub.space/background/medium/tt34809853/img",
+      "description": "An inspector from the Educational Rights Protection Bureau (ERPB) who is authorized by the government to use physical intervention and unconventional methods to discipline delinquent students and reform the educational system.",
+      "releaseInfo": 2026,
       "imdbRating": 8.4
+    },
+    {
+      "id": "tt13210838",
+      "type": "series",
+      "name": "The Gentlemen",
+      "poster": "https://images.metahub.space/poster/medium/tt13210838/img",
+      "background": "https://images.metahub.space/background/medium/tt13210838/img",
+      "description": "When aristocratic Eddie inherits the family estate, he discovers that it's home to a huge weed empire, and its proprietors aren't going anywhere.",
+      "releaseInfo": 2024,
+      "imdbRating": 8.1
+    },
+    {
+      "id": "tt32375763",
+      "type": "series",
+      "name": "12 12 12",
+      "poster": "https://images.metahub.space/poster/medium/tt32375763/img",
+      "background": "https://images.metahub.space/background/medium/tt32375763/img",
+      "description": "Three intertwined timelines follow the planning and execution of a daring heist in Zurich and its aftermath as an FBI agent pursues a master criminal across Europe.",
+      "releaseInfo": 2026,
+      "imdbRating": 0
+    },
+    {
+      "id": "tt12004706",
+      "type": "series",
+      "name": "Panchayat",
+      "poster": "https://images.metahub.space/poster/medium/tt12004706/img",
+      "background": "https://images.metahub.space/background/medium/tt12004706/img",
+      "description": "A comedy-drama, which captures the journey of an engineering graduate Abhishek, who for lack of a better job option joins as secretary of a Panchayat office in a remote village of Uttar Pradesh.",
+      "releaseInfo": 2020,
+      "imdbRating": 9
+    },
+    {
+      "id": "tt27995115",
+      "type": "series",
+      "name": "The Devil's Plan",
+      "poster": "https://images.metahub.space/poster/medium/tt27995115/img",
+      "background": "https://images.metahub.space/background/medium/tt27995115/img",
+      "description": "It's the ultimate showdown of wits, brains, strategy, and alliances for a chance to win 500 million won.",
+      "releaseInfo": 2023,
+      "imdbRating": 8.3
+    },
+    {
+      "id": "tt0386676",
+      "type": "series",
+      "name": "The Office",
+      "poster": "https://images.metahub.space/poster/medium/tt0386676/img",
+      "background": "https://images.metahub.space/background/medium/tt0386676/img",
+      "description": "A mockumentary on a group of typical office workers, where the workday consists of ego clashes, inappropriate behavior, tedium and romance.",
+      "releaseInfo": 2005,
+      "imdbRating": 9
+    },
+    {
+      "id": "tt39640519",
+      "type": "series",
+      "name": "Chumbak",
+      "poster": "https://images.metahub.space/poster/medium/tt39640519/img",
+      "background": "https://images.metahub.space/background/medium/tt39640519/img",
+      "description": "A young author and quirky support group explore the lives of five families in a Mumbai row-house who laugh, cry, eat, drink, and share everything together, forming a beautiful surrogate family through life's ups and downs.",
+      "releaseInfo": 2026,
+      "imdbRating": 6.7
     },
     {
       "id": "tt33270224",
@@ -371,54 +441,14 @@
       "imdbRating": 8.5
     },
     {
-      "id": "tt12004706",
+      "id": "tt2531336",
       "type": "series",
-      "name": "Panchayat",
-      "poster": "https://images.metahub.space/poster/medium/tt12004706/img",
-      "background": "https://images.metahub.space/background/medium/tt12004706/img",
-      "description": "A comedy-drama, which captures the journey of an engineering graduate Abhishek, who for lack of a better job option joins as secretary of a Panchayat office in a remote village of Uttar Pradesh.",
-      "releaseInfo": 2020,
-      "imdbRating": 9
-    },
-    {
-      "id": "tt9288030",
-      "type": "series",
-      "name": "Reacher",
-      "poster": "https://images.metahub.space/poster/medium/tt9288030/img",
-      "background": "https://images.metahub.space/background/medium/tt9288030/img",
-      "description": "Jack Reacher, a veteran military police investigator, has just recently entered civilian life. Reacher is a drifter, carrying no phone and the barest of essentials as he travels the country and explores the nation he once served.",
-      "releaseInfo": 2022,
-      "imdbRating": 8
-    },
-    {
-      "id": "tt26915338",
-      "type": "series",
-      "name": "Gyaarah Gyaarah",
-      "poster": "https://images.metahub.space/poster/medium/tt26915338/img",
-      "background": "https://images.metahub.space/background/medium/tt26915338/img",
-      "description": "Investigative drama following events in 1990, 2001, 2016. Intertwining storylines blending mysticism, science and mystery across the decades.",
-      "releaseInfo": 2024,
-      "imdbRating": 8.1
-    },
-    {
-      "id": "tt13210838",
-      "type": "series",
-      "name": "The Gentlemen",
-      "poster": "https://images.metahub.space/poster/medium/tt13210838/img",
-      "background": "https://images.metahub.space/background/medium/tt13210838/img",
-      "description": "When aristocratic Eddie inherits the family estate, he discovers that it's home to a huge weed empire, and its proprietors aren't going anywhere.",
-      "releaseInfo": 2024,
-      "imdbRating": 8.1
-    },
-    {
-      "id": "tt30291387",
-      "type": "series",
-      "name": "All's Fair",
-      "poster": "https://images.metahub.space/poster/medium/tt30291387/img",
-      "background": "https://images.metahub.space/background/medium/tt30291387/img",
-      "description": "Follows a successful divorce lawyer and the owner of an all-female law firm in Los Angeles.",
-      "releaseInfo": 2025,
-      "imdbRating": 3.7
+      "name": "Lupin",
+      "poster": "https://images.metahub.space/poster/medium/tt2531336/img",
+      "background": "https://images.metahub.space/background/medium/tt2531336/img",
+      "description": "Inspired by the adventures of Arsène Lupin, gentleman thief Assane Diop sets out to avenge his father for an injustice inflicted by a wealthy family.",
+      "releaseInfo": 2021,
+      "imdbRating": 7.5
     },
     {
       "id": "tt0388629",
@@ -431,74 +461,44 @@
       "imdbRating": 9
     },
     {
-      "id": "tt6151526",
+      "id": "tt3281796",
       "type": "series",
-      "name": "The Rainmaker",
-      "poster": "https://images.metahub.space/poster/medium/tt6151526/img",
-      "background": "https://images.metahub.space/background/medium/tt6151526/img",
-      "description": "Fresh out of law school, Rudy Baylor goes head to head with courtroom lion Leo Drummond as well as his law school girlfriend, Sarah. Rudy, along with his boss, Bruiser, and her disheveled paralegal, Deck, uncovers two connected conspiracies surrounding the mysterious death of their client's son.",
+      "name": "Power",
+      "poster": "https://images.metahub.space/poster/medium/tt3281796/img",
+      "background": "https://images.metahub.space/background/medium/tt3281796/img",
+      "description": "A successful New York entrepreneur lives a double life as the head of a drug empire that serves only the rich and influential, all while wanting to escape the underworld and keep his family safe.",
+      "releaseInfo": 2014,
+      "imdbRating": 8.1
+    },
+    {
+      "id": "tt11905720",
+      "type": "series",
+      "name": "She",
+      "poster": "https://images.metahub.space/poster/medium/tt11905720/img",
+      "background": "https://images.metahub.space/background/medium/tt11905720/img",
+      "description": "An undercover assignment to expose a drug ring becomes a timid Mumbai constable's road to empowerment as she realizes her dormant sexuality's potential.",
+      "releaseInfo": 2020,
+      "imdbRating": 6.4
+    },
+    {
+      "id": "tt30291387",
+      "type": "series",
+      "name": "All's Fair",
+      "poster": "https://images.metahub.space/poster/medium/tt30291387/img",
+      "background": "https://images.metahub.space/background/medium/tt30291387/img",
+      "description": "Follows a successful divorce lawyer and the owner of an all-female law firm in Los Angeles.",
       "releaseInfo": 2025,
-      "imdbRating": 7.2
+      "imdbRating": 3.7
     },
     {
-      "id": "tt15477488",
+      "id": "tt11198330",
       "type": "series",
-      "name": "Farzi",
-      "poster": "https://images.metahub.space/poster/medium/tt15477488/img",
-      "background": "https://images.metahub.space/background/medium/tt15477488/img",
-      "description": "Sunny, a brilliant small-time artist is catapulted into the high-stakes world of counterfeiting when he creates the perfect fake currency note, even as Michael, a fiery, unorthodox task force officer wants to rid the country of the counterfeiting menace. In this thrilling cat-and-mouse race, losing is not an option!",
-      "releaseInfo": 2023,
-      "imdbRating": 8.3
-    },
-    {
-      "id": "tt28077038",
-      "type": "series",
-      "name": "Pritam and Pedro",
-      "poster": "https://images.metahub.space/poster/medium/tt28077038/img",
-      "background": "https://images.metahub.space/background/medium/tt28077038/img",
-      "description": "When a tech-illiterate Goa cop is demoted to the cyber cell, he must team up with a quirky hacker to track down a minister's kidnapped son and win back his old job.",
-      "releaseInfo": 2026,
-      "imdbRating": 7.7
-    },
-    {
-      "id": "tt0386676",
-      "type": "series",
-      "name": "The Office",
-      "poster": "https://images.metahub.space/poster/medium/tt0386676/img",
-      "background": "https://images.metahub.space/background/medium/tt0386676/img",
-      "description": "A mockumentary on a group of typical office workers, where the workday consists of ego clashes, inappropriate behavior, tedium and romance.",
-      "releaseInfo": 2005,
-      "imdbRating": 9
-    },
-    {
-      "id": "tt36643714",
-      "type": "series",
-      "name": "Operation Safed Sagar: The Untold Story of the Kargil War",
-      "poster": "https://images.metahub.space/poster/medium/tt36643714/img",
-      "background": "https://images.metahub.space/background/medium/tt36643714/img",
-      "description": "As the Kargil War erupts between India and Pakistan, the Golden Arrows squadron of the Air Force takes flight on a dangerous mission behind enemy lines.",
-      "releaseInfo": 2026,
-      "imdbRating": 8.5
-    },
-    {
-      "id": "tt9140554",
-      "type": "series",
-      "name": "Loki",
-      "poster": "https://images.metahub.space/poster/medium/tt9140554/img",
-      "background": "https://images.metahub.space/background/medium/tt9140554/img",
-      "description": "The mercurial villain Loki resumes his role as the God of Mischief in a new series that takes place after the events of “Avengers: Endgame.”",
-      "releaseInfo": 2021,
+      "name": "House of the Dragon",
+      "poster": "https://images.metahub.space/poster/medium/tt11198330/img",
+      "background": "https://images.metahub.space/background/medium/tt11198330/img",
+      "description": "An internal succession war within House Targaryen at the height of its power, 172 years before the birth of Daenerys Targaryen.",
+      "releaseInfo": 2022,
       "imdbRating": 8.2
-    },
-    {
-      "id": "tt13875494",
-      "type": "series",
-      "name": "Tracker",
-      "poster": "https://images.metahub.space/poster/medium/tt13875494/img",
-      "background": "https://images.metahub.space/background/medium/tt13875494/img",
-      "description": "Lone-wolf survivalist Colter Shaw roams the country as a “reward seeker,” using his expert tracking skills to help private citizens and law enforcement solve all manner of mysteries while contending with his own fractured family.",
-      "releaseInfo": 2024,
-      "imdbRating": 7.2
     }
   ]
 }

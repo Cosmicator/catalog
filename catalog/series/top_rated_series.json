@@ -1,6 +1,17 @@
 {
   "metas": [
     {
+      "id": "tt0903747",
+      "type": "series",
+      "name": "Breaking Bad",
+      "poster": "https://images.metahub.space/poster/small/tt0903747/img",
+      "background": "https://images.metahub.space/background/medium/tt0903747/img",
+      "logo": "https://images.metahub.space/logo/medium/tt0903747/img",
+      "description": "A chemistry teacher diagnosed with inoperable lung cancer turns to manufacturing and selling methamphetamine with a former student to secure his family's future.",
+      "releaseInfo": "2008–2013",
+      "imdbRating": "9.5"
+    },
+    {
       "id": "tt0944947",
       "type": "series",
       "name": "Game of Thrones",
@@ -9,17 +20,6 @@
       "logo": "https://images.metahub.space/logo/medium/tt0944947/img",
       "description": "Nine noble families vie for control of Westeros and the Iron Throne, while an ancient threat beyond The Wall begins to stir.",
       "releaseInfo": "2011–2019",
-      "imdbRating": "9.2"
-    },
-    {
-      "id": "tt43730117",
-      "type": "series",
-      "name": "Declassified: Operation Sindoor",
-      "poster": "https://live.metahub.space/poster/small/tt43730117/img",
-      "background": "https://live.metahub.space/background/medium/tt43730117/img",
-      "logo": "https://live.metahub.space/logo/medium/tt43730117/img",
-      "description": "Following the Pahalgam terror attack in April, India's military leadership deliberates and plans Operation Sindoor, an 88-hour military operation launched on May 7, featuring accounts from operatives and experts.",
-      "releaseInfo": "2026–2026",
       "imdbRating": "9.2"
     },
     {
@@ -56,6 +56,17 @@
       "imdbRating": "9.0"
     },
     {
+      "id": "tt0386676",
+      "type": "series",
+      "name": "The Office",
+      "poster": "https://images.metahub.space/poster/small/tt0386676/img",
+      "background": "https://images.metahub.space/background/medium/tt0386676/img",
+      "logo": "https://images.metahub.space/logo/medium/tt0386676/img",
+      "description": "A mockumentary on a group of typical office workers, where the workday consists of ego clashes, inappropriate behavior, tedium and romance.",
+      "releaseInfo": "2005–2013",
+      "imdbRating": "9.0"
+    },
+    {
       "id": "tt12004706",
       "type": "series",
       "name": "Panchayat",
@@ -78,15 +89,15 @@
       "imdbRating": "9.0"
     },
     {
-      "id": "tt0386676",
+      "id": "tt33094114",
       "type": "series",
-      "name": "The Office",
-      "poster": "https://images.metahub.space/poster/small/tt0386676/img",
-      "background": "https://images.metahub.space/background/medium/tt0386676/img",
-      "logo": "https://images.metahub.space/logo/medium/tt0386676/img",
-      "description": "A mockumentary on a group of typical office workers, where the workday consists of ego clashes, inappropriate behavior, tedium and romance.",
-      "releaseInfo": "2005–2013",
-      "imdbRating": "9.0"
+      "name": "India's Got Latent",
+      "poster": "https://images.metahub.space/poster/small/tt33094114/img",
+      "background": "https://images.metahub.space/background/medium/tt33094114/img",
+      "logo": "https://images.metahub.space/logo/medium/tt33094114/img",
+      "description": "Samay Raina and the guest judges hilariously critique the untapped, undeniably entertaining \"latent\" talents of aspiring performers, testing their self-awareness with a unique scoring system.",
+      "releaseInfo": "2024–",
+      "imdbRating": "8.9"
     },
     {
       "id": "tt10986410",
@@ -100,17 +111,6 @@
       "imdbRating": "8.7"
     },
     {
-      "id": "tt35495073",
-      "type": "series",
-      "name": "Heated Rivalry",
-      "poster": "https://images.metahub.space/poster/small/tt35495073/img",
-      "background": "https://images.metahub.space/background/medium/tt35495073/img",
-      "logo": "https://images.metahub.space/logo/medium/tt35495073/img",
-      "description": "Two rival hockey stars at the top of their game face an unexpected challenge when they develop feelings for each other, complicating their careers and the sport's expectations.",
-      "releaseInfo": "2025–",
-      "imdbRating": "8.7"
-    },
-    {
       "id": "tt0098936",
       "type": "series",
       "name": "Twin Peaks",
@@ -119,6 +119,17 @@
       "logo": "https://images.metahub.space/logo/medium/tt0098936/img",
       "description": "An idiosyncratic FBI agent investigates the murder of a young woman in the even more idiosyncratic town of Twin Peaks.",
       "releaseInfo": "1990–1991",
+      "imdbRating": "8.7"
+    },
+    {
+      "id": "tt35495073",
+      "type": "series",
+      "name": "Heated Rivalry",
+      "poster": "https://images.metahub.space/poster/small/tt35495073/img",
+      "background": "https://images.metahub.space/background/medium/tt35495073/img",
+      "logo": "https://images.metahub.space/logo/medium/tt35495073/img",
+      "description": "Two rival hockey stars at the top of their game face an unexpected challenge when they develop feelings for each other, complicating their careers and the sport's expectations.",
+      "releaseInfo": "2025–",
       "imdbRating": "8.7"
     },
     {
@@ -155,17 +166,6 @@
       "imdbRating": "8.6"
     },
     {
-      "id": "tt9544034",
-      "type": "series",
-      "name": "The Family Man",
-      "poster": "https://images.metahub.space/poster/small/tt9544034/img",
-      "background": "https://images.metahub.space/background/medium/tt9544034/img",
-      "logo": "https://images.metahub.space/logo/medium/tt9544034/img",
-      "description": "A working man from the National Investigation Agency tries to protect the nation from terrorism, but he also needs to keep his family safe from his secret job.",
-      "releaseInfo": "2019–",
-      "imdbRating": "8.6"
-    },
-    {
       "id": "tt1190634",
       "type": "series",
       "name": "The Boys",
@@ -174,28 +174,6 @@
       "logo": "https://images.metahub.space/logo/medium/tt1190634/img",
       "description": "A group of vigilantes set out to take down corrupt superheroes who abuse their superpowers.",
       "releaseInfo": "2019–2026",
-      "imdbRating": "8.5"
-    },
-    {
-      "id": "tt36643714",
-      "type": "series",
-      "name": "Operation Safed Sagar: The Untold Story of the Kargil War",
-      "poster": "https://live.metahub.space/poster/small/tt36643714/img",
-      "background": "https://live.metahub.space/background/medium/tt36643714/img",
-      "logo": "https://live.metahub.space/logo/medium/tt36643714/img",
-      "description": "As the Kargil War erupts between India and Pakistan, the Golden Arrows squadron of the Air Force takes flight on a dangerous mission behind enemy lines.",
-      "releaseInfo": "2026–2026",
-      "imdbRating": "8.5"
-    },
-    {
-      "id": "tt9335498",
-      "type": "series",
-      "name": "Demon Slayer: Kimetsu no Yaiba",
-      "poster": "https://images.metahub.space/poster/small/tt9335498/img",
-      "background": "https://images.metahub.space/background/medium/tt9335498/img",
-      "logo": "https://images.metahub.space/logo/medium/tt9335498/img",
-      "description": "A family is attacked by demons and only two members survive - Tanjiro and his sister Nezuko, who is turning into a demon slowly. Tanjiro sets out to become a demon slayer to avenge his family and cure his sister.",
-      "releaseInfo": "2019–2024",
       "imdbRating": "8.5"
     },
     {
@@ -232,14 +210,14 @@
       "imdbRating": "8.4"
     },
     {
-      "id": "tt34809853",
+      "id": "tt11301642",
       "type": "series",
-      "name": "Teach You a Lesson",
-      "poster": "https://images.metahub.space/poster/small/tt34809853/img",
-      "background": "https://images.metahub.space/background/medium/tt34809853/img",
-      "logo": "https://images.metahub.space/logo/medium/tt34809853/img",
-      "description": "The collapse of teachers' Authority, the establishment of the Teachers' Authority Protection Bureau under the Ministry of Education, and the dispatch of supervisors to problem schools to punish students and parents who cross the l...",
-      "releaseInfo": "2026–",
+      "name": "Ethos",
+      "poster": "https://images.metahub.space/poster/small/tt11301642/img",
+      "background": "https://images.metahub.space/background/medium/tt11301642/img",
+      "logo": "https://images.metahub.space/logo/medium/tt11301642/img",
+      "description": "A group of unique characters from dramatically different socio-cultural backgrounds meeting in startling circumstances in the vibrant and colorful city of Istanbul, - some by chance and some by force of will.",
+      "releaseInfo": "2020",
       "imdbRating": "8.4"
     },
     {
@@ -254,6 +232,17 @@
       "imdbRating": "8.4"
     },
     {
+      "id": "tt34809853",
+      "type": "series",
+      "name": "Teach You a Lesson",
+      "poster": "https://images.metahub.space/poster/small/tt34809853/img",
+      "background": "https://images.metahub.space/background/medium/tt34809853/img",
+      "logo": "https://images.metahub.space/logo/medium/tt34809853/img",
+      "description": "The collapse of teachers' Authority, the establishment of the Teachers' Authority Protection Bureau under the Ministry of Education, and the dispatch of supervisors to problem schools to punish students and parents who cross the l...",
+      "releaseInfo": "2026–",
+      "imdbRating": "8.4"
+    },
+    {
       "id": "tt5875444",
       "type": "series",
       "name": "Slow Horses",
@@ -262,17 +251,6 @@
       "logo": "https://images.metahub.space/logo/medium/tt5875444/img",
       "description": "A dysfunctional team of MI5 agents navigate the espionage world's smoke and mirrors to defend the UK from sinister forces.",
       "releaseInfo": "2022–",
-      "imdbRating": "8.4"
-    },
-    {
-      "id": "tt13433812",
-      "type": "series",
-      "name": "Vincenzo",
-      "poster": "https://images.metahub.space/poster/small/tt13433812/img",
-      "background": "https://images.metahub.space/background/medium/tt13433812/img",
-      "logo": "https://images.metahub.space/logo/medium/tt13433812/img",
-      "description": "During a visit to his motherland, a Korean-Italian Mafia lawyer gives an unrivaled conglomerate a taste of its own medicine with a side of justice.",
-      "releaseInfo": "2021",
       "imdbRating": "8.4"
     },
     {
@@ -287,14 +265,14 @@
       "imdbRating": "8.4"
     },
     {
-      "id": "tt11301642",
+      "id": "tt13433812",
       "type": "series",
-      "name": "Ethos",
-      "poster": "https://images.metahub.space/poster/small/tt11301642/img",
-      "background": "https://images.metahub.space/background/medium/tt11301642/img",
-      "logo": "https://images.metahub.space/logo/medium/tt11301642/img",
-      "description": "A group of unique characters from dramatically different socio-cultural backgrounds meeting in startling circumstances in the vibrant and colorful city of Istanbul, - some by chance and some by force of will.",
-      "releaseInfo": "2020",
+      "name": "Vincenzo",
+      "poster": "https://images.metahub.space/poster/small/tt13433812/img",
+      "background": "https://images.metahub.space/background/medium/tt13433812/img",
+      "logo": "https://images.metahub.space/logo/medium/tt13433812/img",
+      "description": "During a visit to his motherland, a Korean-Italian Mafia lawyer gives an unrivaled conglomerate a taste of its own medicine with a side of justice.",
+      "releaseInfo": "2021",
       "imdbRating": "8.4"
     },
     {
@@ -309,17 +287,6 @@
       "imdbRating": "8.3"
     },
     {
-      "id": "tt15477488",
-      "type": "series",
-      "name": "Farzi",
-      "poster": "https://images.metahub.space/poster/small/tt15477488/img",
-      "background": "https://images.metahub.space/background/medium/tt15477488/img",
-      "logo": "https://images.metahub.space/logo/medium/tt15477488/img",
-      "description": "Talented artist Sunny creates a flawless counterfeit bill, thrusting him into a dangerous world. Unconventional task force officer Michael is determined to eliminate counterfeiting. In this high-stakes chase, neither can afford to...",
-      "releaseInfo": "2023–",
-      "imdbRating": "8.3"
-    },
-    {
       "id": "tt27995115",
       "type": "series",
       "name": "The Devil's Plan",
@@ -327,6 +294,17 @@
       "background": "https://images.metahub.space/background/medium/tt27995115/img",
       "logo": "https://images.metahub.space/logo/medium/tt27995115/img",
       "description": "In this competition of intelligence, contestants face off in games of wit and strategy to be crowned winner and go home with the ultimate prize.",
+      "releaseInfo": "2023–",
+      "imdbRating": "8.3"
+    },
+    {
+      "id": "tt15477488",
+      "type": "series",
+      "name": "Farzi",
+      "poster": "https://images.metahub.space/poster/small/tt15477488/img",
+      "background": "https://images.metahub.space/background/medium/tt15477488/img",
+      "logo": "https://images.metahub.space/logo/medium/tt15477488/img",
+      "description": "Talented artist Sunny creates a flawless counterfeit bill, thrusting him into a dangerous world. Unconventional task force officer Michael is determined to eliminate counterfeiting. In this high-stakes chase, neither can afford to...",
       "releaseInfo": "2023–",
       "imdbRating": "8.3"
     },
@@ -342,17 +320,6 @@
       "imdbRating": "8.2"
     },
     {
-      "id": "tt7441658",
-      "type": "series",
-      "name": "Black Clover",
-      "poster": "https://images.metahub.space/poster/small/tt7441658/img",
-      "background": "https://images.metahub.space/background/medium/tt7441658/img",
-      "logo": "https://images.metahub.space/logo/medium/tt7441658/img",
-      "description": "Asta and Yuno were abandoned together at the same church and have been inseparable since. As children, they promised that they would compete against each other to see who would become the next Emperor Magus.",
-      "releaseInfo": "2017–2026",
-      "imdbRating": "8.2"
-    },
-    {
       "id": "tt35304338",
       "type": "series",
       "name": "Study Group",
@@ -361,6 +328,17 @@
       "logo": "https://images.metahub.space/logo/medium/tt35304338/img",
       "description": "A struggling student at Korea's worst high school forms a study group while protecting his classmates with his fighting skills, hoping to overcome academic challenges and secure a spot in college.",
       "releaseInfo": "2025",
+      "imdbRating": "8.2"
+    },
+    {
+      "id": "tt7441658",
+      "type": "series",
+      "name": "Black Clover",
+      "poster": "https://images.metahub.space/poster/small/tt7441658/img",
+      "background": "https://images.metahub.space/background/medium/tt7441658/img",
+      "logo": "https://images.metahub.space/logo/medium/tt7441658/img",
+      "description": "Asta and Yuno were abandoned together at the same church and have been inseparable since. As children, they promised that they would compete against each other to see who would become the next Emperor Magus.",
+      "releaseInfo": "2017–2026",
       "imdbRating": "8.2"
     },
     {
@@ -375,6 +353,28 @@
       "imdbRating": "8.2"
     },
     {
+      "id": "tt15677150",
+      "type": "series",
+      "name": "Shrinking",
+      "poster": "https://images.metahub.space/poster/small/tt15677150/img",
+      "background": "https://images.metahub.space/background/medium/tt15677150/img",
+      "logo": "https://images.metahub.space/logo/medium/tt15677150/img",
+      "description": "A grieving therapist starts to tell his clients exactly what he thinks. Ignoring his training and ethics, he finds himself making huge changes to people's lives - including his own.",
+      "releaseInfo": "2023–",
+      "imdbRating": "8.2"
+    },
+    {
+      "id": "tt13911628",
+      "type": "series",
+      "name": "Lessons in Chemistry",
+      "poster": "https://images.metahub.space/poster/small/tt13911628/img",
+      "background": "https://images.metahub.space/background/medium/tt13911628/img",
+      "logo": "https://images.metahub.space/logo/medium/tt13911628/img",
+      "description": "In the 1950s, Elizabeth Zott's dream of being a scientist is challenged by a society that says women belong in the domestic sphere; she accepts a job on a TV cooking show and sets out to teach a nation of housewives way more than ...",
+      "releaseInfo": "2023",
+      "imdbRating": "8.2"
+    },
+    {
       "id": "tt11198330",
       "type": "series",
       "name": "House of the Dragon",
@@ -386,14 +386,14 @@
       "imdbRating": "8.2"
     },
     {
-      "id": "tt15677150",
+      "id": "tt15469618",
       "type": "series",
-      "name": "Shrinking",
-      "poster": "https://images.metahub.space/poster/small/tt15677150/img",
-      "background": "https://images.metahub.space/background/medium/tt15677150/img",
-      "logo": "https://images.metahub.space/logo/medium/tt15677150/img",
-      "description": "A grieving therapist starts to tell his clients exactly what he thinks. Ignoring his training and ethics, he finds himself making huge changes to people's lives - including his own.",
-      "releaseInfo": "2023–",
+      "name": "Bad Sisters",
+      "poster": "https://images.metahub.space/poster/small/tt15469618/img",
+      "background": "https://images.metahub.space/background/medium/tt15469618/img",
+      "logo": "https://images.metahub.space/logo/medium/tt15469618/img",
+      "description": "The Garvey sisters are bound together by their parents' deaths and a promise to always protect one another.",
+      "releaseInfo": "2022–",
       "imdbRating": "8.2"
     },
     {
@@ -441,17 +441,6 @@
       "imdbRating": "8.1"
     },
     {
-      "id": "tt11761194",
-      "type": "series",
-      "name": "Power Book IV: Force",
-      "poster": "https://images.metahub.space/poster/small/tt11761194/img",
-      "background": "https://images.metahub.space/background/medium/tt11761194/img",
-      "logo": "https://images.metahub.space/logo/medium/tt11761194/img",
-      "description": "Follows Tommy Egan after he cuts ties and puts New York in his rearview mirror for good.",
-      "releaseInfo": "2022–2026",
-      "imdbRating": "8.1"
-    },
-    {
       "id": "tt7772588",
       "type": "series",
       "name": "For All Mankind",
@@ -474,36 +463,14 @@
       "imdbRating": "8.1"
     },
     {
-      "id": "tt33332385",
+      "id": "tt11761194",
       "type": "series",
-      "name": "Widow's Bay",
-      "poster": "https://images.metahub.space/poster/small/tt33332385/img",
-      "background": "https://images.metahub.space/background/medium/tt33332385/img",
-      "logo": "https://images.metahub.space/logo/medium/tt33332385/img",
-      "description": "A skeptical mayor leads the superstitious residents of a cursed New England island.",
-      "releaseInfo": "2026–",
-      "imdbRating": "8.1"
-    },
-    {
-      "id": "tt26915338",
-      "type": "series",
-      "name": "Gyaarah Gyaarah",
-      "poster": "https://images.metahub.space/poster/small/tt26915338/img",
-      "background": "https://images.metahub.space/background/medium/tt26915338/img",
-      "logo": "https://images.metahub.space/logo/medium/tt26915338/img",
-      "description": "Investigative drama following events in 1990, 2001, 2016. Intertwining storylines blending mysticism, science and mystery across the decades.",
-      "releaseInfo": "2024–",
-      "imdbRating": "8.1"
-    },
-    {
-      "id": "tt13210838",
-      "type": "series",
-      "name": "The Gentlemen",
-      "poster": "https://images.metahub.space/poster/small/tt13210838/img",
-      "background": "https://images.metahub.space/background/medium/tt13210838/img",
-      "logo": "https://images.metahub.space/logo/medium/tt13210838/img",
-      "description": "When aristocratic Eddie inherits the family estate, he discovers that it's home to a huge weed empire, and its proprietors aren't going anywhere.",
-      "releaseInfo": "2024–",
+      "name": "Power Book IV: Force",
+      "poster": "https://images.metahub.space/poster/small/tt11761194/img",
+      "background": "https://images.metahub.space/background/medium/tt11761194/img",
+      "logo": "https://images.metahub.space/logo/medium/tt11761194/img",
+      "description": "Follows Tommy Egan after he cuts ties and puts New York in his rearview mirror for good.",
+      "releaseInfo": "2022–2026",
       "imdbRating": "8.1"
     },
     {
@@ -518,25 +485,25 @@
       "imdbRating": "8.1"
     },
     {
-      "id": "tt0092400",
+      "id": "tt33332385",
       "type": "series",
-      "name": "Married... with Children",
-      "poster": "https://images.metahub.space/poster/small/tt0092400/img",
-      "background": "https://images.metahub.space/background/medium/tt0092400/img",
-      "logo": "https://images.metahub.space/logo/medium/tt0092400/img",
-      "description": "Al is the quintessential working class dad. Peggy, his wife, always wants more from him. With their children, they go through the highs and lows of ordinary life.",
-      "releaseInfo": "1987–1997",
+      "name": "Widow's Bay",
+      "poster": "https://images.metahub.space/poster/small/tt33332385/img",
+      "background": "https://images.metahub.space/background/medium/tt33332385/img",
+      "logo": "https://images.metahub.space/logo/medium/tt33332385/img",
+      "description": "A skeptical mayor leads the superstitious residents of a cursed New England island.",
+      "releaseInfo": "2026–",
       "imdbRating": "8.1"
     },
     {
-      "id": "tt5700398",
+      "id": "tt13210838",
       "type": "series",
-      "name": "Siya Ke Ram",
-      "poster": "https://images.metahub.space/poster/small/tt5700398/img",
-      "background": "https://images.metahub.space/background/medium/tt5700398/img",
-      "logo": "https://images.metahub.space/logo/medium/tt5700398/img",
-      "description": "Traces the story of ramayan character Sita from a very different perspective. For the first time the story is televised in this detail.",
-      "releaseInfo": "2015–2016",
+      "name": "The Gentlemen",
+      "poster": "https://images.metahub.space/poster/small/tt13210838/img",
+      "background": "https://images.metahub.space/background/medium/tt13210838/img",
+      "logo": "https://images.metahub.space/logo/medium/tt13210838/img",
+      "description": "When aristocratic Eddie inherits the family estate, he discovers that it's home to a huge weed empire, and its proprietors aren't going anywhere.",
+      "releaseInfo": "2024–",
       "imdbRating": "8.1"
     },
     {
@@ -549,6 +516,39 @@
       "description": "James \"Ghost\" St. Patrick--a wealthy New York nightclub owner who has it all: dreaming big, catering to the city's elite, and living a double life as a drug kingpin.",
       "releaseInfo": "2014–2020",
       "imdbRating": "8.1"
+    },
+    {
+      "id": "tt0092400",
+      "type": "series",
+      "name": "Married... with Children",
+      "poster": "https://images.metahub.space/poster/small/tt0092400/img",
+      "background": "https://images.metahub.space/background/medium/tt0092400/img",
+      "logo": "https://images.metahub.space/logo/medium/tt0092400/img",
+      "description": "Al is the quintessential working class dad. Peggy, his wife, always wants more from him. With their children, they go through the highs and lows of ordinary life.",
+      "releaseInfo": "1987–1997",
+      "imdbRating": "8.1"
+    },
+    {
+      "id": "tt4643084",
+      "type": "series",
+      "name": "Counterpart",
+      "poster": "https://images.metahub.space/poster/small/tt4643084/img",
+      "background": "https://images.metahub.space/background/medium/tt4643084/img",
+      "logo": "https://images.metahub.space/logo/medium/tt4643084/img",
+      "description": "A cog in a bureaucratic agency discovers his agency is guarding a crossing to a parallel dimension.",
+      "releaseInfo": "2017–2019",
+      "imdbRating": "8.0"
+    },
+    {
+      "id": "tt7587890",
+      "type": "series",
+      "name": "The Rookie",
+      "poster": "https://images.metahub.space/poster/small/tt7587890/img",
+      "background": "https://images.metahub.space/background/medium/tt7587890/img",
+      "logo": "https://images.metahub.space/logo/medium/tt7587890/img",
+      "description": "Starting over isn't easy, especially for John Nolan who, after a life-altering incident, is pursuing his dream of joining the LAPD. As their oldest rookie, he's met with skepticism from those who see him as just a walking midlife ...",
+      "releaseInfo": "2018–",
+      "imdbRating": "8.0"
     }
   ]
 }
