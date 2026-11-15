@@ -210,17 +210,6 @@
       "imdbRating": "8.4"
     },
     {
-      "id": "tt1442449",
-      "type": "series",
-      "name": "Spartacus",
-      "poster": "https://images.metahub.space/poster/small/tt1442449/img",
-      "background": "https://images.metahub.space/background/medium/tt1442449/img",
-      "logo": "https://images.metahub.space/logo/medium/tt1442449/img",
-      "description": "The life of Spartacus, the gladiator who led a rebellion against the Romans.",
-      "releaseInfo": "2010–2013",
-      "imdbRating": "8.4"
-    },
-    {
       "id": "tt11301642",
       "type": "series",
       "name": "Ethos",
@@ -229,6 +218,17 @@
       "logo": "https://images.metahub.space/logo/medium/tt11301642/img",
       "description": "A group of unique characters from dramatically different socio-cultural backgrounds meeting in startling circumstances in the vibrant and colorful city of Istanbul, - some by chance and some by force of will.",
       "releaseInfo": "2020",
+      "imdbRating": "8.4"
+    },
+    {
+      "id": "tt1442449",
+      "type": "series",
+      "name": "Spartacus",
+      "poster": "https://images.metahub.space/poster/small/tt1442449/img",
+      "background": "https://images.metahub.space/background/medium/tt1442449/img",
+      "logo": "https://images.metahub.space/logo/medium/tt1442449/img",
+      "description": "The life of Spartacus, the gladiator who led a rebellion against the Romans.",
+      "releaseInfo": "2010–2013",
       "imdbRating": "8.4"
     },
     {
@@ -262,17 +262,6 @@
       "logo": "https://images.metahub.space/logo/medium/tt9059760/img",
       "description": "A man and a woman embark on an on-again/off-again romance that starts at school and continues through college, testing their relationship as they explore different versions of themselves.",
       "releaseInfo": "2020",
-      "imdbRating": "8.4"
-    },
-    {
-      "id": "tt13433812",
-      "type": "series",
-      "name": "Vincenzo",
-      "poster": "https://images.metahub.space/poster/small/tt13433812/img",
-      "background": "https://images.metahub.space/background/medium/tt13433812/img",
-      "logo": "https://images.metahub.space/logo/medium/tt13433812/img",
-      "description": "During a visit to his motherland, a Korean-Italian Mafia lawyer gives an unrivaled conglomerate a taste of its own medicine with a side of justice.",
-      "releaseInfo": "2021",
       "imdbRating": "8.4"
     },
     {
@@ -548,6 +537,17 @@
       "logo": "https://images.metahub.space/logo/medium/tt26915338/img",
       "description": "Investigative drama following events in 1990, 2001, 2016. Intertwining storylines blending mysticism, science and mystery across the decades.",
       "releaseInfo": "2024–",
+      "imdbRating": "8.1"
+    },
+    {
+      "id": "tt0092400",
+      "type": "series",
+      "name": "Married... with Children",
+      "poster": "https://images.metahub.space/poster/small/tt0092400/img",
+      "background": "https://images.metahub.space/background/medium/tt0092400/img",
+      "logo": "https://images.metahub.space/logo/medium/tt0092400/img",
+      "description": "Al is the quintessential working class dad. Peggy, his wife, always wants more from him. With their children, they go through the highs and lows of ordinary life.",
+      "releaseInfo": "1987–1997",
       "imdbRating": "8.1"
     }
   ]

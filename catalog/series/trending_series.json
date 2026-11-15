@@ -161,6 +161,16 @@
       "imdbRating": 5.9
     },
     {
+      "id": "tt11301642",
+      "type": "series",
+      "name": "Ethos",
+      "poster": "https://images.metahub.space/poster/medium/tt11301642/img",
+      "background": "https://images.metahub.space/background/medium/tt11301642/img",
+      "description": "A group of unique characters from dramatically different socio-cultural backgrounds meet in startling circumstances in the vibrant and colorful city of Istanbul, some by chance and some by force of will.",
+      "releaseInfo": 2020,
+      "imdbRating": 8.4
+    },
+    {
       "id": "tt0944947",
       "type": "series",
       "name": "Game of Thrones",
@@ -179,16 +189,6 @@
       "description": "Mahabharat is a 2013 drama TV series on Star Plus based on Indian legendary epic of the same name. It has been produced by Swastik Pictures and features actors such as Saurabh Raj Jain as Lord Krishna, Shaheer Sheikh as Arjuna, Pooja Sharma as Draupadi, Aham Sharma as Karna and Arav Chowdhary as Bhishma Pitamah. The producers had creative associations with writer Salim Khan, author Devdutt Pattanaik, designer Bhanu Athaiya, music directors Ajay-Atul and Ismail Darbar, action director Ram Shetty and set designer Omang Kumar. The casting of the show is done by Sahil Ansari, Mahesh Chandra Bhatt, Arun Mitra. It started broadcasting on 16 September 2013.",
       "releaseInfo": 2013,
       "imdbRating": 8.7
-    },
-    {
-      "id": "tt11301642",
-      "type": "series",
-      "name": "Ethos",
-      "poster": "https://images.metahub.space/poster/medium/tt11301642/img",
-      "background": "https://images.metahub.space/background/medium/tt11301642/img",
-      "description": "A group of unique characters from dramatically different socio-cultural backgrounds meet in startling circumstances in the vibrant and colorful city of Istanbul, some by chance and some by force of will.",
-      "releaseInfo": 2020,
-      "imdbRating": 8.4
     },
     {
       "id": "tt10839422",
@@ -441,16 +441,6 @@
       "imdbRating": 6.3
     },
     {
-      "id": "tt13433812",
-      "type": "series",
-      "name": "Vincenzo",
-      "poster": "https://images.metahub.space/poster/medium/tt13433812/img",
-      "background": "https://images.metahub.space/background/medium/tt13433812/img",
-      "description": "During a visit to his motherland, a Korean-Italian Mafia lawyer gives an unrivaled conglomerate a taste of its own medicine  with a side of justice.",
-      "releaseInfo": 2021,
-      "imdbRating": 8.4
-    },
-    {
       "id": "tt1632701",
       "type": "series",
       "name": "Suits",
@@ -499,6 +489,16 @@
       "description": "When aristocratic Eddie inherits the family estate, he discovers that it's home to a huge weed empire, and its proprietors aren't going anywhere.",
       "releaseInfo": 2024,
       "imdbRating": 8.1
+    },
+    {
+      "id": "tt31438328",
+      "type": "series",
+      "name": "This City Is Ours",
+      "poster": "https://images.metahub.space/poster/medium/tt31438328/img",
+      "background": "https://images.metahub.space/background/medium/tt31438328/img",
+      "description": "Michael, a longtime member of organized crime, falls in love with Diana, prompting him to reevaluate his life and contemplate a future beyond his criminal activities. His newfound love becomes both a motivation and a potential liability.",
+      "releaseInfo": 2025,
+      "imdbRating": 7.8
     }
   ]
 }
