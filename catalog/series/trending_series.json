@@ -1,16 +1,6 @@
 {
   "metas": [
     {
-      "id": "tt39943756",
-      "type": "series",
-      "name": "Campus Drivers",
-      "poster": "https://images.metahub.space/poster/medium/tt39943756/img",
-      "background": "https://images.metahub.space/background/medium/tt39943756/img",
-      "description": "Lois arrives in Belrose with Max, the love of her life. Lane, the creator of Campus Drivers, the hottest app on campus, is known for never getting attached. Their paths were never meant to cross. But some encounters change everything, reopening old wounds. And when love appears unexpectedly, nothing is certain anymore.",
-      "releaseInfo": 2026,
-      "imdbRating": 7.3
-    },
-    {
       "id": "tt1281973",
       "type": "series",
       "name": "Bigg Boss",
@@ -21,14 +11,14 @@
       "imdbRating": 3.6
     },
     {
-      "id": "tt23112594",
+      "id": "tt39943756",
       "type": "series",
-      "name": "VisionQuest",
-      "poster": "https://images.metahub.space/poster/medium/tt23112594/img",
-      "background": "https://images.metahub.space/background/medium/tt23112594/img",
-      "description": "With a bounty on his head, Vision must confront his nature and resist Ultron's influence to survive.",
+      "name": "Campus Drivers",
+      "poster": "https://images.metahub.space/poster/medium/tt39943756/img",
+      "background": "https://images.metahub.space/background/medium/tt39943756/img",
+      "description": "Lois arrives in Belrose with Max, the love of her life. Lane, the creator of Campus Drivers, the hottest app on campus, is known for never getting attached. Their paths were never meant to cross. But some encounters change everything, reopening old wounds. And when love appears unexpectedly, nothing is certain anymore.",
       "releaseInfo": 2026,
-      "imdbRating": 7.8
+      "imdbRating": 7.3
     },
     {
       "id": "tt8014982",
@@ -38,17 +28,7 @@
       "background": "https://images.metahub.space/background/medium/tt8014982/img",
       "description": "A group of misbehaving Catholic school girls experience prophetic visions after a dance-team initiation goes wrong, triggering mass hysteria throughout their town.",
       "releaseInfo": 2026,
-      "imdbRating": 7.7
-    },
-    {
-      "id": "tt7631058",
-      "type": "series",
-      "name": "The Lord of the Rings: The Rings of Power",
-      "poster": "https://images.metahub.space/poster/medium/tt7631058/img",
-      "background": "https://images.metahub.space/background/medium/tt7631058/img",
-      "description": "Beginning in a time of relative peace, we follow an ensemble cast of characters as they confront the re-emergence of evil to Middle-earth. From the darkest depths of the Misty Mountains, to the majestic forests of Lindon, to the breathtaking island kingdom of Númenor, to the furthest reaches of the map, these kingdoms and characters will carve out legacies that live on long after they are gone.",
-      "releaseInfo": 2022,
-      "imdbRating": 6.8
+      "imdbRating": 7.6
     },
     {
       "id": "tt33094114",
@@ -61,14 +41,24 @@
       "imdbRating": 8.8
     },
     {
-      "id": "tt29625288",
+      "id": "tt7631058",
       "type": "series",
-      "name": "Akka",
-      "poster": "https://images.metahub.space/poster/medium/tt29625288/img",
-      "background": "https://images.metahub.space/background/medium/tt29625288/img",
-      "description": "In a kingdom ruled by women, matriarch Bhavani faces her biggest threat in Rudra, a ruthless rebel eyeing her land and legacy.",
+      "name": "The Lord of the Rings: The Rings of Power",
+      "poster": "https://images.metahub.space/poster/medium/tt7631058/img",
+      "background": "https://images.metahub.space/background/medium/tt7631058/img",
+      "description": "Beginning in a time of relative peace, we follow an ensemble cast of characters as they confront the re-emergence of evil to Middle-earth. From the darkest depths of the Misty Mountains, to the majestic forests of Lindon, to the breathtaking island kingdom of Númenor, to the furthest reaches of the map, these kingdoms and characters will carve out legacies that live on long after they are gone.",
+      "releaseInfo": 2022,
+      "imdbRating": 6.8
+    },
+    {
+      "id": "tt23112594",
+      "type": "series",
+      "name": "VisionQuest",
+      "poster": "https://images.metahub.space/poster/medium/tt23112594/img",
+      "background": "https://images.metahub.space/background/medium/tt23112594/img",
+      "description": "With a bounty on his head, Vision must confront his nature and resist Ultron's influence to survive.",
       "releaseInfo": 2026,
-      "imdbRating": 5
+      "imdbRating": 7.8
     },
     {
       "id": "tt1196946",
@@ -101,16 +91,6 @@
       "imdbRating": 8.2
     },
     {
-      "id": "tt6473300",
-      "type": "series",
-      "name": "Mirzapur",
-      "poster": "https://images.metahub.space/poster/medium/tt6473300/img",
-      "background": "https://images.metahub.space/background/medium/tt6473300/img",
-      "description": "The iron-fisted Akhandanand Tripathi is a millionaire carpet exporter and the mafia don of Mirzapur. His son, Munna, is an unworthy, power-hungry heir who will stop at nothing to inherit his father's legacy. An incident at a wedding procession forces him to cross paths with Ramakant Pandit, an upstanding lawyer, and his sons, Guddu and Bablu. It snowballs into a game of ambition, power and greed that threatens the fabric of this lawless city.",
-      "releaseInfo": 2018,
-      "imdbRating": 8.4
-    },
-    {
       "id": "tt27485777",
       "type": "series",
       "name": "Erotic Stories",
@@ -121,6 +101,26 @@
       "imdbRating": 5.2
     },
     {
+      "id": "tt6473300",
+      "type": "series",
+      "name": "Mirzapur",
+      "poster": "https://images.metahub.space/poster/medium/tt6473300/img",
+      "background": "https://images.metahub.space/background/medium/tt6473300/img",
+      "description": "The iron-fisted Akhandanand Tripathi is a millionaire carpet exporter and the mafia don of Mirzapur. His son, Munna, is an unworthy, power-hungry heir who will stop at nothing to inherit his father's legacy. An incident at a wedding procession forces him to cross paths with Ramakant Pandit, an upstanding lawyer, and his sons, Guddu and Bablu. It snowballs into a game of ambition, power and greed that threatens the fabric of this lawless city.",
+      "releaseInfo": 2018,
+      "imdbRating": 8.4
+    },
+    {
+      "id": "tt32375763",
+      "type": "series",
+      "name": "12 12 12",
+      "poster": "https://images.metahub.space/poster/medium/tt32375763/img",
+      "background": "https://images.metahub.space/background/medium/tt32375763/img",
+      "description": "Three intertwined timelines follow the planning and execution of a daring heist in Zurich and its aftermath as an FBI agent pursues a master criminal across Europe.",
+      "releaseInfo": 2026,
+      "imdbRating": 5.8
+    },
+    {
       "id": "tt31510819",
       "type": "series",
       "name": "MobLand",
@@ -129,6 +129,16 @@
       "description": "Two mob families clash in a war that threatens to topple empires and lives.",
       "releaseInfo": 2025,
       "imdbRating": 8.3
+    },
+    {
+      "id": "tt29625288",
+      "type": "series",
+      "name": "Akka",
+      "poster": "https://images.metahub.space/poster/medium/tt29625288/img",
+      "background": "https://images.metahub.space/background/medium/tt29625288/img",
+      "description": "In a kingdom ruled by women, matriarch Bhavani faces her biggest threat in Rudra, a ruthless rebel eyeing her land and legacy.",
+      "releaseInfo": 2026,
+      "imdbRating": 5
     },
     {
       "id": "tt13854248",
@@ -151,14 +161,14 @@
       "imdbRating": 7.8
     },
     {
-      "id": "tt32375763",
+      "id": "tt39201866",
       "type": "series",
-      "name": "12 12 12",
-      "poster": "https://images.metahub.space/poster/medium/tt32375763/img",
-      "background": "https://images.metahub.space/background/medium/tt32375763/img",
-      "description": "Three intertwined timelines follow the planning and execution of a daring heist in Zurich and its aftermath as an FBI agent pursues a master criminal across Europe.",
+      "name": "100 Days of Deception",
+      "poster": "https://images.metahub.space/poster/medium/tt39201866/img",
+      "background": "https://images.metahub.space/background/medium/tt39201866/img",
+      "description": "Hoping for freedom, Gyeongseong's top pickpocket infiltrates the Japanese colonial government to steal secrets — only to fall for her target's son.",
       "releaseInfo": 2026,
-      "imdbRating": 5.9
+      "imdbRating": 8.4
     },
     {
       "id": "tt11301642",
@@ -169,16 +179,6 @@
       "description": "A group of unique characters from dramatically different socio-cultural backgrounds meet in startling circumstances in the vibrant and colorful city of Istanbul, some by chance and some by force of will.",
       "releaseInfo": 2020,
       "imdbRating": 8.4
-    },
-    {
-      "id": "tt0944947",
-      "type": "series",
-      "name": "Game of Thrones",
-      "poster": "https://images.metahub.space/poster/medium/tt0944947/img",
-      "background": "https://images.metahub.space/background/medium/tt0944947/img",
-      "description": "Seven noble families fight for control of the mythical land of Westeros. Friction between the houses leads to full-scale war. All while a very ancient evil awakens in the farthest north. Amidst the war, a neglected military order of misfits, the Night's Watch, is all that stands between the realms of men and icy horrors beyond.",
-      "releaseInfo": 2011,
-      "imdbRating": 9.2
     },
     {
       "id": "tt3212600",
@@ -201,54 +201,24 @@
       "imdbRating": 5.6
     },
     {
-      "id": "tt7587890",
+      "id": "tt14688458",
       "type": "series",
-      "name": "The Rookie",
-      "poster": "https://images.metahub.space/poster/medium/tt7587890/img",
-      "background": "https://images.metahub.space/background/medium/tt7587890/img",
-      "description": "Starting over isn't easy, especially for John Nolan who, after a life-altering incident, is pursuing his dream of joining the LAPD. As their oldest rookie, he's met with skepticism from those who see him as just a walking midlife crisis.",
-      "releaseInfo": 2018,
-      "imdbRating": 8
+      "name": "Silo",
+      "poster": "https://images.metahub.space/poster/medium/tt14688458/img",
+      "background": "https://images.metahub.space/background/medium/tt14688458/img",
+      "description": "Men and women live in a giant silo underground with several regulations which they believe are in place to protect them from the toxic and ruined world on the surface.",
+      "releaseInfo": 2023,
+      "imdbRating": 8.1
     },
     {
-      "id": "tt4574334",
+      "id": "tt0944947",
       "type": "series",
-      "name": "Stranger Things",
-      "poster": "https://images.metahub.space/poster/medium/tt4574334/img",
-      "background": "https://images.metahub.space/background/medium/tt4574334/img",
-      "description": "When a young boy vanishes, a small town uncovers a mystery involving secret experiments, terrifying supernatural forces, and one strange little girl.",
-      "releaseInfo": 2016,
-      "imdbRating": 8.6
-    },
-    {
-      "id": "tt37180305",
-      "type": "series",
-      "name": "Friends Sex and Games",
-      "poster": "https://images.metahub.space/poster/medium/tt37180305/img",
-      "background": "https://images.metahub.space/background/medium/tt37180305/img",
-      "description": "A group of friends starts a daring game. Everyone throws their keys into a bowl—whoever picks one spends the night with the owner of that key.",
-      "releaseInfo": 2026,
-      "imdbRating": 5.3
-    },
-    {
-      "id": "tt39201866",
-      "type": "series",
-      "name": "100 Days of Deception",
-      "poster": "https://images.metahub.space/poster/medium/tt39201866/img",
-      "background": "https://images.metahub.space/background/medium/tt39201866/img",
-      "description": "Hoping for freedom, Gyeongseong's top pickpocket infiltrates the Japanese colonial government to steal secrets — only to fall for her target's son.",
-      "releaseInfo": 2026,
-      "imdbRating": 8.3
-    },
-    {
-      "id": "tt12540080",
-      "type": "series",
-      "name": "Dark Desire",
-      "poster": "https://images.metahub.space/poster/medium/tt12540080/img",
-      "background": "https://images.metahub.space/background/medium/tt12540080/img",
-      "description": "Married Alma spends a fateful weekend away from home that ignites passion, ends in tragedy and leads her to question the truth about those close to her.",
-      "releaseInfo": 2020,
-      "imdbRating": 6.5
+      "name": "Game of Thrones",
+      "poster": "https://images.metahub.space/poster/medium/tt0944947/img",
+      "background": "https://images.metahub.space/background/medium/tt0944947/img",
+      "description": "Seven noble families fight for control of the mythical land of Westeros. Friction between the houses leads to full-scale war. All while a very ancient evil awakens in the farthest north. Amidst the war, a neglected military order of misfits, the Night's Watch, is all that stands between the realms of men and icy horrors beyond.",
+      "releaseInfo": 2011,
+      "imdbRating": 9.2
     },
     {
       "id": "tt28077038",
@@ -261,56 +231,6 @@
       "imdbRating": 7.7
     },
     {
-      "id": "tt6468322",
-      "type": "series",
-      "name": "Money Heist",
-      "poster": "https://images.metahub.space/poster/medium/tt6468322/img",
-      "background": "https://images.metahub.space/background/medium/tt6468322/img",
-      "description": "To carry out the biggest heist in history, a mysterious man called The Professor recruits a band of eight robbers who have a single characteristic: none of them has anything to lose. Five months of seclusion - memorizing every step, every detail, every probability - culminate in eleven days locked up in the National Coinage and Stamp Factory of Spain, surrounded by police forces and with dozens of hostages in their power, to find out whether their suicide wager will lead to everything or nothing.",
-      "releaseInfo": 2017,
-      "imdbRating": 8.2
-    },
-    {
-      "id": "tt34809853",
-      "type": "series",
-      "name": "Teach You a Lesson",
-      "poster": "https://images.metahub.space/poster/medium/tt34809853/img",
-      "background": "https://images.metahub.space/background/medium/tt34809853/img",
-      "description": "An inspector from the Educational Rights Protection Bureau (ERPB) who is authorized by the government to use physical intervention and unconventional methods to discipline delinquent students and reform the educational system.",
-      "releaseInfo": 2026,
-      "imdbRating": 8.4
-    },
-    {
-      "id": "tt14688458",
-      "type": "series",
-      "name": "Silo",
-      "poster": "https://images.metahub.space/poster/medium/tt14688458/img",
-      "background": "https://images.metahub.space/background/medium/tt14688458/img",
-      "description": "Men and women live in a giant silo underground with several regulations which they believe are in place to protect them from the toxic and ruined world on the surface.",
-      "releaseInfo": 2023,
-      "imdbRating": 8.1
-    },
-    {
-      "id": "tt7441658",
-      "type": "series",
-      "name": "Black Clover",
-      "poster": "https://images.metahub.space/poster/medium/tt7441658/img",
-      "background": "https://images.metahub.space/background/medium/tt7441658/img",
-      "description": "Asta and Yuno were abandoned together at the same church and have been inseparable since. As children, they promised that they would compete against each other to see who would become the next Emperor Magus.",
-      "releaseInfo": 2017,
-      "imdbRating": 8.3
-    },
-    {
-      "id": "tt39665097",
-      "type": "series",
-      "name": "Musafir Cafe",
-      "poster": "https://images.metahub.space/poster/medium/tt39665097/img",
-      "background": "https://images.metahub.space/background/medium/tt39665097/img",
-      "description": "Three travelers lives unexpectedly intertwine. Chander and Sudha share an instant spark. With Preeti, Chander finds steady companionship built on quiet understanding and ease. Which love endures through time, and life's journey?",
-      "releaseInfo": 2026,
-      "imdbRating": 7.5
-    },
-    {
       "id": "tt27995115",
       "type": "series",
       "name": "The Devil's Plan",
@@ -321,24 +241,44 @@
       "imdbRating": 8.3
     },
     {
-      "id": "tt3281796",
+      "id": "tt37180305",
       "type": "series",
-      "name": "Power",
-      "poster": "https://images.metahub.space/poster/medium/tt3281796/img",
-      "background": "https://images.metahub.space/background/medium/tt3281796/img",
-      "description": "A successful New York entrepreneur lives a double life as the head of a drug empire that serves only the rich and influential, all while wanting to escape the underworld and keep his family safe.",
-      "releaseInfo": 2014,
-      "imdbRating": 8.1
+      "name": "Friends Sex and Games",
+      "poster": "https://images.metahub.space/poster/medium/tt37180305/img",
+      "background": "https://images.metahub.space/background/medium/tt37180305/img",
+      "description": "A group of friends starts a daring game. Everyone throws their keys into a bowl—whoever picks one spends the night with the owner of that key.",
+      "releaseInfo": 2026,
+      "imdbRating": 5.3
     },
     {
-      "id": "tt20234568",
+      "id": "tt12540080",
       "type": "series",
-      "name": "Weak Hero",
-      "poster": "https://images.metahub.space/poster/medium/tt20234568/img",
-      "background": "https://images.metahub.space/background/medium/tt20234568/img",
-      "description": "With the aid of unexpected friends, a gifted but introverted student confronts bullies and violent foes — unaware of how dangerous his world will become.",
-      "releaseInfo": 2022,
+      "name": "Dark Desire",
+      "poster": "https://images.metahub.space/poster/medium/tt12540080/img",
+      "background": "https://images.metahub.space/background/medium/tt12540080/img",
+      "description": "Married Alma spends a fateful weekend away from home that ignites passion, ends in tragedy and leads her to question the truth about those close to her.",
+      "releaseInfo": 2020,
+      "imdbRating": 6.5
+    },
+    {
+      "id": "tt7768578",
+      "type": "series",
+      "name": "Crayon Shin-chan",
+      "poster": "https://images.metahub.space/poster/medium/tt7768578/img",
+      "background": "https://images.metahub.space/background/medium/tt7768578/img",
+      "description": "Shin-chan, the boy next door, is a walking disaster, creating chaos wherever he goes. With the body of a child and the mind of an adult, Shinchan is wreaking more havoc than any child before. Shin-chan is carefree, optimistic and gets excited about everything. This 5 year-old likes to do things his way.",
+      "releaseInfo": 1992,
       "imdbRating": 8.4
+    },
+    {
+      "id": "tt39640519",
+      "type": "series",
+      "name": "Chumbak",
+      "poster": "https://images.metahub.space/poster/medium/tt39640519/img",
+      "background": "https://images.metahub.space/background/medium/tt39640519/img",
+      "description": "A young author and quirky support group explore the lives of five families in a Mumbai row-house who laugh, cry, eat, drink, and share everything together, forming a beautiful surrogate family through life's ups and downs.",
+      "releaseInfo": 2026,
+      "imdbRating": 6.7
     },
     {
       "id": "tt13875494",
@@ -351,6 +291,26 @@
       "imdbRating": 7.2
     },
     {
+      "id": "tt3281796",
+      "type": "series",
+      "name": "Power",
+      "poster": "https://images.metahub.space/poster/medium/tt3281796/img",
+      "background": "https://images.metahub.space/background/medium/tt3281796/img",
+      "description": "A successful New York entrepreneur lives a double life as the head of a drug empire that serves only the rich and influential, all while wanting to escape the underworld and keep his family safe.",
+      "releaseInfo": 2014,
+      "imdbRating": 8.1
+    },
+    {
+      "id": "tt26471411",
+      "type": "series",
+      "name": "When Life Gives You Tangerines",
+      "poster": "https://images.metahub.space/poster/medium/tt26471411/img",
+      "background": "https://images.metahub.space/background/medium/tt26471411/img",
+      "description": "In Jeju, a spirited girl and a steadfast boy's island story blossoms into a lifelong tale of setbacks and triumphs — proving love endures across time.",
+      "releaseInfo": 2025,
+      "imdbRating": 9
+    },
+    {
       "id": "tt1266020",
       "type": "series",
       "name": "Parks and Recreation",
@@ -361,6 +321,26 @@
       "imdbRating": 8.6
     },
     {
+      "id": "tt33270224",
+      "type": "series",
+      "name": "Cupertino",
+      "poster": "https://images.metahub.space/poster/medium/tt33270224/img",
+      "background": "https://images.metahub.space/background/medium/tt33270224/img",
+      "description": "A scrappy lawyer takes on a powerful tech giant in a high-stakes legal battle, navigating the cutthroat world of Silicon Valley while fighting for justice and the little guy's rights.",
+      "releaseInfo": 2026,
+      "imdbRating": 7.9
+    },
+    {
+      "id": "tt4574334",
+      "type": "series",
+      "name": "Stranger Things",
+      "poster": "https://images.metahub.space/poster/medium/tt4574334/img",
+      "background": "https://images.metahub.space/background/medium/tt4574334/img",
+      "description": "When a young boy vanishes, a small town uncovers a mystery involving secret experiments, terrifying supernatural forces, and one strange little girl.",
+      "releaseInfo": 2016,
+      "imdbRating": 8.6
+    },
+    {
       "id": "tt35929525",
       "type": "series",
       "name": "Shaque: Trust No One",
@@ -368,17 +348,7 @@
       "background": "https://images.metahub.space/background/medium/tt35929525/img",
       "description": "A mother receives yearly photos of her missing child. After nine years of searching, she discovers the truth about the abduction lies not far away, but hidden among her closest circle.",
       "releaseInfo": 2026,
-      "imdbRating": 5.2
-    },
-    {
-      "id": "tt9813792",
-      "type": "series",
-      "name": "FROM",
-      "poster": "https://images.metahub.space/poster/medium/tt9813792/img",
-      "background": "https://images.metahub.space/background/medium/tt9813792/img",
-      "description": "Unravel the mystery of a nightmarish town in middle America that traps all those who enter. As the unwilling residents fight to keep a sense of normalcy and search for a way out, they must also survive the threats of the surrounding forest – including the terrifying creatures that come out when the sun goes down.",
-      "releaseInfo": 2022,
-      "imdbRating": 7.7
+      "imdbRating": 5.3
     },
     {
       "id": "tt18278410",
@@ -401,44 +371,14 @@
       "imdbRating": 8.7
     },
     {
-      "id": "tt7768578",
+      "id": "tt6468322",
       "type": "series",
-      "name": "Crayon Shin-chan",
-      "poster": "https://images.metahub.space/poster/medium/tt7768578/img",
-      "background": "https://images.metahub.space/background/medium/tt7768578/img",
-      "description": "Shin-chan, the boy next door, is a walking disaster, creating chaos wherever he goes. With the body of a child and the mind of an adult, Shinchan is wreaking more havoc than any child before. Shin-chan is carefree, optimistic and gets excited about everything. This 5 year-old likes to do things his way.",
-      "releaseInfo": 1992,
-      "imdbRating": 8.4
-    },
-    {
-      "id": "tt33270224",
-      "type": "series",
-      "name": "Cupertino",
-      "poster": "https://images.metahub.space/poster/medium/tt33270224/img",
-      "background": "https://images.metahub.space/background/medium/tt33270224/img",
-      "description": "A scrappy lawyer takes on a powerful tech giant in a high-stakes legal battle, navigating the cutthroat world of Silicon Valley while fighting for justice and the little guy's rights.",
-      "releaseInfo": 2026,
-      "imdbRating": 7.9
-    },
-    {
-      "id": "tt12004706",
-      "type": "series",
-      "name": "Panchayat",
-      "poster": "https://images.metahub.space/poster/medium/tt12004706/img",
-      "background": "https://images.metahub.space/background/medium/tt12004706/img",
-      "description": "A comedy-drama, which captures the journey of an engineering graduate Abhishek, who for lack of a better job option joins as secretary of a Panchayat office in a remote village of Uttar Pradesh.",
-      "releaseInfo": 2020,
-      "imdbRating": 9
-    },
-    {
-      "id": "tt39390811",
-      "type": "series",
-      "name": "Alicia's Law",
-      "poster": "https://images.metahub.space/poster/medium/tt39390811/img",
-      "background": "https://images.metahub.space/background/medium/tt39390811/img",
-      "description": "After her husband, a Supreme Court Justice Minister, is imprisoned for corruption, Alicia must restart her law career to support her children and pay bills as her world crumbles.",
-      "releaseInfo": 2026,
-      "imdbRating": 6.3
+      "name": "Money Heist",
+      "poster": "https://images.metahub.space/poster/medium/tt6468322/img",
+      "background": "https://images.metahub.space/background/medium/tt6468322/img",
+      "description": "To carry out the biggest heist in history, a mysterious man called The Professor recruits a band of eight robbers who have a single characteristic: none of them has anything to lose. Five months of seclusion - memorizing every step, every detail, every probability - culminate in eleven days locked up in the National Coinage and Stamp Factory of Spain, surrounded by police forces and with dozens of hostages in their power, to find out whether their suicide wager will lead to everything or nothing.",
+      "releaseInfo": 2017,
+      "imdbRating": 8.2
     },
     {
       "id": "tt1632701",
@@ -451,44 +391,94 @@
       "imdbRating": 8.4
     },
     {
-      "id": "tt0903747",
+      "id": "tt7587890",
       "type": "series",
-      "name": "Breaking Bad",
-      "poster": "https://images.metahub.space/poster/medium/tt0903747/img",
-      "background": "https://images.metahub.space/background/medium/tt0903747/img",
-      "description": "Walter White, a New Mexico chemistry teacher, is diagnosed with Stage III cancer and given a prognosis of only two years left to live. He becomes filled with a sense of fearlessness and an unrelenting desire to secure his family's financial future at any cost as he enters the dangerous world of drugs and crime.",
-      "releaseInfo": 2008,
-      "imdbRating": 9.5
+      "name": "The Rookie",
+      "poster": "https://images.metahub.space/poster/medium/tt7587890/img",
+      "background": "https://images.metahub.space/background/medium/tt7587890/img",
+      "description": "Starting over isn't easy, especially for John Nolan who, after a life-altering incident, is pursuing his dream of joining the LAPD. As their oldest rookie, he's met with skepticism from those who see him as just a walking midlife crisis.",
+      "releaseInfo": 2018,
+      "imdbRating": 8
     },
     {
-      "id": "tt0455275",
+      "id": "tt34809853",
       "type": "series",
-      "name": "Prison Break",
-      "poster": "https://images.metahub.space/poster/medium/tt0455275/img",
-      "background": "https://images.metahub.space/background/medium/tt0455275/img",
-      "description": "Due to a political conspiracy, an innocent man is sent to death row and his only hope is his brother, who makes it his mission to deliberately get himself sent to the same prison in order to break the both of them out, from the inside out.",
-      "releaseInfo": 2005,
-      "imdbRating": 8.3
+      "name": "Teach You a Lesson",
+      "poster": "https://images.metahub.space/poster/medium/tt34809853/img",
+      "background": "https://images.metahub.space/background/medium/tt34809853/img",
+      "description": "An inspector from the Educational Rights Protection Bureau (ERPB) who is authorized by the government to use physical intervention and unconventional methods to discipline delinquent students and reform the educational system.",
+      "releaseInfo": 2026,
+      "imdbRating": 8.4
     },
     {
-      "id": "tt15477488",
+      "id": "tt2531336",
       "type": "series",
-      "name": "Farzi",
-      "poster": "https://images.metahub.space/poster/medium/tt15477488/img",
-      "background": "https://images.metahub.space/background/medium/tt15477488/img",
-      "description": "Sunny, a brilliant small-time artist is catapulted into the high-stakes world of counterfeiting when he creates the perfect fake currency note, even as Michael, a fiery, unorthodox task force officer wants to rid the country of the counterfeiting menace. In this thrilling cat-and-mouse race, losing is not an option!",
-      "releaseInfo": 2023,
-      "imdbRating": 8.3
+      "name": "Lupin",
+      "poster": "https://images.metahub.space/poster/medium/tt2531336/img",
+      "background": "https://images.metahub.space/background/medium/tt2531336/img",
+      "description": "Inspired by the adventures of Arsène Lupin, gentleman thief Assane Diop sets out to avenge his father for an injustice inflicted by a wealthy family.",
+      "releaseInfo": 2021,
+      "imdbRating": 7.5
     },
     {
-      "id": "tt13210838",
+      "id": "tt39390491",
       "type": "series",
-      "name": "The Gentlemen",
-      "poster": "https://images.metahub.space/poster/medium/tt13210838/img",
-      "background": "https://images.metahub.space/background/medium/tt13210838/img",
-      "description": "When aristocratic Eddie inherits the family estate, he discovers that it's home to a huge weed empire, and its proprietors aren't going anywhere.",
-      "releaseInfo": 2024,
-      "imdbRating": 8.1
+      "name": "Alicia's Law",
+      "poster": "https://images.metahub.space/poster/medium/tt39390491/img",
+      "background": "https://images.metahub.space/background/medium/tt39390491/img",
+      "description": "After her husband, a Supreme Court Justice Minister, is imprisoned for corruption, Alicia must restart her law career to support her children and pay bills as her world crumbles.",
+      "releaseInfo": 2026,
+      "imdbRating": 6.3
+    },
+    {
+      "id": "tt10986410",
+      "type": "series",
+      "name": "Ted Lasso",
+      "poster": "https://images.metahub.space/poster/medium/tt10986410/img",
+      "background": "https://images.metahub.space/background/medium/tt10986410/img",
+      "description": "American college football coach Ted Lasso is hired to manage AFC Richmond, a struggling English soccer club, and must win over skeptical players, staff, and fans.",
+      "releaseInfo": 2020,
+      "imdbRating": 8.7
+    },
+    {
+      "id": "tt9140554",
+      "type": "series",
+      "name": "Loki",
+      "poster": "https://images.metahub.space/poster/medium/tt9140554/img",
+      "background": "https://images.metahub.space/background/medium/tt9140554/img",
+      "description": "The mercurial villain Loki resumes his role as the God of Mischief in a new series that takes place after the events of “Avengers: Endgame.”",
+      "releaseInfo": 2021,
+      "imdbRating": 8.2
+    },
+    {
+      "id": "tt12343534",
+      "type": "series",
+      "name": "Jujutsu Kaisen",
+      "poster": "https://images.metahub.space/poster/medium/tt12343534/img",
+      "background": "https://images.metahub.space/background/medium/tt12343534/img",
+      "description": "A boy swallows a cursed talisman - the finger of a demon - and becomes cursed himself. He enters a shaman's school to be able to locate the demon's other body parts and thus exorcise himself.",
+      "releaseInfo": 2020,
+      "imdbRating": 8.5
+    },
+    {
+      "id": "tt0773262",
+      "type": "series",
+      "name": "Dexter",
+      "poster": "https://images.metahub.space/poster/medium/tt0773262/img",
+      "background": "https://images.metahub.space/background/medium/tt0773262/img",
+      "description": "Dexter Morgan, a blood spatter pattern analyst for the Miami Metro Police also leads a secret life as a serial killer, hunting down criminals who have slipped through the cracks of justice.",
+      "releaseInfo": 2006,
+      "imdbRating": 8.6
+    },
+    {
+      "id": "tt33043892",
+      "type": "series",
+      "name": "Dexter: Resurrection",
+      "poster": "https://images.metahub.space/poster/medium/tt33043892/img",
+      "background": "https://images.metahub.space/background/medium/tt33043892/img",
+      "description": "Set 10 weeks after Dexter: New Blood, Dexter Morgan chases a missing Harrison to New York City, where Captain Angel Batista is hot on their trail from way down in Miami.",
+      "releaseInfo": 2025,
+      "imdbRating": 9
     },
     {
       "id": "tt31438328",
@@ -499,6 +489,16 @@
       "description": "Michael, a longtime member of organized crime, falls in love with Diana, prompting him to reevaluate his life and contemplate a future beyond his criminal activities. His newfound love becomes both a motivation and a potential liability.",
       "releaseInfo": 2025,
       "imdbRating": 7.8
+    },
+    {
+      "id": "tt34498121",
+      "type": "series",
+      "name": "Thukra Ke Mera Pyaar",
+      "poster": "https://images.metahub.space/poster/medium/tt34498121/img",
+      "background": "https://images.metahub.space/background/medium/tt34498121/img",
+      "description": "Two families clash over societal and caste differences spurring a saga of revenge. All this happens when a love story goes wrong.",
+      "releaseInfo": 2024,
+      "imdbRating": 6.5
     }
   ]
 }
