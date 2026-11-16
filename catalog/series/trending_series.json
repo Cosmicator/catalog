@@ -78,7 +78,7 @@
       "background": "https://images.metahub.space/background/medium/tt45246384/img",
       "description": "Taekang Group's successor, Yoon Yi-jun, is the prime suspect of a shocking murder. To uncover the truth, Kang Jae-hee goes undercover as a male secretary to keep an eye on Yi-jun. The closer they get to what really happened, the closer Yi-jun and Jae-hee become. Will Jae-hee, who is hiding her identity, and Yi-jun, who is hiding a secret, be able to let their true feelings be known to one another?",
       "releaseInfo": 2026,
-      "imdbRating": 7.9
+      "imdbRating": 8
     },
     {
       "id": "tt35304338",
@@ -89,16 +89,6 @@
       "description": "A struggling student at Korea's worst high school forms a study group while protecting his classmates with his fighting skills, hoping to overcome academic challenges and secure a spot in college.",
       "releaseInfo": 2025,
       "imdbRating": 8.2
-    },
-    {
-      "id": "tt27485777",
-      "type": "series",
-      "name": "Erotic Stories",
-      "poster": "https://images.metahub.space/poster/medium/tt27485777/img",
-      "background": "https://images.metahub.space/background/medium/tt27485777/img",
-      "description": "Erotic Stories is a bold and transgressive anthology series exploring sex and intimacy amongst diverse characters not traditionally seen as sexual leads.",
-      "releaseInfo": 2023,
-      "imdbRating": 5.2
     },
     {
       "id": "tt6473300",
@@ -121,6 +111,16 @@
       "imdbRating": 5.8
     },
     {
+      "id": "tt27485777",
+      "type": "series",
+      "name": "Erotic Stories",
+      "poster": "https://images.metahub.space/poster/medium/tt27485777/img",
+      "background": "https://images.metahub.space/background/medium/tt27485777/img",
+      "description": "Erotic Stories is a bold and transgressive anthology series exploring sex and intimacy amongst diverse characters not traditionally seen as sexual leads.",
+      "releaseInfo": 2023,
+      "imdbRating": 5.2
+    },
+    {
       "id": "tt31510819",
       "type": "series",
       "name": "MobLand",
@@ -131,16 +131,6 @@
       "imdbRating": 8.3
     },
     {
-      "id": "tt29625288",
-      "type": "series",
-      "name": "Akka",
-      "poster": "https://images.metahub.space/poster/medium/tt29625288/img",
-      "background": "https://images.metahub.space/background/medium/tt29625288/img",
-      "description": "In a kingdom ruled by women, matriarch Bhavani faces her biggest threat in Rudra, a ruthless rebel eyeing her land and legacy.",
-      "releaseInfo": 2026,
-      "imdbRating": 5
-    },
-    {
       "id": "tt13854248",
       "type": "series",
       "name": "The Legend of Hanuman",
@@ -149,6 +139,16 @@
       "description": "When the power-hungry Ravan tore through the world to unleash evil, in his way stood a humble vaanar awoken to his divinity to become an immortal legend.",
       "releaseInfo": 2021,
       "imdbRating": 9.1
+    },
+    {
+      "id": "tt29625288",
+      "type": "series",
+      "name": "Akka",
+      "poster": "https://images.metahub.space/poster/medium/tt29625288/img",
+      "background": "https://images.metahub.space/background/medium/tt29625288/img",
+      "description": "In a kingdom ruled by women, matriarch Bhavani faces her biggest threat in Rudra, a ruthless rebel eyeing her land and legacy.",
+      "releaseInfo": 2026,
+      "imdbRating": 5
     },
     {
       "id": "tt33546863",
@@ -341,16 +341,6 @@
       "imdbRating": 8.6
     },
     {
-      "id": "tt35929525",
-      "type": "series",
-      "name": "Shaque: Trust No One",
-      "poster": "https://images.metahub.space/poster/medium/tt35929525/img",
-      "background": "https://images.metahub.space/background/medium/tt35929525/img",
-      "description": "A mother receives yearly photos of her missing child. After nine years of searching, she discovers the truth about the abduction lies not far away, but hidden among her closest circle.",
-      "releaseInfo": 2026,
-      "imdbRating": 5.3
-    },
-    {
       "id": "tt18278410",
       "type": "series",
       "name": "Titans: The Rise of Wall Street",
@@ -499,6 +489,16 @@
       "description": "Two families clash over societal and caste differences spurring a saga of revenge. All this happens when a love story goes wrong.",
       "releaseInfo": 2024,
       "imdbRating": 6.5
+    },
+    {
+      "id": "tt35929525",
+      "type": "series",
+      "name": "Shaque: Trust No One",
+      "poster": "https://images.metahub.space/poster/medium/tt35929525/img",
+      "background": "https://images.metahub.space/background/medium/tt35929525/img",
+      "description": "A mother receives yearly photos of her missing child. After nine years of searching, she discovers the truth about the abduction lies not far away, but hidden among her closest circle.",
+      "releaseInfo": 2026,
+      "imdbRating": 5.3
     }
   ]
 }

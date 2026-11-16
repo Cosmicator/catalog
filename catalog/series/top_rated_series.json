@@ -232,17 +232,6 @@
       "imdbRating": "8.5"
     },
     {
-      "id": "tt4093826",
-      "type": "series",
-      "name": "Twin Peaks",
-      "poster": "https://images.metahub.space/poster/small/tt4093826/img",
-      "background": "https://images.metahub.space/background/medium/tt4093826/img",
-      "logo": "https://images.metahub.space/logo/medium/tt4093826/img",
-      "description": "Picks up 25 years after the inhabitants of a quaint northwestern town are stunned when their homecoming queen is murdered.",
-      "releaseInfo": "2017",
-      "imdbRating": "8.5"
-    },
-    {
       "id": "tt11912196",
       "type": "series",
       "name": "Asur: Welcome to Your Dark Side",
@@ -251,6 +240,17 @@
       "logo": "https://images.metahub.space/logo/medium/tt11912196/img",
       "description": "Shubh returns for revenge and this season he takes the challenge to a whole new level. With the heroes fallen apart, will a desolate Dhananjay Rajpoot and a torn Nikhil Nair be able to stop him?",
       "releaseInfo": "2020–",
+      "imdbRating": "8.5"
+    },
+    {
+      "id": "tt4093826",
+      "type": "series",
+      "name": "Twin Peaks",
+      "poster": "https://images.metahub.space/poster/small/tt4093826/img",
+      "background": "https://images.metahub.space/background/medium/tt4093826/img",
+      "logo": "https://images.metahub.space/logo/medium/tt4093826/img",
+      "description": "Picks up 25 years after the inhabitants of a quaint northwestern town are stunned when their homecoming queen is murdered.",
+      "releaseInfo": "2017",
       "imdbRating": "8.5"
     },
     {
@@ -507,17 +507,6 @@
       "imdbRating": "8.1"
     },
     {
-      "id": "tt5700398",
-      "type": "series",
-      "name": "Siya Ke Ram",
-      "poster": "https://images.metahub.space/poster/small/tt5700398/img",
-      "background": "https://images.metahub.space/background/medium/tt5700398/img",
-      "logo": "https://images.metahub.space/logo/medium/tt5700398/img",
-      "description": "Traces the story of ramayan character Sita from a very different perspective. For the first time the story is televised in this detail.",
-      "releaseInfo": "2015–2016",
-      "imdbRating": "8.1"
-    },
-    {
       "id": "tt26915338",
       "type": "series",
       "name": "Gyaarah Gyaarah",
@@ -548,6 +537,17 @@
       "logo": "https://images.metahub.space/logo/medium/tt4643084/img",
       "description": "A cog in a bureaucratic agency discovers his agency is guarding a crossing to a parallel dimension.",
       "releaseInfo": "2017–2019",
+      "imdbRating": "8.0"
+    },
+    {
+      "id": "tt7587890",
+      "type": "series",
+      "name": "The Rookie",
+      "poster": "https://images.metahub.space/poster/small/tt7587890/img",
+      "background": "https://images.metahub.space/background/medium/tt7587890/img",
+      "logo": "https://images.metahub.space/logo/medium/tt7587890/img",
+      "description": "Starting over isn't easy, especially for John Nolan who, after a life-altering incident, is pursuing his dream of joining the LAPD. As their oldest rookie, he's met with skepticism from those who see him as just a walking midlife ...",
+      "releaseInfo": "2018–",
       "imdbRating": "8.0"
     }
   ]
