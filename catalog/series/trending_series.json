@@ -88,7 +88,7 @@
       "background": "https://images.metahub.space/background/medium/tt32375763/img",
       "description": "Three intertwined timelines follow the planning and execution of a daring heist in Zurich and its aftermath as an FBI agent pursues a master criminal across Europe.",
       "releaseInfo": 2026,
-      "imdbRating": 5.8
+      "imdbRating": 5.7
     },
     {
       "id": "tt35304338",
@@ -281,16 +281,6 @@
       "imdbRating": 8.6
     },
     {
-      "id": "tt39390491",
-      "type": "series",
-      "name": "Alicia's Law",
-      "poster": "https://images.metahub.space/poster/medium/tt39390491/img",
-      "background": "https://images.metahub.space/background/medium/tt39390491/img",
-      "description": "After her husband, a Supreme Court Justice Minister, is imprisoned for corruption, Alicia must restart her law career to support her children and pay bills as her world crumbles.",
-      "releaseInfo": 2026,
-      "imdbRating": 6.6
-    },
-    {
       "id": "tt33043892",
       "type": "series",
       "name": "Dexter: Resurrection",
@@ -309,16 +299,6 @@
       "description": "American college football coach Ted Lasso is hired to manage AFC Richmond, a struggling English soccer club, and must win over skeptical players, staff, and fans.",
       "releaseInfo": 2020,
       "imdbRating": 8.7
-    },
-    {
-      "id": "tt42132738",
-      "type": "series",
-      "name": "Must Date the Playboy!",
-      "poster": "https://images.metahub.space/poster/medium/tt42132738/img",
-      "background": "https://images.metahub.space/background/medium/tt42132738/img",
-      "description": "A fake relationship. A hidden agenda. A shy girl and a notorious playboy enter a dangerous game of love — where the biggest mistake they can make… is falling for each other.",
-      "releaseInfo": 2026,
-      "imdbRating": 8.4
     },
     {
       "id": "tt5622316",
@@ -431,6 +411,16 @@
       "imdbRating": 8.1
     },
     {
+      "id": "tt39390491",
+      "type": "series",
+      "name": "Alicia's Law",
+      "poster": "https://images.metahub.space/poster/medium/tt39390491/img",
+      "background": "https://images.metahub.space/background/medium/tt39390491/img",
+      "description": "After her husband, a Supreme Court Justice Minister, is imprisoned for corruption, Alicia must restart her law career to support her children and pay bills as her world crumbles.",
+      "releaseInfo": 2026,
+      "imdbRating": 6.5
+    },
+    {
       "id": "tt41962673",
       "type": "series",
       "name": "Brothers and Sisters",
@@ -499,6 +489,16 @@
       "description": "Naruto Uzumaki, is a loud, hyperactive, adolescent ninja who constantly searches for approval and recognition, as well as to become Hokage, who is acknowledged as the leader and strongest of all ninja in the village.",
       "releaseInfo": 2007,
       "imdbRating": 8.7
+    },
+    {
+      "id": "tt26915338",
+      "type": "series",
+      "name": "Gyaarah Gyaarah",
+      "poster": "https://images.metahub.space/poster/medium/tt26915338/img",
+      "background": "https://images.metahub.space/background/medium/tt26915338/img",
+      "description": "Investigative drama following events in 1990, 2001, 2016. Intertwining storylines blending mysticism, science and mystery across the decades.",
+      "releaseInfo": 2024,
+      "imdbRating": 8.1
     }
   ]
 }

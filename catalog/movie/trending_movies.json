@@ -48,7 +48,7 @@
       "background": "https://images.metahub.space/background/medium/tt32634611/img",
       "description": "A gripping investigative narrative that explores how a diabolical act creates polarizing reactions throughout society, fracturing opinions and challenging viewers to seek truth beyond easy answers.",
       "releaseInfo": 2026,
-      "imdbRating": 6.7
+      "imdbRating": 6.6
     },
     {
       "id": "tt40856286",
@@ -58,7 +58,17 @@
       "background": "https://images.metahub.space/background/medium/tt40856286/img",
       "description": "Two inseparable friends' ordinary, unassuming lives spiral into an unpredictable, high-energy adventure that pushes their survival instincts and friendship to the limit.",
       "releaseInfo": 2026,
-      "imdbRating": 6.9
+      "imdbRating": 6.8
+    },
+    {
+      "id": "tt33764258",
+      "type": "movie",
+      "name": "The Odyssey",
+      "poster": "https://images.metahub.space/poster/medium/tt33764258/img",
+      "background": "https://images.metahub.space/background/medium/tt33764258/img",
+      "description": "Odysseus, the legendary King of Ithaca, embarks on a long and perilous journey home following the Trojan War. Throughout his voyage, he is forced to confront the whims of gods, mythological monsters, and trials that stretch both his cunning and his humanity to the breaking point.",
+      "releaseInfo": 2026,
+      "imdbRating": 8.4
     },
     {
       "id": "tt22084616",
@@ -136,7 +146,7 @@
       "name": "Happy Journey",
       "poster": "https://images.metahub.space/poster/medium/tt42655940/img",
       "background": "https://images.metahub.space/background/medium/tt42655940/img",
-      "description": "A group of seven women across generations set off on a spontaneous European getaway, leaving their everyday lives behind. Amid the chaos, laughter and picturesque landscapes, the journey becomes an unexpected celebration of freedom and friendship.",
+      "description": "Seven women from different generations leave their daily routines behind for a spontaneous getaway that sparks a journey of friendship and self-discovery.",
       "releaseInfo": 2026,
       "imdbRating": 8.9
     },
@@ -251,6 +261,16 @@
       "imdbRating": 8.2
     },
     {
+      "id": "tt38213251",
+      "type": "movie",
+      "name": "Heartland",
+      "poster": "https://images.metahub.space/poster/medium/tt38213251/img",
+      "background": "https://images.metahub.space/background/medium/tt38213251/img",
+      "description": "Former country music legend Misty Jones returns to Nashville to unravel the truth behind her rising-star niece's disappearance.",
+      "releaseInfo": 2026,
+      "imdbRating": 5.6
+    },
+    {
       "id": "tt12042730",
       "type": "movie",
       "name": "Project Hail Mary",
@@ -261,16 +281,6 @@
       "imdbRating": 8.2
     },
     {
-      "id": "tt38213251",
-      "type": "movie",
-      "name": "Heartland",
-      "poster": "https://images.metahub.space/poster/medium/tt38213251/img",
-      "background": "https://images.metahub.space/background/medium/tt38213251/img",
-      "description": "A former country star, Misty Jones, comes out of seclusion to investigate the disappearance of her missing niece, a rising country musician and must grapple with her own past and Nashville’s seedy underbelly. Her search uncovers a murky side of Nashville where no one, including Misty, is who they seem.",
-      "releaseInfo": 2026,
-      "imdbRating": 5.6
-    },
-    {
       "id": "tt39370926",
       "type": "movie",
       "name": "Never Surrender",
@@ -278,7 +288,7 @@
       "background": "https://images.metahub.space/background/medium/tt39370926/img",
       "description": "When a deadly gang descends on his remote home, a guilt-ridden veteran and the estranged grandchildren he barely knows must unite to survive.",
       "releaseInfo": 2026,
-      "imdbRating": 6.1
+      "imdbRating": 6
     },
     {
       "id": "tt14113634",
@@ -378,7 +388,7 @@
       "background": "https://images.metahub.space/background/medium/tt27165187/img",
       "description": "After a mysterious cosmic event rips Oak Street from suburbia and transports their neighborhood to someplace unknown, the Platt family soon discovers that their very survival depends on them sticking together as they navigate their now unrecognizable surroundings.",
       "releaseInfo": 2026,
-      "imdbRating": 6.2
+      "imdbRating": 6.1
     },
     {
       "id": "tt0075148",
@@ -451,6 +461,16 @@
       "imdbRating": 6.4
     },
     {
+      "id": "tt1434447",
+      "type": "movie",
+      "name": "Rocket Singh: Salesman of the Year",
+      "poster": "https://images.metahub.space/poster/medium/tt1434447/img",
+      "background": "https://images.metahub.space/background/medium/tt1434447/img",
+      "description": "Rocket Singh: Salesman of the Year is the sometimes thoughtless, sometimes thoughtful story of a fresh graduate trying to find a balance between the maddening demands of the 'professional' way, and the way of his heart - and stumbling upon a crazy way which turned his world upside down, and his career right side up. Welcome to the world of sales boss!",
+      "releaseInfo": 2009,
+      "imdbRating": 7.5
+    },
+    {
       "id": "tt7160372",
       "type": "movie",
       "name": "The Zone of Interest",
@@ -459,16 +479,6 @@
       "description": "The commandant of Auschwitz, Rudolf Höss, and his wife Hedwig, strive to build a dream life for their family in a house and garden next to the camp.",
       "releaseInfo": 2023,
       "imdbRating": 7.3
-    },
-    {
-      "id": "tt46060457",
-      "type": "movie",
-      "name": "The Swan: Behind the Mirror",
-      "poster": "https://images.metahub.space/poster/medium/tt46060457/img",
-      "background": "https://images.metahub.space/background/medium/tt46060457/img",
-      "description": "A look at the controversial 2004 reality series The Swan, which took self-proclaimed 'ugly ducklings' and set out to make them... not that.",
-      "releaseInfo": 2026,
-      "imdbRating": 6.2
     },
     {
       "id": "tt4772188",
@@ -489,16 +499,6 @@
       "description": "After a courtroom overdose lands him in rehab, a lawyer has one week to save his career and prepare for his own trial, with the help of a dogged intern.",
       "releaseInfo": 2026,
       "imdbRating": 6.5
-    },
-    {
-      "id": "tt32273171",
-      "type": "movie",
-      "name": "The Death of Robin Hood",
-      "poster": "https://images.metahub.space/poster/medium/tt32273171/img",
-      "background": "https://images.metahub.space/background/medium/tt32273171/img",
-      "description": "Grappling with his past after a life of crime and murder, Robin Hood finds himself gravely injured after a battle he thought would be his last. In the hands of a mysterious woman, he is offered a chance at salvation.",
-      "releaseInfo": 2026,
-      "imdbRating": 6
     }
   ]
 }
