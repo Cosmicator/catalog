@@ -1,50 +1,6 @@
 {
   "metas": [
     {
-      "id": "tt0795176",
-      "type": "series",
-      "name": "Planet Earth",
-      "poster": "https://images.metahub.space/poster/small/tt0795176/img",
-      "background": "https://images.metahub.space/background/medium/tt0795176/img",
-      "logo": "https://images.metahub.space/logo/medium/tt0795176/img",
-      "description": "An epic nature documentary series exploring Earth's most spectacular habitats, revealing the wildlife, landscapes, and natural forces that shape life across the planet.",
-      "releaseInfo": "2006",
-      "imdbRating": "9.4"
-    },
-    {
-      "id": "tt5491994",
-      "type": "series",
-      "name": "Planet Earth II",
-      "poster": "https://images.metahub.space/poster/small/tt5491994/img",
-      "background": "https://images.metahub.space/background/medium/tt5491994/img",
-      "logo": "https://images.metahub.space/logo/medium/tt5491994/img",
-      "description": "David Attenborough presents a spectacular journey through Earth's habitats, revealing how animals adapt and survive on islands, mountains, jungles, deserts, grasslands and cities.",
-      "releaseInfo": "2016",
-      "imdbRating": "9.4"
-    },
-    {
-      "id": "tt0417299",
-      "type": "series",
-      "name": "Avatar: The Last Airbender",
-      "poster": "https://images.metahub.space/poster/small/tt0417299/img",
-      "background": "https://images.metahub.space/background/medium/tt0417299/img",
-      "logo": "https://images.metahub.space/logo/medium/tt0417299/img",
-      "description": "After a century frozen in ice, young Avatar Aang journeys with friends to master the four elements and bring balance to a world at war with the Fire Nation.",
-      "releaseInfo": "2005–2008",
-      "imdbRating": "9.3"
-    },
-    {
-      "id": "tt0944947",
-      "type": "series",
-      "name": "Game of Thrones",
-      "poster": "https://images.metahub.space/poster/small/tt0944947/img",
-      "background": "https://images.metahub.space/background/medium/tt0944947/img",
-      "logo": "https://images.metahub.space/logo/medium/tt0944947/img",
-      "description": "Nine noble families vie for control of Westeros and the Iron Throne, while an ancient threat beyond The Wall begins to stir.",
-      "releaseInfo": "2011–2019",
-      "imdbRating": "9.2"
-    },
-    {
       "id": "tt13854248",
       "type": "series",
       "name": "The Legend of Hanuman",
@@ -56,14 +12,25 @@
       "imdbRating": "9.1"
     },
     {
-      "id": "tt3212600",
+      "id": "tt5622316",
       "type": "series",
-      "name": "Mahabharat",
-      "poster": "https://images.metahub.space/poster/small/tt3212600/img",
-      "background": "https://images.metahub.space/background/medium/tt3212600/img",
-      "logo": "https://images.metahub.space/logo/medium/tt3212600/img",
-      "description": "The mother of all wars, the epitome of all rivalries, the cauldron of emotions, insecurities, jealousies, and power play - Mahabharat.",
-      "releaseInfo": "2013–2014",
+      "name": "The Chosen",
+      "poster": "https://images.metahub.space/poster/small/tt5622316/img",
+      "background": "https://images.metahub.space/background/medium/tt5622316/img",
+      "logo": "https://images.metahub.space/logo/medium/tt5622316/img",
+      "description": "The Chosen is a historical drama based on the life of Jesus and those who knew him. Set against the backdrop of Roman oppression in first-century Israel, the series shares an authentic look at Jesus' revolutionary life and teachings.",
+      "releaseInfo": "2017–",
+      "imdbRating": "9.1"
+    },
+    {
+      "id": "tt33043892",
+      "type": "series",
+      "name": "Dexter: Resurrection",
+      "poster": "https://images.metahub.space/poster/small/tt33043892/img",
+      "background": "https://images.metahub.space/background/medium/tt33043892/img",
+      "logo": "https://images.metahub.space/logo/medium/tt33043892/img",
+      "description": "Dexter Morgan awakens from a coma and sets out for New York City, determined to find Harrison and make things right. But when Miami Metro's Angel Batista arrives with questions, Dexter realizes his past is catching up to him fast.",
+      "releaseInfo": "2025–",
       "imdbRating": "9.0"
     },
     {
@@ -78,25 +45,36 @@
       "imdbRating": "9.0"
     },
     {
-      "id": "tt26471411",
+      "id": "tt0386676",
       "type": "series",
-      "name": "When Life Gives You Tangerines",
-      "poster": "https://images.metahub.space/poster/small/tt26471411/img",
-      "background": "https://images.metahub.space/background/medium/tt26471411/img",
-      "logo": "https://images.metahub.space/logo/medium/tt26471411/img",
-      "description": "In Jeju, a spirited girl and a steadfast boy's island story blossoms into a lifelong tale of setbacks and triumphs, proving love endures across time.",
-      "releaseInfo": "2025",
+      "name": "The Office",
+      "poster": "https://images.metahub.space/poster/small/tt0386676/img",
+      "background": "https://images.metahub.space/background/medium/tt0386676/img",
+      "logo": "https://images.metahub.space/logo/medium/tt0386676/img",
+      "description": "A mockumentary on a group of typical office workers, where the workday consists of ego clashes, inappropriate behavior, tedium and romance.",
+      "releaseInfo": "2005–2013",
       "imdbRating": "9.0"
     },
     {
-      "id": "tt33043892",
+      "id": "tt3212600",
       "type": "series",
-      "name": "Dexter: Resurrection",
-      "poster": "https://images.metahub.space/poster/small/tt33043892/img",
-      "background": "https://images.metahub.space/background/medium/tt33043892/img",
-      "logo": "https://images.metahub.space/logo/medium/tt33043892/img",
-      "description": "Dexter Morgan awakens from a coma and sets out for New York City, determined to find Harrison and make things right. But when Miami Metro's Angel Batista arrives with questions, Dexter realizes his past is catching up to him fast.",
-      "releaseInfo": "2025–",
+      "name": "Mahabharat",
+      "poster": "https://images.metahub.space/poster/small/tt3212600/img",
+      "background": "https://images.metahub.space/background/medium/tt3212600/img",
+      "logo": "https://images.metahub.space/logo/medium/tt3212600/img",
+      "description": "The mother of all wars, the epitome of all rivalries, the cauldron of emotions, insecurities, jealousies, and power play - Mahabharat.",
+      "releaseInfo": "2013–2014",
+      "imdbRating": "9.0"
+    },
+    {
+      "id": "tt12004706",
+      "type": "series",
+      "name": "Panchayat",
+      "poster": "https://images.metahub.space/poster/small/tt12004706/img",
+      "background": "https://images.metahub.space/background/medium/tt12004706/img",
+      "logo": "https://images.metahub.space/logo/medium/tt12004706/img",
+      "description": "A comedy-drama, which captures the journey of an engineering graduate Abhishek, who for lack of a better job option joins as secretary of a Panchayat office in a remote village of Uttar Pradesh.",
+      "releaseInfo": "2020–",
       "imdbRating": "9.0"
     },
     {
@@ -111,6 +89,17 @@
       "imdbRating": "8.9"
     },
     {
+      "id": "tt0877057",
+      "type": "series",
+      "name": "Death Note",
+      "poster": "https://images.metahub.space/poster/small/tt0877057/img",
+      "background": "https://images.metahub.space/background/medium/tt0877057/img",
+      "logo": "https://images.metahub.space/logo/medium/tt0877057/img",
+      "description": "An intelligent high school student goes on a secret crusade to eliminate criminals from the world after discovering a notebook capable of killing anyone whose name is written into it.",
+      "releaseInfo": "2006–2007",
+      "imdbRating": "8.9"
+    },
+    {
       "id": "tt10986410",
       "type": "series",
       "name": "Ted Lasso",
@@ -119,17 +108,6 @@
       "logo": "https://images.metahub.space/logo/medium/tt10986410/img",
       "description": "American college football coach Ted Lasso is hired to manage AFC Richmond, a struggling English soccer club, and must win over skeptical players, staff, and fans.",
       "releaseInfo": "2020–",
-      "imdbRating": "8.7"
-    },
-    {
-      "id": "tt0098936",
-      "type": "series",
-      "name": "Twin Peaks",
-      "poster": "https://images.metahub.space/poster/small/tt0098936/img",
-      "background": "https://images.metahub.space/background/medium/tt0098936/img",
-      "logo": "https://images.metahub.space/logo/medium/tt0098936/img",
-      "description": "An idiosyncratic FBI agent investigates the murder of a young woman in the even more idiosyncratic town of Twin Peaks.",
-      "releaseInfo": "1990–1991",
       "imdbRating": "8.7"
     },
     {
@@ -144,6 +122,17 @@
       "imdbRating": "8.7"
     },
     {
+      "id": "tt0098936",
+      "type": "series",
+      "name": "Twin Peaks",
+      "poster": "https://images.metahub.space/poster/small/tt0098936/img",
+      "background": "https://images.metahub.space/background/medium/tt0098936/img",
+      "logo": "https://images.metahub.space/logo/medium/tt0098936/img",
+      "description": "An idiosyncratic FBI agent investigates the murder of a young woman in the even more idiosyncratic town of Twin Peaks.",
+      "releaseInfo": "1990–1991",
+      "imdbRating": "8.7"
+    },
+    {
       "id": "tt0988824",
       "type": "series",
       "name": "Naruto: Shippuden",
@@ -153,28 +142,6 @@
       "description": "Naruto Uzumaki, is a loud, hyperactive, adolescent ninja who constantly searches for approval and recognition, as well as to become Hokage, who is acknowledged as the leader and strongest of all ninja in the village.",
       "releaseInfo": "2007–2017",
       "imdbRating": "8.7"
-    },
-    {
-      "id": "tt11280740",
-      "type": "series",
-      "name": "Severance",
-      "poster": "https://images.metahub.space/poster/small/tt11280740/img",
-      "background": "https://images.metahub.space/background/medium/tt11280740/img",
-      "logo": "https://images.metahub.space/logo/medium/tt11280740/img",
-      "description": "Mark leads a team of office workers whose memories have been surgically divided between their work and personal lives. When a mysterious colleague appears outside of work, it begins a journey to discover the truth about their jobs.",
-      "releaseInfo": "2022–",
-      "imdbRating": "8.6"
-    },
-    {
-      "id": "tt1266020",
-      "type": "series",
-      "name": "Parks and Recreation",
-      "poster": "https://images.metahub.space/poster/small/tt1266020/img",
-      "background": "https://images.metahub.space/background/medium/tt1266020/img",
-      "logo": "https://images.metahub.space/logo/medium/tt1266020/img",
-      "description": "The absurd antics of an Indiana town's public officials as they pursue sundry projects to make their city a better place.",
-      "releaseInfo": "2009–2015",
-      "imdbRating": "8.6"
     },
     {
       "id": "tt4574334",
@@ -188,26 +155,15 @@
       "imdbRating": "8.6"
     },
     {
-      "id": "tt0773262",
+      "id": "tt11280740",
       "type": "series",
-      "name": "Dexter",
-      "poster": "https://images.metahub.space/poster/small/tt0773262/img",
-      "background": "https://images.metahub.space/background/medium/tt0773262/img",
-      "logo": "https://images.metahub.space/logo/medium/tt0773262/img",
-      "description": "He's smart. He's lovable. He's Dexter Morgan, America's favorite serial killer, who spends his days solving crimes and his nights committing them.",
-      "releaseInfo": "2006–2013",
+      "name": "Severance",
+      "poster": "https://images.metahub.space/poster/small/tt11280740/img",
+      "background": "https://images.metahub.space/background/medium/tt11280740/img",
+      "logo": "https://images.metahub.space/logo/medium/tt11280740/img",
+      "description": "Mark leads a team of office workers whose memories have been surgically divided between their work and personal lives. When a mysterious colleague appears outside of work, it begins a journey to discover the truth about their jobs.",
+      "releaseInfo": "2022–",
       "imdbRating": "8.6"
-    },
-    {
-      "id": "tt12343534",
-      "type": "series",
-      "name": "Jujutsu Kaisen",
-      "poster": "https://images.metahub.space/poster/small/tt12343534/img",
-      "background": "https://images.metahub.space/background/medium/tt12343534/img",
-      "logo": "https://images.metahub.space/logo/medium/tt12343534/img",
-      "description": "After swallowing a cursed relic, kindhearted teenager Yuji Itadori becomes host to the King of Curses and joins a secret school of sorcerers battling monsters born from humanity's darkest emotions.",
-      "releaseInfo": "2020–",
-      "imdbRating": "8.5"
     },
     {
       "id": "tt42132738",
@@ -221,14 +177,14 @@
       "imdbRating": "8.5"
     },
     {
-      "id": "tt1190634",
+      "id": "tt10802170",
       "type": "series",
-      "name": "The Boys",
-      "poster": "https://images.metahub.space/poster/small/tt1190634/img",
-      "background": "https://images.metahub.space/background/medium/tt1190634/img",
-      "logo": "https://images.metahub.space/logo/medium/tt1190634/img",
-      "description": "A group of vigilantes set out to take down corrupt superheroes who abuse their superpowers.",
-      "releaseInfo": "2019–2026",
+      "name": "The Rehearsal",
+      "poster": "https://images.metahub.space/poster/small/tt10802170/img",
+      "background": "https://images.metahub.space/background/medium/tt10802170/img",
+      "logo": "https://images.metahub.space/logo/medium/tt10802170/img",
+      "description": "Nathan Fielder gives people a chance to rehearse for their own lives in a world where nothing ever works out as expected.",
+      "releaseInfo": "2022–",
       "imdbRating": "8.5"
     },
     {
@@ -243,6 +199,28 @@
       "imdbRating": "8.5"
     },
     {
+      "id": "tt12343534",
+      "type": "series",
+      "name": "Jujutsu Kaisen",
+      "poster": "https://images.metahub.space/poster/small/tt12343534/img",
+      "background": "https://images.metahub.space/background/medium/tt12343534/img",
+      "logo": "https://images.metahub.space/logo/medium/tt12343534/img",
+      "description": "After swallowing a cursed relic, kindhearted teenager Yuji Itadori becomes host to the King of Curses and joins a secret school of sorcerers battling monsters born from humanity's darkest emotions.",
+      "releaseInfo": "2020–",
+      "imdbRating": "8.5"
+    },
+    {
+      "id": "tt1190634",
+      "type": "series",
+      "name": "The Boys",
+      "poster": "https://images.metahub.space/poster/small/tt1190634/img",
+      "background": "https://images.metahub.space/background/medium/tt1190634/img",
+      "logo": "https://images.metahub.space/logo/medium/tt1190634/img",
+      "description": "A group of vigilantes set out to take down corrupt superheroes who abuse their superpowers.",
+      "releaseInfo": "2019–2026",
+      "imdbRating": "8.5"
+    },
+    {
       "id": "tt4093826",
       "type": "series",
       "name": "Twin Peaks",
@@ -254,17 +232,6 @@
       "imdbRating": "8.5"
     },
     {
-      "id": "tt6473300",
-      "type": "series",
-      "name": "Mirzapur",
-      "poster": "https://images.metahub.space/poster/small/tt6473300/img",
-      "background": "https://images.metahub.space/background/medium/tt6473300/img",
-      "logo": "https://images.metahub.space/logo/medium/tt6473300/img",
-      "description": "A shocking incident at a wedding procession ignites a series of events entangling the lives of two families in the lawless city of Mirzapur.",
-      "releaseInfo": "2018–",
-      "imdbRating": "8.4"
-    },
-    {
       "id": "tt5875444",
       "type": "series",
       "name": "Slow Horses",
@@ -273,6 +240,17 @@
       "logo": "https://images.metahub.space/logo/medium/tt5875444/img",
       "description": "A dysfunctional team of MI5 agents navigate the espionage world's smoke and mirrors to defend the UK from sinister forces.",
       "releaseInfo": "2022–",
+      "imdbRating": "8.4"
+    },
+    {
+      "id": "tt6473300",
+      "type": "series",
+      "name": "Mirzapur",
+      "poster": "https://images.metahub.space/poster/small/tt6473300/img",
+      "background": "https://images.metahub.space/background/medium/tt6473300/img",
+      "logo": "https://images.metahub.space/logo/medium/tt6473300/img",
+      "description": "A shocking incident at a wedding procession ignites a series of events entangling the lives of two families in the lawless city of Mirzapur.",
+      "releaseInfo": "2018–",
       "imdbRating": "8.4"
     },
     {
@@ -309,14 +287,14 @@
       "imdbRating": "8.4"
     },
     {
-      "id": "tt34809853",
+      "id": "tt8888462",
       "type": "series",
-      "name": "Teach You a Lesson",
-      "poster": "https://images.metahub.space/poster/small/tt34809853/img",
-      "background": "https://images.metahub.space/background/medium/tt34809853/img",
-      "logo": "https://images.metahub.space/logo/medium/tt34809853/img",
-      "description": "The collapse of teachers' Authority, the establishment of the Teachers' Authority Protection Bureau under the Ministry of Education, and the dispatch of supervisors to problem schools to punish students and parents who cross the l...",
-      "releaseInfo": "2026–",
+      "name": "Pachinko",
+      "poster": "https://images.metahub.space/poster/small/tt8888462/img",
+      "background": "https://images.metahub.space/background/medium/tt8888462/img",
+      "logo": "https://images.metahub.space/logo/medium/tt8888462/img",
+      "description": "Based on the New York Times bestseller, this sweeping saga chronicles the hopes and dreams of a Korean immigrant family across four generations as they leave their homeland in an indomitable quest to survive and thrive.",
+      "releaseInfo": "2022–2024",
       "imdbRating": "8.4"
     },
     {
@@ -342,6 +320,17 @@
       "imdbRating": "8.3"
     },
     {
+      "id": "tt3655448",
+      "type": "series",
+      "name": "The Young Pope",
+      "poster": "https://images.metahub.space/poster/small/tt3655448/img",
+      "background": "https://images.metahub.space/background/medium/tt3655448/img",
+      "logo": "https://images.metahub.space/logo/medium/tt3655448/img",
+      "description": "The beginning of the pontificate of Lenny Belardo, alias Pius XIII, the first American Pope in history.",
+      "releaseInfo": "2016",
+      "imdbRating": "8.3"
+    },
+    {
       "id": "tt1196946",
       "type": "series",
       "name": "The Mentalist",
@@ -361,17 +350,6 @@
       "logo": "https://images.metahub.space/logo/medium/tt35304338/img",
       "description": "A struggling student at Korea's worst high school forms a study group while protecting his classmates with his fighting skills, hoping to overcome academic challenges and secure a spot in college.",
       "releaseInfo": "2025",
-      "imdbRating": "8.2"
-    },
-    {
-      "id": "tt15677150",
-      "type": "series",
-      "name": "Shrinking",
-      "poster": "https://images.metahub.space/poster/small/tt15677150/img",
-      "background": "https://images.metahub.space/background/medium/tt15677150/img",
-      "logo": "https://images.metahub.space/logo/medium/tt15677150/img",
-      "description": "A grieving therapist starts to tell his clients exactly what he thinks. Ignoring his training and ethics, he finds himself making huge changes to people's lives - including his own.",
-      "releaseInfo": "2023–",
       "imdbRating": "8.2"
     },
     {
@@ -397,24 +375,13 @@
       "imdbRating": "8.2"
     },
     {
-      "id": "tt15469618",
+      "id": "tt20873118",
       "type": "series",
-      "name": "Bad Sisters",
-      "poster": "https://images.metahub.space/poster/small/tt15469618/img",
-      "background": "https://images.metahub.space/background/medium/tt15469618/img",
-      "logo": "https://images.metahub.space/logo/medium/tt15469618/img",
-      "description": "The Garvey sisters are bound together by their parents' deaths and a promise to always protect one another.",
-      "releaseInfo": "2022–",
-      "imdbRating": "8.2"
-    },
-    {
-      "id": "tt11198330",
-      "type": "series",
-      "name": "House of the Dragon",
-      "poster": "https://images.metahub.space/poster/small/tt11198330/img",
-      "background": "https://images.metahub.space/background/medium/tt11198330/img",
-      "logo": "https://images.metahub.space/logo/medium/tt11198330/img",
-      "description": "An internal succession war within House Targaryen at the height of its power, 172 years before the birth of Daenerys Targaryen.",
+      "name": "Suzhal - The Vortex",
+      "poster": "https://images.metahub.space/poster/small/tt20873118/img",
+      "background": "https://images.metahub.space/background/medium/tt20873118/img",
+      "logo": "https://images.metahub.space/logo/medium/tt20873118/img",
+      "description": "In a small South Indian town, a seemingly routine minor case explodes into a twisted crime thriller that rips apart its social fabric.",
       "releaseInfo": "2022–",
       "imdbRating": "8.2"
     },
@@ -452,17 +419,6 @@
       "imdbRating": "8.1"
     },
     {
-      "id": "tt7772588",
-      "type": "series",
-      "name": "For All Mankind",
-      "poster": "https://images.metahub.space/poster/small/tt7772588/img",
-      "background": "https://images.metahub.space/background/medium/tt7772588/img",
-      "logo": "https://images.metahub.space/logo/medium/tt7772588/img",
-      "description": "In an alternative version of 1969, the Soviet Union beats the United States to the Moon, and the space race continues on for decades with still grander challenges and goals.",
-      "releaseInfo": "2019–2027",
-      "imdbRating": "8.1"
-    },
-    {
       "id": "tt4301160",
       "type": "series",
       "name": "Black Bird",
@@ -474,14 +430,14 @@
       "imdbRating": "8.1"
     },
     {
-      "id": "tt3281796",
+      "id": "tt7772588",
       "type": "series",
-      "name": "Power",
-      "poster": "https://images.metahub.space/poster/small/tt3281796/img",
-      "background": "https://images.metahub.space/background/medium/tt3281796/img",
-      "logo": "https://images.metahub.space/logo/medium/tt3281796/img",
-      "description": "James \"Ghost\" St. Patrick--a wealthy New York nightclub owner who has it all: dreaming big, catering to the city's elite, and living a double life as a drug kingpin.",
-      "releaseInfo": "2014–2020",
+      "name": "For All Mankind",
+      "poster": "https://images.metahub.space/poster/small/tt7772588/img",
+      "background": "https://images.metahub.space/background/medium/tt7772588/img",
+      "logo": "https://images.metahub.space/logo/medium/tt7772588/img",
+      "description": "In an alternative version of 1969, the Soviet Union beats the United States to the Moon, and the space race continues on for decades with still grander challenges and goals.",
+      "releaseInfo": "2019–2027",
       "imdbRating": "8.1"
     },
     {
@@ -493,6 +449,17 @@
       "logo": "https://images.metahub.space/logo/medium/tt1515193/img",
       "description": "A suburban mother faces her cancer diagnosis while trying to find humor and happiness as well.",
       "releaseInfo": "2010–2013",
+      "imdbRating": "8.1"
+    },
+    {
+      "id": "tt33332385",
+      "type": "series",
+      "name": "Widow's Bay",
+      "poster": "https://images.metahub.space/poster/small/tt33332385/img",
+      "background": "https://images.metahub.space/background/medium/tt33332385/img",
+      "logo": "https://images.metahub.space/logo/medium/tt33332385/img",
+      "description": "A skeptical mayor leads the superstitious residents of a cursed New England island.",
+      "releaseInfo": "2026–",
       "imdbRating": "8.1"
     },
     {
@@ -518,15 +485,15 @@
       "imdbRating": "8.1"
     },
     {
-      "id": "tt23649128",
+      "id": "tt28489281",
       "type": "series",
-      "name": "The Studio",
-      "poster": "https://images.metahub.space/poster/small/tt23649128/img",
-      "background": "https://images.metahub.space/background/medium/tt23649128/img",
-      "logo": "https://images.metahub.space/logo/medium/tt23649128/img",
-      "description": "Follows a legacy Hollywood movie studio striving to survive in a world where it is increasingly difficult for art and business to live together.",
-      "releaseInfo": "2025–",
-      "imdbRating": "8.0"
+      "name": "The Freelancer",
+      "poster": "https://live.metahub.space/poster/small/tt28489281/img",
+      "background": "https://live.metahub.space/background/medium/tt28489281/img",
+      "logo": "https://live.metahub.space/logo/medium/tt28489281/img",
+      "description": "Based on the book 'A Ticket To Syria', ex-Cop turned mercenary Avinash Kamath aka 'The Freelancer', takes up the daunting mission of rescuing Aliya, a newly married girl trapped in a war-torn Syria against the backdrop of growing ISIS terrorism",
+      "releaseInfo": "2023–2023",
+      "imdbRating": "8.1"
     },
     {
       "id": "tt4643084",
@@ -540,6 +507,17 @@
       "imdbRating": "8.0"
     },
     {
+      "id": "tt23649128",
+      "type": "series",
+      "name": "The Studio",
+      "poster": "https://images.metahub.space/poster/small/tt23649128/img",
+      "background": "https://images.metahub.space/background/medium/tt23649128/img",
+      "logo": "https://images.metahub.space/logo/medium/tt23649128/img",
+      "description": "Follows a legacy Hollywood movie studio striving to survive in a world where it is increasingly difficult for art and business to live together.",
+      "releaseInfo": "2025–",
+      "imdbRating": "8.0"
+    },
+    {
       "id": "tt7587890",
       "type": "series",
       "name": "The Rookie",
@@ -549,6 +527,28 @@
       "description": "Starting over isn't easy, especially for John Nolan who, after a life-altering incident, is pursuing his dream of joining the LAPD. As their oldest rookie, he's met with skepticism from those who see him as just a walking midlife ...",
       "releaseInfo": "2018–",
       "imdbRating": "8.0"
+    },
+    {
+      "id": "tt20096840",
+      "type": "series",
+      "name": "The Messiah",
+      "poster": "https://images.metahub.space/poster/small/tt20096840/img",
+      "background": "https://images.metahub.space/background/medium/tt20096840/img",
+      "logo": "https://images.metahub.space/logo/medium/tt20096840/img",
+      "description": "It tells the story of Enric, who is heavily impacted by a viral video of a Christian pop band made up of five sisters.",
+      "releaseInfo": "2023",
+      "imdbRating": "8.0"
+    },
+    {
+      "id": "tt22202452",
+      "type": "series",
+      "name": "Pluribus",
+      "poster": "https://images.metahub.space/poster/small/tt22202452/img",
+      "background": "https://images.metahub.space/background/medium/tt22202452/img",
+      "logo": "https://images.metahub.space/logo/medium/tt22202452/img",
+      "description": "In a world overtaken by a mysterious wave of forced happiness, Carol Sturka, one of the immune few, must uncover what's really going on - and save humanity from its artificial bliss.",
+      "releaseInfo": "2025–",
+      "imdbRating": "7.9"
     }
   ]
 }
