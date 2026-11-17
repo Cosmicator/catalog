@@ -1,6 +1,17 @@
 {
   "metas": [
     {
+      "id": "tt0944947",
+      "type": "series",
+      "name": "Game of Thrones",
+      "poster": "https://images.metahub.space/poster/small/tt0944947/img",
+      "background": "https://images.metahub.space/background/medium/tt0944947/img",
+      "logo": "https://images.metahub.space/logo/medium/tt0944947/img",
+      "description": "Nine noble families vie for control of Westeros and the Iron Throne, while an ancient threat beyond The Wall begins to stir.",
+      "releaseInfo": "2011–2019",
+      "imdbRating": "9.2"
+    },
+    {
       "id": "tt13854248",
       "type": "series",
       "name": "The Legend of Hanuman",
@@ -67,14 +78,14 @@
       "imdbRating": "9.0"
     },
     {
-      "id": "tt12004706",
+      "id": "tt26471411",
       "type": "series",
-      "name": "Panchayat",
-      "poster": "https://images.metahub.space/poster/small/tt12004706/img",
-      "background": "https://images.metahub.space/background/medium/tt12004706/img",
-      "logo": "https://images.metahub.space/logo/medium/tt12004706/img",
-      "description": "A comedy-drama, which captures the journey of an engineering graduate Abhishek, who for lack of a better job option joins as secretary of a Panchayat office in a remote village of Uttar Pradesh.",
-      "releaseInfo": "2020–",
+      "name": "When Life Gives You Tangerines",
+      "poster": "https://images.metahub.space/poster/small/tt26471411/img",
+      "background": "https://images.metahub.space/background/medium/tt26471411/img",
+      "logo": "https://images.metahub.space/logo/medium/tt26471411/img",
+      "description": "In Jeju, a spirited girl and a steadfast boy's island story blossoms into a lifelong tale of setbacks and triumphs, proving love endures across time.",
+      "releaseInfo": "2025",
       "imdbRating": "9.0"
     },
     {
@@ -185,17 +196,6 @@
       "logo": "https://images.metahub.space/logo/medium/tt10802170/img",
       "description": "Nathan Fielder gives people a chance to rehearse for their own lives in a world where nothing ever works out as expected.",
       "releaseInfo": "2022–",
-      "imdbRating": "8.5"
-    },
-    {
-      "id": "tt11912196",
-      "type": "series",
-      "name": "Asur: Welcome to Your Dark Side",
-      "poster": "https://images.metahub.space/poster/small/tt11912196/img",
-      "background": "https://images.metahub.space/background/medium/tt11912196/img",
-      "logo": "https://images.metahub.space/logo/medium/tt11912196/img",
-      "description": "Shubh returns for revenge and this season he takes the challenge to a whole new level. With the heroes fallen apart, will a desolate Dhananjay Rajpoot and a torn Nikhil Nair be able to stop him?",
-      "releaseInfo": "2020–",
       "imdbRating": "8.5"
     },
     {
@@ -419,6 +419,17 @@
       "imdbRating": "8.1"
     },
     {
+      "id": "tt1515193",
+      "type": "series",
+      "name": "The Big C",
+      "poster": "https://images.metahub.space/poster/small/tt1515193/img",
+      "background": "https://images.metahub.space/background/medium/tt1515193/img",
+      "logo": "https://images.metahub.space/logo/medium/tt1515193/img",
+      "description": "A suburban mother faces her cancer diagnosis while trying to find humor and happiness as well.",
+      "releaseInfo": "2010–2013",
+      "imdbRating": "8.1"
+    },
+    {
       "id": "tt4301160",
       "type": "series",
       "name": "Black Bird",
@@ -438,17 +449,6 @@
       "logo": "https://images.metahub.space/logo/medium/tt7772588/img",
       "description": "In an alternative version of 1969, the Soviet Union beats the United States to the Moon, and the space race continues on for decades with still grander challenges and goals.",
       "releaseInfo": "2019–2027",
-      "imdbRating": "8.1"
-    },
-    {
-      "id": "tt1515193",
-      "type": "series",
-      "name": "The Big C",
-      "poster": "https://images.metahub.space/poster/small/tt1515193/img",
-      "background": "https://images.metahub.space/background/medium/tt1515193/img",
-      "logo": "https://images.metahub.space/logo/medium/tt1515193/img",
-      "description": "A suburban mother faces her cancer diagnosis while trying to find humor and happiness as well.",
-      "releaseInfo": "2010–2013",
       "imdbRating": "8.1"
     },
     {
@@ -485,14 +485,14 @@
       "imdbRating": "8.1"
     },
     {
-      "id": "tt28489281",
+      "id": "tt13210838",
       "type": "series",
-      "name": "The Freelancer",
-      "poster": "https://live.metahub.space/poster/small/tt28489281/img",
-      "background": "https://live.metahub.space/background/medium/tt28489281/img",
-      "logo": "https://live.metahub.space/logo/medium/tt28489281/img",
-      "description": "Based on the book 'A Ticket To Syria', ex-Cop turned mercenary Avinash Kamath aka 'The Freelancer', takes up the daunting mission of rescuing Aliya, a newly married girl trapped in a war-torn Syria against the backdrop of growing ISIS terrorism",
-      "releaseInfo": "2023–2023",
+      "name": "The Gentlemen",
+      "poster": "https://images.metahub.space/poster/small/tt13210838/img",
+      "background": "https://images.metahub.space/background/medium/tt13210838/img",
+      "logo": "https://images.metahub.space/logo/medium/tt13210838/img",
+      "description": "When aristocratic Eddie inherits the family estate, he discovers that it's home to a huge weed empire, and its proprietors aren't going anywhere.",
+      "releaseInfo": "2024–",
       "imdbRating": "8.1"
     },
     {

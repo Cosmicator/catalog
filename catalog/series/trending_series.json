@@ -181,16 +181,6 @@
       "imdbRating": 5.6
     },
     {
-      "id": "tt28077038",
-      "type": "series",
-      "name": "Pritam and Pedro",
-      "poster": "https://images.metahub.space/poster/medium/tt28077038/img",
-      "background": "https://images.metahub.space/background/medium/tt28077038/img",
-      "description": "When a tech-illiterate Goa cop is demoted to the cyber cell, he must team up with a quirky hacker to track down a minister's kidnapped son and win back his old job.",
-      "releaseInfo": 2026,
-      "imdbRating": 7.7
-    },
-    {
       "id": "tt7768578",
       "type": "series",
       "name": "Crayon Shin-chan",
@@ -211,16 +201,6 @@
       "imdbRating": 8.1
     },
     {
-      "id": "tt39640519",
-      "type": "series",
-      "name": "Chumbak",
-      "poster": "https://images.metahub.space/poster/medium/tt39640519/img",
-      "background": "https://images.metahub.space/background/medium/tt39640519/img",
-      "description": "A young author and quirky support group explore the lives of five families in a Mumbai row-house who laugh, cry, eat, drink, and share everything together, forming a beautiful surrogate family through life's ups and downs.",
-      "releaseInfo": 2026,
-      "imdbRating": 6.7
-    },
-    {
       "id": "tt6468322",
       "type": "series",
       "name": "Money Heist",
@@ -239,6 +219,16 @@
       "description": "It's the ultimate showdown of wits, brains, strategy, and alliances for a chance to win 500 million won.",
       "releaseInfo": 2023,
       "imdbRating": 8.3
+    },
+    {
+      "id": "tt28077038",
+      "type": "series",
+      "name": "Pritam and Pedro",
+      "poster": "https://images.metahub.space/poster/medium/tt28077038/img",
+      "background": "https://images.metahub.space/background/medium/tt28077038/img",
+      "description": "When a tech-illiterate Goa cop is demoted to the cyber cell, he must team up with a quirky hacker to track down a minister's kidnapped son and win back his old job.",
+      "releaseInfo": 2026,
+      "imdbRating": 7.7
     },
     {
       "id": "tt12540080",
@@ -401,6 +391,16 @@
       "imdbRating": 8.4
     },
     {
+      "id": "tt39665097",
+      "type": "series",
+      "name": "Musafir Cafe",
+      "poster": "https://images.metahub.space/poster/medium/tt39665097/img",
+      "background": "https://images.metahub.space/background/medium/tt39665097/img",
+      "description": "Three travelers lives unexpectedly intertwine. Chander and Sudha share an instant spark. With Preeti, Chander finds steady companionship built on quiet understanding and ease. Which love endures through time, and life's journey?",
+      "releaseInfo": 2026,
+      "imdbRating": 7.5
+    },
+    {
       "id": "tt7587890",
       "type": "series",
       "name": "The Rookie",
@@ -409,6 +409,16 @@
       "description": "Starting over isn't easy, especially for John Nolan who, after a life-altering incident, is pursuing his dream of joining the LAPD. As their oldest rookie, he's met with skepticism from those who see him as just a walking midlife crisis.",
       "releaseInfo": 2018,
       "imdbRating": 8
+    },
+    {
+      "id": "tt39640519",
+      "type": "series",
+      "name": "Chumbak",
+      "poster": "https://images.metahub.space/poster/medium/tt39640519/img",
+      "background": "https://images.metahub.space/background/medium/tt39640519/img",
+      "description": "A young author and quirky support group explore the lives of five families in a Mumbai row-house who laugh, cry, eat, drink, and share everything together, forming a beautiful surrogate family through life's ups and downs.",
+      "releaseInfo": 2026,
+      "imdbRating": 6.7
     },
     {
       "id": "tt20873118",
@@ -429,36 +439,6 @@
       "description": "Bound by love and unspoken truths, Shanmuga Sundaram and his devoted family's lives revolve around shared rituals... till hidden cracks begin to surface.",
       "releaseInfo": 2026,
       "imdbRating": 6.9
-    },
-    {
-      "id": "tt4746820",
-      "type": "series",
-      "name": "MTV Splitsvilla",
-      "poster": "https://images.metahub.space/poster/medium/tt4746820/img",
-      "background": "https://images.metahub.space/background/medium/tt4746820/img",
-      "description": "Ready to witness the ultimate fight between the rules of science and the laws of love? 10 boys, 10 girls and an Oracle who will decide whether or not a couple makes the perfect match! It's time to 'catch your match', Splitsvilla style!",
-      "releaseInfo": 2008,
-      "imdbRating": 3.8
-    },
-    {
-      "id": "tt39665097",
-      "type": "series",
-      "name": "Musafir Cafe",
-      "poster": "https://images.metahub.space/poster/medium/tt39665097/img",
-      "background": "https://images.metahub.space/background/medium/tt39665097/img",
-      "description": "Three travelers lives unexpectedly intertwine. Chander and Sudha share an instant spark. With Preeti, Chander finds steady companionship built on quiet understanding and ease. Which love endures through time, and life's journey?",
-      "releaseInfo": 2026,
-      "imdbRating": 7.5
-    },
-    {
-      "id": "tt11912196",
-      "type": "series",
-      "name": "Asur: Welcome to Your Dark Side",
-      "poster": "https://images.metahub.space/poster/medium/tt11912196/img",
-      "background": "https://images.metahub.space/background/medium/tt11912196/img",
-      "description": "Shubh returns for revenge and this season he takes the challenge to a whole new level. With the heroes fallen apart, will a desolate Dhananjay Rajpoot and a torn Nikhil Nair be able to stop him?",
-      "releaseInfo": 2020,
-      "imdbRating": 8.4
     },
     {
       "id": "tt0386676",
@@ -499,6 +479,26 @@
       "description": "Light Yagami is an ace student with great prospects—and he’s bored out of his mind. But all that changes when he finds the Death Note, a notebook dropped by a rogue Shinigami death god. Any human whose name is written in the notebook dies, and Light has vowed to use the power of the Death Note to rid the world of evil. But will Light succeed in his noble goal, or will the Death Note turn him into the very thing he fights against?",
       "releaseInfo": 2006,
       "imdbRating": 8.9
+    },
+    {
+      "id": "tt2741602",
+      "type": "series",
+      "name": "The Blacklist",
+      "poster": "https://images.metahub.space/poster/medium/tt2741602/img",
+      "background": "https://images.metahub.space/background/medium/tt2741602/img",
+      "description": "A new FBI profiler, Elizabeth Keen, has her entire life uprooted when a mysterious criminal, Raymond Reddington, who has eluded capture for decades, turns himself in and insists on speaking only to her.",
+      "releaseInfo": 2013,
+      "imdbRating": 7.9
+    },
+    {
+      "id": "tt0988824",
+      "type": "series",
+      "name": "Naruto: Shippûden",
+      "poster": "https://images.metahub.space/poster/medium/tt0988824/img",
+      "background": "https://images.metahub.space/background/medium/tt0988824/img",
+      "description": "Naruto Uzumaki, is a loud, hyperactive, adolescent ninja who constantly searches for approval and recognition, as well as to become Hokage, who is acknowledged as the leader and strongest of all ninja in the village.",
+      "releaseInfo": 2007,
+      "imdbRating": 8.7
     }
   ]
 }
