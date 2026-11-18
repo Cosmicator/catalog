@@ -331,16 +331,6 @@
       "imdbRating": 5.3
     },
     {
-      "id": "tt41962673",
-      "type": "series",
-      "name": "Brothers and Sisters",
-      "poster": "https://images.metahub.space/poster/medium/tt41962673/img",
-      "background": "https://images.metahub.space/background/medium/tt41962673/img",
-      "description": "Bound by love and unspoken truths, Shanmuga Sundaram and his devoted family's lives revolve around shared rituals... till hidden cracks begin to surface.",
-      "releaseInfo": 2026,
-      "imdbRating": 6.9
-    },
-    {
       "id": "tt12343534",
       "type": "series",
       "name": "Jujutsu Kaisen",
@@ -421,6 +411,16 @@
       "imdbRating": 8.3
     },
     {
+      "id": "tt41962673",
+      "type": "series",
+      "name": "Brothers and Sisters",
+      "poster": "https://images.metahub.space/poster/medium/tt41962673/img",
+      "background": "https://images.metahub.space/background/medium/tt41962673/img",
+      "description": "Bound by love and unspoken truths, Shanmuga Sundaram and his devoted family's lives revolve around shared rituals... till hidden cracks begin to surface.",
+      "releaseInfo": 2026,
+      "imdbRating": 6.9
+    },
+    {
       "id": "tt13720112",
       "type": "series",
       "name": "The Empress",
@@ -481,6 +481,16 @@
       "imdbRating": 6.5
     },
     {
+      "id": "tt11912196",
+      "type": "series",
+      "name": "Asur: Welcome to Your Dark Side",
+      "poster": "https://images.metahub.space/poster/medium/tt11912196/img",
+      "background": "https://images.metahub.space/background/medium/tt11912196/img",
+      "description": "Shubh returns for revenge and this season he takes the challenge to a whole new level. With the heroes fallen apart, will a desolate Dhananjay Rajpoot and a torn Nikhil Nair be able to stop him?",
+      "releaseInfo": 2020,
+      "imdbRating": 8.4
+    },
+    {
       "id": "tt6077448",
       "type": "series",
       "name": "Sacred Games",
@@ -489,16 +499,6 @@
       "description": "A link in their pasts leads an honest cop to a fugitive gang boss, whose cryptic warning spurs the officer on a quest to save Mumbai from cataclysm.",
       "releaseInfo": 2018,
       "imdbRating": 8.5
-    },
-    {
-      "id": "tt0877057",
-      "type": "series",
-      "name": "Death Note",
-      "poster": "https://images.metahub.space/poster/medium/tt0877057/img",
-      "background": "https://images.metahub.space/background/medium/tt0877057/img",
-      "description": "Light Yagami is an ace student with great prospects—and he’s bored out of his mind. But all that changes when he finds the Death Note, a notebook dropped by a rogue Shinigami death god. Any human whose name is written in the notebook dies, and Light has vowed to use the power of the Death Note to rid the world of evil. But will Light succeed in his noble goal, or will the Death Note turn him into the very thing he fights against?",
-      "releaseInfo": 2006,
-      "imdbRating": 8.9
     }
   ]
 }

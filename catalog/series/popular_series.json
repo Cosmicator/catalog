@@ -371,14 +371,14 @@
       "imdbRating": 8.1
     },
     {
-      "id": "tt41962673",
+      "id": "tt12343534",
       "type": "series",
-      "name": "Brothers and Sisters",
-      "poster": "https://images.metahub.space/poster/medium/tt41962673/img",
-      "background": "https://images.metahub.space/background/medium/tt41962673/img",
-      "description": "Bound by love and unspoken truths, Shanmuga Sundaram and his devoted family's lives revolve around shared rituals... till hidden cracks begin to surface.",
-      "releaseInfo": 2026,
-      "imdbRating": 6.9
+      "name": "Jujutsu Kaisen",
+      "poster": "https://images.metahub.space/poster/medium/tt12343534/img",
+      "background": "https://images.metahub.space/background/medium/tt12343534/img",
+      "description": "A boy swallows a cursed talisman - the finger of a demon - and becomes cursed himself. He enters a shaman's school to be able to locate the demon's other body parts and thus exorcise himself.",
+      "releaseInfo": 2020,
+      "imdbRating": 8.5
     },
     {
       "id": "tt11761176",
@@ -401,14 +401,14 @@
       "imdbRating": 7.6
     },
     {
-      "id": "tt12343534",
+      "id": "tt0386676",
       "type": "series",
-      "name": "Jujutsu Kaisen",
-      "poster": "https://images.metahub.space/poster/medium/tt12343534/img",
-      "background": "https://images.metahub.space/background/medium/tt12343534/img",
-      "description": "A boy swallows a cursed talisman - the finger of a demon - and becomes cursed himself. He enters a shaman's school to be able to locate the demon's other body parts and thus exorcise himself.",
-      "releaseInfo": 2020,
-      "imdbRating": 8.5
+      "name": "The Office",
+      "poster": "https://images.metahub.space/poster/medium/tt0386676/img",
+      "background": "https://images.metahub.space/background/medium/tt0386676/img",
+      "description": "A mockumentary on a group of typical office workers, where the workday consists of ego clashes, inappropriate behavior, tedium and romance.",
+      "releaseInfo": 2005,
+      "imdbRating": 9
     },
     {
       "id": "tt4643084",
@@ -431,14 +431,14 @@
       "imdbRating": 9.1
     },
     {
-      "id": "tt0386676",
+      "id": "tt0096697",
       "type": "series",
-      "name": "The Office",
-      "poster": "https://images.metahub.space/poster/medium/tt0386676/img",
-      "background": "https://images.metahub.space/background/medium/tt0386676/img",
-      "description": "A mockumentary on a group of typical office workers, where the workday consists of ego clashes, inappropriate behavior, tedium and romance.",
-      "releaseInfo": 2005,
-      "imdbRating": 9
+      "name": "The Simpsons",
+      "poster": "https://images.metahub.space/poster/medium/tt0096697/img",
+      "background": "https://images.metahub.space/background/medium/tt0096697/img",
+      "description": "Set in Springfield, the average American town, the show focuses on the antics and everyday adventures of the Simpson family; Homer, Marge, Bart, Lisa and Maggie, as well as a virtual cast of thousands. Since the beginning, the series has been a pop culture icon, attracting hundreds of celebrities to guest star. The show has also made name for itself in its fearless satirical take on politics, media and American life in general.",
+      "releaseInfo": 1989,
+      "imdbRating": 8.6
     },
     {
       "id": "tt0098936",
@@ -461,14 +461,14 @@
       "imdbRating": 7.4
     },
     {
-      "id": "tt0096697",
+      "id": "tt34498121",
       "type": "series",
-      "name": "The Simpsons",
-      "poster": "https://images.metahub.space/poster/medium/tt0096697/img",
-      "background": "https://images.metahub.space/background/medium/tt0096697/img",
-      "description": "Set in Springfield, the average American town, the show focuses on the antics and everyday adventures of the Simpson family; Homer, Marge, Bart, Lisa and Maggie, as well as a virtual cast of thousands. Since the beginning, the series has been a pop culture icon, attracting hundreds of celebrities to guest star. The show has also made name for itself in its fearless satirical take on politics, media and American life in general.",
-      "releaseInfo": 1989,
-      "imdbRating": 8.6
+      "name": "Thukra Ke Mera Pyaar",
+      "poster": "https://images.metahub.space/poster/medium/tt34498121/img",
+      "background": "https://images.metahub.space/background/medium/tt34498121/img",
+      "description": "Two families clash over societal and caste differences spurring a saga of revenge. All this happens when a love story goes wrong.",
+      "releaseInfo": 2024,
+      "imdbRating": 6.5
     },
     {
       "id": "tt4301160",
@@ -491,14 +491,14 @@
       "imdbRating": 7.5
     },
     {
-      "id": "tt34498121",
+      "id": "tt41962673",
       "type": "series",
-      "name": "Thukra Ke Mera Pyaar",
-      "poster": "https://images.metahub.space/poster/medium/tt34498121/img",
-      "background": "https://images.metahub.space/background/medium/tt34498121/img",
-      "description": "Two families clash over societal and caste differences spurring a saga of revenge. All this happens when a love story goes wrong.",
-      "releaseInfo": 2024,
-      "imdbRating": 6.5
+      "name": "Brothers and Sisters",
+      "poster": "https://images.metahub.space/poster/medium/tt41962673/img",
+      "background": "https://images.metahub.space/background/medium/tt41962673/img",
+      "description": "Bound by love and unspoken truths, Shanmuga Sundaram and his devoted family's lives revolve around shared rituals... till hidden cracks begin to surface.",
+      "releaseInfo": 2026,
+      "imdbRating": 6.9
     }
   ]
 }

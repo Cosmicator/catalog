@@ -311,16 +311,6 @@
       "imdbRating": 8.5
     },
     {
-      "id": "tt33029349",
-      "type": "movie",
-      "name": "Night Silence",
-      "poster": "https://images.metahub.space/poster/medium/tt33029349/img",
-      "background": "https://images.metahub.space/background/medium/tt33029349/img",
-      "description": "A theatre actor whose health is failing gets admitted to a nursing home. Soon, he starts having nightmares that seemingly become deceptively real. The so-called nightmares were able to make him live in two parallel dimensions.",
-      "releaseInfo": 2024,
-      "imdbRating": 5.5
-    },
-    {
       "id": "tt43655467",
       "type": "movie",
       "name": "Ali G: Who Iz I?",
@@ -431,16 +421,6 @@
       "imdbRating": 6.4
     },
     {
-      "id": "tt33379543",
-      "type": "movie",
-      "name": "Jana Nayagan",
-      "poster": "https://images.metahub.space/poster/medium/tt33379543/img",
-      "background": "https://images.metahub.space/background/medium/tt33379543/img",
-      "description": "A clash of ideologies. One stands for the people, the other feeds on control. Their paths collided once before. Years later, a child’s silent fear ignites the past, drawing a former police officer into a battle far bigger than personal revenge.",
-      "releaseInfo": 2026,
-      "imdbRating": 5.1
-    },
-    {
       "id": "tt12042730",
       "type": "movie",
       "name": "Project Hail Mary",
@@ -451,14 +431,14 @@
       "imdbRating": 8.2
     },
     {
-      "id": "tt0107290",
+      "id": "tt33029349",
       "type": "movie",
-      "name": "Jurassic Park",
-      "poster": "https://images.metahub.space/poster/medium/tt0107290/img",
-      "background": "https://images.metahub.space/background/medium/tt0107290/img",
-      "description": "A wealthy entrepreneur secretly creates a theme park featuring living dinosaurs drawn from prehistoric DNA. Before opening day, he invites a team of experts and his two eager grandchildren to experience the park and help calm anxious investors. However, the park is anything but amusing as the security systems go off-line and the dinosaurs escape.",
-      "releaseInfo": 1993,
-      "imdbRating": 8.2
+      "name": "Night Silence",
+      "poster": "https://images.metahub.space/poster/medium/tt33029349/img",
+      "background": "https://images.metahub.space/background/medium/tt33029349/img",
+      "description": "A theatre actor whose health is failing gets admitted to a nursing home. Soon, he starts having nightmares that seemingly become deceptively real. The so-called nightmares were able to make him live in two parallel dimensions.",
+      "releaseInfo": 2024,
+      "imdbRating": 5.5
     },
     {
       "id": "tt34365591",
@@ -499,6 +479,26 @@
       "description": "Rocket Singh: Salesman of the Year is the sometimes thoughtless, sometimes thoughtful story of a fresh graduate trying to find a balance between the maddening demands of the 'professional' way, and the way of his heart - and stumbling upon a crazy way which turned his world upside down, and his career right side up. Welcome to the world of sales boss!",
       "releaseInfo": 2009,
       "imdbRating": 7.5
+    },
+    {
+      "id": "tt0241527",
+      "type": "movie",
+      "name": "Harry Potter and the Philosopher's Stone",
+      "poster": "https://images.metahub.space/poster/medium/tt0241527/img",
+      "background": "https://images.metahub.space/background/medium/tt0241527/img",
+      "description": "Harry Potter has lived under the stairs at his aunt and uncle's house his whole life. But on his 11th birthday, he learns he's a powerful wizard—with a place waiting for him at the Hogwarts School of Witchcraft and Wizardry. As he learns to harness his newfound powers with the help of the school's kindly headmaster, Harry uncovers the truth about his parents' deaths—and about the villain who's to blame.",
+      "releaseInfo": 2001,
+      "imdbRating": 7.7
+    },
+    {
+      "id": "tt43716419",
+      "type": "movie",
+      "name": "Baa Baa Black Sheep",
+      "poster": "https://images.metahub.space/poster/medium/tt43716419/img",
+      "background": "https://images.metahub.space/background/medium/tt43716419/img",
+      "description": "A single misplaced object sets off a wild 24-hour chain reaction, sweeping six strangers into chaotic fun. As it changes hands, petty blunders and comic mix-ups collide, forging unexpected connections that upend all their lives forever.",
+      "releaseInfo": 2026,
+      "imdbRating": 9.2
     }
   ]
 }
