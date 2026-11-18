@@ -91,24 +91,14 @@
       "imdbRating": 8.1
     },
     {
-      "id": "tt39943756",
+      "id": "tt0758790",
       "type": "series",
-      "name": "Campus Drivers",
-      "poster": "https://images.metahub.space/poster/medium/tt39943756/img",
-      "background": "https://images.metahub.space/background/medium/tt39943756/img",
-      "description": "Lois arrives in Belrose with Max, the love of her life. Lane, the creator of Campus Drivers, the hottest app on campus, is known for never getting attached. Their paths were never meant to cross. But some encounters change everything, reopening old wounds. And when love appears unexpectedly, nothing is certain anymore.",
-      "releaseInfo": 2026,
-      "imdbRating": 7.3
-    },
-    {
-      "id": "tt10986410",
-      "type": "series",
-      "name": "Ted Lasso",
-      "poster": "https://images.metahub.space/poster/medium/tt10986410/img",
-      "background": "https://images.metahub.space/background/medium/tt10986410/img",
-      "description": "American college football coach Ted Lasso is hired to manage AFC Richmond, a struggling English soccer club, and must win over skeptical players, staff, and fans.",
-      "releaseInfo": 2020,
-      "imdbRating": 8.7
+      "name": "The Tudors",
+      "poster": "https://images.metahub.space/poster/medium/tt0758790/img",
+      "background": "https://images.metahub.space/background/medium/tt0758790/img",
+      "description": "The Tudors is a history-based drama series following the young, vibrant King Henry VIII, a competitive and lustful monarch who navigates the intrigues of the English court and the human heart with equal vigor and justifiable suspicion.",
+      "releaseInfo": 2007,
+      "imdbRating": 8.1
     },
     {
       "id": "tt45246384",
@@ -121,24 +111,34 @@
       "imdbRating": 8
     },
     {
-      "id": "tt31510819",
+      "id": "tt35717988",
       "type": "series",
       "name": "MobLand",
-      "poster": "https://images.metahub.space/poster/medium/tt31510819/img",
-      "background": "https://images.metahub.space/background/medium/tt31510819/img",
+      "poster": "https://images.metahub.space/poster/medium/tt35717988/img",
+      "background": "https://images.metahub.space/background/medium/tt35717988/img",
       "description": "Two mob families clash in a war that threatens to topple empires and lives.",
       "releaseInfo": 2025,
       "imdbRating": 8.3
     },
     {
-      "id": "tt5875444",
+      "id": "tt33097212",
       "type": "series",
       "name": "Slow Horses",
-      "poster": "https://images.metahub.space/poster/medium/tt5875444/img",
-      "background": "https://images.metahub.space/background/medium/tt5875444/img",
+      "poster": "https://images.metahub.space/poster/medium/tt33097212/img",
+      "background": "https://images.metahub.space/background/medium/tt33097212/img",
       "description": "Follow a dysfunctional team of MI5 agents—and their obnoxious boss, the notorious Jackson Lamb—as they navigate the espionage world's smoke and mirrors to defend England from sinister forces.",
       "releaseInfo": 2022,
       "imdbRating": 8.4
+    },
+    {
+      "id": "tt39943756",
+      "type": "series",
+      "name": "Campus Drivers",
+      "poster": "https://images.metahub.space/poster/medium/tt39943756/img",
+      "background": "https://images.metahub.space/background/medium/tt39943756/img",
+      "description": "Lois arrives in Belrose with Max, the love of her life. Lane, the creator of Campus Drivers, the hottest app on campus, is known for never getting attached. Their paths were never meant to cross. But some encounters change everything, reopening old wounds. And when love appears unexpectedly, nothing is certain anymore.",
+      "releaseInfo": 2026,
+      "imdbRating": 7.3
     },
     {
       "id": "tt13854248",
@@ -161,6 +161,26 @@
       "imdbRating": 7.1
     },
     {
+      "id": "tt6473300",
+      "type": "series",
+      "name": "Mirzapur",
+      "poster": "https://images.metahub.space/poster/medium/tt6473300/img",
+      "background": "https://images.metahub.space/background/medium/tt6473300/img",
+      "description": "The iron-fisted Akhandanand Tripathi is a millionaire carpet exporter and the mafia don of Mirzapur. His son, Munna, is an unworthy, power-hungry heir who will stop at nothing to inherit his father's legacy. An incident at a wedding procession forces him to cross paths with Ramakant Pandit, an upstanding lawyer, and his sons, Guddu and Bablu. It snowballs into a game of ambition, power and greed that threatens the fabric of this lawless city.",
+      "releaseInfo": 2018,
+      "imdbRating": 8.4
+    },
+    {
+      "id": "tt22202452",
+      "type": "series",
+      "name": "Pluribus",
+      "poster": "https://images.metahub.space/poster/medium/tt22202452/img",
+      "background": "https://images.metahub.space/background/medium/tt22202452/img",
+      "description": "In a world overtaken by a mysterious wave of forced happiness, Carol Sturka, one of the immune few, must uncover what's really going on - and save humanity from its artificial bliss.",
+      "releaseInfo": 2025,
+      "imdbRating": 7.9
+    },
+    {
       "id": "tt35304338",
       "type": "series",
       "name": "Study Group",
@@ -181,64 +201,14 @@
       "imdbRating": 8.4
     },
     {
-      "id": "tt0758790",
+      "id": "tt10986410",
       "type": "series",
-      "name": "The Tudors",
-      "poster": "https://images.metahub.space/poster/medium/tt0758790/img",
-      "background": "https://images.metahub.space/background/medium/tt0758790/img",
-      "description": "The Tudors is a history-based drama series following the young, vibrant King Henry VIII, a competitive and lustful monarch who navigates the intrigues of the English court and the human heart with equal vigor and justifiable suspicion.",
-      "releaseInfo": 2007,
-      "imdbRating": 8.1
-    },
-    {
-      "id": "tt6473300",
-      "type": "series",
-      "name": "Mirzapur",
-      "poster": "https://images.metahub.space/poster/medium/tt6473300/img",
-      "background": "https://images.metahub.space/background/medium/tt6473300/img",
-      "description": "The iron-fisted Akhandanand Tripathi is a millionaire carpet exporter and the mafia don of Mirzapur. His son, Munna, is an unworthy, power-hungry heir who will stop at nothing to inherit his father's legacy. An incident at a wedding procession forces him to cross paths with Ramakant Pandit, an upstanding lawyer, and his sons, Guddu and Bablu. It snowballs into a game of ambition, power and greed that threatens the fabric of this lawless city.",
-      "releaseInfo": 2018,
-      "imdbRating": 8.4
-    },
-    {
-      "id": "tt11761194",
-      "type": "series",
-      "name": "Power Book IV: Force",
-      "poster": "https://images.metahub.space/poster/medium/tt11761194/img",
-      "background": "https://images.metahub.space/background/medium/tt11761194/img",
-      "description": "Tommy Egan leaves New York behind and plans to take on Chicago, using his outsider status to break all the local rules and rewrite them on his quest to become the biggest drug dealer in the city.",
-      "releaseInfo": 2022,
-      "imdbRating": 8.1
-    },
-    {
-      "id": "tt11301642",
-      "type": "series",
-      "name": "Ethos",
-      "poster": "https://images.metahub.space/poster/medium/tt11301642/img",
-      "background": "https://images.metahub.space/background/medium/tt11301642/img",
-      "description": "A group of unique characters from dramatically different socio-cultural backgrounds meet in startling circumstances in the vibrant and colorful city of Istanbul, some by chance and some by force of will.",
+      "name": "Ted Lasso",
+      "poster": "https://images.metahub.space/poster/medium/tt10986410/img",
+      "background": "https://images.metahub.space/background/medium/tt10986410/img",
+      "description": "American college football coach Ted Lasso is hired to manage AFC Richmond, a struggling English soccer club, and must win over skeptical players, staff, and fans.",
       "releaseInfo": 2020,
-      "imdbRating": 8.4
-    },
-    {
-      "id": "tt28077038",
-      "type": "series",
-      "name": "Pritam and Pedro",
-      "poster": "https://images.metahub.space/poster/medium/tt28077038/img",
-      "background": "https://images.metahub.space/background/medium/tt28077038/img",
-      "description": "When a tech-illiterate Goa cop is demoted to the cyber cell, he must team up with a quirky hacker to track down a minister's kidnapped son and win back his old job.",
-      "releaseInfo": 2026,
-      "imdbRating": 7.7
-    },
-    {
-      "id": "tt19231492",
-      "type": "series",
-      "name": "Dark Matter",
-      "poster": "https://images.metahub.space/poster/medium/tt19231492/img",
-      "background": "https://images.metahub.space/background/medium/tt19231492/img",
-      "description": "Jason Dessen is abducted into an alternate version of his life. To get back to his real family, he embarks on a harrowing journey to save them from the most terrifying foe imaginable: himself.",
-      "releaseInfo": 2024,
-      "imdbRating": 7.6
+      "imdbRating": 8.7
     },
     {
       "id": "tt33546863",
@@ -261,14 +231,44 @@
       "imdbRating": 8.2
     },
     {
-      "id": "tt4643084",
+      "id": "tt19231492",
       "type": "series",
-      "name": "Counterpart",
-      "poster": "https://images.metahub.space/poster/medium/tt4643084/img",
-      "background": "https://images.metahub.space/background/medium/tt4643084/img",
-      "description": "Howard Silk is a lowly cog in a bureaucratic UN agency who is turning the last corner of a life filled with regret when he discovers the agency he works for is guarding a secret: a crossing to a parallel dimension.",
-      "releaseInfo": 2017,
-      "imdbRating": 8
+      "name": "Dark Matter",
+      "poster": "https://images.metahub.space/poster/medium/tt19231492/img",
+      "background": "https://images.metahub.space/background/medium/tt19231492/img",
+      "description": "Jason Dessen is abducted into an alternate version of his life. To get back to his real family, he embarks on a harrowing journey to save them from the most terrifying foe imaginable: himself.",
+      "releaseInfo": 2024,
+      "imdbRating": 7.6
+    },
+    {
+      "id": "tt11301642",
+      "type": "series",
+      "name": "Ethos",
+      "poster": "https://images.metahub.space/poster/medium/tt11301642/img",
+      "background": "https://images.metahub.space/background/medium/tt11301642/img",
+      "description": "A group of unique characters from dramatically different socio-cultural backgrounds meet in startling circumstances in the vibrant and colorful city of Istanbul, some by chance and some by force of will.",
+      "releaseInfo": 2020,
+      "imdbRating": 8.4
+    },
+    {
+      "id": "tt28077038",
+      "type": "series",
+      "name": "Pritam and Pedro",
+      "poster": "https://images.metahub.space/poster/medium/tt28077038/img",
+      "background": "https://images.metahub.space/background/medium/tt28077038/img",
+      "description": "When a tech-illiterate Goa cop is demoted to the cyber cell, he must team up with a quirky hacker to track down a minister's kidnapped son and win back his old job.",
+      "releaseInfo": 2026,
+      "imdbRating": 7.7
+    },
+    {
+      "id": "tt11761194",
+      "type": "series",
+      "name": "Power Book IV: Force",
+      "poster": "https://images.metahub.space/poster/medium/tt11761194/img",
+      "background": "https://images.metahub.space/background/medium/tt11761194/img",
+      "description": "Tommy Egan leaves New York behind and plans to take on Chicago, using his outsider status to break all the local rules and rewrite them on his quest to become the biggest drug dealer in the city.",
+      "releaseInfo": 2022,
+      "imdbRating": 8.1
     },
     {
       "id": "tt2531336",
@@ -281,154 +281,14 @@
       "imdbRating": 7.5
     },
     {
-      "id": "tt11761176",
+      "id": "tt17543592",
       "type": "series",
-      "name": "Power Book III: Raising Kanan",
-      "poster": "https://images.metahub.space/poster/medium/tt11761176/img",
-      "background": "https://images.metahub.space/background/medium/tt11761176/img",
-      "description": "Power Book III: Raising Kanan is a prequel set in the 1990s that will chronicle the early years of Kanan Stark, the character first played by executive producer Curtis \"50 Cent\" Jackson.",
-      "releaseInfo": 2021,
+      "name": "Will Trent",
+      "poster": "https://images.metahub.space/poster/medium/tt17543592/img",
+      "background": "https://images.metahub.space/background/medium/tt17543592/img",
+      "description": "Special Agent Will Trent was abandoned at birth and endured a harsh coming-of-age in Atlanta's overwhelmed foster-care system. Determined to make sure that nobody else feels as he did, he now has the highest clearance rate.",
+      "releaseInfo": 2023,
       "imdbRating": 7.7
-    },
-    {
-      "id": "tt10839422",
-      "type": "series",
-      "name": "Sex/Life",
-      "poster": "https://images.metahub.space/poster/medium/tt10839422/img",
-      "background": "https://images.metahub.space/background/medium/tt10839422/img",
-      "description": "A suburban mother of two takes a fantasy-charged trip down memory lane that sets her very married present on a collision course with her wild child past.",
-      "releaseInfo": 2021,
-      "imdbRating": 5.6
-    },
-    {
-      "id": "tt33270224",
-      "type": "series",
-      "name": "Cupertino",
-      "poster": "https://images.metahub.space/poster/medium/tt33270224/img",
-      "background": "https://images.metahub.space/background/medium/tt33270224/img",
-      "description": "A scrappy lawyer takes on a powerful tech giant in a high-stakes legal battle, navigating the cutthroat world of Silicon Valley while fighting for justice and the little guy's rights.",
-      "releaseInfo": 2026,
-      "imdbRating": 7.9
-    },
-    {
-      "id": "tt6773088",
-      "type": "series",
-      "name": "Brothers",
-      "poster": "https://images.metahub.space/poster/medium/tt6773088/img",
-      "background": "https://images.metahub.space/background/medium/tt6773088/img",
-      "description": "Matthew and Woody have been best friends for years, but a shocking family secret suggests their connection might be closer.",
-      "releaseInfo": 2026,
-      "imdbRating": 6.2
-    },
-    {
-      "id": "tt6468322",
-      "type": "series",
-      "name": "Money Heist",
-      "poster": "https://images.metahub.space/poster/medium/tt6468322/img",
-      "background": "https://images.metahub.space/background/medium/tt6468322/img",
-      "description": "To carry out the biggest heist in history, a mysterious man called The Professor recruits a band of eight robbers who have a single characteristic: none of them has anything to lose. Five months of seclusion - memorizing every step, every detail, every probability - culminate in eleven days locked up in the National Coinage and Stamp Factory of Spain, surrounded by police forces and with dozens of hostages in their power, to find out whether their suicide wager will lead to everything or nothing.",
-      "releaseInfo": 2017,
-      "imdbRating": 8.2
-    },
-    {
-      "id": "tt13875494",
-      "type": "series",
-      "name": "Tracker",
-      "poster": "https://images.metahub.space/poster/medium/tt13875494/img",
-      "background": "https://images.metahub.space/background/medium/tt13875494/img",
-      "description": "Lone-wolf survivalist Colter Shaw roams the country as a “reward seeker,” using his expert tracking skills to help private citizens and law enforcement solve all manner of mysteries while contending with his own fractured family.",
-      "releaseInfo": 2024,
-      "imdbRating": 7.2
-    },
-    {
-      "id": "tt22202452",
-      "type": "series",
-      "name": "Pluribus",
-      "poster": "https://images.metahub.space/poster/medium/tt22202452/img",
-      "background": "https://images.metahub.space/background/medium/tt22202452/img",
-      "description": "In a world overtaken by a mysterious wave of forced happiness, Carol Sturka, one of the immune few, must uncover what's really going on - and save humanity from its artificial bliss.",
-      "releaseInfo": 2025,
-      "imdbRating": 7.9
-    },
-    {
-      "id": "tt27995115",
-      "type": "series",
-      "name": "The Devil's Plan",
-      "poster": "https://images.metahub.space/poster/medium/tt27995115/img",
-      "background": "https://images.metahub.space/background/medium/tt27995115/img",
-      "description": "It's the ultimate showdown of wits, brains, strategy, and alliances for a chance to win 500 million won.",
-      "releaseInfo": 2023,
-      "imdbRating": 8.3
-    },
-    {
-      "id": "tt10802170",
-      "type": "series",
-      "name": "The Rehearsal",
-      "poster": "https://images.metahub.space/poster/medium/tt10802170/img",
-      "background": "https://images.metahub.space/background/medium/tt10802170/img",
-      "description": "Nathan Fielder gives people a chance to rehearse for their own lives in a world where nothing ever works out as expected.",
-      "releaseInfo": 2022,
-      "imdbRating": 8.5
-    },
-    {
-      "id": "tt17220216",
-      "type": "series",
-      "name": "Monarch: Legacy of Monsters",
-      "poster": "https://images.metahub.space/poster/medium/tt17220216/img",
-      "background": "https://images.metahub.space/background/medium/tt17220216/img",
-      "description": "After surviving Godzilla's attack on San Francisco, Cate is shaken yet again by a shocking secret. Amid monstrous threats, she embarks on a globetrotting adventure to learn the truth about her family—and the mysterious organization known as Monarch.",
-      "releaseInfo": 2023,
-      "imdbRating": 7
-    },
-    {
-      "id": "tt12540080",
-      "type": "series",
-      "name": "Dark Desire",
-      "poster": "https://images.metahub.space/poster/medium/tt12540080/img",
-      "background": "https://images.metahub.space/background/medium/tt12540080/img",
-      "description": "Married Alma spends a fateful weekend away from home that ignites passion, ends in tragedy and leads her to question the truth about those close to her.",
-      "releaseInfo": 2020,
-      "imdbRating": 6.5
-    },
-    {
-      "id": "tt1632701",
-      "type": "series",
-      "name": "Suits",
-      "poster": "https://images.metahub.space/poster/medium/tt1632701/img",
-      "background": "https://images.metahub.space/background/medium/tt1632701/img",
-      "description": "On the run from a drug deal gone bad, brilliant college dropout Mike Ross finds himself working with Harvey Specter, one of New York City's best lawyers.",
-      "releaseInfo": 2011,
-      "imdbRating": 8.4
-    },
-    {
-      "id": "tt6037988",
-      "type": "series",
-      "name": "Last Seen",
-      "poster": "https://images.metahub.space/poster/medium/tt6037988/img",
-      "background": "https://images.metahub.space/background/medium/tt6037988/img",
-      "description": "Police dispatcher Ian Ridley's daughter Maggie disappeared years ago. He receives a call, believing it's her, and embarks on a relentless quest to find her and reunite his family, disregarding consequences.",
-      "releaseInfo": 2026,
-      "imdbRating": 7
-    },
-    {
-      "id": "tt18278410",
-      "type": "series",
-      "name": "Titans: The Rise of Wall Street",
-      "poster": "https://images.metahub.space/poster/medium/tt18278410/img",
-      "background": "https://images.metahub.space/background/medium/tt18278410/img",
-      "description": "Money made America a global empire and for the last 150 years America’s riches have been controlled by the titans of Wall Street.",
-      "releaseInfo": 2022,
-      "imdbRating": 7.4
-    },
-    {
-      "id": "tt41962673",
-      "type": "series",
-      "name": "Brothers and Sisters",
-      "poster": "https://images.metahub.space/poster/medium/tt41962673/img",
-      "background": "https://images.metahub.space/background/medium/tt41962673/img",
-      "description": "Bound by love and unspoken truths, Shanmuga Sundaram and his devoted family's lives revolve around shared rituals... till hidden cracks begin to surface.",
-      "releaseInfo": 2026,
-      "imdbRating": 6.9
     },
     {
       "id": "tt29011445",
@@ -441,24 +301,24 @@
       "imdbRating": 6.5
     },
     {
-      "id": "tt39201866",
+      "id": "tt33043892",
       "type": "series",
-      "name": "100 Days of Deception",
-      "poster": "https://images.metahub.space/poster/medium/tt39201866/img",
-      "background": "https://images.metahub.space/background/medium/tt39201866/img",
-      "description": "Hoping for freedom, Gyeongseong's top pickpocket infiltrates the Japanese colonial government to steal secrets — only to fall for her target's son.",
-      "releaseInfo": 2026,
-      "imdbRating": 8.4
+      "name": "Dexter: Resurrection",
+      "poster": "https://images.metahub.space/poster/medium/tt33043892/img",
+      "background": "https://images.metahub.space/background/medium/tt33043892/img",
+      "description": "Set 10 weeks after Dexter: New Blood, Dexter Morgan chases a missing Harrison to New York City, where Captain Angel Batista is hot on their trail from way down in Miami.",
+      "releaseInfo": 2025,
+      "imdbRating": 9
     },
     {
-      "id": "tt0386676",
+      "id": "tt10802170",
       "type": "series",
-      "name": "The Office",
-      "poster": "https://images.metahub.space/poster/medium/tt0386676/img",
-      "background": "https://images.metahub.space/background/medium/tt0386676/img",
-      "description": "A mockumentary on a group of typical office workers, where the workday consists of ego clashes, inappropriate behavior, tedium and romance.",
-      "releaseInfo": 2005,
-      "imdbRating": 9
+      "name": "The Rehearsal",
+      "poster": "https://images.metahub.space/poster/medium/tt10802170/img",
+      "background": "https://images.metahub.space/background/medium/tt10802170/img",
+      "description": "Nathan Fielder gives people a chance to rehearse for their own lives in a world where nothing ever works out as expected.",
+      "releaseInfo": 2022,
+      "imdbRating": 8.5
     },
     {
       "id": "tt6111130",
@@ -471,24 +331,24 @@
       "imdbRating": 7.2
     },
     {
-      "id": "tt4574334",
+      "id": "tt12540080",
       "type": "series",
-      "name": "Stranger Things",
-      "poster": "https://images.metahub.space/poster/medium/tt4574334/img",
-      "background": "https://images.metahub.space/background/medium/tt4574334/img",
-      "description": "When a young boy vanishes, a small town uncovers a mystery involving secret experiments, terrifying supernatural forces, and one strange little girl.",
-      "releaseInfo": 2016,
-      "imdbRating": 8.6
+      "name": "Dark Desire",
+      "poster": "https://images.metahub.space/poster/medium/tt12540080/img",
+      "background": "https://images.metahub.space/background/medium/tt12540080/img",
+      "description": "Married Alma spends a fateful weekend away from home that ignites passion, ends in tragedy and leads her to question the truth about those close to her.",
+      "releaseInfo": 2020,
+      "imdbRating": 6.5
     },
     {
-      "id": "tt34498121",
+      "id": "tt26915338",
       "type": "series",
-      "name": "Thukra Ke Mera Pyaar",
-      "poster": "https://images.metahub.space/poster/medium/tt34498121/img",
-      "background": "https://images.metahub.space/background/medium/tt34498121/img",
-      "description": "Two families clash over societal and caste differences spurring a saga of revenge. All this happens when a love story goes wrong.",
+      "name": "Gyaarah Gyaarah",
+      "poster": "https://images.metahub.space/poster/medium/tt26915338/img",
+      "background": "https://images.metahub.space/background/medium/tt26915338/img",
+      "description": "Investigative drama following events in 1990, 2001, 2016. Intertwining storylines blending mysticism, science and mystery across the decades.",
       "releaseInfo": 2024,
-      "imdbRating": 6.5
+      "imdbRating": 8.1
     },
     {
       "id": "tt35495073",
@@ -499,6 +359,146 @@
       "description": "Two of the biggest stars in Major League Hockey are bound by ambition, rivalry, and a magnetic pull neither of them fully understands. What begins as a secret fling between two fresh faced rookies evolves into a years-long journey of love, denial, and self-discovery. Over the next eight years, as they chase glory on the ice, they struggle to navigate their feelings for each other. Torn between the sport they live for and the love they can’t ignore, they must decide if there’s room in their fiercely competitive world for something as fragile – and powerful – as real love.",
       "releaseInfo": 2025,
       "imdbRating": 8.7
+    },
+    {
+      "id": "tt20873118",
+      "type": "series",
+      "name": "Suzhal - The Vortex",
+      "poster": "https://images.metahub.space/poster/medium/tt20873118/img",
+      "background": "https://images.metahub.space/background/medium/tt20873118/img",
+      "description": "A minor girl goes missing in a small town in Tamilnadu and an investigation follows. A sub inspector investigating a missing girl's case in a uncovers some shocking revelations and dirty truths those threaten to shake up the cultural societal fabric.",
+      "releaseInfo": 2022,
+      "imdbRating": 8.1
+    },
+    {
+      "id": "tt41962673",
+      "type": "series",
+      "name": "Brothers and Sisters",
+      "poster": "https://images.metahub.space/poster/medium/tt41962673/img",
+      "background": "https://images.metahub.space/background/medium/tt41962673/img",
+      "description": "Bound by love and unspoken truths, Shanmuga Sundaram and his devoted family's lives revolve around shared rituals... till hidden cracks begin to surface.",
+      "releaseInfo": 2026,
+      "imdbRating": 6.9
+    },
+    {
+      "id": "tt11761176",
+      "type": "series",
+      "name": "Power Book III: Raising Kanan",
+      "poster": "https://images.metahub.space/poster/medium/tt11761176/img",
+      "background": "https://images.metahub.space/background/medium/tt11761176/img",
+      "description": "Power Book III: Raising Kanan is a prequel set in the 1990s that will chronicle the early years of Kanan Stark, the character first played by executive producer Curtis \"50 Cent\" Jackson.",
+      "releaseInfo": 2021,
+      "imdbRating": 7.7
+    },
+    {
+      "id": "tt14169960",
+      "type": "series",
+      "name": "All of Us Are Dead",
+      "poster": "https://images.metahub.space/poster/medium/tt14169960/img",
+      "background": "https://images.metahub.space/background/medium/tt14169960/img",
+      "description": "A high school becomes ground zero for a zombie virus outbreak. Trapped students must fight their way out — or turn into one of the rabid infected.",
+      "releaseInfo": 2022,
+      "imdbRating": 7.6
+    },
+    {
+      "id": "tt12343534",
+      "type": "series",
+      "name": "Jujutsu Kaisen",
+      "poster": "https://images.metahub.space/poster/medium/tt12343534/img",
+      "background": "https://images.metahub.space/background/medium/tt12343534/img",
+      "description": "A boy swallows a cursed talisman - the finger of a demon - and becomes cursed himself. He enters a shaman's school to be able to locate the demon's other body parts and thus exorcise himself.",
+      "releaseInfo": 2020,
+      "imdbRating": 8.5
+    },
+    {
+      "id": "tt4643084",
+      "type": "series",
+      "name": "Counterpart",
+      "poster": "https://images.metahub.space/poster/medium/tt4643084/img",
+      "background": "https://images.metahub.space/background/medium/tt4643084/img",
+      "description": "Howard Silk is a lowly cog in a bureaucratic UN agency who is turning the last corner of a life filled with regret when he discovers the agency he works for is guarding a secret: a crossing to a parallel dimension.",
+      "releaseInfo": 2017,
+      "imdbRating": 8
+    },
+    {
+      "id": "tt5622316",
+      "type": "series",
+      "name": "The Chosen",
+      "poster": "https://images.metahub.space/poster/medium/tt5622316/img",
+      "background": "https://images.metahub.space/background/medium/tt5622316/img",
+      "description": "The life of Christ through the eyes of those who encountered him.",
+      "releaseInfo": 2019,
+      "imdbRating": 9.1
+    },
+    {
+      "id": "tt0386676",
+      "type": "series",
+      "name": "The Office",
+      "poster": "https://images.metahub.space/poster/medium/tt0386676/img",
+      "background": "https://images.metahub.space/background/medium/tt0386676/img",
+      "description": "A mockumentary on a group of typical office workers, where the workday consists of ego clashes, inappropriate behavior, tedium and romance.",
+      "releaseInfo": 2005,
+      "imdbRating": 9
+    },
+    {
+      "id": "tt0098936",
+      "type": "series",
+      "name": "Twin Peaks",
+      "poster": "https://images.metahub.space/poster/medium/tt0098936/img",
+      "background": "https://images.metahub.space/background/medium/tt0098936/img",
+      "description": "The body of Laura Palmer is washed up on a beach near the small Washington state town of Twin Peaks. FBI Special Agent Dale Cooper is called in to investigate her strange demise only to uncover a web of mystery that ultimately leads him deep into the heart of the surrounding woodland and his very own soul.",
+      "releaseInfo": 1990,
+      "imdbRating": 8.7
+    },
+    {
+      "id": "tt18278410",
+      "type": "series",
+      "name": "Titans: The Rise of Wall Street",
+      "poster": "https://images.metahub.space/poster/medium/tt18278410/img",
+      "background": "https://images.metahub.space/background/medium/tt18278410/img",
+      "description": "Money made America a global empire and for the last 150 years America’s riches have been controlled by the titans of Wall Street.",
+      "releaseInfo": 2022,
+      "imdbRating": 7.4
+    },
+    {
+      "id": "tt0096697",
+      "type": "series",
+      "name": "The Simpsons",
+      "poster": "https://images.metahub.space/poster/medium/tt0096697/img",
+      "background": "https://images.metahub.space/background/medium/tt0096697/img",
+      "description": "Set in Springfield, the average American town, the show focuses on the antics and everyday adventures of the Simpson family; Homer, Marge, Bart, Lisa and Maggie, as well as a virtual cast of thousands. Since the beginning, the series has been a pop culture icon, attracting hundreds of celebrities to guest star. The show has also made name for itself in its fearless satirical take on politics, media and American life in general.",
+      "releaseInfo": 1989,
+      "imdbRating": 8.6
+    },
+    {
+      "id": "tt4301160",
+      "type": "series",
+      "name": "Black Bird",
+      "poster": "https://images.metahub.space/poster/medium/tt4301160/img",
+      "background": "https://images.metahub.space/background/medium/tt4301160/img",
+      "description": "As Jimmy Keene begins a 10-year prison sentence, he gets an incredible offer: If he can elicit a confession from suspected killer Larry Hall, Jimmy will be freed. Completing this mission becomes the challenge of a lifetime.",
+      "releaseInfo": 2022,
+      "imdbRating": 8.1
+    },
+    {
+      "id": "tt47021035",
+      "type": "series",
+      "name": "Cunk on Cinema",
+      "poster": "https://images.metahub.space/poster/medium/tt47021035/img",
+      "background": "https://images.metahub.space/background/medium/tt47021035/img",
+      "description": "Philomena Cunk explores the history of film, from early cameras and 1960s New Wave to CGI and artificial intelligence.",
+      "releaseInfo": 2026,
+      "imdbRating": 7.5
+    },
+    {
+      "id": "tt34498121",
+      "type": "series",
+      "name": "Thukra Ke Mera Pyaar",
+      "poster": "https://images.metahub.space/poster/medium/tt34498121/img",
+      "background": "https://images.metahub.space/background/medium/tt34498121/img",
+      "description": "Two families clash over societal and caste differences spurring a saga of revenge. All this happens when a love story goes wrong.",
+      "releaseInfo": 2024,
+      "imdbRating": 6.5
     }
   ]
 }
