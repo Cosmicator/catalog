@@ -38,7 +38,7 @@
       "background": "https://images.metahub.space/background/medium/tt8014982/img",
       "description": "A group of misbehaving Catholic school girls experience prophetic visions after a dance-team initiation goes wrong, triggering mass hysteria throughout their town.",
       "releaseInfo": 2026,
-      "imdbRating": 7.6
+      "imdbRating": 7.5
     },
     {
       "id": "tt1196946",
@@ -281,14 +281,14 @@
       "imdbRating": 9.1
     },
     {
-      "id": "tt6111130",
+      "id": "tt22202452",
       "type": "series",
-      "name": "S.W.A.T.",
-      "poster": "https://images.metahub.space/poster/medium/tt6111130/img",
-      "background": "https://images.metahub.space/background/medium/tt6111130/img",
-      "description": "Follows a Los Angeles Police Department (LAPD) Special Weapons and Tactics (SWAT) team as they battle crime in Los Angeles, California.",
-      "releaseInfo": 2017,
-      "imdbRating": 7.2
+      "name": "Pluribus",
+      "poster": "https://images.metahub.space/poster/medium/tt22202452/img",
+      "background": "https://images.metahub.space/background/medium/tt22202452/img",
+      "description": "In a world overtaken by a mysterious wave of forced happiness, Carol Sturka, one of the immune few, must uncover what's really going on - and save humanity from its artificial bliss.",
+      "releaseInfo": 2025,
+      "imdbRating": 7.9
     },
     {
       "id": "tt33546863",
@@ -311,14 +311,14 @@
       "imdbRating": 8.2
     },
     {
-      "id": "tt22202452",
+      "id": "tt0098936",
       "type": "series",
-      "name": "Pluribus",
-      "poster": "https://images.metahub.space/poster/medium/tt22202452/img",
-      "background": "https://images.metahub.space/background/medium/tt22202452/img",
-      "description": "In a world overtaken by a mysterious wave of forced happiness, Carol Sturka, one of the immune few, must uncover what's really going on - and save humanity from its artificial bliss.",
-      "releaseInfo": 2025,
-      "imdbRating": 7.9
+      "name": "Twin Peaks",
+      "poster": "https://images.metahub.space/poster/medium/tt0098936/img",
+      "background": "https://images.metahub.space/background/medium/tt0098936/img",
+      "description": "The body of Laura Palmer is washed up on a beach near the small Washington state town of Twin Peaks. FBI Special Agent Dale Cooper is called in to investigate her strange demise only to uncover a web of mystery that ultimately leads him deep into the heart of the surrounding woodland and his very own soul.",
+      "releaseInfo": 1990,
+      "imdbRating": 8.7
     },
     {
       "id": "tt6468322",
@@ -341,14 +341,14 @@
       "imdbRating": 9.2
     },
     {
-      "id": "tt0098936",
+      "id": "tt6111130",
       "type": "series",
-      "name": "Twin Peaks",
-      "poster": "https://images.metahub.space/poster/medium/tt0098936/img",
-      "background": "https://images.metahub.space/background/medium/tt0098936/img",
-      "description": "The body of Laura Palmer is washed up on a beach near the small Washington state town of Twin Peaks. FBI Special Agent Dale Cooper is called in to investigate her strange demise only to uncover a web of mystery that ultimately leads him deep into the heart of the surrounding woodland and his very own soul.",
-      "releaseInfo": 1990,
-      "imdbRating": 8.7
+      "name": "S.W.A.T.",
+      "poster": "https://images.metahub.space/poster/medium/tt6111130/img",
+      "background": "https://images.metahub.space/background/medium/tt6111130/img",
+      "description": "Follows a Los Angeles Police Department (LAPD) Special Weapons and Tactics (SWAT) team as they battle crime in Los Angeles, California.",
+      "releaseInfo": 2017,
+      "imdbRating": 7.2
     },
     {
       "id": "tt5622316",
@@ -361,14 +361,14 @@
       "imdbRating": 9.1
     },
     {
-      "id": "tt28077038",
+      "id": "tt12343534",
       "type": "series",
-      "name": "Pritam and Pedro",
-      "poster": "https://images.metahub.space/poster/medium/tt28077038/img",
-      "background": "https://images.metahub.space/background/medium/tt28077038/img",
-      "description": "When a tech-illiterate Goa cop is demoted to the cyber cell, he must team up with a quirky hacker to track down a minister's kidnapped son and win back his old job.",
-      "releaseInfo": 2026,
-      "imdbRating": 7.7
+      "name": "Jujutsu Kaisen",
+      "poster": "https://images.metahub.space/poster/medium/tt12343534/img",
+      "background": "https://images.metahub.space/background/medium/tt12343534/img",
+      "description": "A boy swallows a cursed talisman - the finger of a demon - and becomes cursed himself. He enters a shaman's school to be able to locate the demon's other body parts and thus exorcise himself.",
+      "releaseInfo": 2020,
+      "imdbRating": 8.5
     },
     {
       "id": "tt11761176",
@@ -391,14 +391,14 @@
       "imdbRating": 9
     },
     {
-      "id": "tt12343534",
+      "id": "tt13196080",
       "type": "series",
-      "name": "Jujutsu Kaisen",
-      "poster": "https://images.metahub.space/poster/medium/tt12343534/img",
-      "background": "https://images.metahub.space/background/medium/tt12343534/img",
-      "description": "A boy swallows a cursed talisman - the finger of a demon - and becomes cursed himself. He enters a shaman's school to be able to locate the demon's other body parts and thus exorcise himself.",
-      "releaseInfo": 2020,
-      "imdbRating": 8.5
+      "name": "Tôkyô Ribenjâzu",
+      "poster": "https://images.metahub.space/poster/medium/tt13196080/img",
+      "background": "https://images.metahub.space/background/medium/tt13196080/img",
+      "description": "Hanagaki Takemichi lives an unsatisfying life right up until his death. Waking up 12 years in the past, he reckons with the eventual fate of his friends and tries to prevent an unfortunate future.",
+      "releaseInfo": 2021,
+      "imdbRating": 7.7
     },
     {
       "id": "tt14417718",
@@ -421,36 +421,6 @@
       "imdbRating": 7.7
     },
     {
-      "id": "tt13196080",
-      "type": "series",
-      "name": "Tôkyô Ribenjâzu",
-      "poster": "https://images.metahub.space/poster/medium/tt13196080/img",
-      "background": "https://images.metahub.space/background/medium/tt13196080/img",
-      "description": "Hanagaki Takemichi lives an unsatisfying life right up until his death. Waking up 12 years in the past, he reckons with the eventual fate of his friends and tries to prevent an unfortunate future.",
-      "releaseInfo": 2021,
-      "imdbRating": 7.7
-    },
-    {
-      "id": "tt1515193",
-      "type": "series",
-      "name": "The Big C",
-      "poster": "https://images.metahub.space/poster/medium/tt1515193/img",
-      "background": "https://images.metahub.space/background/medium/tt1515193/img",
-      "description": "A suburban mother faces her cancer diagnosis while trying to find humor and happiness as well.",
-      "releaseInfo": 2010,
-      "imdbRating": 8.1
-    },
-    {
-      "id": "tt14169960",
-      "type": "series",
-      "name": "All of Us Are Dead",
-      "poster": "https://images.metahub.space/poster/medium/tt14169960/img",
-      "background": "https://images.metahub.space/background/medium/tt14169960/img",
-      "description": "A high school becomes ground zero for a zombie virus outbreak. Trapped students must fight their way out — or turn into one of the rabid infected.",
-      "releaseInfo": 2022,
-      "imdbRating": 7.6
-    },
-    {
       "id": "tt10802170",
       "type": "series",
       "name": "The Rehearsal",
@@ -471,14 +441,14 @@
       "imdbRating": 8.4
     },
     {
-      "id": "tt2531336",
+      "id": "tt14169960",
       "type": "series",
-      "name": "Lupin",
-      "poster": "https://images.metahub.space/poster/medium/tt2531336/img",
-      "background": "https://images.metahub.space/background/medium/tt2531336/img",
-      "description": "Inspired by the adventures of Arsène Lupin, gentleman thief Assane Diop sets out to avenge his father for an injustice inflicted by a wealthy family.",
-      "releaseInfo": 2021,
-      "imdbRating": 7.5
+      "name": "All of Us Are Dead",
+      "poster": "https://images.metahub.space/poster/medium/tt14169960/img",
+      "background": "https://images.metahub.space/background/medium/tt14169960/img",
+      "description": "A high school becomes ground zero for a zombie virus outbreak. Trapped students must fight their way out — or turn into one of the rabid infected.",
+      "releaseInfo": 2022,
+      "imdbRating": 7.6
     },
     {
       "id": "tt41962673",
@@ -499,6 +469,36 @@
       "description": "Marianne and Connell weave in and out of each other's lives in this exploration of sex, power and the desire to love and be loved.",
       "releaseInfo": 2020,
       "imdbRating": 8.4
+    },
+    {
+      "id": "tt2531336",
+      "type": "series",
+      "name": "Lupin",
+      "poster": "https://images.metahub.space/poster/medium/tt2531336/img",
+      "background": "https://images.metahub.space/background/medium/tt2531336/img",
+      "description": "Inspired by the adventures of Arsène Lupin, gentleman thief Assane Diop sets out to avenge his father for an injustice inflicted by a wealthy family.",
+      "releaseInfo": 2021,
+      "imdbRating": 7.5
+    },
+    {
+      "id": "tt1405406",
+      "type": "series",
+      "name": "The Vampire Diaries",
+      "poster": "https://images.metahub.space/poster/medium/tt1405406/img",
+      "background": "https://images.metahub.space/background/medium/tt1405406/img",
+      "description": "The story of two vampire brothers obsessed with the same girl, who bears a striking resemblance to the beautiful but ruthless vampire they knew and loved in 1864.",
+      "releaseInfo": 2009,
+      "imdbRating": 7.7
+    },
+    {
+      "id": "tt4301160",
+      "type": "series",
+      "name": "Black Bird",
+      "poster": "https://images.metahub.space/poster/medium/tt4301160/img",
+      "background": "https://images.metahub.space/background/medium/tt4301160/img",
+      "description": "As Jimmy Keene begins a 10-year prison sentence, he gets an incredible offer: If he can elicit a confession from suspected killer Larry Hall, Jimmy will be freed. Completing this mission becomes the challenge of a lifetime.",
+      "releaseInfo": 2022,
+      "imdbRating": 8.1
     }
   ]
 }

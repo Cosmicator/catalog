@@ -166,6 +166,17 @@
       "imdbRating": "8.6"
     },
     {
+      "id": "tt4574334",
+      "type": "series",
+      "name": "Stranger Things",
+      "poster": "https://images.metahub.space/poster/small/tt4574334/img",
+      "background": "https://images.metahub.space/background/medium/tt4574334/img",
+      "logo": "https://images.metahub.space/logo/medium/tt4574334/img",
+      "description": "In 1980s Indiana, a group of young friends witness supernatural forces and secret government exploits. As they search for answers, the children unravel a series of extraordinary mysteries.",
+      "releaseInfo": "2016–2025",
+      "imdbRating": "8.6"
+    },
+    {
       "id": "tt3526078",
       "type": "series",
       "name": "Schitt's Creek",
@@ -207,17 +218,6 @@
       "logo": "https://images.metahub.space/logo/medium/tt6077448/img",
       "description": "A link in their pasts leads an honest cop to a fugitive gang boss, whose cryptic warning spurs the officer on a quest to save Mumbai from cataclysm.",
       "releaseInfo": "2018–2019",
-      "imdbRating": "8.5"
-    },
-    {
-      "id": "tt11912196",
-      "type": "series",
-      "name": "Asur: Welcome to Your Dark Side",
-      "poster": "https://images.metahub.space/poster/small/tt11912196/img",
-      "background": "https://images.metahub.space/background/medium/tt11912196/img",
-      "logo": "https://images.metahub.space/logo/medium/tt11912196/img",
-      "description": "Shubh returns for revenge and this season he takes the challenge to a whole new level. With the heroes fallen apart, will a desolate Dhananjay Rajpoot and a torn Nikhil Nair be able to stop him?",
-      "releaseInfo": "2020–",
       "imdbRating": "8.5"
     },
     {
@@ -452,17 +452,6 @@
       "imdbRating": "8.1"
     },
     {
-      "id": "tt1515193",
-      "type": "series",
-      "name": "The Big C",
-      "poster": "https://images.metahub.space/poster/small/tt1515193/img",
-      "background": "https://images.metahub.space/background/medium/tt1515193/img",
-      "logo": "https://images.metahub.space/logo/medium/tt1515193/img",
-      "description": "A suburban mother faces her cancer diagnosis while trying to find humor and happiness as well.",
-      "releaseInfo": "2010–2013",
-      "imdbRating": "8.1"
-    },
-    {
       "id": "tt4301160",
       "type": "series",
       "name": "Black Bird",
@@ -474,14 +463,25 @@
       "imdbRating": "8.1"
     },
     {
-      "id": "tt29615330",
+      "id": "tt1515193",
       "type": "series",
-      "name": "The New Years",
-      "poster": "https://images.metahub.space/poster/small/tt29615330/img",
-      "background": "https://images.metahub.space/background/medium/tt29615330/img",
-      "logo": "https://images.metahub.space/logo/medium/tt29615330/img",
-      "description": "Oscar, stuck with a crappy medical contract, is still hooked on his ex. Ana, without a partner or a job, feels lost and plans to move away. Over the next ten years, they will have to face the passage of time and the decisions they...",
-      "releaseInfo": "2024",
+      "name": "The Big C",
+      "poster": "https://images.metahub.space/poster/small/tt1515193/img",
+      "background": "https://images.metahub.space/background/medium/tt1515193/img",
+      "logo": "https://images.metahub.space/logo/medium/tt1515193/img",
+      "description": "A suburban mother faces her cancer diagnosis while trying to find humor and happiness as well.",
+      "releaseInfo": "2010–2013",
+      "imdbRating": "8.1"
+    },
+    {
+      "id": "tt0092400",
+      "type": "series",
+      "name": "Married... with Children",
+      "poster": "https://images.metahub.space/poster/small/tt0092400/img",
+      "background": "https://images.metahub.space/background/medium/tt0092400/img",
+      "logo": "https://images.metahub.space/logo/medium/tt0092400/img",
+      "description": "Al is the quintessential working class dad. Peggy, his wife, always wants more from him. With their children, they go through the highs and lows of ordinary life.",
+      "releaseInfo": "1987–1997",
       "imdbRating": "8.1"
     },
     {
@@ -496,14 +496,14 @@
       "imdbRating": "8.1"
     },
     {
-      "id": "tt0092400",
+      "id": "tt29615330",
       "type": "series",
-      "name": "Married... with Children",
-      "poster": "https://images.metahub.space/poster/small/tt0092400/img",
-      "background": "https://images.metahub.space/background/medium/tt0092400/img",
-      "logo": "https://images.metahub.space/logo/medium/tt0092400/img",
-      "description": "Al is the quintessential working class dad. Peggy, his wife, always wants more from him. With their children, they go through the highs and lows of ordinary life.",
-      "releaseInfo": "1987–1997",
+      "name": "The New Years",
+      "poster": "https://images.metahub.space/poster/small/tt29615330/img",
+      "background": "https://images.metahub.space/background/medium/tt29615330/img",
+      "logo": "https://images.metahub.space/logo/medium/tt29615330/img",
+      "description": "Oscar, stuck with a crappy medical contract, is still hooked on his ex. Ana, without a partner or a job, feels lost and plans to move away. Over the next ten years, they will have to face the passage of time and the decisions they...",
+      "releaseInfo": "2024",
       "imdbRating": "8.1"
     },
     {

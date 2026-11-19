@@ -28,7 +28,7 @@
       "background": "https://images.metahub.space/background/medium/tt8014982/img",
       "description": "A group of misbehaving Catholic school girls experience prophetic visions after a dance-team initiation goes wrong, triggering mass hysteria throughout their town.",
       "releaseInfo": 2026,
-      "imdbRating": 7.6
+      "imdbRating": 7.5
     },
     {
       "id": "tt7631058",
@@ -311,16 +311,6 @@
       "imdbRating": 9.2
     },
     {
-      "id": "tt28077038",
-      "type": "series",
-      "name": "Pritam and Pedro",
-      "poster": "https://images.metahub.space/poster/medium/tt28077038/img",
-      "background": "https://images.metahub.space/background/medium/tt28077038/img",
-      "description": "When a tech-illiterate Goa cop is demoted to the cyber cell, he must team up with a quirky hacker to track down a minister's kidnapped son and win back his old job.",
-      "releaseInfo": 2026,
-      "imdbRating": 7.7
-    },
-    {
       "id": "tt47021035",
       "type": "series",
       "name": "Cunk on Cinema",
@@ -361,16 +351,6 @@
       "imdbRating": 7.7
     },
     {
-      "id": "tt39390491",
-      "type": "series",
-      "name": "Alicia's Law",
-      "poster": "https://images.metahub.space/poster/medium/tt39390491/img",
-      "background": "https://images.metahub.space/background/medium/tt39390491/img",
-      "description": "After her husband, a Supreme Court Justice Minister, is imprisoned for corruption, Alicia must restart her law career to support her children and pay bills as her world crumbles.",
-      "releaseInfo": 2026,
-      "imdbRating": 6.4
-    },
-    {
       "id": "tt10802170",
       "type": "series",
       "name": "The Rehearsal",
@@ -389,6 +369,16 @@
       "description": "A link in their pasts leads an honest cop to a fugitive gang boss, whose cryptic warning spurs the officer on a quest to save Mumbai from cataclysm.",
       "releaseInfo": 2018,
       "imdbRating": 8.5
+    },
+    {
+      "id": "tt39390491",
+      "type": "series",
+      "name": "Alicia's Law",
+      "poster": "https://images.metahub.space/poster/medium/tt39390491/img",
+      "background": "https://images.metahub.space/background/medium/tt39390491/img",
+      "description": "After her husband, a Supreme Court Justice Minister, is imprisoned for corruption, Alicia must restart her law career to support her children and pay bills as her world crumbles.",
+      "releaseInfo": 2026,
+      "imdbRating": 6.2
     },
     {
       "id": "tt26315487",
@@ -499,6 +489,16 @@
       "description": "Investigative drama following events in 1990, 2001, 2016. Intertwining storylines blending mysticism, science and mystery across the decades.",
       "releaseInfo": 2024,
       "imdbRating": 8.1
+    },
+    {
+      "id": "tt26471411",
+      "type": "series",
+      "name": "When Life Gives You Tangerines",
+      "poster": "https://images.metahub.space/poster/medium/tt26471411/img",
+      "background": "https://images.metahub.space/background/medium/tt26471411/img",
+      "description": "In Jeju, a spirited girl and a steadfast boy's island story blossoms into a lifelong tale of setbacks and triumphs — proving love endures across time.",
+      "releaseInfo": 2025,
+      "imdbRating": 9
     }
   ]
 }

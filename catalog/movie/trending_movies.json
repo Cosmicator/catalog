@@ -38,7 +38,7 @@
       "background": "https://images.metahub.space/background/medium/tt40856286/img",
       "description": "Two inseparable friends' ordinary, unassuming lives spiral into an unpredictable, high-energy adventure that pushes their survival instincts and friendship to the limit.",
       "releaseInfo": 2026,
-      "imdbRating": 6.8
+      "imdbRating": 6.7
     },
     {
       "id": "tt10886166",
@@ -88,7 +88,17 @@
       "background": "https://images.metahub.space/background/medium/tt33381528/img",
       "description": "Premada Oorali is a heartfelt love story set in picturesque villages in the 2020s. The film intertwines romance and family drama, exploring the relationships between a father and son, as well as a boy and girl, as they navigate through intriguing, yet relatable, relationship challenges.",
       "releaseInfo": 2026,
-      "imdbRating": 7.8
+      "imdbRating": 7.7
+    },
+    {
+      "id": "tt34498564",
+      "type": "movie",
+      "name": "The Vvaan: Force of the Forrest",
+      "poster": "https://images.metahub.space/poster/medium/tt34498564/img",
+      "background": "https://images.metahub.space/background/medium/tt34498564/img",
+      "description": "A rational urban man defies his ancestral village's forbidden forest and awakens a divine goddess, forcing him to confront powers beyond logic as he becomes the unlikely saviour protecting his people from annihilation.",
+      "releaseInfo": 2026,
+      "imdbRating": 5.8
     },
     {
       "id": "tt37287335",
@@ -228,7 +238,7 @@
       "background": "https://images.metahub.space/background/medium/tt38213251/img",
       "description": "Former country music legend Misty Jones returns to Nashville to unravel the truth behind her rising-star niece's disappearance.",
       "releaseInfo": 2026,
-      "imdbRating": 5.6
+      "imdbRating": 5.5
     },
     {
       "id": "tt0097958",
@@ -441,14 +451,14 @@
       "imdbRating": 8.8
     },
     {
-      "id": "tt12735488",
+      "id": "tt9243804",
       "type": "movie",
-      "name": "Kalki 2898-AD",
-      "poster": "https://images.metahub.space/poster/medium/tt12735488/img",
-      "background": "https://images.metahub.space/background/medium/tt12735488/img",
-      "description": "The future of those in the dystopian city of Kasi is altered when the destined arrival of Lord Vishnu's final avatar launches a war against darkness.",
-      "releaseInfo": 2024,
-      "imdbRating": 7.1
+      "name": "The Green Knight",
+      "poster": "https://images.metahub.space/poster/medium/tt9243804/img",
+      "background": "https://images.metahub.space/background/medium/tt9243804/img",
+      "description": "An epic fantasy adventure based on the timeless Arthurian legend, The Green Knight tells the story of Sir Gawain, King Arthur's reckless and headstrong nephew, who embarks on a daring quest to confront the eponymous Green Knight, a gigantic emerald-skinned stranger and tester of men.",
+      "releaseInfo": 2021,
+      "imdbRating": 6.5
     },
     {
       "id": "tt46060457",
@@ -488,16 +498,6 @@
       "background": "https://images.metahub.space/background/medium/tt35538033/img",
       "description": "Described as a revamp that will return to the franchise's horror roots and be more faithful to the initial games.",
       "releaseInfo": 2026,
-      "imdbRating": 7.4
-    },
-    {
-      "id": "tt26581740",
-      "type": "movie",
-      "name": "Weapons",
-      "poster": "https://images.metahub.space/poster/medium/tt26581740/img",
-      "background": "https://images.metahub.space/background/medium/tt26581740/img",
-      "description": "When all but one child from the same class mysteriously vanish on the same night at exactly the same time, a community is left questioning who or what is behind their disappearance.",
-      "releaseInfo": 2025,
       "imdbRating": 7.4
     }
   ]
