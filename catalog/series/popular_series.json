@@ -108,24 +108,24 @@
       "background": "https://images.metahub.space/background/medium/tt45246384/img",
       "description": "Taekang Group's successor, Yoon Yi-jun, is the prime suspect of a shocking murder. To uncover the truth, Kang Jae-hee goes undercover as a male secretary to keep an eye on Yi-jun. The closer they get to what really happened, the closer Yi-jun and Jae-hee become. Will Jae-hee, who is hiding her identity, and Yi-jun, who is hiding a secret, be able to let their true feelings be known to one another?",
       "releaseInfo": 2026,
-      "imdbRating": 8
+      "imdbRating": 8.1
     },
     {
-      "id": "tt35717988",
+      "id": "tt31510819",
       "type": "series",
       "name": "MobLand",
-      "poster": "https://images.metahub.space/poster/medium/tt35717988/img",
-      "background": "https://images.metahub.space/background/medium/tt35717988/img",
+      "poster": "https://images.metahub.space/poster/medium/tt31510819/img",
+      "background": "https://images.metahub.space/background/medium/tt31510819/img",
       "description": "Two mob families clash in a war that threatens to topple empires and lives.",
       "releaseInfo": 2025,
       "imdbRating": 8.3
     },
     {
-      "id": "tt33097212",
+      "id": "tt5875444",
       "type": "series",
       "name": "Slow Horses",
-      "poster": "https://images.metahub.space/poster/medium/tt33097212/img",
-      "background": "https://images.metahub.space/background/medium/tt33097212/img",
+      "poster": "https://images.metahub.space/poster/medium/tt5875444/img",
+      "background": "https://images.metahub.space/background/medium/tt5875444/img",
       "description": "Follow a dysfunctional team of MI5 agents—and their obnoxious boss, the notorious Jackson Lamb—as they navigate the espionage world's smoke and mirrors to defend England from sinister forces.",
       "releaseInfo": 2022,
       "imdbRating": 8.4
@@ -141,14 +141,14 @@
       "imdbRating": 7.3
     },
     {
-      "id": "tt13854248",
+      "id": "tt49910378",
       "type": "series",
-      "name": "The Legend of Hanuman",
-      "poster": "https://images.metahub.space/poster/medium/tt13854248/img",
-      "background": "https://images.metahub.space/background/medium/tt13854248/img",
-      "description": "When the power-hungry Ravan tore through the world to unleash evil, in his way stood a humble vaanar awoken to his divinity to become an immortal legend.",
-      "releaseInfo": 2021,
-      "imdbRating": 9.1
+      "name": "The Circle",
+      "poster": "https://images.metahub.space/poster/medium/tt49910378/img",
+      "background": "https://images.metahub.space/background/medium/tt49910378/img",
+      "description": "“The Circle” is back with a brand-new home on Hulu, reimagined as a fast-turnaround interactive event. For the first time, celebrities enter the ultimate game of popularity, playing alongside civilians, raising the stakes and the strategy like never before. Some players compete as themselves, while others are catfishing and doing whatever it takes to win. This time, America isn’t just watching. Viewers have the power to stir the pot and influence the game in real time. This is a new era for the groundbreaking competition, where fame, strategy and popularity collide in the biggest season of “The Circle” yet.",
+      "releaseInfo": 2026,
+      "imdbRating": 0
     },
     {
       "id": "tt6794990",
@@ -171,6 +171,16 @@
       "imdbRating": 8.4
     },
     {
+      "id": "tt13854248",
+      "type": "series",
+      "name": "The Legend of Hanuman",
+      "poster": "https://images.metahub.space/poster/medium/tt13854248/img",
+      "background": "https://images.metahub.space/background/medium/tt13854248/img",
+      "description": "When the power-hungry Ravan tore through the world to unleash evil, in his way stood a humble vaanar awoken to his divinity to become an immortal legend.",
+      "releaseInfo": 2021,
+      "imdbRating": 9.1
+    },
+    {
       "id": "tt22202452",
       "type": "series",
       "name": "Pluribus",
@@ -189,16 +199,6 @@
       "description": "A struggling student at Korea's worst high school forms a study group while protecting his classmates with his fighting skills, hoping to overcome academic challenges and secure a spot in college.",
       "releaseInfo": 2025,
       "imdbRating": 8.2
-    },
-    {
-      "id": "tt7768578",
-      "type": "series",
-      "name": "Crayon Shin-chan",
-      "poster": "https://images.metahub.space/poster/medium/tt7768578/img",
-      "background": "https://images.metahub.space/background/medium/tt7768578/img",
-      "description": "Shin-chan, the boy next door, is a walking disaster, creating chaos wherever he goes. With the body of a child and the mind of an adult, Shinchan is wreaking more havoc than any child before. Shin-chan is carefree, optimistic and gets excited about everything. This 5 year-old likes to do things his way.",
-      "releaseInfo": 1992,
-      "imdbRating": 8.4
     },
     {
       "id": "tt10986410",
@@ -221,14 +221,14 @@
       "imdbRating": 7.8
     },
     {
-      "id": "tt9140554",
+      "id": "tt7768578",
       "type": "series",
-      "name": "Loki",
-      "poster": "https://images.metahub.space/poster/medium/tt9140554/img",
-      "background": "https://images.metahub.space/background/medium/tt9140554/img",
-      "description": "The mercurial villain Loki resumes his role as the God of Mischief in a new series that takes place after the events of “Avengers: Endgame.”",
-      "releaseInfo": 2021,
-      "imdbRating": 8.2
+      "name": "Crayon Shin-chan",
+      "poster": "https://images.metahub.space/poster/medium/tt7768578/img",
+      "background": "https://images.metahub.space/background/medium/tt7768578/img",
+      "description": "Shin-chan, the boy next door, is a walking disaster, creating chaos wherever he goes. With the body of a child and the mind of an adult, Shinchan is wreaking more havoc than any child before. Shin-chan is carefree, optimistic and gets excited about everything. This 5 year-old likes to do things his way.",
+      "releaseInfo": 1992,
+      "imdbRating": 8.4
     },
     {
       "id": "tt19231492",
@@ -251,14 +251,14 @@
       "imdbRating": 8.4
     },
     {
-      "id": "tt28077038",
+      "id": "tt9140554",
       "type": "series",
-      "name": "Pritam and Pedro",
-      "poster": "https://images.metahub.space/poster/medium/tt28077038/img",
-      "background": "https://images.metahub.space/background/medium/tt28077038/img",
-      "description": "When a tech-illiterate Goa cop is demoted to the cyber cell, he must team up with a quirky hacker to track down a minister's kidnapped son and win back his old job.",
-      "releaseInfo": 2026,
-      "imdbRating": 7.7
+      "name": "Loki",
+      "poster": "https://images.metahub.space/poster/medium/tt9140554/img",
+      "background": "https://images.metahub.space/background/medium/tt9140554/img",
+      "description": "The mercurial villain Loki resumes his role as the God of Mischief in a new series that takes place after the events of “Avengers: Endgame.”",
+      "releaseInfo": 2021,
+      "imdbRating": 8.2
     },
     {
       "id": "tt11761194",
@@ -281,13 +281,13 @@
       "imdbRating": 7.5
     },
     {
-      "id": "tt17543592",
+      "id": "tt28077038",
       "type": "series",
-      "name": "Will Trent",
-      "poster": "https://images.metahub.space/poster/medium/tt17543592/img",
-      "background": "https://images.metahub.space/background/medium/tt17543592/img",
-      "description": "Special Agent Will Trent was abandoned at birth and endured a harsh coming-of-age in Atlanta's overwhelmed foster-care system. Determined to make sure that nobody else feels as he did, he now has the highest clearance rate.",
-      "releaseInfo": 2023,
+      "name": "Pritam and Pedro",
+      "poster": "https://images.metahub.space/poster/medium/tt28077038/img",
+      "background": "https://images.metahub.space/background/medium/tt28077038/img",
+      "description": "When a tech-illiterate Goa cop is demoted to the cyber cell, he must team up with a quirky hacker to track down a minister's kidnapped son and win back his old job.",
+      "releaseInfo": 2026,
       "imdbRating": 7.7
     },
     {
@@ -311,14 +311,14 @@
       "imdbRating": 9
     },
     {
-      "id": "tt10802170",
+      "id": "tt17543592",
       "type": "series",
-      "name": "The Rehearsal",
-      "poster": "https://images.metahub.space/poster/medium/tt10802170/img",
-      "background": "https://images.metahub.space/background/medium/tt10802170/img",
-      "description": "Nathan Fielder gives people a chance to rehearse for their own lives in a world where nothing ever works out as expected.",
-      "releaseInfo": 2022,
-      "imdbRating": 8.5
+      "name": "Will Trent",
+      "poster": "https://images.metahub.space/poster/medium/tt17543592/img",
+      "background": "https://images.metahub.space/background/medium/tt17543592/img",
+      "description": "Special Agent Will Trent was abandoned at birth and endured a harsh coming-of-age in Atlanta's overwhelmed foster-care system. Determined to make sure that nobody else feels as he did, he now has the highest clearance rate.",
+      "releaseInfo": 2023,
+      "imdbRating": 7.7
     },
     {
       "id": "tt6111130",
@@ -341,14 +341,14 @@
       "imdbRating": 6.5
     },
     {
-      "id": "tt26915338",
+      "id": "tt10802170",
       "type": "series",
-      "name": "Gyaarah Gyaarah",
-      "poster": "https://images.metahub.space/poster/medium/tt26915338/img",
-      "background": "https://images.metahub.space/background/medium/tt26915338/img",
-      "description": "Investigative drama following events in 1990, 2001, 2016. Intertwining storylines blending mysticism, science and mystery across the decades.",
-      "releaseInfo": 2024,
-      "imdbRating": 8.1
+      "name": "The Rehearsal",
+      "poster": "https://images.metahub.space/poster/medium/tt10802170/img",
+      "background": "https://images.metahub.space/background/medium/tt10802170/img",
+      "description": "Nathan Fielder gives people a chance to rehearse for their own lives in a world where nothing ever works out as expected.",
+      "releaseInfo": 2022,
+      "imdbRating": 8.5
     },
     {
       "id": "tt35495073",
@@ -371,14 +371,14 @@
       "imdbRating": 8.1
     },
     {
-      "id": "tt12343534",
+      "id": "tt26915338",
       "type": "series",
-      "name": "Jujutsu Kaisen",
-      "poster": "https://images.metahub.space/poster/medium/tt12343534/img",
-      "background": "https://images.metahub.space/background/medium/tt12343534/img",
-      "description": "A boy swallows a cursed talisman - the finger of a demon - and becomes cursed himself. He enters a shaman's school to be able to locate the demon's other body parts and thus exorcise himself.",
-      "releaseInfo": 2020,
-      "imdbRating": 8.5
+      "name": "Gyaarah Gyaarah",
+      "poster": "https://images.metahub.space/poster/medium/tt26915338/img",
+      "background": "https://images.metahub.space/background/medium/tt26915338/img",
+      "description": "Investigative drama following events in 1990, 2001, 2016. Intertwining storylines blending mysticism, science and mystery across the decades.",
+      "releaseInfo": 2024,
+      "imdbRating": 8.1
     },
     {
       "id": "tt11761176",
@@ -401,14 +401,14 @@
       "imdbRating": 7.6
     },
     {
-      "id": "tt0386676",
+      "id": "tt12343534",
       "type": "series",
-      "name": "The Office",
-      "poster": "https://images.metahub.space/poster/medium/tt0386676/img",
-      "background": "https://images.metahub.space/background/medium/tt0386676/img",
-      "description": "A mockumentary on a group of typical office workers, where the workday consists of ego clashes, inappropriate behavior, tedium and romance.",
-      "releaseInfo": 2005,
-      "imdbRating": 9
+      "name": "Jujutsu Kaisen",
+      "poster": "https://images.metahub.space/poster/medium/tt12343534/img",
+      "background": "https://images.metahub.space/background/medium/tt12343534/img",
+      "description": "A boy swallows a cursed talisman - the finger of a demon - and becomes cursed himself. He enters a shaman's school to be able to locate the demon's other body parts and thus exorcise himself.",
+      "releaseInfo": 2020,
+      "imdbRating": 8.5
     },
     {
       "id": "tt4643084",
@@ -431,14 +431,14 @@
       "imdbRating": 9.1
     },
     {
-      "id": "tt0096697",
+      "id": "tt0386676",
       "type": "series",
-      "name": "The Simpsons",
-      "poster": "https://images.metahub.space/poster/medium/tt0096697/img",
-      "background": "https://images.metahub.space/background/medium/tt0096697/img",
-      "description": "Set in Springfield, the average American town, the show focuses on the antics and everyday adventures of the Simpson family; Homer, Marge, Bart, Lisa and Maggie, as well as a virtual cast of thousands. Since the beginning, the series has been a pop culture icon, attracting hundreds of celebrities to guest star. The show has also made name for itself in its fearless satirical take on politics, media and American life in general.",
-      "releaseInfo": 1989,
-      "imdbRating": 8.6
+      "name": "The Office",
+      "poster": "https://images.metahub.space/poster/medium/tt0386676/img",
+      "background": "https://images.metahub.space/background/medium/tt0386676/img",
+      "description": "A mockumentary on a group of typical office workers, where the workday consists of ego clashes, inappropriate behavior, tedium and romance.",
+      "releaseInfo": 2005,
+      "imdbRating": 9
     },
     {
       "id": "tt0098936",
@@ -451,33 +451,33 @@
       "imdbRating": 8.7
     },
     {
-      "id": "tt18278410",
+      "id": "tt39390491",
       "type": "series",
-      "name": "Titans: The Rise of Wall Street",
-      "poster": "https://images.metahub.space/poster/medium/tt18278410/img",
-      "background": "https://images.metahub.space/background/medium/tt18278410/img",
-      "description": "Money made America a global empire and for the last 150 years America’s riches have been controlled by the titans of Wall Street.",
-      "releaseInfo": 2022,
-      "imdbRating": 7.4
+      "name": "Alicia's Law",
+      "poster": "https://images.metahub.space/poster/medium/tt39390491/img",
+      "background": "https://images.metahub.space/background/medium/tt39390491/img",
+      "description": "After her husband, a Supreme Court Justice Minister, is imprisoned for corruption, Alicia must restart her law career to support her children and pay bills as her world crumbles.",
+      "releaseInfo": 2026,
+      "imdbRating": 6.4
     },
     {
-      "id": "tt34498121",
+      "id": "tt0096697",
       "type": "series",
-      "name": "Thukra Ke Mera Pyaar",
-      "poster": "https://images.metahub.space/poster/medium/tt34498121/img",
-      "background": "https://images.metahub.space/background/medium/tt34498121/img",
-      "description": "Two families clash over societal and caste differences spurring a saga of revenge. All this happens when a love story goes wrong.",
-      "releaseInfo": 2024,
-      "imdbRating": 6.5
+      "name": "The Simpsons",
+      "poster": "https://images.metahub.space/poster/medium/tt0096697/img",
+      "background": "https://images.metahub.space/background/medium/tt0096697/img",
+      "description": "Set in Springfield, the average American town, the show focuses on the antics and everyday adventures of the Simpson family; Homer, Marge, Bart, Lisa and Maggie, as well as a virtual cast of thousands. Since the beginning, the series has been a pop culture icon, attracting hundreds of celebrities to guest star. The show has also made name for itself in its fearless satirical take on politics, media and American life in general.",
+      "releaseInfo": 1989,
+      "imdbRating": 8.6
     },
     {
-      "id": "tt4301160",
+      "id": "tt1515193",
       "type": "series",
-      "name": "Black Bird",
-      "poster": "https://images.metahub.space/poster/medium/tt4301160/img",
-      "background": "https://images.metahub.space/background/medium/tt4301160/img",
-      "description": "As Jimmy Keene begins a 10-year prison sentence, he gets an incredible offer: If he can elicit a confession from suspected killer Larry Hall, Jimmy will be freed. Completing this mission becomes the challenge of a lifetime.",
-      "releaseInfo": 2022,
+      "name": "The Big C",
+      "poster": "https://images.metahub.space/poster/medium/tt1515193/img",
+      "background": "https://images.metahub.space/background/medium/tt1515193/img",
+      "description": "A suburban mother faces her cancer diagnosis while trying to find humor and happiness as well.",
+      "releaseInfo": 2010,
       "imdbRating": 8.1
     },
     {
@@ -491,14 +491,14 @@
       "imdbRating": 7.5
     },
     {
-      "id": "tt41962673",
+      "id": "tt34498121",
       "type": "series",
-      "name": "Brothers and Sisters",
-      "poster": "https://images.metahub.space/poster/medium/tt41962673/img",
-      "background": "https://images.metahub.space/background/medium/tt41962673/img",
-      "description": "Bound by love and unspoken truths, Shanmuga Sundaram and his devoted family's lives revolve around shared rituals... till hidden cracks begin to surface.",
-      "releaseInfo": 2026,
-      "imdbRating": 6.9
+      "name": "Thukra Ke Mera Pyaar",
+      "poster": "https://images.metahub.space/poster/medium/tt34498121/img",
+      "background": "https://images.metahub.space/background/medium/tt34498121/img",
+      "description": "Two families clash over societal and caste differences spurring a saga of revenge. All this happens when a love story goes wrong.",
+      "releaseInfo": 2024,
+      "imdbRating": 6.5
     }
   ]
 }
