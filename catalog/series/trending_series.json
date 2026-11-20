@@ -178,7 +178,7 @@
       "background": "https://images.metahub.space/background/medium/tt47021035/img",
       "description": "Philomena Cunk explores the history of film, from early cameras and 1960s New Wave to CGI and artificial intelligence.",
       "releaseInfo": 2026,
-      "imdbRating": 7.5
+      "imdbRating": 7.4
     },
     {
       "id": "tt35304338",
@@ -218,7 +218,7 @@
       "background": "https://images.metahub.space/background/medium/tt39161219/img",
       "description": "Follows Valentina whose boyfriend cheats on her and she's told their problem was astronomical incompatibility, so she determines to date men of every zodiac sign and share her experiences in a videocast.",
       "releaseInfo": 2026,
-      "imdbRating": 3.9
+      "imdbRating": 5.1
     },
     {
       "id": "tt43636966",
@@ -228,7 +228,7 @@
       "background": "https://images.metahub.space/background/medium/tt43636966/img",
       "description": "Witch Urvashi gives up her magic for love to marry Aarav, a human. But her normal life becomes tough, and when mishaps happen, she secretly uses her powers to fix them; eventually, her magic backfires, causing hilarious everyday chaos.",
       "releaseInfo": 2026,
-      "imdbRating": 0
+      "imdbRating": 8.6
     },
     {
       "id": "tt6077448",
@@ -441,6 +441,16 @@
       "imdbRating": 8.6
     },
     {
+      "id": "tt3212600",
+      "type": "series",
+      "name": "Mahabharatham",
+      "poster": "https://images.metahub.space/poster/medium/tt3212600/img",
+      "background": "https://images.metahub.space/background/medium/tt3212600/img",
+      "description": "Mahabharat is a 2013 drama TV series on Star Plus based on Indian legendary epic of the same name. It has been produced by Swastik Pictures and features actors such as Saurabh Raj Jain as Lord Krishna, Shaheer Sheikh as Arjuna, Pooja Sharma as Draupadi, Aham Sharma as Karna and Arav Chowdhary as Bhishma Pitamah. The producers had creative associations with writer Salim Khan, author Devdutt Pattanaik, designer Bhanu Athaiya, music directors Ajay-Atul and Ismail Darbar, action director Ram Shetty and set designer Omang Kumar. The casting of the show is done by Sahil Ansari, Mahesh Chandra Bhatt, Arun Mitra. It started broadcasting on 16 September 2013.",
+      "releaseInfo": 2013,
+      "imdbRating": 8.7
+    },
+    {
       "id": "tt13016388",
       "type": "series",
       "name": "3 Body Problem",
@@ -461,16 +471,6 @@
       "imdbRating": 7.7
     },
     {
-      "id": "tt3212600",
-      "type": "series",
-      "name": "Mahabharatham",
-      "poster": "https://images.metahub.space/poster/medium/tt3212600/img",
-      "background": "https://images.metahub.space/background/medium/tt3212600/img",
-      "description": "Mahabharat is a 2013 drama TV series on Star Plus based on Indian legendary epic of the same name. It has been produced by Swastik Pictures and features actors such as Saurabh Raj Jain as Lord Krishna, Shaheer Sheikh as Arjuna, Pooja Sharma as Draupadi, Aham Sharma as Karna and Arav Chowdhary as Bhishma Pitamah. The producers had creative associations with writer Salim Khan, author Devdutt Pattanaik, designer Bhanu Athaiya, music directors Ajay-Atul and Ismail Darbar, action director Ram Shetty and set designer Omang Kumar. The casting of the show is done by Sahil Ansari, Mahesh Chandra Bhatt, Arun Mitra. It started broadcasting on 16 September 2013.",
-      "releaseInfo": 2013,
-      "imdbRating": 8.7
-    },
-    {
       "id": "tt41559886",
       "type": "series",
       "name": "Gordon",
@@ -478,7 +478,7 @@
       "background": "https://images.metahub.space/background/medium/tt41559886/img",
       "description": "A former car thief moves with his wife and infant son to a new home, presenting himself as a gentleman businessman while secretly leading a gang in robberies and building hidden passageways to spy on his own family.",
       "releaseInfo": 2026,
-      "imdbRating": 6.5
+      "imdbRating": 6.9
     },
     {
       "id": "tt26471411",
@@ -498,7 +498,7 @@
       "background": "https://images.metahub.space/background/medium/tt39390491/img",
       "description": "After her husband, a Supreme Court Justice Minister, is imprisoned for corruption, Alicia must restart her law career to support her children and pay bills as her world crumbles.",
       "releaseInfo": 2026,
-      "imdbRating": 6.2
+      "imdbRating": 5.2
     }
   ]
 }

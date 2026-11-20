@@ -243,14 +243,14 @@
       "imdbRating": "8.5"
     },
     {
-      "id": "tt4093826",
+      "id": "tt8317568",
       "type": "series",
-      "name": "Twin Peaks",
-      "poster": "https://images.metahub.space/poster/small/tt4093826/img",
-      "background": "https://images.metahub.space/background/medium/tt4093826/img",
-      "logo": "https://images.metahub.space/logo/medium/tt4093826/img",
-      "description": "Picks up 25 years after the inhabitants of a quaint northwestern town are stunned when their homecoming queen is murdered.",
-      "releaseInfo": "2017",
+      "name": "Broken But Beautiful",
+      "poster": "https://images.metahub.space/poster/small/tt8317568/img",
+      "background": "https://images.metahub.space/background/medium/tt8317568/img",
+      "logo": "https://images.metahub.space/logo/medium/tt8317568/img",
+      "description": "Veer and Sameera, strangers with opposite personalities, are left heartbroken after losing loves they thought would last forever. When fate gives the damaged souls a second chance, a beautiful love story unfolds.",
+      "releaseInfo": "2018–",
       "imdbRating": "8.5"
     },
     {
@@ -529,17 +529,6 @@
       "imdbRating": "8.1"
     },
     {
-      "id": "tt3502172",
-      "type": "series",
-      "name": "Mozart in the Jungle",
-      "poster": "https://images.metahub.space/poster/small/tt3502172/img",
-      "background": "https://images.metahub.space/background/medium/tt3502172/img",
-      "logo": "https://images.metahub.space/logo/medium/tt3502172/img",
-      "description": "Love, money, ambition and music intertwine in \"Mozart in the Jungle;\" a half-hour comedic drama that looks at finding yourself, and finding love, while conquering New York City. Brash new maestro, Rodrigo, stirs up the New York Sy...",
-      "releaseInfo": "2014–2018",
-      "imdbRating": "8.1"
-    },
-    {
       "id": "tt4643084",
       "type": "series",
       "name": "Counterpart",
@@ -548,6 +537,17 @@
       "logo": "https://images.metahub.space/logo/medium/tt4643084/img",
       "description": "A cog in a bureaucratic agency discovers his agency is guarding a crossing to a parallel dimension.",
       "releaseInfo": "2017–2019",
+      "imdbRating": "8.0"
+    },
+    {
+      "id": "tt23649128",
+      "type": "series",
+      "name": "The Studio",
+      "poster": "https://images.metahub.space/poster/small/tt23649128/img",
+      "background": "https://images.metahub.space/background/medium/tt23649128/img",
+      "logo": "https://images.metahub.space/logo/medium/tt23649128/img",
+      "description": "Follows a legacy Hollywood movie studio striving to survive in a world where it is increasingly difficult for art and business to live together.",
+      "releaseInfo": "2025–",
       "imdbRating": "8.0"
     }
   ]
