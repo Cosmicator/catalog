@@ -361,14 +361,14 @@
       "imdbRating": 5.1
     },
     {
-      "id": "tt4746820",
+      "id": "tt8317568",
       "type": "series",
-      "name": "MTV Splitsvilla",
-      "poster": "https://images.metahub.space/poster/medium/tt4746820/img",
-      "background": "https://images.metahub.space/background/medium/tt4746820/img",
-      "description": "Ready to witness the ultimate fight between the rules of science and the laws of love? 10 boys, 10 girls and an Oracle who will decide whether or not a couple makes the perfect match! It's time to 'catch your match', Splitsvilla style!",
-      "releaseInfo": 2008,
-      "imdbRating": 3.8
+      "name": "Broken But Beautiful",
+      "poster": "https://images.metahub.space/poster/medium/tt8317568/img",
+      "background": "https://images.metahub.space/background/medium/tt8317568/img",
+      "description": "Broken is Veer and Sameera's story where their hearts were left broken and damaged after they lost their love. Destiny has brought love in to their lives again, will they give it a second chance?",
+      "releaseInfo": 2018,
+      "imdbRating": 8.5
     },
     {
       "id": "tt11761176",
@@ -391,14 +391,14 @@
       "imdbRating": 8.2
     },
     {
-      "id": "tt9335498",
+      "id": "tt4746820",
       "type": "series",
-      "name": "Kimetsu no Yaiba",
-      "poster": "https://images.metahub.space/poster/medium/tt9335498/img",
-      "background": "https://images.metahub.space/background/medium/tt9335498/img",
-      "description": "A family is attacked by demons and only two members survive - Tanjiro and his sister Nezuko, who is turning into a demon slowly. Tanjiro sets out to become a demon slayer to avenge his family and cure his sister.",
-      "releaseInfo": 2019,
-      "imdbRating": 8.5
+      "name": "MTV Splitsvilla",
+      "poster": "https://images.metahub.space/poster/medium/tt4746820/img",
+      "background": "https://images.metahub.space/background/medium/tt4746820/img",
+      "description": "Ready to witness the ultimate fight between the rules of science and the laws of love? 10 boys, 10 girls and an Oracle who will decide whether or not a couple makes the perfect match! It's time to 'catch your match', Splitsvilla style!",
+      "releaseInfo": 2008,
+      "imdbRating": 3.8
     },
     {
       "id": "tt6111130",
@@ -421,6 +421,36 @@
       "imdbRating": 9
     },
     {
+      "id": "tt9335498",
+      "type": "series",
+      "name": "Kimetsu no Yaiba",
+      "poster": "https://images.metahub.space/poster/medium/tt9335498/img",
+      "background": "https://images.metahub.space/background/medium/tt9335498/img",
+      "description": "A family is attacked by demons and only two members survive - Tanjiro and his sister Nezuko, who is turning into a demon slowly. Tanjiro sets out to become a demon slayer to avenge his family and cure his sister.",
+      "releaseInfo": 2019,
+      "imdbRating": 8.5
+    },
+    {
+      "id": "tt13911628",
+      "type": "series",
+      "name": "Lessons in Chemistry",
+      "poster": "https://images.metahub.space/poster/medium/tt13911628/img",
+      "background": "https://images.metahub.space/background/medium/tt13911628/img",
+      "description": "In the 1950s, Elizabeth Zott's dream of being a scientist is challenged by a society that says women belong in the domestic sphere. She accepts a job on a TV cooking show and sets out to teach a nation of overlooked housewives way more than recipes.",
+      "releaseInfo": 2023,
+      "imdbRating": 8.2
+    },
+    {
+      "id": "tt11905720",
+      "type": "series",
+      "name": "She",
+      "poster": "https://images.metahub.space/poster/medium/tt11905720/img",
+      "background": "https://images.metahub.space/background/medium/tt11905720/img",
+      "description": "An undercover assignment to expose a drug ring becomes a timid Mumbai constable's road to empowerment as she realizes her dormant sexuality's potential.",
+      "releaseInfo": 2020,
+      "imdbRating": 6.4
+    },
+    {
       "id": "tt7768578",
       "type": "series",
       "name": "Crayon Shin-chan",
@@ -439,36 +469,6 @@
       "description": "Howard Silk is a lowly cog in a bureaucratic UN agency who is turning the last corner of a life filled with regret when he discovers the agency he works for is guarding a secret: a crossing to a parallel dimension.",
       "releaseInfo": 2017,
       "imdbRating": 8
-    },
-    {
-      "id": "tt11905720",
-      "type": "series",
-      "name": "She",
-      "poster": "https://images.metahub.space/poster/medium/tt11905720/img",
-      "background": "https://images.metahub.space/background/medium/tt11905720/img",
-      "description": "An undercover assignment to expose a drug ring becomes a timid Mumbai constable's road to empowerment as she realizes her dormant sexuality's potential.",
-      "releaseInfo": 2020,
-      "imdbRating": 6.4
-    },
-    {
-      "id": "tt28077038",
-      "type": "series",
-      "name": "Pritam and Pedro",
-      "poster": "https://images.metahub.space/poster/medium/tt28077038/img",
-      "background": "https://images.metahub.space/background/medium/tt28077038/img",
-      "description": "When a tech-illiterate Goa cop is demoted to the cyber cell, he must team up with a quirky hacker to track down a minister's kidnapped son and win back his old job.",
-      "releaseInfo": 2026,
-      "imdbRating": 7.7
-    },
-    {
-      "id": "tt13911628",
-      "type": "series",
-      "name": "Lessons in Chemistry",
-      "poster": "https://images.metahub.space/poster/medium/tt13911628/img",
-      "background": "https://images.metahub.space/background/medium/tt13911628/img",
-      "description": "In the 1950s, Elizabeth Zott's dream of being a scientist is challenged by a society that says women belong in the domestic sphere. She accepts a job on a TV cooking show and sets out to teach a nation of overlooked housewives way more than recipes.",
-      "releaseInfo": 2023,
-      "imdbRating": 8.2
     },
     {
       "id": "tt2375692",
@@ -491,14 +491,14 @@
       "imdbRating": 7
     },
     {
-      "id": "tt15891812",
+      "id": "tt35495073",
       "type": "series",
-      "name": "Hiccups and Hookups",
-      "poster": "https://images.metahub.space/poster/medium/tt15891812/img",
-      "background": "https://images.metahub.space/background/medium/tt15891812/img",
-      "description": "A recently separated single mother, her commitment-phobic and successful younger brother, and her smart but confused teenaged daughter - all of whom make a sweet, unconventional family of three try their best to handle dating, relationships, and life.",
-      "releaseInfo": 2021,
-      "imdbRating": 7.2
+      "name": "Heated Rivalry",
+      "poster": "https://images.metahub.space/poster/medium/tt35495073/img",
+      "background": "https://images.metahub.space/background/medium/tt35495073/img",
+      "description": "Two of the biggest stars in Major League Hockey are bound by ambition, rivalry, and a magnetic pull neither of them fully understands. What begins as a secret fling between two fresh faced rookies evolves into a years-long journey of love, denial, and self-discovery. Over the next eight years, as they chase glory on the ice, they struggle to navigate their feelings for each other. Torn between the sport they live for and the love they can’t ignore, they must decide if there’s room in their fiercely competitive world for something as fragile – and powerful – as real love.",
+      "releaseInfo": 2025,
+      "imdbRating": 8.7
     }
   ]
 }
