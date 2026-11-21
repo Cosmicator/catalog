@@ -431,6 +431,16 @@
       "imdbRating": 7.3
     },
     {
+      "id": "tt2005151",
+      "type": "movie",
+      "name": "War Dogs",
+      "poster": "https://images.metahub.space/poster/medium/tt2005151/img",
+      "background": "https://images.metahub.space/background/medium/tt2005151/img",
+      "description": "Based on the true story of two young men, David Packouz and Efraim Diveroli, who won a $300 million contract from the Pentagon to arm America's allies in Afghanistan.",
+      "releaseInfo": 2016,
+      "imdbRating": 7.1
+    },
+    {
       "id": "tt2012616",
       "type": "movie",
       "name": "Motor City",
@@ -469,16 +479,6 @@
       "description": "A team of U.S. government agents is sent to investigate the bombing of an American facility in the Middle East.",
       "releaseInfo": 2007,
       "imdbRating": 7
-    },
-    {
-      "id": "tt1291584",
-      "type": "movie",
-      "name": "Warrior",
-      "poster": "https://images.metahub.space/poster/medium/tt1291584/img",
-      "background": "https://images.metahub.space/background/medium/tt1291584/img",
-      "description": "The youngest son of an alcoholic former boxer returns home, where he's trained by his father for competition in a mixed martial arts tournament – a path that puts the fighter on a collision course with his estranged, older brother.",
-      "releaseInfo": 2011,
-      "imdbRating": 8.1
     },
     {
       "id": "tt33029349",
