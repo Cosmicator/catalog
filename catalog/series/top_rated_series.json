@@ -188,17 +188,6 @@
       "imdbRating": "8.5"
     },
     {
-      "id": "tt11854694",
-      "type": "series",
-      "name": "Special OPS",
-      "poster": "https://images.metahub.space/poster/small/tt11854694/img",
-      "background": "https://images.metahub.space/background/medium/tt11854694/img",
-      "logo": "https://images.metahub.space/logo/medium/tt11854694/img",
-      "description": "A relentless hero and a terror mastermind are engaged in a high-stakes race against time, as Himmat Singh and his team embark on a mission to end a 19-year-long manhunt.",
-      "releaseInfo": "2020–2025",
-      "imdbRating": "8.5"
-    },
-    {
       "id": "tt8317568",
       "type": "series",
       "name": "Broken But Beautiful",
@@ -229,6 +218,17 @@
       "logo": "https://images.metahub.space/logo/medium/tt9335498/img",
       "description": "A family is attacked by demons and only two members survive - Tanjiro and his sister Nezuko, who is turning into a demon slowly. Tanjiro sets out to become a demon slayer to avenge his family and cure his sister.",
       "releaseInfo": "2019–2024",
+      "imdbRating": "8.5"
+    },
+    {
+      "id": "tt4093826",
+      "type": "series",
+      "name": "Twin Peaks",
+      "poster": "https://images.metahub.space/poster/small/tt4093826/img",
+      "background": "https://images.metahub.space/background/medium/tt4093826/img",
+      "logo": "https://images.metahub.space/logo/medium/tt4093826/img",
+      "description": "Picks up 25 years after the inhabitants of a quaint northwestern town are stunned when their homecoming queen is murdered.",
+      "releaseInfo": "2017",
       "imdbRating": "8.5"
     },
     {
@@ -342,17 +342,6 @@
       "imdbRating": "8.2"
     },
     {
-      "id": "tt6468322",
-      "type": "series",
-      "name": "Money Heist",
-      "poster": "https://live.metahub.space/poster/small/tt6468322/img",
-      "background": "https://live.metahub.space/background/medium/tt6468322/img",
-      "logo": "https://live.metahub.space/logo/medium/tt6468322/img",
-      "description": "To carry out the biggest heist in history, a mysterious man called The Professor recruits a band of eight robbers who have a single characteristic: none of them has anything to lose. Five months of seclusion - memorizing every step, every detail, every probability - culminate in eleven days locked up in the National Coinage and Stamp Factory of Spain, surrounded by police forces and with dozens of hostages in their power, to find out whether their suicide wager will lead to everything or nothing.",
-      "releaseInfo": "2017–2021",
-      "imdbRating": "8.2"
-    },
-    {
       "id": "tt13911628",
       "type": "series",
       "name": "Lessons in Chemistry",
@@ -361,6 +350,17 @@
       "logo": "https://images.metahub.space/logo/medium/tt13911628/img",
       "description": "In the 1950s, Elizabeth Zott's dream of being a scientist is challenged by a society that says women belong in the domestic sphere; she accepts a job on a TV cooking show and sets out to teach a nation of housewives way more than ...",
       "releaseInfo": "2023",
+      "imdbRating": "8.2"
+    },
+    {
+      "id": "tt6468322",
+      "type": "series",
+      "name": "Money Heist",
+      "poster": "https://live.metahub.space/poster/small/tt6468322/img",
+      "background": "https://live.metahub.space/background/medium/tt6468322/img",
+      "logo": "https://live.metahub.space/logo/medium/tt6468322/img",
+      "description": "To carry out the biggest heist in history, a mysterious man called The Professor recruits a band of eight robbers who have a single characteristic: none of them has anything to lose. Five months of seclusion - memorizing every step, every detail, every probability - culminate in eleven days locked up in the National Coinage and Stamp Factory of Spain, surrounded by police forces and with dozens of hostages in their power, to find out whether their suicide wager will lead to everything or nothing.",
+      "releaseInfo": "2017–2021",
       "imdbRating": "8.2"
     },
     {
@@ -474,17 +474,6 @@
       "imdbRating": "8.1"
     },
     {
-      "id": "tt7772588",
-      "type": "series",
-      "name": "For All Mankind",
-      "poster": "https://images.metahub.space/poster/small/tt7772588/img",
-      "background": "https://images.metahub.space/background/medium/tt7772588/img",
-      "logo": "https://images.metahub.space/logo/medium/tt7772588/img",
-      "description": "In an alternative version of 1969, the Soviet Union beats the United States to the Moon, and the space race continues on for decades with still grander challenges and goals.",
-      "releaseInfo": "2019–2027",
-      "imdbRating": "8.1"
-    },
-    {
       "id": "tt24053860",
       "type": "series",
       "name": "The Day of the Jackal",
@@ -493,6 +482,17 @@
       "logo": "https://images.metahub.space/logo/medium/tt24053860/img",
       "description": "The Jackal is an elusive assassin who makes his living carrying out hits for the highest fee. He soon meets his match in a tenacious British intelligence officer who tracks him down in a thrilling cat-and-mouse chase across Europe.",
       "releaseInfo": "2024–",
+      "imdbRating": "8.1"
+    },
+    {
+      "id": "tt7772588",
+      "type": "series",
+      "name": "For All Mankind",
+      "poster": "https://images.metahub.space/poster/small/tt7772588/img",
+      "background": "https://images.metahub.space/background/medium/tt7772588/img",
+      "logo": "https://images.metahub.space/logo/medium/tt7772588/img",
+      "description": "In an alternative version of 1969, the Soviet Union beats the United States to the Moon, and the space race continues on for decades with still grander challenges and goals.",
+      "releaseInfo": "2019–2027",
       "imdbRating": "8.1"
     },
     {
