@@ -1,16 +1,6 @@
 {
   "metas": [
     {
-      "id": "tt1281973",
-      "type": "series",
-      "name": "Bigg Boss",
-      "poster": "https://images.metahub.space/poster/medium/tt1281973/img",
-      "background": "https://images.metahub.space/background/medium/tt1281973/img",
-      "description": "Isolated from the outside world, the contestants live together in a house under the live cameras that monitor their every move. They perform various tasks and avoid eviction to be declared a winner.",
-      "releaseInfo": 2006,
-      "imdbRating": 3.6
-    },
-    {
       "id": "tt14650074",
       "type": "series",
       "name": "Dhindora",
@@ -21,6 +11,16 @@
       "imdbRating": 8.7
     },
     {
+      "id": "tt1281973",
+      "type": "series",
+      "name": "Bigg Boss",
+      "poster": "https://images.metahub.space/poster/medium/tt1281973/img",
+      "background": "https://images.metahub.space/background/medium/tt1281973/img",
+      "description": "Isolated from the outside world, the contestants live together in a house under the live cameras that monitor their every move. They perform various tasks and avoid eviction to be declared a winner.",
+      "releaseInfo": 2006,
+      "imdbRating": 3.6
+    },
+    {
       "id": "tt15295490",
       "type": "series",
       "name": "Campus Diaries",
@@ -29,16 +29,6 @@
       "description": "Campus Diaries is a coming-of-age drama of six students at Excel University. But this one is so-not-your-regular-college-drama because it goes beyond the routine frolic and friendship plots that quintessential youth dramas portray and tackles relevant yet lesser discussed issues like ragging, discrimination based on societal biases, one sided love stories, rampant drug abuse and toxic relationships that mould your personality and ready you to face the real world.",
       "releaseInfo": 2022,
       "imdbRating": 8.6
-    },
-    {
-      "id": "tt33094114",
-      "type": "series",
-      "name": "India's Got Latent",
-      "poster": "https://images.metahub.space/poster/medium/tt33094114/img",
-      "background": "https://images.metahub.space/background/medium/tt33094114/img",
-      "description": "India's Got Latent is an Indian Hindi comedy talent show hosted by Samay Raina on YouTube. Inspired by the international Got Talent franchise and Kill Tony, it features a wide variety of acts including singing, dancing, magic, and comedy.",
-      "releaseInfo": 2024,
-      "imdbRating": 8.8
     },
     {
       "id": "tt1196946",
@@ -61,23 +51,13 @@
       "imdbRating": 6.8
     },
     {
-      "id": "tt32375763",
+      "id": "tt20873118",
       "type": "series",
-      "name": "12 12 12",
-      "poster": "https://images.metahub.space/poster/medium/tt32375763/img",
-      "background": "https://images.metahub.space/background/medium/tt32375763/img",
-      "description": "Three intertwined timelines follow the planning and execution of a daring heist in Zurich and its aftermath as an FBI agent pursues a master criminal across Europe.",
-      "releaseInfo": 2026,
-      "imdbRating": 5.7
-    },
-    {
-      "id": "tt45246384",
-      "type": "series",
-      "name": "Love in Disguise",
-      "poster": "https://images.metahub.space/poster/medium/tt45246384/img",
-      "background": "https://images.metahub.space/background/medium/tt45246384/img",
-      "description": "Taekang Group's successor, Yoon Yi-jun, is the prime suspect of a shocking murder. To uncover the truth, Kang Jae-hee goes undercover as a male secretary to keep an eye on Yi-jun. The closer they get to what really happened, the closer Yi-jun and Jae-hee become. Will Jae-hee, who is hiding her identity, and Yi-jun, who is hiding a secret, be able to let their true feelings be known to one another?",
-      "releaseInfo": 2026,
+      "name": "Suzhal - The Vortex",
+      "poster": "https://images.metahub.space/poster/medium/tt20873118/img",
+      "background": "https://images.metahub.space/background/medium/tt20873118/img",
+      "description": "A minor girl goes missing in a small town in Tamilnadu and an investigation follows. A sub inspector investigating a missing girl's case in a uncovers some shocking revelations and dirty truths those threaten to shake up the cultural societal fabric.",
+      "releaseInfo": 2022,
       "imdbRating": 8.1
     },
     {
@@ -91,34 +71,34 @@
       "imdbRating": 7.5
     },
     {
-      "id": "tt20873118",
+      "id": "tt45246384",
       "type": "series",
-      "name": "Suzhal - The Vortex",
-      "poster": "https://images.metahub.space/poster/medium/tt20873118/img",
-      "background": "https://images.metahub.space/background/medium/tt20873118/img",
-      "description": "A minor girl goes missing in a small town in Tamilnadu and an investigation follows. A sub inspector investigating a missing girl's case in a uncovers some shocking revelations and dirty truths those threaten to shake up the cultural societal fabric.",
-      "releaseInfo": 2022,
+      "name": "Love in Disguise",
+      "poster": "https://images.metahub.space/poster/medium/tt45246384/img",
+      "background": "https://images.metahub.space/background/medium/tt45246384/img",
+      "description": "Taekang Group's successor, Yoon Yi-jun, is the prime suspect of a shocking murder. To uncover the truth, Kang Jae-hee goes undercover as a male secretary to keep an eye on Yi-jun. The closer they get to what really happened, the closer Yi-jun and Jae-hee become. Will Jae-hee, who is hiding her identity, and Yi-jun, who is hiding a secret, be able to let their true feelings be known to one another?",
+      "releaseInfo": 2026,
       "imdbRating": 8.1
     },
     {
-      "id": "tt33546863",
+      "id": "tt32375763",
       "type": "series",
-      "name": "Off Campus",
-      "poster": "https://images.metahub.space/poster/medium/tt33546863/img",
-      "background": "https://images.metahub.space/background/medium/tt33546863/img",
-      "description": "A college-set romantic drama chronicling the unexpected love story between a music student and the university's star hockey player, exploring themes of love and the complexities of adulthood through deep friendships and enduring bonds.",
+      "name": "12 12 12",
+      "poster": "https://images.metahub.space/poster/medium/tt32375763/img",
+      "background": "https://images.metahub.space/background/medium/tt32375763/img",
+      "description": "Three intertwined timelines follow the planning and execution of a daring heist in Zurich and its aftermath as an FBI agent pursues a master criminal across Europe.",
       "releaseInfo": 2026,
-      "imdbRating": 7.8
+      "imdbRating": 5.7
     },
     {
-      "id": "tt27485777",
+      "id": "tt33094114",
       "type": "series",
-      "name": "Erotic Stories",
-      "poster": "https://images.metahub.space/poster/medium/tt27485777/img",
-      "background": "https://images.metahub.space/background/medium/tt27485777/img",
-      "description": "Erotic Stories is a bold and transgressive anthology series exploring sex and intimacy amongst diverse characters not traditionally seen as sexual leads.",
-      "releaseInfo": 2023,
-      "imdbRating": 5.2
+      "name": "India's Got Latent",
+      "poster": "https://images.metahub.space/poster/medium/tt33094114/img",
+      "background": "https://images.metahub.space/background/medium/tt33094114/img",
+      "description": "India's Got Latent is an Indian Hindi comedy talent show hosted by Samay Raina on YouTube. Inspired by the international Got Talent franchise and Kill Tony, it features a wide variety of acts including singing, dancing, magic, and comedy.",
+      "releaseInfo": 2024,
+      "imdbRating": 8.8
     },
     {
       "id": "tt9813792",
@@ -131,14 +111,34 @@
       "imdbRating": 7.7
     },
     {
-      "id": "tt6473300",
+      "id": "tt33546863",
       "type": "series",
-      "name": "Mirzapur",
-      "poster": "https://images.metahub.space/poster/medium/tt6473300/img",
-      "background": "https://images.metahub.space/background/medium/tt6473300/img",
-      "description": "The iron-fisted Akhandanand Tripathi is a millionaire carpet exporter and the mafia don of Mirzapur. His son, Munna, is an unworthy, power-hungry heir who will stop at nothing to inherit his father's legacy. An incident at a wedding procession forces him to cross paths with Ramakant Pandit, an upstanding lawyer, and his sons, Guddu and Bablu. It snowballs into a game of ambition, power and greed that threatens the fabric of this lawless city.",
-      "releaseInfo": 2018,
-      "imdbRating": 8.4
+      "name": "Off Campus",
+      "poster": "https://images.metahub.space/poster/medium/tt33546863/img",
+      "background": "https://images.metahub.space/background/medium/tt33546863/img",
+      "description": "A college-set romantic drama chronicling the unexpected love story between a music student and the university's star hockey player, exploring themes of love and the complexities of adulthood through deep friendships and enduring bonds.",
+      "releaseInfo": 2026,
+      "imdbRating": 7.8
+    },
+    {
+      "id": "tt31510819",
+      "type": "series",
+      "name": "MobLand",
+      "poster": "https://images.metahub.space/poster/medium/tt31510819/img",
+      "background": "https://images.metahub.space/background/medium/tt31510819/img",
+      "description": "Two mob families clash in a war that threatens to topple empires and lives.",
+      "releaseInfo": 2025,
+      "imdbRating": 8.3
+    },
+    {
+      "id": "tt27485777",
+      "type": "series",
+      "name": "Erotic Stories",
+      "poster": "https://images.metahub.space/poster/medium/tt27485777/img",
+      "background": "https://images.metahub.space/background/medium/tt27485777/img",
+      "description": "Erotic Stories is a bold and transgressive anthology series exploring sex and intimacy amongst diverse characters not traditionally seen as sexual leads.",
+      "releaseInfo": 2023,
+      "imdbRating": 5.2
     },
     {
       "id": "tt47021035",
@@ -151,6 +151,16 @@
       "imdbRating": 7.4
     },
     {
+      "id": "tt6468322",
+      "type": "series",
+      "name": "Money Heist",
+      "poster": "https://images.metahub.space/poster/medium/tt6468322/img",
+      "background": "https://images.metahub.space/background/medium/tt6468322/img",
+      "description": "To carry out the biggest heist in history, a mysterious man called The Professor recruits a band of eight robbers who have a single characteristic: none of them has anything to lose. Five months of seclusion - memorizing every step, every detail, every probability - culminate in eleven days locked up in the National Coinage and Stamp Factory of Spain, surrounded by police forces and with dozens of hostages in their power, to find out whether their suicide wager will lead to everything or nothing.",
+      "releaseInfo": 2017,
+      "imdbRating": 8.2
+    },
+    {
       "id": "tt5622316",
       "type": "series",
       "name": "The Chosen",
@@ -159,16 +169,6 @@
       "description": "The life of Christ through the eyes of those who encountered him.",
       "releaseInfo": 2019,
       "imdbRating": 9.1
-    },
-    {
-      "id": "tt10802170",
-      "type": "series",
-      "name": "The Rehearsal",
-      "poster": "https://images.metahub.space/poster/medium/tt10802170/img",
-      "background": "https://images.metahub.space/background/medium/tt10802170/img",
-      "description": "Nathan Fielder gives people a chance to rehearse for their own lives in a world where nothing ever works out as expected.",
-      "releaseInfo": 2022,
-      "imdbRating": 8.5
     },
     {
       "id": "tt39161219",
@@ -181,34 +181,14 @@
       "imdbRating": 5.1
     },
     {
-      "id": "tt6468322",
+      "id": "tt6473300",
       "type": "series",
-      "name": "Money Heist",
-      "poster": "https://images.metahub.space/poster/medium/tt6468322/img",
-      "background": "https://images.metahub.space/background/medium/tt6468322/img",
-      "description": "To carry out the biggest heist in history, a mysterious man called The Professor recruits a band of eight robbers who have a single characteristic: none of them has anything to lose. Five months of seclusion - memorizing every step, every detail, every probability - culminate in eleven days locked up in the National Coinage and Stamp Factory of Spain, surrounded by police forces and with dozens of hostages in their power, to find out whether their suicide wager will lead to everything or nothing.",
-      "releaseInfo": 2017,
-      "imdbRating": 8.2
-    },
-    {
-      "id": "tt43636966",
-      "type": "series",
-      "name": "Lo Chudail Chali Sasural",
-      "poster": "https://images.metahub.space/poster/medium/tt43636966/img",
-      "background": "https://images.metahub.space/background/medium/tt43636966/img",
-      "description": "Witch Urvashi gives up her magic for love to marry Aarav, a human. But her normal life becomes tough, and when mishaps happen, she secretly uses her powers to fix them; eventually, her magic backfires, causing hilarious everyday chaos.",
-      "releaseInfo": 2026,
-      "imdbRating": 8.6
-    },
-    {
-      "id": "tt33043892",
-      "type": "series",
-      "name": "Dexter: Resurrection",
-      "poster": "https://images.metahub.space/poster/medium/tt33043892/img",
-      "background": "https://images.metahub.space/background/medium/tt33043892/img",
-      "description": "Set 10 weeks after Dexter: New Blood, Dexter Morgan chases a missing Harrison to New York City, where Captain Angel Batista is hot on their trail from way down in Miami.",
-      "releaseInfo": 2025,
-      "imdbRating": 9
+      "name": "Mirzapur",
+      "poster": "https://images.metahub.space/poster/medium/tt6473300/img",
+      "background": "https://images.metahub.space/background/medium/tt6473300/img",
+      "description": "The iron-fisted Akhandanand Tripathi is a millionaire carpet exporter and the mafia don of Mirzapur. His son, Munna, is an unworthy, power-hungry heir who will stop at nothing to inherit his father's legacy. An incident at a wedding procession forces him to cross paths with Ramakant Pandit, an upstanding lawyer, and his sons, Guddu and Bablu. It snowballs into a game of ambition, power and greed that threatens the fabric of this lawless city.",
+      "releaseInfo": 2018,
+      "imdbRating": 8.4
     },
     {
       "id": "tt11905720",
@@ -221,16 +201,6 @@
       "imdbRating": 6.4
     },
     {
-      "id": "tt40197357",
-      "type": "series",
-      "name": "Scrubs",
-      "poster": "https://images.metahub.space/poster/medium/tt40197357/img",
-      "background": "https://images.metahub.space/background/medium/tt40197357/img",
-      "description": "J.D. & Turk scrub in together for the first time in a long time–medicine has changed, interns have changed, but their bromance has stood the test of time. Characters new and old navigate the waters of Sacred Heart with laughter, heart and some surprises along the way.",
-      "releaseInfo": 2026,
-      "imdbRating": 8.2
-    },
-    {
       "id": "tt9140554",
       "type": "series",
       "name": "Loki",
@@ -241,54 +211,24 @@
       "imdbRating": 8.2
     },
     {
-      "id": "tt2375692",
+      "id": "tt10802170",
       "type": "series",
-      "name": "Black Sails",
-      "poster": "https://images.metahub.space/poster/medium/tt2375692/img",
-      "background": "https://images.metahub.space/background/medium/tt2375692/img",
-      "description": "The pirate adventures of Captain Flint and his men twenty years prior to Robert Louis Stevenson’s classic “Treasure Island.” Flint, the most brilliant and most feared pirate captain of his day, takes on a fast-talking young addition to his crew who goes by the name John Silver. Threatened with extinction on all sides, they fight for the survival of New Providence Island, the most notorious criminal haven of its day – a debauched paradise teeming with pirates, prostitutes, thieves and fortune seekers, a place defined by both its enlightened ideals and its stunning brutality.",
-      "releaseInfo": 2014,
-      "imdbRating": 8.2
-    },
-    {
-      "id": "tt44079238",
-      "type": "series",
-      "name": "The Law of Beasts",
-      "poster": "https://images.metahub.space/poster/medium/tt44079238/img",
-      "background": "https://images.metahub.space/background/medium/tt44079238/img",
-      "description": "When the case of a child serial killer resurfaces after 25 years as an unresolved legal and social problem, two former friends are forced to confront the choices that broke their friendship and shaped their lives.",
-      "releaseInfo": 2026,
-      "imdbRating": 6
-    },
-    {
-      "id": "tt2261391",
-      "type": "series",
-      "name": "Chicago Fire",
-      "poster": "https://images.metahub.space/poster/medium/tt2261391/img",
-      "background": "https://images.metahub.space/background/medium/tt2261391/img",
-      "description": "An edge-of-your-seat view into the lives of everyday heroes committed to one of America's noblest professions. For the firefighters, rescue squad and paramedics of Chicago Firehouse 51, no occupation is more stressful or dangerous, yet so rewarding and exhilarating. These courageous men and women are among the elite who forge headfirst into danger when everyone else is running the other way and whose actions make the difference between life and death.",
-      "releaseInfo": 2012,
-      "imdbRating": 8
-    },
-    {
-      "id": "tt6077448",
-      "type": "series",
-      "name": "Sacred Games",
-      "poster": "https://images.metahub.space/poster/medium/tt6077448/img",
-      "background": "https://images.metahub.space/background/medium/tt6077448/img",
-      "description": "A link in their pasts leads an honest cop to a fugitive gang boss, whose cryptic warning spurs the officer on a quest to save Mumbai from cataclysm.",
-      "releaseInfo": 2018,
+      "name": "The Rehearsal",
+      "poster": "https://images.metahub.space/poster/medium/tt10802170/img",
+      "background": "https://images.metahub.space/background/medium/tt10802170/img",
+      "description": "Nathan Fielder gives people a chance to rehearse for their own lives in a world where nothing ever works out as expected.",
+      "releaseInfo": 2022,
       "imdbRating": 8.5
     },
     {
-      "id": "tt17543592",
+      "id": "tt43636966",
       "type": "series",
-      "name": "Will Trent",
-      "poster": "https://images.metahub.space/poster/medium/tt17543592/img",
-      "background": "https://images.metahub.space/background/medium/tt17543592/img",
-      "description": "Special Agent Will Trent was abandoned at birth and endured a harsh coming-of-age in Atlanta's overwhelmed foster-care system. Determined to make sure that nobody else feels as he did, he now has the highest clearance rate.",
-      "releaseInfo": 2023,
-      "imdbRating": 7.7
+      "name": "Lo Chudail Chali Sasural",
+      "poster": "https://images.metahub.space/poster/medium/tt43636966/img",
+      "background": "https://images.metahub.space/background/medium/tt43636966/img",
+      "description": "Witch Urvashi gives up her magic for love to marry Aarav, a human. But her normal life becomes tough, and when mishaps happen, she secretly uses her powers to fix them; eventually, her magic backfires, causing hilarious everyday chaos.",
+      "releaseInfo": 2026,
+      "imdbRating": 8.6
     },
     {
       "id": "tt1442449",
@@ -301,14 +241,94 @@
       "imdbRating": 8.4
     },
     {
-      "id": "tt11854694",
+      "id": "tt12324366",
       "type": "series",
-      "name": "Special Ops",
-      "poster": "https://images.metahub.space/poster/medium/tt11854694/img",
-      "background": "https://images.metahub.space/background/medium/tt11854694/img",
-      "description": "The series follows Himmat Singh of Research and Analysis Wing who draws similar patterns in terrorist attacks and is convinced a single person is behind all the attacks. His task force team of five agents living in various parts of the world aim to catch the mastermind. The story is based on an inspiration taken from nineteen years worth of national significant events.",
-      "releaseInfo": 2020,
+      "name": "Percy Jackson and the Olympians",
+      "poster": "https://images.metahub.space/poster/medium/tt12324366/img",
+      "background": "https://images.metahub.space/background/medium/tt12324366/img",
+      "description": "Percy Jackson is on a dangerous quest. Outrunning monsters and outwitting gods, he must journey across America to return Zeus's master bolt and stop an all-out war. With the help of his friends Annabeth and Grover, Percy's journey will lead him closer to the answers he seeks: how to fit into a world where he feels out of place, and who he's destined to be.",
+      "releaseInfo": 2023,
+      "imdbRating": 7
+    },
+    {
+      "id": "tt44079238",
+      "type": "series",
+      "name": "The Law of Beasts",
+      "poster": "https://images.metahub.space/poster/medium/tt44079238/img",
+      "background": "https://images.metahub.space/background/medium/tt44079238/img",
+      "description": "When the case of a child serial killer resurfaces after 25 years as an unresolved legal and social problem, two former friends are forced to confront the choices that broke their friendship and shaped their lives.",
+      "releaseInfo": 2026,
+      "imdbRating": 6
+    },
+    {
+      "id": "tt2375692",
+      "type": "series",
+      "name": "Black Sails",
+      "poster": "https://images.metahub.space/poster/medium/tt2375692/img",
+      "background": "https://images.metahub.space/background/medium/tt2375692/img",
+      "description": "The pirate adventures of Captain Flint and his men twenty years prior to Robert Louis Stevenson’s classic “Treasure Island.” Flint, the most brilliant and most feared pirate captain of his day, takes on a fast-talking young addition to his crew who goes by the name John Silver. Threatened with extinction on all sides, they fight for the survival of New Providence Island, the most notorious criminal haven of its day – a debauched paradise teeming with pirates, prostitutes, thieves and fortune seekers, a place defined by both its enlightened ideals and its stunning brutality.",
+      "releaseInfo": 2014,
+      "imdbRating": 8.2
+    },
+    {
+      "id": "tt40197357",
+      "type": "series",
+      "name": "Scrubs",
+      "poster": "https://images.metahub.space/poster/medium/tt40197357/img",
+      "background": "https://images.metahub.space/background/medium/tt40197357/img",
+      "description": "J.D. & Turk scrub in together for the first time in a long time–medicine has changed, interns have changed, but their bromance has stood the test of time. Characters new and old navigate the waters of Sacred Heart with laughter, heart and some surprises along the way.",
+      "releaseInfo": 2026,
+      "imdbRating": 8.2
+    },
+    {
+      "id": "tt0388629",
+      "type": "series",
+      "name": "One Piece",
+      "poster": "https://images.metahub.space/poster/medium/tt0388629/img",
+      "background": "https://images.metahub.space/background/medium/tt0388629/img",
+      "description": "Years ago, the fearsome Pirate King, Gol D. Roger was executed leaving a huge pile of treasure and the famous \"One Piece\" behind. Whoever claims the \"One Piece\" will be named the new King of the Pirates.\n\nMonkey D. Luffy, a boy who consumed a \"Devil Fruit,\" decides to follow in the footsteps of his idol, the pirate Shanks, and find the One Piece. It helps, of course, that his body has the properties of rubber and that he's surrounded by a bevy of skilled fighters and thieves to help him along the way.\n\nLuffy will do anything to get the One Piece and become King of the Pirates!",
+      "releaseInfo": 1999,
+      "imdbRating": 9
+    },
+    {
+      "id": "tt38336631",
+      "type": "series",
+      "name": "The Blue Road",
+      "poster": "https://images.metahub.space/poster/medium/tt38336631/img",
+      "background": "https://images.metahub.space/background/medium/tt38336631/img",
+      "description": "Two detectives join forces when brutal murders and cryptic messages surface across borders — but the deadly truth lurks dangerously close.",
+      "releaseInfo": 2026,
+      "imdbRating": 8.2
+    },
+    {
+      "id": "tt41559886",
+      "type": "series",
+      "name": "Gordon",
+      "poster": "https://images.metahub.space/poster/medium/tt41559886/img",
+      "background": "https://images.metahub.space/background/medium/tt41559886/img",
+      "description": "A former car thief moves with his wife and infant son to a new home, presenting himself as a gentleman businessman while secretly leading a gang in robberies and building hidden passageways to spy on his own family.",
+      "releaseInfo": 2026,
+      "imdbRating": 6.9
+    },
+    {
+      "id": "tt6077448",
+      "type": "series",
+      "name": "Sacred Games",
+      "poster": "https://images.metahub.space/poster/medium/tt6077448/img",
+      "background": "https://images.metahub.space/background/medium/tt6077448/img",
+      "description": "A link in their pasts leads an honest cop to a fugitive gang boss, whose cryptic warning spurs the officer on a quest to save Mumbai from cataclysm.",
+      "releaseInfo": 2018,
       "imdbRating": 8.5
+    },
+    {
+      "id": "tt31589662",
+      "type": "series",
+      "name": "Georgie & Mandy's First Marriage",
+      "poster": "https://images.metahub.space/poster/medium/tt31589662/img",
+      "background": "https://images.metahub.space/background/medium/tt31589662/img",
+      "description": "Georgie and Mandy raise their young family in Texas while navigating the challenges of adulthood, parenting, and marriage.",
+      "releaseInfo": 2024,
+      "imdbRating": 7.1
     },
     {
       "id": "tt29921437",
@@ -321,33 +341,23 @@
       "imdbRating": 6.6
     },
     {
-      "id": "tt14688458",
+      "id": "tt5753856",
       "type": "series",
-      "name": "Silo",
-      "poster": "https://images.metahub.space/poster/medium/tt14688458/img",
-      "background": "https://images.metahub.space/background/medium/tt14688458/img",
-      "description": "Men and women live in a giant silo underground with several regulations which they believe are in place to protect them from the toxic and ruined world on the surface.",
-      "releaseInfo": 2023,
-      "imdbRating": 8.1
+      "name": "Dark",
+      "poster": "https://images.metahub.space/poster/medium/tt5753856/img",
+      "background": "https://images.metahub.space/background/medium/tt5753856/img",
+      "description": "A missing child sets four families on a frantic hunt for answers as they unearth a mind-bending mystery that spans three generations.",
+      "releaseInfo": 2017,
+      "imdbRating": 8.7
     },
     {
-      "id": "tt12343534",
+      "id": "tt11854694",
       "type": "series",
-      "name": "Jujutsu Kaisen",
-      "poster": "https://images.metahub.space/poster/medium/tt12343534/img",
-      "background": "https://images.metahub.space/background/medium/tt12343534/img",
-      "description": "A boy swallows a cursed talisman - the finger of a demon - and becomes cursed himself. He enters a shaman's school to be able to locate the demon's other body parts and thus exorcise himself.",
+      "name": "Special Ops",
+      "poster": "https://images.metahub.space/poster/medium/tt11854694/img",
+      "background": "https://images.metahub.space/background/medium/tt11854694/img",
+      "description": "The series follows Himmat Singh of Research and Analysis Wing who draws similar patterns in terrorist attacks and is convinced a single person is behind all the attacks. His task force team of five agents living in various parts of the world aim to catch the mastermind. The story is based on an inspiration taken from nineteen years worth of national significant events.",
       "releaseInfo": 2020,
-      "imdbRating": 8.5
-    },
-    {
-      "id": "tt8317568",
-      "type": "series",
-      "name": "Broken But Beautiful",
-      "poster": "https://images.metahub.space/poster/medium/tt8317568/img",
-      "background": "https://images.metahub.space/background/medium/tt8317568/img",
-      "description": "Broken is Veer and Sameera's story where their hearts were left broken and damaged after they lost their love. Destiny has brought love in to their lives again, will they give it a second chance?",
-      "releaseInfo": 2018,
       "imdbRating": 8.5
     },
     {
@@ -361,44 +371,14 @@
       "imdbRating": 3.8
     },
     {
-      "id": "tt9335498",
+      "id": "tt8317568",
       "type": "series",
-      "name": "Kimetsu no Yaiba",
-      "poster": "https://images.metahub.space/poster/medium/tt9335498/img",
-      "background": "https://images.metahub.space/background/medium/tt9335498/img",
-      "description": "A family is attacked by demons and only two members survive - Tanjiro and his sister Nezuko, who is turning into a demon slowly. Tanjiro sets out to become a demon slayer to avenge his family and cure his sister.",
-      "releaseInfo": 2019,
+      "name": "Broken But Beautiful",
+      "poster": "https://images.metahub.space/poster/medium/tt8317568/img",
+      "background": "https://images.metahub.space/background/medium/tt8317568/img",
+      "description": "Broken is Veer and Sameera's story where their hearts were left broken and damaged after they lost their love. Destiny has brought love in to their lives again, will they give it a second chance?",
+      "releaseInfo": 2018,
       "imdbRating": 8.5
-    },
-    {
-      "id": "tt41559886",
-      "type": "series",
-      "name": "Gordon",
-      "poster": "https://images.metahub.space/poster/medium/tt41559886/img",
-      "background": "https://images.metahub.space/background/medium/tt41559886/img",
-      "description": "A former car thief moves with his wife and infant son to a new home, presenting himself as a gentleman businessman while secretly leading a gang in robberies and building hidden passageways to spy on his own family.",
-      "releaseInfo": 2026,
-      "imdbRating": 6.9
-    },
-    {
-      "id": "tt7768578",
-      "type": "series",
-      "name": "Crayon Shin-chan",
-      "poster": "https://images.metahub.space/poster/medium/tt7768578/img",
-      "background": "https://images.metahub.space/background/medium/tt7768578/img",
-      "description": "Shin-chan, the boy next door, is a walking disaster, creating chaos wherever he goes. With the body of a child and the mind of an adult, Shinchan is wreaking more havoc than any child before. Shin-chan is carefree, optimistic and gets excited about everything. This 5 year-old likes to do things his way.",
-      "releaseInfo": 1992,
-      "imdbRating": 8.4
-    },
-    {
-      "id": "tt13016388",
-      "type": "series",
-      "name": "3 Body Problem",
-      "poster": "https://images.metahub.space/poster/medium/tt13016388/img",
-      "background": "https://images.metahub.space/background/medium/tt13016388/img",
-      "description": "Across continents and decades, five brilliant friends make earth-shattering discoveries as the laws of science unravel and an existential threat emerges.",
-      "releaseInfo": 2024,
-      "imdbRating": 7.5
     },
     {
       "id": "tt14169960",
@@ -411,94 +391,114 @@
       "imdbRating": 7.6
     },
     {
-      "id": "tt12324366",
+      "id": "tt13016388",
       "type": "series",
-      "name": "Percy Jackson and the Olympians",
-      "poster": "https://images.metahub.space/poster/medium/tt12324366/img",
-      "background": "https://images.metahub.space/background/medium/tt12324366/img",
-      "description": "Percy Jackson is on a dangerous quest. Outrunning monsters and outwitting gods, he must journey across America to return Zeus's master bolt and stop an all-out war. With the help of his friends Annabeth and Grover, Percy's journey will lead him closer to the answers he seeks: how to fit into a world where he feels out of place, and who he's destined to be.",
-      "releaseInfo": 2023,
-      "imdbRating": 7
-    },
-    {
-      "id": "tt35934755",
-      "type": "series",
-      "name": "Below",
-      "poster": "https://images.metahub.space/poster/medium/tt35934755/img",
-      "background": "https://images.metahub.space/background/medium/tt35934755/img",
-      "description": "When a mysterious sea creature terrorizes a remote town, a fisherman must fight to protect his family, his community, and his way of life.",
-      "releaseInfo": 2026,
-      "imdbRating": 6.2
-    },
-    {
-      "id": "tt35949226",
-      "type": "series",
-      "name": "Youth",
-      "poster": "https://images.metahub.space/poster/medium/tt35949226/img",
-      "background": "https://images.metahub.space/background/medium/tt35949226/img",
-      "description": "A 50-year-old divorcee juggles dating life while taking care of her parents and adult son.",
-      "releaseInfo": 2026,
-      "imdbRating": 6.8
-    },
-    {
-      "id": "tt1405406",
-      "type": "series",
-      "name": "The Vampire Diaries",
-      "poster": "https://images.metahub.space/poster/medium/tt1405406/img",
-      "background": "https://images.metahub.space/background/medium/tt1405406/img",
-      "description": "The story of two vampire brothers obsessed with the same girl, who bears a striking resemblance to the beautiful but ruthless vampire they knew and loved in 1864.",
-      "releaseInfo": 2009,
-      "imdbRating": 7.7
-    },
-    {
-      "id": "tt31510819",
-      "type": "series",
-      "name": "MobLand",
-      "poster": "https://images.metahub.space/poster/medium/tt31510819/img",
-      "background": "https://images.metahub.space/background/medium/tt31510819/img",
-      "description": "Two mob families clash in a war that threatens to topple empires and lives.",
-      "releaseInfo": 2025,
-      "imdbRating": 8.3
-    },
-    {
-      "id": "tt0388629",
-      "type": "series",
-      "name": "One Piece",
-      "poster": "https://images.metahub.space/poster/medium/tt0388629/img",
-      "background": "https://images.metahub.space/background/medium/tt0388629/img",
-      "description": "Years ago, the fearsome Pirate King, Gol D. Roger was executed leaving a huge pile of treasure and the famous \"One Piece\" behind. Whoever claims the \"One Piece\" will be named the new King of the Pirates.\n\nMonkey D. Luffy, a boy who consumed a \"Devil Fruit,\" decides to follow in the footsteps of his idol, the pirate Shanks, and find the One Piece. It helps, of course, that his body has the properties of rubber and that he's surrounded by a bevy of skilled fighters and thieves to help him along the way.\n\nLuffy will do anything to get the One Piece and become King of the Pirates!",
-      "releaseInfo": 1999,
-      "imdbRating": 9
-    },
-    {
-      "id": "tt39665097",
-      "type": "series",
-      "name": "Musafir Cafe",
-      "poster": "https://images.metahub.space/poster/medium/tt39665097/img",
-      "background": "https://images.metahub.space/background/medium/tt39665097/img",
-      "description": "Three travelers lives unexpectedly intertwine. Chander and Sudha share an instant spark. With Preeti, Chander finds steady companionship built on quiet understanding and ease. Which love endures through time, and life's journey?",
-      "releaseInfo": 2026,
+      "name": "3 Body Problem",
+      "poster": "https://images.metahub.space/poster/medium/tt13016388/img",
+      "background": "https://images.metahub.space/background/medium/tt13016388/img",
+      "description": "Across continents and decades, five brilliant friends make earth-shattering discoveries as the laws of science unravel and an existential threat emerges.",
+      "releaseInfo": 2024,
       "imdbRating": 7.5
     },
     {
-      "id": "tt35304338",
+      "id": "tt24053860",
       "type": "series",
-      "name": "Study Group",
-      "poster": "https://images.metahub.space/poster/medium/tt35304338/img",
-      "background": "https://images.metahub.space/background/medium/tt35304338/img",
-      "description": "A struggling student at Korea's worst high school forms a study group while protecting his classmates with his fighting skills, hoping to overcome academic challenges and secure a spot in college.",
+      "name": "The Day of the Jackal",
+      "poster": "https://images.metahub.space/poster/medium/tt24053860/img",
+      "background": "https://images.metahub.space/background/medium/tt24053860/img",
+      "description": "The Jackal is an elusive assassin who makes his living carrying out hits for the highest fee. He soon meets his match in a tenacious British intelligence officer who tracks him down in a thrilling cat-and-mouse chase across Europe.",
+      "releaseInfo": 2024,
+      "imdbRating": 8.1
+    },
+    {
+      "id": "tt0944947",
+      "type": "series",
+      "name": "Game of Thrones",
+      "poster": "https://images.metahub.space/poster/medium/tt0944947/img",
+      "background": "https://images.metahub.space/background/medium/tt0944947/img",
+      "description": "Seven noble families fight for control of the mythical land of Westeros. Friction between the houses leads to full-scale war. All while a very ancient evil awakens in the farthest north. Amidst the war, a neglected military order of misfits, the Night's Watch, is all that stands between the realms of men and icy horrors beyond.",
+      "releaseInfo": 2011,
+      "imdbRating": 9.2
+    },
+    {
+      "id": "tt2741602",
+      "type": "series",
+      "name": "The Blacklist",
+      "poster": "https://images.metahub.space/poster/medium/tt2741602/img",
+      "background": "https://images.metahub.space/background/medium/tt2741602/img",
+      "description": "A new FBI profiler, Elizabeth Keen, has her entire life uprooted when a mysterious criminal, Raymond Reddington, who has eluded capture for decades, turns himself in and insists on speaking only to her.",
+      "releaseInfo": 2013,
+      "imdbRating": 7.9
+    },
+    {
+      "id": "tt2261391",
+      "type": "series",
+      "name": "Chicago Fire",
+      "poster": "https://images.metahub.space/poster/medium/tt2261391/img",
+      "background": "https://images.metahub.space/background/medium/tt2261391/img",
+      "description": "An edge-of-your-seat view into the lives of everyday heroes committed to one of America's noblest professions. For the firefighters, rescue squad and paramedics of Chicago Firehouse 51, no occupation is more stressful or dangerous, yet so rewarding and exhilarating. These courageous men and women are among the elite who forge headfirst into danger when everyone else is running the other way and whose actions make the difference between life and death.",
+      "releaseInfo": 2012,
+      "imdbRating": 8
+    },
+    {
+      "id": "tt37972251",
+      "type": "series",
+      "name": "War",
+      "poster": "https://images.metahub.space/poster/medium/tt37972251/img",
+      "background": "https://images.metahub.space/background/medium/tt37972251/img",
+      "description": "Two top London law firms clash over a shocking divorce case that rocks the legal world, with elite attorneys from Cathcarts and Taylor and Byrne battling for supremacy.",
+      "releaseInfo": 2026,
+      "imdbRating": 7.1
+    },
+    {
+      "id": "tt33043892",
+      "type": "series",
+      "name": "Dexter: Resurrection",
+      "poster": "https://images.metahub.space/poster/medium/tt33043892/img",
+      "background": "https://images.metahub.space/background/medium/tt33043892/img",
+      "description": "Set 10 weeks after Dexter: New Blood, Dexter Morgan chases a missing Harrison to New York City, where Captain Angel Batista is hot on their trail from way down in Miami.",
       "releaseInfo": 2025,
+      "imdbRating": 9
+    },
+    {
+      "id": "tt11198330",
+      "type": "series",
+      "name": "House of the Dragon",
+      "poster": "https://images.metahub.space/poster/medium/tt11198330/img",
+      "background": "https://images.metahub.space/background/medium/tt11198330/img",
+      "description": "An internal succession war within House Targaryen at the height of its power, 172 years before the birth of Daenerys Targaryen.",
+      "releaseInfo": 2022,
       "imdbRating": 8.2
     },
     {
-      "id": "tt12004706",
+      "id": "tt12540080",
       "type": "series",
-      "name": "Panchayat",
-      "poster": "https://images.metahub.space/poster/medium/tt12004706/img",
-      "background": "https://images.metahub.space/background/medium/tt12004706/img",
-      "description": "A comedy-drama, which captures the journey of an engineering graduate Abhishek, who for lack of a better job option joins as secretary of a Panchayat office in a remote village of Uttar Pradesh.",
+      "name": "Dark Desire",
+      "poster": "https://images.metahub.space/poster/medium/tt12540080/img",
+      "background": "https://images.metahub.space/background/medium/tt12540080/img",
+      "description": "Married Alma spends a fateful weekend away from home that ignites passion, ends in tragedy and leads her to question the truth about those close to her.",
       "releaseInfo": 2020,
-      "imdbRating": 9
+      "imdbRating": 6.5
+    },
+    {
+      "id": "tt26315487",
+      "type": "series",
+      "name": "Bloodhounds",
+      "poster": "https://images.metahub.space/poster/medium/tt26315487/img",
+      "background": "https://images.metahub.space/background/medium/tt26315487/img",
+      "description": "Faced with ruthless foes with a violent thirst, two young boxers band together — risking life and limb to bring justice and protect their loved ones.",
+      "releaseInfo": 2023,
+      "imdbRating": 8.2
+    },
+    {
+      "id": "tt11041332",
+      "type": "series",
+      "name": "Yellowjackets",
+      "poster": "https://images.metahub.space/poster/medium/tt11041332/img",
+      "background": "https://images.metahub.space/background/medium/tt11041332/img",
+      "description": "A wildly talented girls' high school soccer team become the unlucky survivors of a plane crash deep in the Canadian wilderness.",
+      "releaseInfo": 2021,
+      "imdbRating": 7.7
     }
   ]
 }

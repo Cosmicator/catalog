@@ -41,6 +41,16 @@
       "imdbRating": 3.3
     },
     {
+      "id": "tt38984184",
+      "type": "movie",
+      "name": "418",
+      "poster": "https://images.metahub.space/poster/medium/tt38984184/img",
+      "background": "https://images.metahub.space/background/medium/tt38984184/img",
+      "description": "Set in a medical college in a dread-stricken village, the film confronts the science behind superstitions, the superstitions in science, and an anomaly that neither can explain.",
+      "releaseInfo": 2026,
+      "imdbRating": 8.6
+    },
+    {
       "id": "tt40856286",
       "type": "movie",
       "name": "Vibe",
@@ -49,16 +59,6 @@
       "description": "Two inseparable friends' ordinary, unassuming lives spiral into an unpredictable, high-energy adventure that pushes their survival instincts and friendship to the limit.",
       "releaseInfo": 2026,
       "imdbRating": 6.7
-    },
-    {
-      "id": "tt32634611",
-      "type": "movie",
-      "name": "Daayra",
-      "poster": "https://images.metahub.space/poster/medium/tt32634611/img",
-      "background": "https://images.metahub.space/background/medium/tt32634611/img",
-      "description": "A gripping investigative narrative that explores how a diabolical act creates polarizing reactions throughout society, fracturing opinions and challenging viewers to seek truth beyond easy answers.",
-      "releaseInfo": 2026,
-      "imdbRating": 6.5
     },
     {
       "id": "tt22084616",
@@ -81,6 +81,16 @@
       "imdbRating": 5.7
     },
     {
+      "id": "tt36915004",
+      "type": "movie",
+      "name": "#Cult",
+      "poster": "https://images.metahub.space/poster/medium/tt36915004/img",
+      "background": "https://images.metahub.space/background/medium/tt36915004/img",
+      "description": "A group of young boys head to a party expecting a night of fun, but soon discover the reality is far darker than they imagined. What starts as excitement spirals into terror, pushing them into a brutal fight for survival.",
+      "releaseInfo": 2026,
+      "imdbRating": 4.2
+    },
+    {
       "id": "tt33381528",
       "type": "movie",
       "name": "Premada Oorali",
@@ -101,14 +111,14 @@
       "imdbRating": 7.8
     },
     {
-      "id": "tt36915004",
+      "id": "tt32634611",
       "type": "movie",
-      "name": "#Cult",
-      "poster": "https://images.metahub.space/poster/medium/tt36915004/img",
-      "background": "https://images.metahub.space/background/medium/tt36915004/img",
-      "description": "A group of young boys head to a party expecting a night of fun, but soon discover the reality is far darker than they imagined. What starts as excitement spirals into terror, pushing them into a brutal fight for survival.",
+      "name": "Daayra",
+      "poster": "https://images.metahub.space/poster/medium/tt32634611/img",
+      "background": "https://images.metahub.space/background/medium/tt32634611/img",
+      "description": "A gripping investigative narrative that explores how a diabolical act creates polarizing reactions throughout society, fracturing opinions and challenging viewers to seek truth beyond easy answers.",
       "releaseInfo": 2026,
-      "imdbRating": 4.2
+      "imdbRating": 6.5
     },
     {
       "id": "tt38265603",
@@ -121,16 +131,6 @@
       "imdbRating": 7.4
     },
     {
-      "id": "tt42655940",
-      "type": "movie",
-      "name": "Happy Journey",
-      "poster": "https://images.metahub.space/poster/medium/tt42655940/img",
-      "background": "https://images.metahub.space/background/medium/tt42655940/img",
-      "description": "Seven women from different generations leave their daily routines behind for a spontaneous getaway that sparks a journey of friendship and self-discovery.",
-      "releaseInfo": 2026,
-      "imdbRating": 8.1
-    },
-    {
       "id": "tt14113634",
       "type": "movie",
       "name": "Drishyam 3",
@@ -141,14 +141,24 @@
       "imdbRating": 6.5
     },
     {
-      "id": "tt38984184",
+      "id": "tt42655940",
       "type": "movie",
-      "name": "418",
-      "poster": "https://images.metahub.space/poster/medium/tt38984184/img",
-      "background": "https://images.metahub.space/background/medium/tt38984184/img",
-      "description": "Set in a medical college in a dread-stricken village, the film confronts the science behind superstitions, the superstitions in science, and an anomaly that neither can explain.",
+      "name": "Happy Journey",
+      "poster": "https://images.metahub.space/poster/medium/tt42655940/img",
+      "background": "https://images.metahub.space/background/medium/tt42655940/img",
+      "description": "Seven women from different generations leave their daily routines behind for a spontaneous getaway that sparks a journey of friendship and self-discovery.",
       "releaseInfo": 2026,
-      "imdbRating": 8.6
+      "imdbRating": 8.1
+    },
+    {
+      "id": "tt39378361",
+      "type": "movie",
+      "name": "Mayookha",
+      "poster": "https://images.metahub.space/poster/medium/tt39378361/img",
+      "background": "https://images.metahub.space/background/medium/tt39378361/img",
+      "description": "Mayookha, a young professional living alone in a urban city. When a string of brutal murders rocks the city, targeting single women . She starts noticing strange occurrences around her apartment. She's convinced she's the next target.",
+      "releaseInfo": 2026,
+      "imdbRating": 10
     },
     {
       "id": "tt7526136",
@@ -159,16 +169,6 @@
       "description": "After a harrowing plane crash, Special Forces officer James Belmont and his combat dog, Odin, find themselves stranded deep in the Alaskan wilderness. Together, they are forced into a brutal fight for survival against the elements.",
       "releaseInfo": 2026,
       "imdbRating": 7.1
-    },
-    {
-      "id": "tt22890246",
-      "type": "movie",
-      "name": "How to Have Sex",
-      "poster": "https://images.metahub.space/poster/medium/tt22890246/img",
-      "background": "https://images.metahub.space/background/medium/tt22890246/img",
-      "description": "Three British teenage girls go on a rites-of-passage holiday - drinking, clubbing and hooking up, in what should be the best summer of their lives.",
-      "releaseInfo": 2023,
-      "imdbRating": 6.4
     },
     {
       "id": "tt11663228",
@@ -191,34 +191,14 @@
       "imdbRating": 7.1
     },
     {
-      "id": "tt27165187",
+      "id": "tt22890246",
       "type": "movie",
-      "name": "The End of Oak Street",
-      "poster": "https://images.metahub.space/poster/medium/tt27165187/img",
-      "background": "https://images.metahub.space/background/medium/tt27165187/img",
-      "description": "After a mysterious cosmic event rips Oak Street from suburbia and transports their neighborhood to someplace unknown, the Platt family soon discovers that their very survival depends on them sticking together as they navigate their now unrecognizable surroundings.",
-      "releaseInfo": 2026,
-      "imdbRating": 6.1
-    },
-    {
-      "id": "tt36586020",
-      "type": "movie",
-      "name": "Other Mommy",
-      "poster": "https://images.metahub.space/poster/medium/tt36586020/img",
-      "background": "https://images.metahub.space/background/medium/tt36586020/img",
-      "description": "Young Bela forms a relationship with a sinister entity in her home that looks uncannily like her own mother, drawing her into a terrifying and increasingly dark world.",
-      "releaseInfo": 2026,
-      "imdbRating": 5.3
-    },
-    {
-      "id": "tt31723358",
-      "type": "movie",
-      "name": "Tell Me What You Want",
-      "poster": "https://images.metahub.space/poster/medium/tt31723358/img",
-      "background": "https://images.metahub.space/background/medium/tt31723358/img",
-      "description": "After his father's death, Eric Zimmerman travels to Spain to oversee his company's branches. In Madrid, he falls for Judith and engage in an intense, erotic relationship full of exploration. However, Eric fears his secret may end their affair.",
-      "releaseInfo": 2024,
-      "imdbRating": 4.1
+      "name": "How to Have Sex",
+      "poster": "https://images.metahub.space/poster/medium/tt22890246/img",
+      "background": "https://images.metahub.space/background/medium/tt22890246/img",
+      "description": "Three British teenage girls go on a rites-of-passage holiday - drinking, clubbing and hooking up, in what should be the best summer of their lives.",
+      "releaseInfo": 2023,
+      "imdbRating": 6.4
     },
     {
       "id": "tt34339725",
@@ -231,16 +211,6 @@
       "imdbRating": 7.2
     },
     {
-      "id": "tt8879928",
-      "type": "movie",
-      "name": "Cold Storage",
-      "poster": "https://images.metahub.space/poster/medium/tt8879928/img",
-      "background": "https://images.metahub.space/background/medium/tt8879928/img",
-      "description": "When a highly dangerous fungus escapes from a secret laboratory, a former bioterrorism agent is called back into action. Alongside two young employees, he must confront an invisible and out-of-control threat.",
-      "releaseInfo": 2026,
-      "imdbRating": 6
-    },
-    {
       "id": "tt2012616",
       "type": "movie",
       "name": "Motor City",
@@ -251,24 +221,24 @@
       "imdbRating": 5.7
     },
     {
-      "id": "tt39378361",
+      "id": "tt36586020",
       "type": "movie",
-      "name": "Mayookha",
-      "poster": "https://images.metahub.space/poster/medium/tt39378361/img",
-      "background": "https://images.metahub.space/background/medium/tt39378361/img",
-      "description": "Mayookha, a young professional living alone in a urban city. When a string of brutal murders rocks the city, targeting single women . She starts noticing strange occurrences around her apartment. She's convinced she's the next target.",
+      "name": "Other Mommy",
+      "poster": "https://images.metahub.space/poster/medium/tt36586020/img",
+      "background": "https://images.metahub.space/background/medium/tt36586020/img",
+      "description": "Young Bela forms a relationship with a sinister entity in her home that looks uncannily like her own mother, drawing her into a terrifying and increasingly dark world.",
       "releaseInfo": 2026,
-      "imdbRating": 10
+      "imdbRating": 5.3
     },
     {
-      "id": "tt0319343",
+      "id": "tt39239818",
       "type": "movie",
-      "name": "Elf",
-      "poster": "https://images.metahub.space/poster/medium/tt0319343/img",
-      "background": "https://images.metahub.space/background/medium/tt0319343/img",
-      "description": "When young Buddy falls into Santa's gift sack on Christmas Eve, he's transported back to the North Pole and raised as a toy-making elf by Santa's helpers. But as he grows into adulthood, he can't shake the nagging feeling that he doesn't belong. Buddy vows to visit Manhattan and find his real dad, a workaholic.",
-      "releaseInfo": 2003,
-      "imdbRating": 7.1
+      "name": "Haiku",
+      "poster": "https://images.metahub.space/poster/medium/tt39239818/img",
+      "background": "https://images.metahub.space/background/medium/tt39239818/img",
+      "description": "A charismatic young man uses poetry to navigate the complex maze of modern romance to protect his fragile relationship. Later, he must overcome deep generational divides to keep his love alive.",
+      "releaseInfo": 2026,
+      "imdbRating": 8.2
     },
     {
       "id": "tt1160419",
@@ -291,144 +261,54 @@
       "imdbRating": 8
     },
     {
-      "id": "tt0364569",
+      "id": "tt8879928",
       "type": "movie",
-      "name": "Oldboy",
-      "poster": "https://images.metahub.space/poster/medium/tt0364569/img",
-      "background": "https://images.metahub.space/background/medium/tt0364569/img",
-      "description": "With no clue how he came to be imprisoned, drugged and tortured for 15 years, a desperate man seeks revenge on his captors.",
-      "releaseInfo": 2003,
-      "imdbRating": 8.3
-    },
-    {
-      "id": "tt5713232",
-      "type": "movie",
-      "name": "Madaari",
-      "poster": "https://images.metahub.space/poster/medium/tt5713232/img",
-      "background": "https://images.metahub.space/background/medium/tt5713232/img",
-      "description": "A common man kidnaps the son of the Home Minister of India to get answers about the loss of his own son, caused by the illegal acts committed by corrupt government officials.",
-      "releaseInfo": 2016,
-      "imdbRating": 7.6
-    },
-    {
-      "id": "tt0431197",
-      "type": "movie",
-      "name": "The Kingdom",
-      "poster": "https://images.metahub.space/poster/medium/tt0431197/img",
-      "background": "https://images.metahub.space/background/medium/tt0431197/img",
-      "description": "A team of U.S. government agents is sent to investigate the bombing of an American facility in the Middle East.",
-      "releaseInfo": 2007,
-      "imdbRating": 7
-    },
-    {
-      "id": "tt23289160",
-      "type": "movie",
-      "name": "Godzilla Minus One",
-      "poster": "https://images.metahub.space/poster/medium/tt23289160/img",
-      "background": "https://images.metahub.space/background/medium/tt23289160/img",
-      "description": "In postwar Japan, Godzilla brings new devastation to an already scorched landscape. With no military intervention or government help in sight, the survivors must join together in the face of despair and fight back against an unrelenting horror.",
-      "releaseInfo": 2023,
-      "imdbRating": 7.7
-    },
-    {
-      "id": "tt43655467",
-      "type": "movie",
-      "name": "Ali G: Who Iz I?",
-      "poster": "https://images.metahub.space/poster/medium/tt43655467/img",
-      "background": "https://images.metahub.space/background/medium/tt43655467/img",
-      "description": "After twenty years spent \"chillin', tokin' and bonin'\", Ali G is shocked to discover that his long-term girlfriend, Julie, is 8 months pregnant. Faced with an extra mouth to feed, he gets off his batty and heads to America to reclaim his former glory… but soon encounters adversaries who will ultimately threaten his and his child's very existence.",
+      "name": "Cold Storage",
+      "poster": "https://images.metahub.space/poster/medium/tt8879928/img",
+      "background": "https://images.metahub.space/background/medium/tt8879928/img",
+      "description": "When a highly dangerous fungus escapes from a secret laboratory, a former bioterrorism agent is called back into action. Alongside two young employees, he must confront an invisible and out-of-control threat.",
       "releaseInfo": 2026,
-      "imdbRating": 5
+      "imdbRating": 6
     },
     {
-      "id": "tt0407887",
+      "id": "tt0970866",
       "type": "movie",
-      "name": "The Departed",
-      "poster": "https://images.metahub.space/poster/medium/tt0407887/img",
-      "background": "https://images.metahub.space/background/medium/tt0407887/img",
-      "description": "To take down South Boston's Irish Mafia, the police send in one of their own to infiltrate the underworld, not realizing the syndicate has done likewise. While an undercover cop curries favor with the mob kingpin, a career criminal rises through the police ranks. But both sides soon discover there's a mole among them.",
-      "releaseInfo": 2006,
-      "imdbRating": 8.5
-    },
-    {
-      "id": "tt26671996",
-      "type": "movie",
-      "name": "Locked",
-      "poster": "https://images.metahub.space/poster/medium/tt26671996/img",
-      "background": "https://images.metahub.space/background/medium/tt26671996/img",
-      "description": "When Eddie breaks into a luxury SUV, he steps into a deadly trap set by William, a self-proclaimed vigilante delivering his own brand of twisted justice. With no means of escape, Eddie must fight to survive in a ride where escape is an illusion, survival is a nightmare, and justice shifts into high gear.",
-      "releaseInfo": 2025,
-      "imdbRating": 5.7
-    },
-    {
-      "id": "tt2005151",
-      "type": "movie",
-      "name": "War Dogs",
-      "poster": "https://images.metahub.space/poster/medium/tt2005151/img",
-      "background": "https://images.metahub.space/background/medium/tt2005151/img",
-      "description": "Based on the true story of two young men, David Packouz and Efraim Diveroli, who won a $300 million contract from the Pentagon to arm America's allies in Afghanistan.",
-      "releaseInfo": 2016,
-      "imdbRating": 7.1
-    },
-    {
-      "id": "tt6933238",
-      "type": "movie",
-      "name": "Unabomber",
-      "poster": "https://images.metahub.space/poster/medium/tt6933238/img",
-      "background": "https://images.metahub.space/background/medium/tt6933238/img",
-      "description": "In this drama inspired by true events, Ted Kaczynski's transformation from Harvard prodigy to the infamous Unabomber unfolds as the FBI hunts him down.",
-      "releaseInfo": 2026,
-      "imdbRating": 6.2
-    },
-    {
-      "id": "tt15047880",
-      "type": "movie",
-      "name": "Disclosure Day",
-      "poster": "https://images.metahub.space/poster/medium/tt15047880/img",
-      "background": "https://images.metahub.space/background/medium/tt15047880/img",
-      "description": "If you found out we weren’t alone in the universe, would that frighten you?",
-      "releaseInfo": 2026,
-      "imdbRating": 6.4
-    },
-    {
-      "id": "tt8488126",
-      "type": "movie",
-      "name": "The Inventor: Out for Blood in Silicon Valley",
-      "poster": "https://images.metahub.space/poster/medium/tt8488126/img",
-      "background": "https://images.metahub.space/background/medium/tt8488126/img",
-      "description": "With a magical new invention that promised to revolutionize blood testing, Elizabeth Holmes became the world’s youngest self-made billionaire, heralded as the next Steve Jobs. Then, overnight, her 10-billion-dollar company dissolved. The rise and fall of Theranos is a window into the psychology of fraud.",
-      "releaseInfo": 2019,
-      "imdbRating": 7.1
-    },
-    {
-      "id": "tt28037987",
-      "type": "movie",
-      "name": "Saiyaara",
-      "poster": "https://images.metahub.space/poster/medium/tt28037987/img",
-      "background": "https://images.metahub.space/background/medium/tt28037987/img",
-      "description": "Plot under wraps.",
-      "releaseInfo": 2025,
-      "imdbRating": 6.3
-    },
-    {
-      "id": "tt38213251",
-      "type": "movie",
-      "name": "Heartland",
-      "poster": "https://images.metahub.space/poster/medium/tt38213251/img",
-      "background": "https://images.metahub.space/background/medium/tt38213251/img",
-      "description": "Former country music legend Misty Jones returns to Nashville to unravel the truth behind her rising-star niece's disappearance.",
-      "releaseInfo": 2026,
+      "name": "Little Fockers",
+      "poster": "https://images.metahub.space/poster/medium/tt0970866/img",
+      "background": "https://images.metahub.space/background/medium/tt0970866/img",
+      "description": "It has taken 10 years, two little Fockers with wife Pam and countless hurdles for Greg to finally get in with his tightly wound father-in-law, Jack. After the cash-strapped dad takes a job moonlighting for a drug company, Jack's suspicions about his favorite male nurse come roaring back. When Greg and Pam's entire clan descends for the twins' birthday party, Greg must prove to the skeptical Jack that he's fully capable as the man of the house.",
+      "releaseInfo": 2010,
       "imdbRating": 5.5
     },
     {
-      "id": "tt0816692",
+      "id": "tt31723358",
       "type": "movie",
-      "name": "Interstellar",
-      "poster": "https://images.metahub.space/poster/medium/tt0816692/img",
-      "background": "https://images.metahub.space/background/medium/tt0816692/img",
-      "description": "In a dystopian future where Earth has become near-uninhabitable, a team of astronauts embark on a mission to find a new home for humanity.",
-      "releaseInfo": 2014,
-      "imdbRating": 8.7
+      "name": "Tell Me What You Want",
+      "poster": "https://images.metahub.space/poster/medium/tt31723358/img",
+      "background": "https://images.metahub.space/background/medium/tt31723358/img",
+      "description": "After his father's death, Eric Zimmerman travels to Spain to oversee his company's branches. In Madrid, he falls for Judith and engage in an intense, erotic relationship full of exploration. However, Eric fears his secret may end their affair.",
+      "releaseInfo": 2024,
+      "imdbRating": 4.1
+    },
+    {
+      "id": "tt6611324",
+      "type": "movie",
+      "name": "Guarding Stars",
+      "poster": "https://images.metahub.space/poster/medium/tt6611324/img",
+      "background": "https://images.metahub.space/background/medium/tt6611324/img",
+      "description": "A skilled bodyguard is assigned to protect a reclusive movie star from a stalker and must pose as his girlfriend to keep the threat hidden. On his family ranch, the assignment blurs lines as proximity complicates the job.",
+      "releaseInfo": 2026,
+      "imdbRating": 6.3
+    },
+    {
+      "id": "tt27165187",
+      "type": "movie",
+      "name": "The End of Oak Street",
+      "poster": "https://images.metahub.space/poster/medium/tt27165187/img",
+      "background": "https://images.metahub.space/background/medium/tt27165187/img",
+      "description": "After a mysterious cosmic event rips Oak Street from suburbia and transports their neighborhood to someplace unknown, the Platt family soon discovers that their very survival depends on them sticking together as they navigate their now unrecognizable surroundings.",
+      "releaseInfo": 2026,
+      "imdbRating": 6.1
     },
     {
       "id": "tt1392170",
@@ -441,44 +321,74 @@
       "imdbRating": 7.2
     },
     {
-      "id": "tt0092654",
+      "id": "tt0364569",
       "type": "movie",
-      "name": "The Big Easy",
-      "poster": "https://images.metahub.space/poster/medium/tt0092654/img",
-      "background": "https://images.metahub.space/background/medium/tt0092654/img",
-      "description": "Remy McSwain is a New Orleans police lieutenant who investigates the murder of a local mobster. His investigation leads him to suspect that fellow members of the police force may be involved.",
-      "releaseInfo": 1986,
-      "imdbRating": 6.5
+      "name": "Oldboy",
+      "poster": "https://images.metahub.space/poster/medium/tt0364569/img",
+      "background": "https://images.metahub.space/background/medium/tt0364569/img",
+      "description": "With no clue how he came to be imprisoned, drugged and tortured for 15 years, a desperate man seeks revenge on his captors.",
+      "releaseInfo": 2003,
+      "imdbRating": 8.3
     },
     {
-      "id": "tt0332452",
+      "id": "tt0407887",
       "type": "movie",
-      "name": "Troy",
-      "poster": "https://images.metahub.space/poster/medium/tt0332452/img",
-      "background": "https://images.metahub.space/background/medium/tt0332452/img",
-      "description": "In year 1250 B.C. during the late Bronze age, two emerging nations begin to clash. Paris, the Trojan prince, convinces Helen, Queen of Sparta, to leave her husband Menelaus, and sail with him back to Troy. After Menelaus finds out that his wife was taken by the Trojans, he asks his brother Agamemnon to help him get her back. Agamemnon sees this as an opportunity for power. They set off with 1,000 ships holding 50,000 Greeks to Troy.",
-      "releaseInfo": 2004,
-      "imdbRating": 7.3
+      "name": "The Departed",
+      "poster": "https://images.metahub.space/poster/medium/tt0407887/img",
+      "background": "https://images.metahub.space/background/medium/tt0407887/img",
+      "description": "To take down South Boston's Irish Mafia, the police send in one of their own to infiltrate the underworld, not realizing the syndicate has done likewise. While an undercover cop curries favor with the mob kingpin, a career criminal rises through the police ranks. But both sides soon discover there's a mole among them.",
+      "releaseInfo": 2006,
+      "imdbRating": 8.5
     },
     {
-      "id": "tt39239818",
+      "id": "tt23289160",
       "type": "movie",
-      "name": "Haiku",
-      "poster": "https://images.metahub.space/poster/medium/tt39239818/img",
-      "background": "https://images.metahub.space/background/medium/tt39239818/img",
-      "description": "A charismatic young man uses poetry to navigate the complex maze of modern romance to protect his fragile relationship. Later, he must overcome deep generational divides to keep his love alive.",
+      "name": "Godzilla Minus One",
+      "poster": "https://images.metahub.space/poster/medium/tt23289160/img",
+      "background": "https://images.metahub.space/background/medium/tt23289160/img",
+      "description": "In postwar Japan, Godzilla brings new devastation to an already scorched landscape. With no military intervention or government help in sight, the survivors must join together in the face of despair and fight back against an unrelenting horror.",
+      "releaseInfo": 2023,
+      "imdbRating": 7.7
+    },
+    {
+      "id": "tt5713232",
+      "type": "movie",
+      "name": "Madaari",
+      "poster": "https://images.metahub.space/poster/medium/tt5713232/img",
+      "background": "https://images.metahub.space/background/medium/tt5713232/img",
+      "description": "A common man kidnaps the son of the Home Minister of India to get answers about the loss of his own son, caused by the illegal acts committed by corrupt government officials.",
+      "releaseInfo": 2016,
+      "imdbRating": 7.6
+    },
+    {
+      "id": "tt0170016",
+      "type": "movie",
+      "name": "How the Grinch Stole Christmas",
+      "poster": "https://images.metahub.space/poster/medium/tt0170016/img",
+      "background": "https://images.metahub.space/background/medium/tt0170016/img",
+      "description": "The Grinch decides to rob Whoville of Christmas - but a dash of kindness from little Cindy Lou Who and her family may be enough to melt his heart...",
+      "releaseInfo": 2000,
+      "imdbRating": 6.4
+    },
+    {
+      "id": "tt43723233",
+      "type": "movie",
+      "name": "Drones",
+      "poster": "https://images.metahub.space/poster/medium/tt43723233/img",
+      "background": "https://images.metahub.space/background/medium/tt43723233/img",
+      "description": "A sleepwalking student, a mysterious miniature artist, an ancient witch, a doll house of trapped souls, and a cop cursed by love collide in a surreal world.",
       "releaseInfo": 2026,
-      "imdbRating": 8.2
+      "imdbRating": 7.4
     },
     {
-      "id": "tt6611324",
+      "id": "tt10545296",
       "type": "movie",
-      "name": "Guarding Stars",
-      "poster": "https://images.metahub.space/poster/medium/tt6611324/img",
-      "background": "https://images.metahub.space/background/medium/tt6611324/img",
-      "description": "A skilled bodyguard is assigned to protect a reclusive movie star from a stalker and must pose as his girlfriend to keep the threat hidden. On his family ranch, the assignment blurs lines as proximity complicates the job.",
-      "releaseInfo": 2026,
-      "imdbRating": 6.3
+      "name": "The Hunger Games: The Ballad of Songbirds & Snakes",
+      "poster": "https://images.metahub.space/poster/medium/tt10545296/img",
+      "background": "https://images.metahub.space/background/medium/tt10545296/img",
+      "description": "Coriolanus Snow mentors and develops feelings for the female District 12 tribute during the 10th Hunger Games.",
+      "releaseInfo": 2023,
+      "imdbRating": 6.6
     },
     {
       "id": "tt18351090",
@@ -499,6 +409,96 @@
       "description": "Greg Focker is ready to marry his girlfriend, Pam, but before he pops the question, he must win over her formidable father, humorless former CIA agent Jack Byrnes, at the wedding of Pam's sister. As Greg bends over backward to make a good impression, his visit to the Byrnes home turns into a hilarious series of disasters, and everything that can go wrong does, all under Jack's critical, hawklike gaze.",
       "releaseInfo": 2000,
       "imdbRating": 7
+    },
+    {
+      "id": "tt43655467",
+      "type": "movie",
+      "name": "Ali G: Who Iz I?",
+      "poster": "https://images.metahub.space/poster/medium/tt43655467/img",
+      "background": "https://images.metahub.space/background/medium/tt43655467/img",
+      "description": "After twenty years spent \"chillin', tokin' and bonin'\", Ali G is shocked to discover that his long-term girlfriend, Julie, is 8 months pregnant. Faced with an extra mouth to feed, he gets off his batty and heads to America to reclaim his former glory… but soon encounters adversaries who will ultimately threaten his and his child's very existence.",
+      "releaseInfo": 2026,
+      "imdbRating": 5
+    },
+    {
+      "id": "tt0332452",
+      "type": "movie",
+      "name": "Troy",
+      "poster": "https://images.metahub.space/poster/medium/tt0332452/img",
+      "background": "https://images.metahub.space/background/medium/tt0332452/img",
+      "description": "In year 1250 B.C. during the late Bronze age, two emerging nations begin to clash. Paris, the Trojan prince, convinces Helen, Queen of Sparta, to leave her husband Menelaus, and sail with him back to Troy. After Menelaus finds out that his wife was taken by the Trojans, he asks his brother Agamemnon to help him get her back. Agamemnon sees this as an opportunity for power. They set off with 1,000 ships holding 50,000 Greeks to Troy.",
+      "releaseInfo": 2004,
+      "imdbRating": 7.3
+    },
+    {
+      "id": "tt33379543",
+      "type": "movie",
+      "name": "Jana Nayagan",
+      "poster": "https://images.metahub.space/poster/medium/tt33379543/img",
+      "background": "https://images.metahub.space/background/medium/tt33379543/img",
+      "description": "A clash of ideologies. One stands for the people, the other feeds on control. Their paths collided once before. Years later, a child’s silent fear ignites the past, drawing a former police officer into a battle far bigger than personal revenge.",
+      "releaseInfo": 2026,
+      "imdbRating": 5.1
+    },
+    {
+      "id": "tt32261958",
+      "type": "movie",
+      "name": "Verity",
+      "poster": "https://images.metahub.space/poster/medium/tt32261958/img",
+      "background": "https://images.metahub.space/background/medium/tt32261958/img",
+      "description": "Lowen Ashleigh, hired to ghostwrite for best-selling author Verity Crawford, uncovers Verity's autobiographical notes, and becomes involved in what may prove to be a lethal conspiracy.",
+      "releaseInfo": 2026,
+      "imdbRating": 6
+    },
+    {
+      "id": "tt6933238",
+      "type": "movie",
+      "name": "Unabomber",
+      "poster": "https://images.metahub.space/poster/medium/tt6933238/img",
+      "background": "https://images.metahub.space/background/medium/tt6933238/img",
+      "description": "In this drama inspired by true events, Ted Kaczynski's transformation from Harvard prodigy to the infamous Unabomber unfolds as the FBI hunts him down.",
+      "releaseInfo": 2026,
+      "imdbRating": 6.2
+    },
+    {
+      "id": "tt10872600",
+      "type": "movie",
+      "name": "Spider-Man: No Way Home",
+      "poster": "https://images.metahub.space/poster/medium/tt10872600/img",
+      "background": "https://images.metahub.space/background/medium/tt10872600/img",
+      "description": "Peter Parker is unmasked and no longer able to separate his normal life from the high-stakes of being a super-hero. When he asks for help from Doctor Strange the stakes become even more dangerous, forcing him to discover what it truly means to be Spider-Man.",
+      "releaseInfo": 2021,
+      "imdbRating": 8.1
+    },
+    {
+      "id": "tt0816692",
+      "type": "movie",
+      "name": "Interstellar",
+      "poster": "https://images.metahub.space/poster/medium/tt0816692/img",
+      "background": "https://images.metahub.space/background/medium/tt0816692/img",
+      "description": "In a dystopian future where Earth has become near-uninhabitable, a team of astronauts embark on a mission to find a new home for humanity.",
+      "releaseInfo": 2014,
+      "imdbRating": 8.7
+    },
+    {
+      "id": "tt2911666",
+      "type": "movie",
+      "name": "John Wick",
+      "poster": "https://images.metahub.space/poster/medium/tt2911666/img",
+      "background": "https://images.metahub.space/background/medium/tt2911666/img",
+      "description": "Ex-hitman John Wick comes out of retirement to track down the gangsters that took everything from him.",
+      "releaseInfo": 2014,
+      "imdbRating": 7.5
+    },
+    {
+      "id": "tt33483889",
+      "type": "movie",
+      "name": "City Lights",
+      "poster": "https://images.metahub.space/poster/medium/tt33483889/img",
+      "background": "https://images.metahub.space/background/medium/tt33483889/img",
+      "description": "Follows two individuals who move from a village to Bengaluru, only to confront the harsh realities of survival in a fast-paced, indifferent city.",
+      "releaseInfo": 2026,
+      "imdbRating": 6.6
     }
   ]
 }
