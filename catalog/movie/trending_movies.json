@@ -371,6 +371,16 @@
       "imdbRating": 7.6
     },
     {
+      "id": "tt2005151",
+      "type": "movie",
+      "name": "War Dogs",
+      "poster": "https://images.metahub.space/poster/medium/tt2005151/img",
+      "background": "https://images.metahub.space/background/medium/tt2005151/img",
+      "description": "Based on the true story of two young men, David Packouz and Efraim Diveroli, who won a $300 million contract from the Pentagon to arm America's allies in Afghanistan.",
+      "releaseInfo": 2016,
+      "imdbRating": 7.1
+    },
+    {
       "id": "tt0170016",
       "type": "movie",
       "name": "How the Grinch Stole Christmas",
@@ -489,16 +499,6 @@
       "description": "In a dystopian future where Earth has become near-uninhabitable, a team of astronauts embark on a mission to find a new home for humanity.",
       "releaseInfo": 2014,
       "imdbRating": 8.7
-    },
-    {
-      "id": "tt2911666",
-      "type": "movie",
-      "name": "John Wick",
-      "poster": "https://images.metahub.space/poster/medium/tt2911666/img",
-      "background": "https://images.metahub.space/background/medium/tt2911666/img",
-      "description": "Ex-hitman John Wick comes out of retirement to track down the gangsters that took everything from him.",
-      "releaseInfo": 2014,
-      "imdbRating": 7.5
     }
   ]
 }

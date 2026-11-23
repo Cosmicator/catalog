@@ -331,17 +331,6 @@
       "imdbRating": "8.2"
     },
     {
-      "id": "tt9140554",
-      "type": "series",
-      "name": "Loki",
-      "poster": "https://images.metahub.space/poster/small/tt9140554/img",
-      "background": "https://images.metahub.space/background/medium/tt9140554/img",
-      "logo": "https://images.metahub.space/logo/medium/tt9140554/img",
-      "description": "The mercurial villain Loki resumes his role as the God of Mischief in a new series that takes place after the events of “Avengers: Endgame.”",
-      "releaseInfo": "2021–2023",
-      "imdbRating": "8.2"
-    },
-    {
       "id": "tt13911628",
       "type": "series",
       "name": "Lessons in Chemistry",
@@ -350,6 +339,17 @@
       "logo": "https://images.metahub.space/logo/medium/tt13911628/img",
       "description": "In the 1950s, Elizabeth Zott's dream of being a scientist is challenged by a society that says women belong in the domestic sphere; she accepts a job on a TV cooking show and sets out to teach a nation of housewives way more than ...",
       "releaseInfo": "2023",
+      "imdbRating": "8.2"
+    },
+    {
+      "id": "tt9140554",
+      "type": "series",
+      "name": "Loki",
+      "poster": "https://images.metahub.space/poster/small/tt9140554/img",
+      "background": "https://images.metahub.space/background/medium/tt9140554/img",
+      "logo": "https://images.metahub.space/logo/medium/tt9140554/img",
+      "description": "The mercurial villain Loki resumes his role as the God of Mischief in a new series that takes place after the events of “Avengers: Endgame.”",
+      "releaseInfo": "2021–2023",
       "imdbRating": "8.2"
     },
     {
