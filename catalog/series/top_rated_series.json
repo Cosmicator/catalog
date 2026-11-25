@@ -1,6 +1,17 @@
 {
   "metas": [
     {
+      "id": "tt0795176",
+      "type": "series",
+      "name": "Planet Earth",
+      "poster": "https://images.metahub.space/poster/small/tt0795176/img",
+      "background": "https://images.metahub.space/background/medium/tt0795176/img",
+      "logo": "https://images.metahub.space/logo/medium/tt0795176/img",
+      "description": "An epic nature documentary series exploring Earth's most spectacular habitats, revealing the wildlife, landscapes, and natural forces that shape life across the planet.",
+      "releaseInfo": "2006",
+      "imdbRating": "9.4"
+    },
+    {
       "id": "tt0944947",
       "type": "series",
       "name": "Game of Thrones",
@@ -155,17 +166,6 @@
       "imdbRating": "8.5"
     },
     {
-      "id": "tt6077448",
-      "type": "series",
-      "name": "Sacred Games",
-      "poster": "https://images.metahub.space/poster/small/tt6077448/img",
-      "background": "https://images.metahub.space/background/medium/tt6077448/img",
-      "logo": "https://images.metahub.space/logo/medium/tt6077448/img",
-      "description": "A link in their pasts leads an honest cop to a fugitive gang boss, whose cryptic warning spurs the officer on a quest to save Mumbai from cataclysm.",
-      "releaseInfo": "2018–2019",
-      "imdbRating": "8.5"
-    },
-    {
       "id": "tt3526078",
       "type": "series",
       "name": "Schitt's Creek",
@@ -174,6 +174,17 @@
       "logo": "https://images.metahub.space/logo/medium/tt3526078/img",
       "description": "After being a victim of fraud, Johnny Rose and his family go from extremely wealthy to penniless overnight. The only asset left to them is a small, unsophisticated town: Schitt's Creek. They relocate there. Culture shock ensues.",
       "releaseInfo": "2015–2020",
+      "imdbRating": "8.5"
+    },
+    {
+      "id": "tt6077448",
+      "type": "series",
+      "name": "Sacred Games",
+      "poster": "https://images.metahub.space/poster/small/tt6077448/img",
+      "background": "https://images.metahub.space/background/medium/tt6077448/img",
+      "logo": "https://images.metahub.space/logo/medium/tt6077448/img",
+      "description": "A link in their pasts leads an honest cop to a fugitive gang boss, whose cryptic warning spurs the officer on a quest to save Mumbai from cataclysm.",
+      "releaseInfo": "2018–2019",
       "imdbRating": "8.5"
     },
     {
@@ -419,6 +430,17 @@
       "imdbRating": "8.1"
     },
     {
+      "id": "tt0883772",
+      "type": "series",
+      "name": "Man vs. Wild",
+      "poster": "https://images.metahub.space/poster/small/tt0883772/img",
+      "background": "https://images.metahub.space/background/medium/tt0883772/img",
+      "logo": "https://images.metahub.space/logo/medium/tt0883772/img",
+      "description": "Bear Grylls travels the world in search of challenges to his survival skills.",
+      "releaseInfo": "2006–2020",
+      "imdbRating": "8.1"
+    },
+    {
       "id": "tt24053860",
       "type": "series",
       "name": "The Day of the Jackal",
@@ -526,28 +548,6 @@
       "logo": "https://images.metahub.space/logo/medium/tt2741602/img",
       "description": "A new FBI profiler, Elizabeth Keen, has her entire life uprooted when a mysterious criminal, Raymond Reddington, who has eluded capture for decades, turns himself in and insists on speaking only to her.",
       "releaseInfo": "2013–2023",
-      "imdbRating": "7.9"
-    },
-    {
-      "id": "tt22202452",
-      "type": "series",
-      "name": "Pluribus",
-      "poster": "https://images.metahub.space/poster/small/tt22202452/img",
-      "background": "https://images.metahub.space/background/medium/tt22202452/img",
-      "logo": "https://images.metahub.space/logo/medium/tt22202452/img",
-      "description": "In a world overtaken by a mysterious wave of forced happiness, Carol Sturka, one of the immune few, must uncover what's really going on - and save humanity from its artificial bliss.",
-      "releaseInfo": "2025–",
-      "imdbRating": "7.9"
-    },
-    {
-      "id": "tt16358384",
-      "type": "series",
-      "name": "Tulsa King",
-      "poster": "https://images.metahub.space/poster/small/tt16358384/img",
-      "background": "https://images.metahub.space/background/medium/tt16358384/img",
-      "logo": "https://images.metahub.space/logo/medium/tt16358384/img",
-      "description": "After being released from prison after 25 years, New York Mafia capo Dwight \"The General\" Manfredi is exiled to Tulsa, Oklahoma.",
-      "releaseInfo": "2022–",
       "imdbRating": "7.9"
     }
   ]
