@@ -31,34 +31,14 @@
       "imdbRating": 7.5
     },
     {
-      "id": "tt36915004",
+      "id": "tt39378361",
       "type": "movie",
-      "name": "#Cult",
-      "poster": "https://images.metahub.space/poster/medium/tt36915004/img",
-      "background": "https://images.metahub.space/background/medium/tt36915004/img",
-      "description": "A group of young boys head to a party expecting a night of fun, but soon discover the reality is far darker than they imagined. What starts as excitement spirals into terror, pushing them into a brutal fight for survival.",
+      "name": "Mayookha",
+      "poster": "https://images.metahub.space/poster/medium/tt39378361/img",
+      "background": "https://images.metahub.space/background/medium/tt39378361/img",
+      "description": "Mayookha, a young professional living alone in a urban city. When a string of brutal murders rocks the city, targeting single women . She starts noticing strange occurrences around her apartment. She's convinced she's the next target.",
       "releaseInfo": 2026,
-      "imdbRating": 4
-    },
-    {
-      "id": "tt32324552",
-      "type": "movie",
-      "name": "Ranabaali",
-      "poster": "https://images.metahub.space/poster/medium/tt32324552/img",
-      "background": "https://images.metahub.space/background/medium/tt32324552/img",
-      "description": "Set in 19th-century British India, a fierce leader rises from a drought-stricken land to fight colonial oppression and atrocities.",
-      "releaseInfo": 2026,
-      "imdbRating": 6.7
-    },
-    {
-      "id": "tt33318732",
-      "type": "movie",
-      "name": "Jailer 2",
-      "poster": "https://images.metahub.space/poster/medium/tt33318732/img",
-      "background": "https://images.metahub.space/background/medium/tt33318732/img",
-      "description": "When a dangerous syndicate threatens his family, retired jailer Tiger Muthuvel Pandian goes undercover as a driver to battle enemies from the shadows.",
-      "releaseInfo": 2026,
-      "imdbRating": 7.7
+      "imdbRating": 8.2
     },
     {
       "id": "tt22084616",
@@ -71,24 +51,14 @@
       "imdbRating": 7.9
     },
     {
-      "id": "tt39378361",
+      "id": "tt36915004",
       "type": "movie",
-      "name": "Mayookha",
-      "poster": "https://images.metahub.space/poster/medium/tt39378361/img",
-      "background": "https://images.metahub.space/background/medium/tt39378361/img",
-      "description": "Mayookha, a young professional living alone in a urban city. When a string of brutal murders rocks the city, targeting single women . She starts noticing strange occurrences around her apartment. She's convinced she's the next target.",
+      "name": "#Cult",
+      "poster": "https://images.metahub.space/poster/medium/tt36915004/img",
+      "background": "https://images.metahub.space/background/medium/tt36915004/img",
+      "description": "A group of young boys head to a party expecting a night of fun, but soon discover the reality is far darker than they imagined. What starts as excitement spirals into terror, pushing them into a brutal fight for survival.",
       "releaseInfo": 2026,
-      "imdbRating": 8.2
-    },
-    {
-      "id": "tt34498564",
-      "type": "movie",
-      "name": "The Vvaan: Force of the Forrest",
-      "poster": "https://images.metahub.space/poster/medium/tt34498564/img",
-      "background": "https://images.metahub.space/background/medium/tt34498564/img",
-      "description": "A rational urban man defies his ancestral village's forbidden forest and awakens a divine goddess, forcing him to confront powers beyond logic as he becomes the unlikely saviour protecting his people from annihilation.",
-      "releaseInfo": 2026,
-      "imdbRating": 5.5
+      "imdbRating": 4
     },
     {
       "id": "tt39239818",
@@ -99,6 +69,46 @@
       "description": "A charismatic young man uses poetry to navigate the complex maze of modern romance to protect his fragile relationship. Later, he must overcome deep generational divides to keep his love alive.",
       "releaseInfo": 2026,
       "imdbRating": 5.9
+    },
+    {
+      "id": "tt34498564",
+      "type": "movie",
+      "name": "The Vvaan: Force of the Forrest",
+      "poster": "https://images.metahub.space/poster/medium/tt34498564/img",
+      "background": "https://images.metahub.space/background/medium/tt34498564/img",
+      "description": "A rational urban man defies his ancestral village's forbidden forest and awakens a divine goddess, forcing him to confront powers beyond logic as he becomes the unlikely saviour protecting his people from annihilation.",
+      "releaseInfo": 2026,
+      "imdbRating": 5.4
+    },
+    {
+      "id": "tt33318732",
+      "type": "movie",
+      "name": "Jailer 2",
+      "poster": "https://images.metahub.space/poster/medium/tt33318732/img",
+      "background": "https://images.metahub.space/background/medium/tt33318732/img",
+      "description": "When a dangerous syndicate threatens his family, retired jailer Tiger Muthuvel Pandian goes undercover as a driver to battle enemies from the shadows.",
+      "releaseInfo": 2026,
+      "imdbRating": 7.7
+    },
+    {
+      "id": "tt32324552",
+      "type": "movie",
+      "name": "Ranabaali",
+      "poster": "https://images.metahub.space/poster/medium/tt32324552/img",
+      "background": "https://images.metahub.space/background/medium/tt32324552/img",
+      "description": "Set in 19th-century British India, a fierce leader rises from a drought-stricken land to fight colonial oppression and atrocities.",
+      "releaseInfo": 2026,
+      "imdbRating": 6.7
+    },
+    {
+      "id": "tt34339725",
+      "type": "movie",
+      "name": "Mirzapur: The Movie",
+      "poster": "https://images.metahub.space/poster/medium/tt34339725/img",
+      "background": "https://images.metahub.space/background/medium/tt34339725/img",
+      "description": "Akhandanand Tripathi sits on the throne of Mirzapur. Munna Tripathi is heir apparent. Rati Shankar Shukla is the rival from Jaunpur. And, Guddu and Bablu are the two brothers who came like a tornado and changed things irreversibly. And now comes a new claimant in town. Babban Babua, from the desert of Jaisalmer. A ruthless man who is power hungry.",
+      "releaseInfo": 2026,
+      "imdbRating": 7.2
     },
     {
       "id": "tt38265603",
@@ -121,16 +131,6 @@
       "imdbRating": 7.8
     },
     {
-      "id": "tt33381528",
-      "type": "movie",
-      "name": "Premada Oorali",
-      "poster": "https://images.metahub.space/poster/medium/tt33381528/img",
-      "background": "https://images.metahub.space/background/medium/tt33381528/img",
-      "description": "Premada Oorali is a heartfelt love story set in picturesque villages in the 2020s. The film intertwines romance and family drama, exploring the relationships between a father and son, as well as a boy and girl, as they navigate through intriguing, yet relatable, relationship challenges.",
-      "releaseInfo": 2026,
-      "imdbRating": 7.4
-    },
-    {
       "id": "tt23289160",
       "type": "movie",
       "name": "Godzilla Minus One",
@@ -139,26 +139,6 @@
       "description": "In postwar Japan, Godzilla brings new devastation to an already scorched landscape. With no military intervention or government help in sight, the survivors must join together in the face of despair and fight back against an unrelenting horror.",
       "releaseInfo": 2023,
       "imdbRating": 7.6
-    },
-    {
-      "id": "tt14113634",
-      "type": "movie",
-      "name": "Drishyam 3",
-      "poster": "https://images.metahub.space/poster/medium/tt14113634/img",
-      "background": "https://images.metahub.space/background/medium/tt14113634/img",
-      "description": "To protect his family and their dark secret, Georgekutty faces an organized new threat. As walls close in and cracks widen, how much more is he willing to sacrifice?",
-      "releaseInfo": 2026,
-      "imdbRating": 6.5
-    },
-    {
-      "id": "tt34339725",
-      "type": "movie",
-      "name": "Mirzapur: The Movie",
-      "poster": "https://images.metahub.space/poster/medium/tt34339725/img",
-      "background": "https://images.metahub.space/background/medium/tt34339725/img",
-      "description": "Akhandanand Tripathi sits on the throne of Mirzapur. Munna Tripathi is heir apparent. Rati Shankar Shukla is the rival from Jaunpur. And, Guddu and Bablu are the two brothers who came like a tornado and changed things irreversibly. And now comes a new claimant in town. Babban Babua, from the desert of Jaisalmer. A ruthless man who is power hungry.",
-      "releaseInfo": 2026,
-      "imdbRating": 7.2
     },
     {
       "id": "tt22890246",
@@ -171,14 +151,24 @@
       "imdbRating": 6.4
     },
     {
-      "id": "tt36586020",
+      "id": "tt7526136",
       "type": "movie",
-      "name": "Other Mommy",
-      "poster": "https://images.metahub.space/poster/medium/tt36586020/img",
-      "background": "https://images.metahub.space/background/medium/tt36586020/img",
-      "description": "Young Bela forms a relationship with a sinister entity in her home that looks uncannily like her own mother, drawing her into a terrifying and increasingly dark world.",
+      "name": "Heart of the Beast",
+      "poster": "https://images.metahub.space/poster/medium/tt7526136/img",
+      "background": "https://images.metahub.space/background/medium/tt7526136/img",
+      "description": "After a harrowing plane crash, Special Forces officer James Belmont and his combat dog, Odin, find themselves stranded deep in the Alaskan wilderness. Together, they are forced into a brutal fight for survival against the elements.",
       "releaseInfo": 2026,
-      "imdbRating": 5.3
+      "imdbRating": 7.1
+    },
+    {
+      "id": "tt14113634",
+      "type": "movie",
+      "name": "Drishyam 3",
+      "poster": "https://images.metahub.space/poster/medium/tt14113634/img",
+      "background": "https://images.metahub.space/background/medium/tt14113634/img",
+      "description": "To protect his family and their dark secret, Georgekutty faces an organized new threat. As walls close in and cracks widen, how much more is he willing to sacrifice?",
+      "releaseInfo": 2026,
+      "imdbRating": 6.5
     },
     {
       "id": "tt2012616",
@@ -201,14 +191,14 @@
       "imdbRating": 6.2
     },
     {
-      "id": "tt32261958",
+      "id": "tt36586020",
       "type": "movie",
-      "name": "Verity",
-      "poster": "https://images.metahub.space/poster/medium/tt32261958/img",
-      "background": "https://images.metahub.space/background/medium/tt32261958/img",
-      "description": "Lowen Ashleigh, hired to ghostwrite for best-selling author Verity Crawford, uncovers Verity's autobiographical notes, and becomes involved in what may prove to be a lethal conspiracy.",
+      "name": "Other Mommy",
+      "poster": "https://images.metahub.space/poster/medium/tt36586020/img",
+      "background": "https://images.metahub.space/background/medium/tt36586020/img",
+      "description": "Young Bela forms a relationship with a sinister entity in her home that looks uncannily like her own mother, drawing her into a terrifying and increasingly dark world.",
       "releaseInfo": 2026,
-      "imdbRating": 6
+      "imdbRating": 5.3
     },
     {
       "id": "tt3011894",
@@ -221,6 +211,16 @@
       "imdbRating": 8.1
     },
     {
+      "id": "tt1160419",
+      "type": "movie",
+      "name": "Dune",
+      "poster": "https://images.metahub.space/poster/medium/tt1160419/img",
+      "background": "https://images.metahub.space/background/medium/tt1160419/img",
+      "description": "Paul Atreides, a brilliant and gifted young man born into a great destiny beyond his understanding, must travel to the most dangerous planet in the universe to ensure the future of his family and his people. As malevolent forces explode into conflict over the planet's exclusive supply of the most precious resource in existence - a commodity capable of unlocking humanity's greatest potential - only those who can conquer their fear will survive.",
+      "releaseInfo": 2021,
+      "imdbRating": 8
+    },
+    {
       "id": "tt35836025",
       "type": "movie",
       "name": "Vishwanath & Sons",
@@ -231,14 +231,14 @@
       "imdbRating": 7.1
     },
     {
-      "id": "tt0092654",
+      "id": "tt32261958",
       "type": "movie",
-      "name": "The Big Easy",
-      "poster": "https://images.metahub.space/poster/medium/tt0092654/img",
-      "background": "https://images.metahub.space/background/medium/tt0092654/img",
-      "description": "Remy McSwain is a New Orleans police lieutenant who investigates the murder of a local mobster. His investigation leads him to suspect that fellow members of the police force may be involved.",
-      "releaseInfo": 1986,
-      "imdbRating": 6.5
+      "name": "Verity",
+      "poster": "https://images.metahub.space/poster/medium/tt32261958/img",
+      "background": "https://images.metahub.space/background/medium/tt32261958/img",
+      "description": "Lowen Ashleigh, hired to ghostwrite for best-selling author Verity Crawford, uncovers Verity's autobiographical notes, and becomes involved in what may prove to be a lethal conspiracy.",
+      "releaseInfo": 2026,
+      "imdbRating": 6
     },
     {
       "id": "tt8490894",
@@ -251,24 +251,34 @@
       "imdbRating": 8
     },
     {
-      "id": "tt7526136",
+      "id": "tt0092654",
       "type": "movie",
-      "name": "Heart of the Beast",
-      "poster": "https://images.metahub.space/poster/medium/tt7526136/img",
-      "background": "https://images.metahub.space/background/medium/tt7526136/img",
-      "description": "After a harrowing plane crash, Special Forces officer James Belmont and his combat dog, Odin, find themselves stranded deep in the Alaskan wilderness. Together, they are forced into a brutal fight for survival against the elements.",
-      "releaseInfo": 2026,
-      "imdbRating": 7.1
+      "name": "The Big Easy",
+      "poster": "https://images.metahub.space/poster/medium/tt0092654/img",
+      "background": "https://images.metahub.space/background/medium/tt0092654/img",
+      "description": "Remy McSwain is a New Orleans police lieutenant who investigates the murder of a local mobster. His investigation leads him to suspect that fellow members of the police force may be involved.",
+      "releaseInfo": 1986,
+      "imdbRating": 6.5
     },
     {
-      "id": "tt40856286",
+      "id": "tt33379543",
       "type": "movie",
-      "name": "Vibe",
-      "poster": "https://images.metahub.space/poster/medium/tt40856286/img",
-      "background": "https://images.metahub.space/background/medium/tt40856286/img",
-      "description": "Two inseparable friends' ordinary, unassuming lives spiral into an unpredictable, high-energy adventure that pushes their survival instincts and friendship to the limit.",
+      "name": "Jana Nayagan",
+      "poster": "https://images.metahub.space/poster/medium/tt33379543/img",
+      "background": "https://images.metahub.space/background/medium/tt33379543/img",
+      "description": "A clash of ideologies. One stands for the people, the other feeds on control. Their paths collided once before. Years later, a child’s silent fear ignites the past, drawing a former police officer into a battle far bigger than personal revenge.",
       "releaseInfo": 2026,
-      "imdbRating": 6.6
+      "imdbRating": 5.1
+    },
+    {
+      "id": "tt39316936",
+      "type": "movie",
+      "name": "Clashing Through the Snow",
+      "poster": "https://images.metahub.space/poster/medium/tt39316936/img",
+      "background": "https://images.metahub.space/background/medium/tt39316936/img",
+      "description": "Rival publishing editors Ryan Mitchell and Hannah Hendricks are stranded by a holiday snowstorm and forced to share a rental car to New York, where a career-saving deal awaits them both. As roadside mishaps and small-town detours pile up, the holiday spirit begins to melt their fierce rivalry into something unexpected.",
+      "releaseInfo": 2026,
+      "imdbRating": 6
     },
     {
       "id": "tt10545296",
@@ -291,44 +301,14 @@
       "imdbRating": 8.5
     },
     {
-      "id": "tt1160419",
+      "id": "tt43723233",
       "type": "movie",
-      "name": "Dune",
-      "poster": "https://images.metahub.space/poster/medium/tt1160419/img",
-      "background": "https://images.metahub.space/background/medium/tt1160419/img",
-      "description": "Paul Atreides, a brilliant and gifted young man born into a great destiny beyond his understanding, must travel to the most dangerous planet in the universe to ensure the future of his family and his people. As malevolent forces explode into conflict over the planet's exclusive supply of the most precious resource in existence - a commodity capable of unlocking humanity's greatest potential - only those who can conquer their fear will survive.",
-      "releaseInfo": 2021,
-      "imdbRating": 8
-    },
-    {
-      "id": "tt31723358",
-      "type": "movie",
-      "name": "Tell Me What You Want",
-      "poster": "https://images.metahub.space/poster/medium/tt31723358/img",
-      "background": "https://images.metahub.space/background/medium/tt31723358/img",
-      "description": "After his father's death, Eric Zimmerman travels to Spain to oversee his company's branches. In Madrid, he falls for Judith and engage in an intense, erotic relationship full of exploration. However, Eric fears his secret may end their affair.",
-      "releaseInfo": 2024,
-      "imdbRating": 4.1
-    },
-    {
-      "id": "tt42655940",
-      "type": "movie",
-      "name": "Happy Journey",
-      "poster": "https://images.metahub.space/poster/medium/tt42655940/img",
-      "background": "https://images.metahub.space/background/medium/tt42655940/img",
-      "description": "Seven women from different generations leave their daily routines behind for a spontaneous getaway that sparks a journey of friendship and self-discovery.",
+      "name": "Drones",
+      "poster": "https://images.metahub.space/poster/medium/tt43723233/img",
+      "background": "https://images.metahub.space/background/medium/tt43723233/img",
+      "description": "A sleepwalking student, a mysterious miniature artist, an ancient witch, a doll house of trapped souls, and a cop cursed by love collide in a surreal world.",
       "releaseInfo": 2026,
-      "imdbRating": 8.2
-    },
-    {
-      "id": "tt0381061",
-      "type": "movie",
-      "name": "Casino Royale",
-      "poster": "https://images.metahub.space/poster/medium/tt0381061/img",
-      "background": "https://images.metahub.space/background/medium/tt0381061/img",
-      "description": "Le Chiffre, a banker to the world's terrorists, is scheduled to participate in a high-stakes poker game in Montenegro, where he intends to use his winnings to establish his financial grip on the terrorist market. M sends Bond—on his maiden mission as a 00 Agent—to attend this game and prevent Le Chiffre from winning. With the help of Vesper Lynd and Felix Leiter, Bond enters the most important poker game in his already dangerous career.",
-      "releaseInfo": 2006,
-      "imdbRating": 8
+      "imdbRating": 5.5
     },
     {
       "id": "tt18351090",
@@ -341,24 +321,24 @@
       "imdbRating": 5.3
     },
     {
-      "id": "tt27165187",
+      "id": "tt37510326",
       "type": "movie",
-      "name": "The End of Oak Street",
-      "poster": "https://images.metahub.space/poster/medium/tt27165187/img",
-      "background": "https://images.metahub.space/background/medium/tt27165187/img",
-      "description": "After a mysterious cosmic event rips Oak Street from suburbia and transports their neighborhood to someplace unknown, the Platt family soon discovers that their very survival depends on them sticking together as they navigate their now unrecognizable surroundings.",
+      "name": "The Social Reckoning",
+      "poster": "https://images.metahub.space/poster/medium/tt37510326/img",
+      "background": "https://images.metahub.space/background/medium/tt37510326/img",
+      "description": "Frances Haugen, a young Facebook engineer, enlists the help of Jeff Horwitz, a Wall Street Journal reporter, to go on a dangerous journey that ends up blowing the whistle on the social network's most guarded secrets.",
       "releaseInfo": 2026,
-      "imdbRating": 6.1
+      "imdbRating": 6.6
     },
     {
-      "id": "tt2436386",
+      "id": "tt14173636",
       "type": "movie",
-      "name": "Project Almanac",
-      "poster": "https://images.metahub.space/poster/medium/tt2436386/img",
-      "background": "https://images.metahub.space/background/medium/tt2436386/img",
-      "description": "A group of teens discover secret plans of a time machine, and construct one. However, things start to get out of control.",
-      "releaseInfo": 2015,
-      "imdbRating": 6.4
+      "name": "The Invite",
+      "poster": "https://images.metahub.space/poster/medium/tt14173636/img",
+      "background": "https://images.metahub.space/background/medium/tt14173636/img",
+      "description": "Joe and Angela's marriage is on the rocks. When they invite their enigmatic upstairs neighbors over for dinner, the evening takes an unexpected turn.",
+      "releaseInfo": 2026,
+      "imdbRating": 7.4
     },
     {
       "id": "tt15239678",
@@ -371,44 +351,14 @@
       "imdbRating": 8.4
     },
     {
-      "id": "tt37535100",
+      "id": "tt33381528",
       "type": "movie",
-      "name": "Bethlehem Kudumba Unit",
-      "poster": "https://images.metahub.space/poster/medium/tt37535100/img",
-      "background": "https://images.metahub.space/background/medium/tt37535100/img",
-      "description": "Ashley's homecoming from abroad takes an emotional turn when a wedding next door stirs memories of her first love, Justin.",
+      "name": "Premada Oorali",
+      "poster": "https://images.metahub.space/poster/medium/tt33381528/img",
+      "background": "https://images.metahub.space/background/medium/tt33381528/img",
+      "description": "Premada Oorali is a heartfelt love story set in picturesque villages in the 2020s. The film intertwines romance and family drama, exploring the relationships between a father and son, as well as a boy and girl, as they navigate through intriguing, yet relatable, relationship challenges.",
       "releaseInfo": 2026,
-      "imdbRating": 8
-    },
-    {
-      "id": "tt1392170",
-      "type": "movie",
-      "name": "The Hunger Games",
-      "poster": "https://images.metahub.space/poster/medium/tt1392170/img",
-      "background": "https://images.metahub.space/background/medium/tt1392170/img",
-      "description": "In a dystopian society where the Capitol forces each district to send two young tributes to fight to the death in a televised spectacle, a girl volunteers to take her sister’s place, setting the stage for a struggle of survival and defiance.",
-      "releaseInfo": 2012,
-      "imdbRating": 7.2
-    },
-    {
-      "id": "tt43723233",
-      "type": "movie",
-      "name": "Drones",
-      "poster": "https://images.metahub.space/poster/medium/tt43723233/img",
-      "background": "https://images.metahub.space/background/medium/tt43723233/img",
-      "description": "A sleepwalking student, a mysterious miniature artist, an ancient witch, a doll house of trapped souls, and a cop cursed by love collide in a surreal world.",
-      "releaseInfo": 2026,
-      "imdbRating": 5.5
-    },
-    {
-      "id": "tt0477348",
-      "type": "movie",
-      "name": "No Country for Old Men",
-      "poster": "https://images.metahub.space/poster/medium/tt0477348/img",
-      "background": "https://images.metahub.space/background/medium/tt0477348/img",
-      "description": "Llewelyn Moss stumbles upon dead bodies, $2 million and a hoard of heroin in a Texas desert, but methodical killer Anton Chigurh comes looking for it, with local sheriff Ed Tom Bell hot on his trail. The roles of prey and predator blur as the violent pursuit of money and justice collide.",
-      "releaseInfo": 2007,
-      "imdbRating": 8.2
+      "imdbRating": 7.4
     },
     {
       "id": "tt2322441",
@@ -421,34 +371,14 @@
       "imdbRating": 4.2
     },
     {
-      "id": "tt39316936",
+      "id": "tt1392170",
       "type": "movie",
-      "name": "Clashing Through the Snow",
-      "poster": "https://images.metahub.space/poster/medium/tt39316936/img",
-      "background": "https://images.metahub.space/background/medium/tt39316936/img",
-      "description": "Rival publishing editors Ryan Mitchell and Hannah Hendricks are stranded by a holiday snowstorm and forced to share a rental car to New York, where a career-saving deal awaits them both. As roadside mishaps and small-town detours pile up, the holiday spirit begins to melt their fierce rivalry into something unexpected.",
-      "releaseInfo": 2026,
-      "imdbRating": 6
-    },
-    {
-      "id": "tt0120663",
-      "type": "movie",
-      "name": "Eyes Wide Shut",
-      "poster": "https://images.metahub.space/poster/medium/tt0120663/img",
-      "background": "https://images.metahub.space/background/medium/tt0120663/img",
-      "description": "After Dr. Bill Harford's wife, Alice, admits to having sexual fantasies about a man she met, Bill becomes obsessed with having a sexual encounter. He discovers an underground sexual group and attends one of their meetings -- and quickly discovers that he is in over his head.",
-      "releaseInfo": 1999,
-      "imdbRating": 7.5
-    },
-    {
-      "id": "tt39139925",
-      "type": "movie",
-      "name": "Dhurandhar: The Revenge",
-      "poster": "https://images.metahub.space/poster/medium/tt39139925/img",
-      "background": "https://images.metahub.space/background/medium/tt39139925/img",
-      "description": "Jaskirat Singh Rangi descends deeper into his alias as Hamza Ali Mazari, rising through Karachi's criminal hierarchy to claim the feared title \"Sher-e-Baloch\" while balancing loyalty, betrayal, and survival in a ruthless underworld.",
-      "releaseInfo": 2026,
-      "imdbRating": 8.2
+      "name": "The Hunger Games",
+      "poster": "https://images.metahub.space/poster/medium/tt1392170/img",
+      "background": "https://images.metahub.space/background/medium/tt1392170/img",
+      "description": "In a dystopian society where the Capitol forces each district to send two young tributes to fight to the death in a televised spectacle, a girl volunteers to take her sister’s place, setting the stage for a struggle of survival and defiance.",
+      "releaseInfo": 2012,
+      "imdbRating": 7.2
     },
     {
       "id": "tt4832640",
@@ -471,6 +401,26 @@
       "imdbRating": 7.3
     },
     {
+      "id": "tt2911666",
+      "type": "movie",
+      "name": "John Wick",
+      "poster": "https://images.metahub.space/poster/medium/tt2911666/img",
+      "background": "https://images.metahub.space/background/medium/tt2911666/img",
+      "description": "Ex-hitman John Wick comes out of retirement to track down the gangsters that took everything from him.",
+      "releaseInfo": 2014,
+      "imdbRating": 7.5
+    },
+    {
+      "id": "tt37535100",
+      "type": "movie",
+      "name": "Bethlehem Kudumba Unit",
+      "poster": "https://images.metahub.space/poster/medium/tt37535100/img",
+      "background": "https://images.metahub.space/background/medium/tt37535100/img",
+      "description": "Ashley's homecoming from abroad takes an emotional turn when a wedding next door stirs memories of her first love, Justin.",
+      "releaseInfo": 2026,
+      "imdbRating": 8
+    },
+    {
       "id": "tt14413964",
       "type": "movie",
       "name": "Steps",
@@ -479,6 +429,26 @@
       "description": "Blamed for magical mischief at the Royal Ball, stepsister Lilith turns her sister into a frog. She must work with Cinderella and a troll to save the kingdom and prove villains deserve happy endings too.",
       "releaseInfo": 2026,
       "imdbRating": 6.8
+    },
+    {
+      "id": "tt0381061",
+      "type": "movie",
+      "name": "Casino Royale",
+      "poster": "https://images.metahub.space/poster/medium/tt0381061/img",
+      "background": "https://images.metahub.space/background/medium/tt0381061/img",
+      "description": "Le Chiffre, a banker to the world's terrorists, is scheduled to participate in a high-stakes poker game in Montenegro, where he intends to use his winnings to establish his financial grip on the terrorist market. M sends Bond—on his maiden mission as a 00 Agent—to attend this game and prevent Le Chiffre from winning. With the help of Vesper Lynd and Felix Leiter, Bond enters the most important poker game in his already dangerous career.",
+      "releaseInfo": 2006,
+      "imdbRating": 8
+    },
+    {
+      "id": "tt0120663",
+      "type": "movie",
+      "name": "Eyes Wide Shut",
+      "poster": "https://images.metahub.space/poster/medium/tt0120663/img",
+      "background": "https://images.metahub.space/background/medium/tt0120663/img",
+      "description": "After Dr. Bill Harford's wife, Alice, admits to having sexual fantasies about a man she met, Bill becomes obsessed with having a sexual encounter. He discovers an underground sexual group and attends one of their meetings -- and quickly discovers that he is in over his head.",
+      "releaseInfo": 1999,
+      "imdbRating": 7.5
     },
     {
       "id": "tt0970866",
@@ -491,14 +461,44 @@
       "imdbRating": 5.5
     },
     {
-      "id": "tt0332452",
+      "id": "tt0120903",
       "type": "movie",
-      "name": "Troy",
-      "poster": "https://images.metahub.space/poster/medium/tt0332452/img",
-      "background": "https://images.metahub.space/background/medium/tt0332452/img",
-      "description": "In year 1250 B.C. during the late Bronze age, two emerging nations begin to clash. Paris, the Trojan prince, convinces Helen, Queen of Sparta, to leave her husband Menelaus, and sail with him back to Troy. After Menelaus finds out that his wife was taken by the Trojans, he asks his brother Agamemnon to help him get her back. Agamemnon sees this as an opportunity for power. They set off with 1,000 ships holding 50,000 Greeks to Troy.",
-      "releaseInfo": 2004,
+      "name": "X-Men",
+      "poster": "https://images.metahub.space/poster/medium/tt0120903/img",
+      "background": "https://images.metahub.space/background/medium/tt0120903/img",
+      "description": "Two mutants, Rogue and Wolverine, come to a private academy for their kind whose resident superhero team, the X-Men, must oppose a terrorist organization with similar powers.",
+      "releaseInfo": 2000,
       "imdbRating": 7.3
+    },
+    {
+      "id": "tt0477348",
+      "type": "movie",
+      "name": "No Country for Old Men",
+      "poster": "https://images.metahub.space/poster/medium/tt0477348/img",
+      "background": "https://images.metahub.space/background/medium/tt0477348/img",
+      "description": "Llewelyn Moss stumbles upon dead bodies, $2 million and a hoard of heroin in a Texas desert, but methodical killer Anton Chigurh comes looking for it, with local sheriff Ed Tom Bell hot on his trail. The roles of prey and predator blur as the violent pursuit of money and justice collide.",
+      "releaseInfo": 2007,
+      "imdbRating": 8.2
+    },
+    {
+      "id": "tt32491690",
+      "type": "movie",
+      "name": "Dark Nuns",
+      "poster": "https://images.metahub.space/poster/medium/tt32491690/img",
+      "background": "https://images.metahub.space/background/medium/tt32491690/img",
+      "description": "Desperation drives two nuns to perform an exorcism no nun should attempt. With a possessed child at the mercy of evil and the opposition of the Catholic Church, they take on the dangerous forbidden rituals themselves, putting their immortal souls in grave danger. They must confront the terrifying cost of their sacrilegious actions, but one goal remains: the boy must be saved at all costs.",
+      "releaseInfo": 2025,
+      "imdbRating": 5.2
+    },
+    {
+      "id": "tt34284946",
+      "type": "movie",
+      "name": "I'm Game",
+      "poster": "https://images.metahub.space/poster/medium/tt34284946/img",
+      "background": "https://images.metahub.space/background/medium/tt34284946/img",
+      "description": "A fearless gambler who trusts luck more than life gets caught in a series of crazy and unexpected events that turn his world upside down.",
+      "releaseInfo": 2026,
+      "imdbRating": 5.9
     }
   ]
 }
