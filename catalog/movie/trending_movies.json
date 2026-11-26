@@ -251,16 +251,6 @@
       "imdbRating": 8
     },
     {
-      "id": "tt0092654",
-      "type": "movie",
-      "name": "The Big Easy",
-      "poster": "https://images.metahub.space/poster/medium/tt0092654/img",
-      "background": "https://images.metahub.space/background/medium/tt0092654/img",
-      "description": "Remy McSwain is a New Orleans police lieutenant who investigates the murder of a local mobster. His investigation leads him to suspect that fellow members of the police force may be involved.",
-      "releaseInfo": 1986,
-      "imdbRating": 6.5
-    },
-    {
       "id": "tt33379543",
       "type": "movie",
       "name": "Jana Nayagan",
@@ -351,6 +341,16 @@
       "imdbRating": 8.4
     },
     {
+      "id": "tt0092654",
+      "type": "movie",
+      "name": "The Big Easy",
+      "poster": "https://images.metahub.space/poster/medium/tt0092654/img",
+      "background": "https://images.metahub.space/background/medium/tt0092654/img",
+      "description": "Remy McSwain is a New Orleans police lieutenant who investigates the murder of a local mobster. His investigation leads him to suspect that fellow members of the police force may be involved.",
+      "releaseInfo": 1986,
+      "imdbRating": 6.5
+    },
+    {
       "id": "tt33381528",
       "type": "movie",
       "name": "Premada Oorali",
@@ -431,6 +431,16 @@
       "imdbRating": 6.8
     },
     {
+      "id": "tt42655940",
+      "type": "movie",
+      "name": "Happy Journey",
+      "poster": "https://images.metahub.space/poster/medium/tt42655940/img",
+      "background": "https://images.metahub.space/background/medium/tt42655940/img",
+      "description": "Seven women from different generations leave their daily routines behind for a spontaneous getaway that sparks a journey of friendship and self-discovery.",
+      "releaseInfo": 2026,
+      "imdbRating": 8.2
+    },
+    {
       "id": "tt0381061",
       "type": "movie",
       "name": "Casino Royale",
@@ -489,16 +499,6 @@
       "description": "Desperation drives two nuns to perform an exorcism no nun should attempt. With a possessed child at the mercy of evil and the opposition of the Catholic Church, they take on the dangerous forbidden rituals themselves, putting their immortal souls in grave danger. They must confront the terrifying cost of their sacrilegious actions, but one goal remains: the boy must be saved at all costs.",
       "releaseInfo": 2025,
       "imdbRating": 5.2
-    },
-    {
-      "id": "tt34284946",
-      "type": "movie",
-      "name": "I'm Game",
-      "poster": "https://images.metahub.space/poster/medium/tt34284946/img",
-      "background": "https://images.metahub.space/background/medium/tt34284946/img",
-      "description": "A fearless gambler who trusts luck more than life gets caught in a series of crazy and unexpected events that turn his world upside down.",
-      "releaseInfo": 2026,
-      "imdbRating": 5.9
     }
   ]
 }
