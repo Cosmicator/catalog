@@ -8,7 +8,7 @@
       "background": "https://images.metahub.space/background/medium/tt33764258/img",
       "description": "Odysseus, the legendary King of Ithaca, embarks on a long and perilous journey home following the Trojan War. Throughout his voyage, he is forced to confront the whims of gods, mythological monsters, and trials that stretch both his cunning and his humanity to the breaking point.",
       "releaseInfo": 2026,
-      "imdbRating": 8.4
+      "imdbRating": 8.3
     },
     {
       "id": "tt10886166",
@@ -28,7 +28,17 @@
       "background": "https://images.metahub.space/background/medium/tt38984184/img",
       "description": "Set in a medical college in a dread-stricken village, the film confronts the science behind superstitions, the superstitions in science, and an anomaly that neither can explain.",
       "releaseInfo": 2026,
-      "imdbRating": 7.4
+      "imdbRating": 7.3
+    },
+    {
+      "id": "tt27050858",
+      "type": "movie",
+      "name": "Drishyam: The Conclusion",
+      "poster": "https://images.metahub.space/poster/medium/tt27050858/img",
+      "background": "https://images.metahub.space/background/medium/tt27050858/img",
+      "description": "Years after outsmarting the police, Vijay Salgaonkar's past resurfaces when a new evidence threatens to expose his secret. As the investigation reopens, he must outwit the system once again to save his family.",
+      "releaseInfo": 2026,
+      "imdbRating": 7.6
     },
     {
       "id": "tt39378361",
@@ -38,7 +48,7 @@
       "background": "https://images.metahub.space/background/medium/tt39378361/img",
       "description": "Mayookha, a young professional living alone in a urban city. When a string of brutal murders rocks the city, targeting single women . She starts noticing strange occurrences around her apartment. She's convinced she's the next target.",
       "releaseInfo": 2026,
-      "imdbRating": 8.2
+      "imdbRating": 8.1
     },
     {
       "id": "tt22084616",
@@ -268,7 +278,7 @@
       "background": "https://images.metahub.space/background/medium/tt43723233/img",
       "description": "A sleepwalking student, a mysterious miniature artist, an ancient witch, a doll house of trapped souls, and a cop cursed by love collide in a surreal world.",
       "releaseInfo": 2026,
-      "imdbRating": 5.5
+      "imdbRating": 5.3
     },
     {
       "id": "tt3011894",
@@ -318,7 +328,7 @@
       "background": "https://images.metahub.space/background/medium/tt18351090/img",
       "description": "Jude Derry arrives at the exclusive Tagus university with a hidden mission: to infiltrate the circle of the Cash brothers and uncover the truth about her brother's death. What begins as revenge turns into a dangerous triangle of seduction, forbidden attraction and lies, drawing her toward a truth she may not be ready to face.",
       "releaseInfo": 2026,
-      "imdbRating": 5.4
+      "imdbRating": 5.3
     },
     {
       "id": "tt34284946",
@@ -391,16 +401,6 @@
       "imdbRating": 6.3
     },
     {
-      "id": "tt4172430",
-      "type": "movie",
-      "name": "13 Hours: The Secret Soldiers of Benghazi",
-      "poster": "https://images.metahub.space/poster/medium/tt4172430/img",
-      "background": "https://images.metahub.space/background/medium/tt4172430/img",
-      "description": "An American Ambassador is killed during an attack at a U.S. compound in Libya as a security team struggles to make sense out of the chaos.",
-      "releaseInfo": 2016,
-      "imdbRating": 7.3
-    },
-    {
       "id": "tt14413964",
       "type": "movie",
       "name": "Steps",
@@ -408,7 +408,7 @@
       "background": "https://images.metahub.space/background/medium/tt14413964/img",
       "description": "Blamed for magical mischief at the Royal Ball, stepsister Lilith turns her sister into a frog. She must work with Cinderella and a troll to save the kingdom and prove villains deserve happy endings too.",
       "releaseInfo": 2026,
-      "imdbRating": 6.8
+      "imdbRating": 6.7
     },
     {
       "id": "tt4832640",
@@ -441,6 +441,16 @@
       "imdbRating": 7.3
     },
     {
+      "id": "tt30768979",
+      "type": "movie",
+      "name": "Aadarsha Kutumbam House No: 47 - AK47",
+      "poster": "https://images.metahub.space/poster/medium/tt30768979/img",
+      "background": "https://images.metahub.space/background/medium/tt30768979/img",
+      "description": "A tight-knit family faces an unexpected crisis that threatens their bond, forcing them to re-evaluate their values and fight to stay united.",
+      "releaseInfo": 2026,
+      "imdbRating": 5.9
+    },
+    {
       "id": "tt0092654",
       "type": "movie",
       "name": "The Big Easy",
@@ -468,16 +478,6 @@
       "background": "https://images.metahub.space/background/medium/tt0477348/img",
       "description": "Llewelyn Moss stumbles upon dead bodies, $2 million and a hoard of heroin in a Texas desert, but methodical killer Anton Chigurh comes looking for it, with local sheriff Ed Tom Bell hot on his trail. The roles of prey and predator blur as the violent pursuit of money and justice collide.",
       "releaseInfo": 2007,
-      "imdbRating": 8.2
-    },
-    {
-      "id": "tt42655940",
-      "type": "movie",
-      "name": "Happy Journey",
-      "poster": "https://images.metahub.space/poster/medium/tt42655940/img",
-      "background": "https://images.metahub.space/background/medium/tt42655940/img",
-      "description": "Seven women from different generations leave their daily routines behind for a spontaneous getaway that sparks a journey of friendship and self-discovery.",
-      "releaseInfo": 2026,
       "imdbRating": 8.2
     },
     {
