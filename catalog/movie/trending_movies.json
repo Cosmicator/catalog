@@ -21,6 +21,16 @@
       "imdbRating": 3.3
     },
     {
+      "id": "tt22084616",
+      "type": "movie",
+      "name": "Spider-Man: Brand New Day",
+      "poster": "https://images.metahub.space/poster/medium/tt22084616/img",
+      "background": "https://images.metahub.space/background/medium/tt22084616/img",
+      "description": "Fighting crime full-time as Spider-Man in a world that doesn't remember him—and the pressure of seeing his old friends move on without him—sparks a change in Peter Parker he may not have the power to control. But that transformation might also be the only thing that can stop a shocking new threat to the city and those he loves - a powerful villain no one can even see.",
+      "releaseInfo": 2026,
+      "imdbRating": 7.9
+    },
+    {
       "id": "tt38984184",
       "type": "movie",
       "name": "418",
@@ -51,26 +61,6 @@
       "imdbRating": 8.1
     },
     {
-      "id": "tt22084616",
-      "type": "movie",
-      "name": "Spider-Man: Brand New Day",
-      "poster": "https://images.metahub.space/poster/medium/tt22084616/img",
-      "background": "https://images.metahub.space/background/medium/tt22084616/img",
-      "description": "Fighting crime full-time as Spider-Man in a world that doesn't remember him—and the pressure of seeing his old friends move on without him—sparks a change in Peter Parker he may not have the power to control. But that transformation might also be the only thing that can stop a shocking new threat to the city and those he loves - a powerful villain no one can even see.",
-      "releaseInfo": 2026,
-      "imdbRating": 7.9
-    },
-    {
-      "id": "tt36915004",
-      "type": "movie",
-      "name": "#Cult",
-      "poster": "https://images.metahub.space/poster/medium/tt36915004/img",
-      "background": "https://images.metahub.space/background/medium/tt36915004/img",
-      "description": "A group of young boys head to a party expecting a night of fun, but soon discover the reality is far darker than they imagined. What starts as excitement spirals into terror, pushing them into a brutal fight for survival.",
-      "releaseInfo": 2026,
-      "imdbRating": 4.1
-    },
-    {
       "id": "tt39239818",
       "type": "movie",
       "name": "Haiku",
@@ -79,16 +69,6 @@
       "description": "A charismatic young man uses poetry to navigate the complex maze of modern romance to protect his fragile relationship. Later, he must overcome deep generational divides to keep his love alive.",
       "releaseInfo": 2026,
       "imdbRating": 6
-    },
-    {
-      "id": "tt34498564",
-      "type": "movie",
-      "name": "The Vvaan: Force of the Forrest",
-      "poster": "https://images.metahub.space/poster/medium/tt34498564/img",
-      "background": "https://images.metahub.space/background/medium/tt34498564/img",
-      "description": "A rational urban man defies his ancestral village's forbidden forest and awakens a divine goddess, forcing him to confront powers beyond logic as he becomes the unlikely saviour protecting his people from annihilation.",
-      "releaseInfo": 2026,
-      "imdbRating": 5.4
     },
     {
       "id": "tt33318732",
@@ -101,6 +81,26 @@
       "imdbRating": 7.7
     },
     {
+      "id": "tt34498564",
+      "type": "movie",
+      "name": "The Vvaan: Force of the Forrest",
+      "poster": "https://images.metahub.space/poster/medium/tt34498564/img",
+      "background": "https://images.metahub.space/background/medium/tt34498564/img",
+      "description": "A rational urban man defies his ancestral village's forbidden forest and awakens a divine goddess, forcing him to confront powers beyond logic as he becomes the unlikely saviour protecting his people from annihilation.",
+      "releaseInfo": 2026,
+      "imdbRating": 5.4
+    },
+    {
+      "id": "tt36915004",
+      "type": "movie",
+      "name": "#Cult",
+      "poster": "https://images.metahub.space/poster/medium/tt36915004/img",
+      "background": "https://images.metahub.space/background/medium/tt36915004/img",
+      "description": "A group of young boys head to a party expecting a night of fun, but soon discover the reality is far darker than they imagined. What starts as excitement spirals into terror, pushing them into a brutal fight for survival.",
+      "releaseInfo": 2026,
+      "imdbRating": 4.1
+    },
+    {
       "id": "tt7526136",
       "type": "movie",
       "name": "Heart of the Beast",
@@ -111,16 +111,6 @@
       "imdbRating": 7.1
     },
     {
-      "id": "tt23289160",
-      "type": "movie",
-      "name": "Godzilla Minus One",
-      "poster": "https://images.metahub.space/poster/medium/tt23289160/img",
-      "background": "https://images.metahub.space/background/medium/tt23289160/img",
-      "description": "In postwar Japan, Godzilla brings new devastation to an already scorched landscape. With no military intervention or government help in sight, the survivors must join together in the face of despair and fight back against an unrelenting horror.",
-      "releaseInfo": 2023,
-      "imdbRating": 7.6
-    },
-    {
       "id": "tt39316936",
       "type": "movie",
       "name": "Clashing Through the Snow",
@@ -129,6 +119,16 @@
       "description": "Rival publishing editors Ryan Mitchell and Hannah Hendricks are stranded by a holiday snowstorm and forced to share a rental car to New York, where a career-saving deal awaits them both. As roadside mishaps and small-town detours pile up, the holiday spirit begins to melt their fierce rivalry into something unexpected.",
       "releaseInfo": 2026,
       "imdbRating": 5.8
+    },
+    {
+      "id": "tt23289160",
+      "type": "movie",
+      "name": "Godzilla Minus One",
+      "poster": "https://images.metahub.space/poster/medium/tt23289160/img",
+      "background": "https://images.metahub.space/background/medium/tt23289160/img",
+      "description": "In postwar Japan, Godzilla brings new devastation to an already scorched landscape. With no military intervention or government help in sight, the survivors must join together in the face of despair and fight back against an unrelenting horror.",
+      "releaseInfo": 2023,
+      "imdbRating": 7.6
     },
     {
       "id": "tt22890246",
@@ -151,16 +151,6 @@
       "imdbRating": 7.4
     },
     {
-      "id": "tt32324552",
-      "type": "movie",
-      "name": "Ranabaali",
-      "poster": "https://images.metahub.space/poster/medium/tt32324552/img",
-      "background": "https://images.metahub.space/background/medium/tt32324552/img",
-      "description": "Set in 19th-century British India, a fierce leader rises from a drought-stricken land to fight colonial oppression and atrocities.",
-      "releaseInfo": 2026,
-      "imdbRating": 6.7
-    },
-    {
       "id": "tt37287335",
       "type": "movie",
       "name": "Obsession",
@@ -169,16 +159,6 @@
       "description": "After breaking the mysterious \"One Wish Willow\" to win his crush's heart, a hopeless romantic finds himself getting exactly what he asked for but soon discovers that some desires come at a dark, sinister price.",
       "releaseInfo": 2026,
       "imdbRating": 7.8
-    },
-    {
-      "id": "tt14113634",
-      "type": "movie",
-      "name": "Drishyam 3",
-      "poster": "https://images.metahub.space/poster/medium/tt14113634/img",
-      "background": "https://images.metahub.space/background/medium/tt14113634/img",
-      "description": "To protect his family and their dark secret, Georgekutty faces an organized new threat. As walls close in and cracks widen, how much more is he willing to sacrifice?",
-      "releaseInfo": 2026,
-      "imdbRating": 6.5
     },
     {
       "id": "tt34339725",
@@ -191,16 +171,6 @@
       "imdbRating": 7.2
     },
     {
-      "id": "tt2012616",
-      "type": "movie",
-      "name": "Motor City",
-      "poster": "https://images.metahub.space/poster/medium/tt2012616/img",
-      "background": "https://images.metahub.space/background/medium/tt2012616/img",
-      "description": "In 1970s Detroit, John Miller falls for a local gangster's girl and lands in prison for a crime he didn't commit. With his life ruined, Miller plots revenge against the man who took his girl away.",
-      "releaseInfo": 2026,
-      "imdbRating": 5.7
-    },
-    {
       "id": "tt44090278",
       "type": "movie",
       "name": "Baththa",
@@ -209,6 +179,16 @@
       "description": "In 1986 Madras, a timid eight-year-old boy accidentally locks a feared criminal inside a school restroom. As the man faces hunger and isolation, an unexpected friendship forms between them, transforming both their lives.",
       "releaseInfo": 2026,
       "imdbRating": 8.5
+    },
+    {
+      "id": "tt14113634",
+      "type": "movie",
+      "name": "Drishyam 3",
+      "poster": "https://images.metahub.space/poster/medium/tt14113634/img",
+      "background": "https://images.metahub.space/background/medium/tt14113634/img",
+      "description": "To protect his family and their dark secret, Georgekutty faces an organized new threat. As walls close in and cracks widen, how much more is he willing to sacrifice?",
+      "releaseInfo": 2026,
+      "imdbRating": 6.5
     },
     {
       "id": "tt1160419",
@@ -221,12 +201,52 @@
       "imdbRating": 8
     },
     {
+      "id": "tt37510326",
+      "type": "movie",
+      "name": "The Social Reckoning",
+      "poster": "https://images.metahub.space/poster/medium/tt37510326/img",
+      "background": "https://images.metahub.space/background/medium/tt37510326/img",
+      "description": "Frances Haugen, a young Facebook engineer, enlists the help of Jeff Horwitz, a Wall Street Journal reporter, to go on a dangerous journey that ends up blowing the whistle on the social network's most guarded secrets.",
+      "releaseInfo": 2026,
+      "imdbRating": 6.6
+    },
+    {
       "id": "tt36586020",
       "type": "movie",
       "name": "Other Mommy",
       "poster": "https://images.metahub.space/poster/medium/tt36586020/img",
       "background": "https://images.metahub.space/background/medium/tt36586020/img",
       "description": "Young Bela forms a relationship with a sinister entity in her home that looks uncannily like her own mother, drawing her into a terrifying and increasingly dark world.",
+      "releaseInfo": 2026,
+      "imdbRating": 5.3
+    },
+    {
+      "id": "tt36413910",
+      "type": "movie",
+      "name": "The Mosquito Bowl",
+      "poster": "https://images.metahub.space/poster/medium/tt36413910/img",
+      "background": "https://images.metahub.space/background/medium/tt36413910/img",
+      "description": "After Pearl Harbor, four star college footballers join the Marines. Before facing Okinawa's invasion, they participate in a historic game with legendary players - for many, their final match.",
+      "releaseInfo": 2026,
+      "imdbRating": 6.6
+    },
+    {
+      "id": "tt33379543",
+      "type": "movie",
+      "name": "Jana Nayagan",
+      "poster": "https://images.metahub.space/poster/medium/tt33379543/img",
+      "background": "https://images.metahub.space/background/medium/tt33379543/img",
+      "description": "A clash of ideologies. One stands for the people, the other feeds on control. Their paths collided once before. Years later, a child’s silent fear ignites the past, drawing a former police officer into a battle far bigger than personal revenge.",
+      "releaseInfo": 2026,
+      "imdbRating": 5.1
+    },
+    {
+      "id": "tt43723233",
+      "type": "movie",
+      "name": "Drones",
+      "poster": "https://images.metahub.space/poster/medium/tt43723233/img",
+      "background": "https://images.metahub.space/background/medium/tt43723233/img",
+      "description": "A sleepwalking student, a mysterious miniature artist, an ancient witch, a doll house of trapped souls, and a cop cursed by love collide in a surreal world.",
       "releaseInfo": 2026,
       "imdbRating": 5.3
     },
@@ -241,26 +261,6 @@
       "imdbRating": 7.1
     },
     {
-      "id": "tt8490894",
-      "type": "movie",
-      "name": "Ee Nagaraniki Emaindi?",
-      "poster": "https://images.metahub.space/poster/medium/tt8490894/img",
-      "background": "https://images.metahub.space/background/medium/tt8490894/img",
-      "description": "Four friends, each with their own career aspirations, team up to make a short film during a trip to Goa.",
-      "releaseInfo": 2018,
-      "imdbRating": 8
-    },
-    {
-      "id": "tt37510326",
-      "type": "movie",
-      "name": "The Social Reckoning",
-      "poster": "https://images.metahub.space/poster/medium/tt37510326/img",
-      "background": "https://images.metahub.space/background/medium/tt37510326/img",
-      "description": "Frances Haugen, a young Facebook engineer, enlists the help of Jeff Horwitz, a Wall Street Journal reporter, to go on a dangerous journey that ends up blowing the whistle on the social network's most guarded secrets.",
-      "releaseInfo": 2026,
-      "imdbRating": 6.6
-    },
-    {
       "id": "tt32261958",
       "type": "movie",
       "name": "Verity",
@@ -271,14 +271,24 @@
       "imdbRating": 6
     },
     {
-      "id": "tt43723233",
+      "id": "tt37645628",
       "type": "movie",
-      "name": "Drones",
-      "poster": "https://images.metahub.space/poster/medium/tt43723233/img",
-      "background": "https://images.metahub.space/background/medium/tt43723233/img",
-      "description": "A sleepwalking student, a mysterious miniature artist, an ancient witch, a doll house of trapped souls, and a cop cursed by love collide in a surreal world.",
+      "name": "Garividi Lakshmi",
+      "poster": "https://images.metahub.space/poster/medium/tt37645628/img",
+      "background": "https://images.metahub.space/background/medium/tt37645628/img",
+      "description": "The life of Garividi Lakshmi, a legendary folk singer from Andhra Pradesh who performed Burrakatha and transformed the traditional art form into a movement, winning thousands of hearts with her songs.",
       "releaseInfo": 2026,
-      "imdbRating": 5.3
+      "imdbRating": 9
+    },
+    {
+      "id": "tt8490894",
+      "type": "movie",
+      "name": "Ee Nagaraniki Emaindi?",
+      "poster": "https://images.metahub.space/poster/medium/tt8490894/img",
+      "background": "https://images.metahub.space/background/medium/tt8490894/img",
+      "description": "Four friends, each with their own career aspirations, team up to make a short film during a trip to Goa.",
+      "releaseInfo": 2018,
+      "imdbRating": 8
     },
     {
       "id": "tt3011894",
@@ -291,76 +301,6 @@
       "imdbRating": 8.1
     },
     {
-      "id": "tt33379543",
-      "type": "movie",
-      "name": "Jana Nayagan",
-      "poster": "https://images.metahub.space/poster/medium/tt33379543/img",
-      "background": "https://images.metahub.space/background/medium/tt33379543/img",
-      "description": "A clash of ideologies. One stands for the people, the other feeds on control. Their paths collided once before. Years later, a child’s silent fear ignites the past, drawing a former police officer into a battle far bigger than personal revenge.",
-      "releaseInfo": 2026,
-      "imdbRating": 5.1
-    },
-    {
-      "id": "tt14173636",
-      "type": "movie",
-      "name": "The Invite",
-      "poster": "https://images.metahub.space/poster/medium/tt14173636/img",
-      "background": "https://images.metahub.space/background/medium/tt14173636/img",
-      "description": "Joe and Angela's marriage is on the rocks. When they invite their enigmatic upstairs neighbors over for dinner, the evening takes an unexpected turn.",
-      "releaseInfo": 2026,
-      "imdbRating": 7.4
-    },
-    {
-      "id": "tt6611324",
-      "type": "movie",
-      "name": "Guarding Stars",
-      "poster": "https://images.metahub.space/poster/medium/tt6611324/img",
-      "background": "https://images.metahub.space/background/medium/tt6611324/img",
-      "description": "A skilled bodyguard is assigned to protect a reclusive movie star from a stalker and must pose as his girlfriend to keep the threat hidden. On his family ranch, the assignment blurs lines as proximity complicates the job.",
-      "releaseInfo": 2026,
-      "imdbRating": 6.1
-    },
-    {
-      "id": "tt18351090",
-      "type": "movie",
-      "name": "Perfect Liars",
-      "poster": "https://images.metahub.space/poster/medium/tt18351090/img",
-      "background": "https://images.metahub.space/background/medium/tt18351090/img",
-      "description": "Jude Derry arrives at the exclusive Tagus university with a hidden mission: to infiltrate the circle of the Cash brothers and uncover the truth about her brother's death. What begins as revenge turns into a dangerous triangle of seduction, forbidden attraction and lies, drawing her toward a truth she may not be ready to face.",
-      "releaseInfo": 2026,
-      "imdbRating": 5.3
-    },
-    {
-      "id": "tt34284946",
-      "type": "movie",
-      "name": "I'm Game",
-      "poster": "https://images.metahub.space/poster/medium/tt34284946/img",
-      "background": "https://images.metahub.space/background/medium/tt34284946/img",
-      "description": "A fearless gambler who trusts luck more than life gets caught in a series of crazy and unexpected events that turn his world upside down.",
-      "releaseInfo": 2026,
-      "imdbRating": 5.9
-    },
-    {
-      "id": "tt10545296",
-      "type": "movie",
-      "name": "The Hunger Games: The Ballad of Songbirds & Snakes",
-      "poster": "https://images.metahub.space/poster/medium/tt10545296/img",
-      "background": "https://images.metahub.space/background/medium/tt10545296/img",
-      "description": "Coriolanus Snow mentors and develops feelings for the female District 12 tribute during the 10th Hunger Games.",
-      "releaseInfo": 2023,
-      "imdbRating": 6.6
-    },
-    {
-      "id": "tt2322441",
-      "type": "movie",
-      "name": "Fifty Shades of Grey",
-      "poster": "https://images.metahub.space/poster/medium/tt2322441/img",
-      "background": "https://images.metahub.space/background/medium/tt2322441/img",
-      "description": "When college senior Anastasia Steele steps in for her sick roommate to interview prominent businessman Christian Grey for their campus paper, little does she realize the path her life will take. Christian, as enigmatic as he is rich and powerful, finds himself strangely drawn to Ana, and she to him. Though sexually inexperienced, Ana plunges headlong into an affair -- and learns that Christian's true sexual proclivities push the boundaries of pain and pleasure.",
-      "releaseInfo": 2015,
-      "imdbRating": 4.2
-    },
-    {
       "id": "tt15239678",
       "type": "movie",
       "name": "Dune: Part Two",
@@ -371,14 +311,14 @@
       "imdbRating": 8.4
     },
     {
-      "id": "tt36413910",
+      "id": "tt18351090",
       "type": "movie",
-      "name": "The Mosquito Bowl",
-      "poster": "https://images.metahub.space/poster/medium/tt36413910/img",
-      "background": "https://images.metahub.space/background/medium/tt36413910/img",
-      "description": "After Pearl Harbor, four star college footballers join the Marines. Before facing Okinawa's invasion, they participate in a historic game with legendary players - for many, their final match.",
+      "name": "Perfect Liars",
+      "poster": "https://images.metahub.space/poster/medium/tt18351090/img",
+      "background": "https://images.metahub.space/background/medium/tt18351090/img",
+      "description": "Jude Derry arrives at the exclusive Tagus university with a hidden mission: to infiltrate the circle of the Cash brothers and uncover the truth about her brother's death. What begins as revenge turns into a dangerous triangle of seduction, forbidden attraction and lies, drawing her toward a truth she may not be ready to face.",
       "releaseInfo": 2026,
-      "imdbRating": 6.6
+      "imdbRating": 5.3
     },
     {
       "id": "tt32491690",
@@ -401,14 +341,14 @@
       "imdbRating": 6.3
     },
     {
-      "id": "tt14413964",
+      "id": "tt30768979",
       "type": "movie",
-      "name": "Steps",
-      "poster": "https://images.metahub.space/poster/medium/tt14413964/img",
-      "background": "https://images.metahub.space/background/medium/tt14413964/img",
-      "description": "Blamed for magical mischief at the Royal Ball, stepsister Lilith turns her sister into a frog. She must work with Cinderella and a troll to save the kingdom and prove villains deserve happy endings too.",
+      "name": "Aadarsha Kutumbam House No: 47 - AK47",
+      "poster": "https://images.metahub.space/poster/medium/tt30768979/img",
+      "background": "https://images.metahub.space/background/medium/tt30768979/img",
+      "description": "A tight-knit family faces an unexpected crisis that threatens their bond, forcing them to re-evaluate their values and fight to stay united.",
       "releaseInfo": 2026,
-      "imdbRating": 6.7
+      "imdbRating": 5.9
     },
     {
       "id": "tt4832640",
@@ -421,6 +361,136 @@
       "imdbRating": 7.1
     },
     {
+      "id": "tt2322441",
+      "type": "movie",
+      "name": "Fifty Shades of Grey",
+      "poster": "https://images.metahub.space/poster/medium/tt2322441/img",
+      "background": "https://images.metahub.space/background/medium/tt2322441/img",
+      "description": "When college senior Anastasia Steele steps in for her sick roommate to interview prominent businessman Christian Grey for their campus paper, little does she realize the path her life will take. Christian, as enigmatic as he is rich and powerful, finds himself strangely drawn to Ana, and she to him. Though sexually inexperienced, Ana plunges headlong into an affair -- and learns that Christian's true sexual proclivities push the boundaries of pain and pleasure.",
+      "releaseInfo": 2015,
+      "imdbRating": 4.2
+    },
+    {
+      "id": "tt0068359",
+      "type": "movie",
+      "name": "A Charlie Brown Thanksgiving",
+      "poster": "https://images.metahub.space/poster/medium/tt0068359/img",
+      "background": "https://images.metahub.space/background/medium/tt0068359/img",
+      "description": "Turkey, cranberries, pumpkin pie... and the Peanuts gang to share them with. This is going to be the greatest Thanksgiving ever! The fun begins when Peppermint Patty invites herself and her pals to Charlie Brown's house for a REALLY big turkey party. Good grief! All our hero can cook is cold cereal and maybe toast. Is Charlie Brown doomed? Not when Linus, Snoopy and Woodstock chip in to save the (Thanksgiving) Day. With such good friends, Charlie Brown - and all of us - have so many reasons to be thankful.",
+      "releaseInfo": 1973,
+      "imdbRating": 7.7
+    },
+    {
+      "id": "tt14173636",
+      "type": "movie",
+      "name": "The Invite",
+      "poster": "https://images.metahub.space/poster/medium/tt14173636/img",
+      "background": "https://images.metahub.space/background/medium/tt14173636/img",
+      "description": "Joe and Angela's marriage is on the rocks. When they invite their enigmatic upstairs neighbors over for dinner, the evening takes an unexpected turn.",
+      "releaseInfo": 2026,
+      "imdbRating": 7.4
+    },
+    {
+      "id": "tt14413964",
+      "type": "movie",
+      "name": "Steps",
+      "poster": "https://images.metahub.space/poster/medium/tt14413964/img",
+      "background": "https://images.metahub.space/background/medium/tt14413964/img",
+      "description": "Blamed for magical mischief at the Royal Ball, stepsister Lilith turns her sister into a frog. She must work with Cinderella and a troll to save the kingdom and prove villains deserve happy endings too.",
+      "releaseInfo": 2026,
+      "imdbRating": 6.7
+    },
+    {
+      "id": "tt4846232",
+      "type": "movie",
+      "name": "Good Time",
+      "poster": "https://images.metahub.space/poster/medium/tt4846232/img",
+      "background": "https://images.metahub.space/background/medium/tt4846232/img",
+      "description": "After a botched bank robbery lands his younger brother in prison, Connie Nikas embarks on a twisted odyssey through New York City's underworld to get his brother Nick out of jail.",
+      "releaseInfo": 2017,
+      "imdbRating": 7.3
+    },
+    {
+      "id": "tt6611324",
+      "type": "movie",
+      "name": "Guarding Stars",
+      "poster": "https://images.metahub.space/poster/medium/tt6611324/img",
+      "background": "https://images.metahub.space/background/medium/tt6611324/img",
+      "description": "A skilled bodyguard is assigned to protect a reclusive movie star from a stalker and must pose as his girlfriend to keep the threat hidden. On his family ranch, the assignment blurs lines as proximity complicates the job.",
+      "releaseInfo": 2026,
+      "imdbRating": 6.1
+    },
+    {
+      "id": "tt0097958",
+      "type": "movie",
+      "name": "National Lampoon's Christmas Vacation",
+      "poster": "https://images.metahub.space/poster/medium/tt0097958/img",
+      "background": "https://images.metahub.space/background/medium/tt0097958/img",
+      "description": "It's Christmastime, and the Griswolds are preparing for a family seasonal celebration. But things never run smoothly for Clark, his wife Ellen, and their two kids. Clark's continual bad luck is worsened by his obnoxious family guests, but he manages to keep going, knowing that his Christmas bonus is due soon.",
+      "releaseInfo": 1989,
+      "imdbRating": 7.5
+    },
+    {
+      "id": "tt10545296",
+      "type": "movie",
+      "name": "The Hunger Games: The Ballad of Songbirds & Snakes",
+      "poster": "https://images.metahub.space/poster/medium/tt10545296/img",
+      "background": "https://images.metahub.space/background/medium/tt10545296/img",
+      "description": "Coriolanus Snow mentors and develops feelings for the female District 12 tribute during the 10th Hunger Games.",
+      "releaseInfo": 2023,
+      "imdbRating": 6.6
+    },
+    {
+      "id": "tt2012616",
+      "type": "movie",
+      "name": "Motor City",
+      "poster": "https://images.metahub.space/poster/medium/tt2012616/img",
+      "background": "https://images.metahub.space/background/medium/tt2012616/img",
+      "description": "In 1970s Detroit, John Miller falls for a local gangster's girl and lands in prison for a crime he didn't commit. With his life ruined, Miller plots revenge against the man who took his girl away.",
+      "releaseInfo": 2026,
+      "imdbRating": 5.7
+    },
+    {
+      "id": "tt32324552",
+      "type": "movie",
+      "name": "Ranabaali",
+      "poster": "https://images.metahub.space/poster/medium/tt32324552/img",
+      "background": "https://images.metahub.space/background/medium/tt32324552/img",
+      "description": "Set in 19th-century British India, a fierce leader rises from a drought-stricken land to fight colonial oppression and atrocities.",
+      "releaseInfo": 2026,
+      "imdbRating": 6.7
+    },
+    {
+      "id": "tt2709692",
+      "type": "movie",
+      "name": "The Grinch",
+      "poster": "https://images.metahub.space/poster/medium/tt2709692/img",
+      "background": "https://images.metahub.space/background/medium/tt2709692/img",
+      "description": "The Grinch hatches a scheme to ruin Christmas when the residents of Whoville plan their annual holiday celebration. But a certain little who might change things.",
+      "releaseInfo": 2018,
+      "imdbRating": 6.4
+    },
+    {
+      "id": "tt28650488",
+      "type": "movie",
+      "name": "The Super Mario Galaxy Movie",
+      "poster": "https://images.metahub.space/poster/medium/tt28650488/img",
+      "background": "https://images.metahub.space/background/medium/tt28650488/img",
+      "description": "Having thwarted Bowser's previous plot to marry Princess Peach, Mario and Luigi now face a fresh threat in Bowser Jr., who is determined to liberate his father from captivity and restore the family legacy. Alongside companions new and old, the brothers travel across the stars to stop the young heir's crusade.",
+      "releaseInfo": 2026,
+      "imdbRating": 6.2
+    },
+    {
+      "id": "tt15552142",
+      "type": "movie",
+      "name": "Caddo Lake",
+      "poster": "https://images.metahub.space/poster/medium/tt15552142/img",
+      "background": "https://images.metahub.space/background/medium/tt15552142/img",
+      "description": "When an 8-year-old girl disappears on Caddo Lake, a series of past deaths and disappearances begin to link together, altering a broken family's history.",
+      "releaseInfo": 2024,
+      "imdbRating": 6.8
+    },
+    {
       "id": "tt37535100",
       "type": "movie",
       "name": "Bethlehem Kudumba Unit",
@@ -429,76 +499,6 @@
       "description": "Ashley's homecoming from abroad takes an emotional turn when a wedding next door stirs memories of her first love, Justin.",
       "releaseInfo": 2026,
       "imdbRating": 8
-    },
-    {
-      "id": "tt0120903",
-      "type": "movie",
-      "name": "X-Men",
-      "poster": "https://images.metahub.space/poster/medium/tt0120903/img",
-      "background": "https://images.metahub.space/background/medium/tt0120903/img",
-      "description": "Two mutants, Rogue and Wolverine, come to a private academy for their kind whose resident superhero team, the X-Men, must oppose a terrorist organization with similar powers.",
-      "releaseInfo": 2000,
-      "imdbRating": 7.3
-    },
-    {
-      "id": "tt30768979",
-      "type": "movie",
-      "name": "Aadarsha Kutumbam House No: 47 - AK47",
-      "poster": "https://images.metahub.space/poster/medium/tt30768979/img",
-      "background": "https://images.metahub.space/background/medium/tt30768979/img",
-      "description": "A tight-knit family faces an unexpected crisis that threatens their bond, forcing them to re-evaluate their values and fight to stay united.",
-      "releaseInfo": 2026,
-      "imdbRating": 5.9
-    },
-    {
-      "id": "tt0092654",
-      "type": "movie",
-      "name": "The Big Easy",
-      "poster": "https://images.metahub.space/poster/medium/tt0092654/img",
-      "background": "https://images.metahub.space/background/medium/tt0092654/img",
-      "description": "Remy McSwain is a New Orleans police lieutenant who investigates the murder of a local mobster. His investigation leads him to suspect that fellow members of the police force may be involved.",
-      "releaseInfo": 1986,
-      "imdbRating": 6.5
-    },
-    {
-      "id": "tt1392170",
-      "type": "movie",
-      "name": "The Hunger Games",
-      "poster": "https://images.metahub.space/poster/medium/tt1392170/img",
-      "background": "https://images.metahub.space/background/medium/tt1392170/img",
-      "description": "In a dystopian society where the Capitol forces each district to send two young tributes to fight to the death in a televised spectacle, a girl volunteers to take her sister’s place, setting the stage for a struggle of survival and defiance.",
-      "releaseInfo": 2012,
-      "imdbRating": 7.2
-    },
-    {
-      "id": "tt0477348",
-      "type": "movie",
-      "name": "No Country for Old Men",
-      "poster": "https://images.metahub.space/poster/medium/tt0477348/img",
-      "background": "https://images.metahub.space/background/medium/tt0477348/img",
-      "description": "Llewelyn Moss stumbles upon dead bodies, $2 million and a hoard of heroin in a Texas desert, but methodical killer Anton Chigurh comes looking for it, with local sheriff Ed Tom Bell hot on his trail. The roles of prey and predator blur as the violent pursuit of money and justice collide.",
-      "releaseInfo": 2007,
-      "imdbRating": 8.2
-    },
-    {
-      "id": "tt42262473",
-      "type": "movie",
-      "name": "Modha Rathri",
-      "poster": "https://images.metahub.space/poster/medium/tt42262473/img",
-      "background": "https://images.metahub.space/background/medium/tt42262473/img",
-      "description": "Two strangers are brought together at an unusual wedding where, in one night, too many surprises unfold and several lies are told, spiraling into chaos that changes everything.",
-      "releaseInfo": 2026,
-      "imdbRating": 7.5
-    },
-    {
-      "id": "tt0970866",
-      "type": "movie",
-      "name": "Little Fockers",
-      "poster": "https://images.metahub.space/poster/medium/tt0970866/img",
-      "background": "https://images.metahub.space/background/medium/tt0970866/img",
-      "description": "It has taken 10 years, two little Fockers with wife Pam and countless hurdles for Greg to finally get in with his tightly wound father-in-law, Jack. After the cash-strapped dad takes a job moonlighting for a drug company, Jack's suspicions about his favorite male nurse come roaring back. When Greg and Pam's entire clan descends for the twins' birthday party, Greg must prove to the skeptical Jack that he's fully capable as the man of the house.",
-      "releaseInfo": 2010,
-      "imdbRating": 5.5
     }
   ]
 }
