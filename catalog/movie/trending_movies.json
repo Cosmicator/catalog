@@ -1,24 +1,14 @@
 {
   "metas": [
     {
-      "id": "tt33764258",
+      "id": "tt27050858",
       "type": "movie",
-      "name": "The Odyssey",
-      "poster": "https://images.metahub.space/poster/medium/tt33764258/img",
-      "background": "https://images.metahub.space/background/medium/tt33764258/img",
-      "description": "Odysseus, the legendary King of Ithaca, embarks on a long and perilous journey home following the Trojan War. Throughout his voyage, he is forced to confront the whims of gods, mythological monsters, and trials that stretch both his cunning and his humanity to the breaking point.",
+      "name": "Drishyam: The Conclusion",
+      "poster": "https://images.metahub.space/poster/medium/tt27050858/img",
+      "background": "https://images.metahub.space/background/medium/tt27050858/img",
+      "description": "Years after outsmarting the police, Vijay Salgaonkar's past resurfaces when a new evidence threatens to expose his secret. As the investigation reopens, he must outwit the system once again to save his family.",
       "releaseInfo": 2026,
-      "imdbRating": 8.3
-    },
-    {
-      "id": "tt10886166",
-      "type": "movie",
-      "name": "365 dni",
-      "poster": "https://images.metahub.space/poster/medium/tt10886166/img",
-      "background": "https://images.metahub.space/background/medium/tt10886166/img",
-      "description": "Massimo is a member of the Sicilian Mafia family and Laura is a sales director. She does not expect that on a trip to Sicily trying to save her relationship, Massimo will kidnap her and give her 365 days to fall in love with him.",
-      "releaseInfo": 2020,
-      "imdbRating": 3.3
+      "imdbRating": 7.6
     },
     {
       "id": "tt22084616",
@@ -31,6 +21,26 @@
       "imdbRating": 7.9
     },
     {
+      "id": "tt10886166",
+      "type": "movie",
+      "name": "365 dni",
+      "poster": "https://images.metahub.space/poster/medium/tt10886166/img",
+      "background": "https://images.metahub.space/background/medium/tt10886166/img",
+      "description": "Massimo is a member of the Sicilian Mafia family and Laura is a sales director. She does not expect that on a trip to Sicily trying to save her relationship, Massimo will kidnap her and give her 365 days to fall in love with him.",
+      "releaseInfo": 2020,
+      "imdbRating": 3.3
+    },
+    {
+      "id": "tt33764258",
+      "type": "movie",
+      "name": "The Odyssey",
+      "poster": "https://images.metahub.space/poster/medium/tt33764258/img",
+      "background": "https://images.metahub.space/background/medium/tt33764258/img",
+      "description": "Odysseus, the legendary King of Ithaca, embarks on a long and perilous journey home following the Trojan War. Throughout his voyage, he is forced to confront the whims of gods, mythological monsters, and trials that stretch both his cunning and his humanity to the breaking point.",
+      "releaseInfo": 2026,
+      "imdbRating": 8.3
+    },
+    {
       "id": "tt38984184",
       "type": "movie",
       "name": "418",
@@ -39,16 +49,6 @@
       "description": "Set in a medical college in a dread-stricken village, the film confronts the science behind superstitions, the superstitions in science, and an anomaly that neither can explain.",
       "releaseInfo": 2026,
       "imdbRating": 7.2
-    },
-    {
-      "id": "tt27050858",
-      "type": "movie",
-      "name": "Drishyam: The Conclusion",
-      "poster": "https://images.metahub.space/poster/medium/tt27050858/img",
-      "background": "https://images.metahub.space/background/medium/tt27050858/img",
-      "description": "Years after outsmarting the police, Vijay Salgaonkar's past resurfaces when a new evidence threatens to expose his secret. As the investigation reopens, he must outwit the system once again to save his family.",
-      "releaseInfo": 2026,
-      "imdbRating": 7.6
     },
     {
       "id": "tt39378361",
@@ -61,16 +61,6 @@
       "imdbRating": 7.8
     },
     {
-      "id": "tt39239818",
-      "type": "movie",
-      "name": "Haiku",
-      "poster": "https://images.metahub.space/poster/medium/tt39239818/img",
-      "background": "https://images.metahub.space/background/medium/tt39239818/img",
-      "description": "A charismatic young man uses poetry to navigate the complex maze of modern romance to protect his fragile relationship. Later, he must overcome deep generational divides to keep his love alive.",
-      "releaseInfo": 2026,
-      "imdbRating": 6
-    },
-    {
       "id": "tt33318732",
       "type": "movie",
       "name": "Jailer 2",
@@ -81,14 +71,14 @@
       "imdbRating": 7.7
     },
     {
-      "id": "tt34498564",
+      "id": "tt39239818",
       "type": "movie",
-      "name": "The Vvaan: Force of the Forrest",
-      "poster": "https://images.metahub.space/poster/medium/tt34498564/img",
-      "background": "https://images.metahub.space/background/medium/tt34498564/img",
-      "description": "A rational urban man defies his ancestral village's forbidden forest and awakens a divine goddess, forcing him to confront powers beyond logic as he becomes the unlikely saviour protecting his people from annihilation.",
+      "name": "Haiku",
+      "poster": "https://images.metahub.space/poster/medium/tt39239818/img",
+      "background": "https://images.metahub.space/background/medium/tt39239818/img",
+      "description": "A charismatic young man uses poetry to navigate the complex maze of modern romance to protect his fragile relationship. Later, he must overcome deep generational divides to keep his love alive.",
       "releaseInfo": 2026,
-      "imdbRating": 5.3
+      "imdbRating": 6
     },
     {
       "id": "tt36915004",
@@ -101,6 +91,26 @@
       "imdbRating": 4.1
     },
     {
+      "id": "tt39316936",
+      "type": "movie",
+      "name": "Clashing Through the Snow",
+      "poster": "https://images.metahub.space/poster/medium/tt39316936/img",
+      "background": "https://images.metahub.space/background/medium/tt39316936/img",
+      "description": "Rival publishing editors Ryan Mitchell and Hannah Hendricks are stranded by a holiday snowstorm and forced to share a rental car to New York, where a career-saving deal awaits them both. As roadside mishaps and small-town detours pile up, the holiday spirit begins to melt their fierce rivalry into something unexpected.",
+      "releaseInfo": 2026,
+      "imdbRating": 5.8
+    },
+    {
+      "id": "tt30768979",
+      "type": "movie",
+      "name": "Aadarsha Kutumbam House No: 47 - AK47",
+      "poster": "https://images.metahub.space/poster/medium/tt30768979/img",
+      "background": "https://images.metahub.space/background/medium/tt30768979/img",
+      "description": "A tight-knit family faces an unexpected crisis that threatens their bond, forcing them to re-evaluate their values and fight to stay united.",
+      "releaseInfo": 2026,
+      "imdbRating": 5.9
+    },
+    {
       "id": "tt7526136",
       "type": "movie",
       "name": "Heart of the Beast",
@@ -111,14 +121,24 @@
       "imdbRating": 7.1
     },
     {
-      "id": "tt39316936",
+      "id": "tt37510326",
       "type": "movie",
-      "name": "Clashing Through the Snow",
-      "poster": "https://images.metahub.space/poster/medium/tt39316936/img",
-      "background": "https://images.metahub.space/background/medium/tt39316936/img",
-      "description": "Rival publishing editors Ryan Mitchell and Hannah Hendricks are stranded by a holiday snowstorm and forced to share a rental car to New York, where a career-saving deal awaits them both. As roadside mishaps and small-town detours pile up, the holiday spirit begins to melt their fierce rivalry into something unexpected.",
+      "name": "The Social Reckoning",
+      "poster": "https://images.metahub.space/poster/medium/tt37510326/img",
+      "background": "https://images.metahub.space/background/medium/tt37510326/img",
+      "description": "Frances Haugen, a young Facebook engineer, enlists the help of Jeff Horwitz, a Wall Street Journal reporter, to go on a dangerous journey that ends up blowing the whistle on the social network's most guarded secrets.",
       "releaseInfo": 2026,
-      "imdbRating": 5.8
+      "imdbRating": 6.6
+    },
+    {
+      "id": "tt22890246",
+      "type": "movie",
+      "name": "How to Have Sex",
+      "poster": "https://images.metahub.space/poster/medium/tt22890246/img",
+      "background": "https://images.metahub.space/background/medium/tt22890246/img",
+      "description": "Three British teenage girls go on a rites-of-passage holiday - drinking, clubbing and hooking up, in what should be the best summer of their lives.",
+      "releaseInfo": 2023,
+      "imdbRating": 6.4
     },
     {
       "id": "tt23289160",
@@ -131,14 +151,44 @@
       "imdbRating": 7.6
     },
     {
-      "id": "tt22890246",
+      "id": "tt44090278",
       "type": "movie",
-      "name": "How to Have Sex",
-      "poster": "https://images.metahub.space/poster/medium/tt22890246/img",
-      "background": "https://images.metahub.space/background/medium/tt22890246/img",
-      "description": "Three British teenage girls go on a rites-of-passage holiday - drinking, clubbing and hooking up, in what should be the best summer of their lives.",
-      "releaseInfo": 2023,
-      "imdbRating": 6.4
+      "name": "Baththa",
+      "poster": "https://images.metahub.space/poster/medium/tt44090278/img",
+      "background": "https://images.metahub.space/background/medium/tt44090278/img",
+      "description": "In 1986 Madras, a timid eight-year-old boy accidentally locks a feared criminal inside a school restroom. As the man faces hunger and isolation, an unexpected friendship forms between them, transforming both their lives.",
+      "releaseInfo": 2026,
+      "imdbRating": 8.5
+    },
+    {
+      "id": "tt27419420",
+      "type": "movie",
+      "name": "Street Fighter",
+      "poster": "https://images.metahub.space/poster/medium/tt27419420/img",
+      "background": "https://images.metahub.space/background/medium/tt27419420/img",
+      "description": "In 1993, estranged Street Fighters Ryu and Ken Masters are thrown back into combat when the mysterious Chun-Li recruits them for the next World Warrior Tournament: a brutal clash of fists, fate, and fury. But behind this battle royale lies a deadly conspiracy that forces them to face off against each other and the demons of their past. And if they don't, it's GAME OVER!",
+      "releaseInfo": 2026,
+      "imdbRating": 6.1
+    },
+    {
+      "id": "tt34498564",
+      "type": "movie",
+      "name": "The Vvaan: Force of the Forrest",
+      "poster": "https://images.metahub.space/poster/medium/tt34498564/img",
+      "background": "https://images.metahub.space/background/medium/tt34498564/img",
+      "description": "A rational urban man defies his ancestral village's forbidden forest and awakens a divine goddess, forcing him to confront powers beyond logic as he becomes the unlikely saviour protecting his people from annihilation.",
+      "releaseInfo": 2026,
+      "imdbRating": 5.3
+    },
+    {
+      "id": "tt36413910",
+      "type": "movie",
+      "name": "The Mosquito Bowl",
+      "poster": "https://images.metahub.space/poster/medium/tt36413910/img",
+      "background": "https://images.metahub.space/background/medium/tt36413910/img",
+      "description": "After Pearl Harbor, four star college footballers join the Marines. Before facing Okinawa's invasion, they participate in a historic game with legendary players - for many, their final match.",
+      "releaseInfo": 2026,
+      "imdbRating": 6.7
     },
     {
       "id": "tt37287335",
@@ -161,14 +211,14 @@
       "imdbRating": 7.2
     },
     {
-      "id": "tt44090278",
+      "id": "tt38265603",
       "type": "movie",
-      "name": "Baththa",
-      "poster": "https://images.metahub.space/poster/medium/tt44090278/img",
-      "background": "https://images.metahub.space/background/medium/tt44090278/img",
-      "description": "In 1986 Madras, a timid eight-year-old boy accidentally locks a feared criminal inside a school restroom. As the man faces hunger and isolation, an unexpected friendship forms between them, transforming both their lives.",
+      "name": "Pradhama Drishtiya Kuttakkar",
+      "poster": "https://images.metahub.space/poster/medium/tt38265603/img",
+      "background": "https://images.metahub.space/background/medium/tt38265603/img",
+      "description": "After her husband's tragic death, Aleena joins the police force through a compassionate appointment. What begins as a quiet new chapter soon turns into a high-stakes battle of wits and courage, testing everything she believes about justice, loyalty, and herself.",
       "releaseInfo": 2026,
-      "imdbRating": 8.5
+      "imdbRating": 7.4
     },
     {
       "id": "tt14113634",
@@ -181,96 +231,6 @@
       "imdbRating": 6.5
     },
     {
-      "id": "tt1160419",
-      "type": "movie",
-      "name": "Dune",
-      "poster": "https://images.metahub.space/poster/medium/tt1160419/img",
-      "background": "https://images.metahub.space/background/medium/tt1160419/img",
-      "description": "Paul Atreides, a brilliant and gifted young man born into a great destiny beyond his understanding, must travel to the most dangerous planet in the universe to ensure the future of his family and his people. As malevolent forces explode into conflict over the planet's exclusive supply of the most precious resource in existence - a commodity capable of unlocking humanity's greatest potential - only those who can conquer their fear will survive.",
-      "releaseInfo": 2021,
-      "imdbRating": 8
-    },
-    {
-      "id": "tt37510326",
-      "type": "movie",
-      "name": "The Social Reckoning",
-      "poster": "https://images.metahub.space/poster/medium/tt37510326/img",
-      "background": "https://images.metahub.space/background/medium/tt37510326/img",
-      "description": "Frances Haugen, a young Facebook engineer, enlists the help of Jeff Horwitz, a Wall Street Journal reporter, to go on a dangerous journey that ends up blowing the whistle on the social network's most guarded secrets.",
-      "releaseInfo": 2026,
-      "imdbRating": 6.6
-    },
-    {
-      "id": "tt38265603",
-      "type": "movie",
-      "name": "Pradhama Drishtiya Kuttakkar",
-      "poster": "https://images.metahub.space/poster/medium/tt38265603/img",
-      "background": "https://images.metahub.space/background/medium/tt38265603/img",
-      "description": "After her husband's tragic death, Aleena joins the police force through a compassionate appointment. What begins as a quiet new chapter soon turns into a high-stakes battle of wits and courage, testing everything she believes about justice, loyalty, and herself.",
-      "releaseInfo": 2026,
-      "imdbRating": 7.4
-    },
-    {
-      "id": "tt36586020",
-      "type": "movie",
-      "name": "Other Mommy",
-      "poster": "https://images.metahub.space/poster/medium/tt36586020/img",
-      "background": "https://images.metahub.space/background/medium/tt36586020/img",
-      "description": "Young Bela forms a relationship with a sinister entity in her home that looks uncannily like her own mother, drawing her into a terrifying and increasingly dark world.",
-      "releaseInfo": 2026,
-      "imdbRating": 5.3
-    },
-    {
-      "id": "tt36413910",
-      "type": "movie",
-      "name": "The Mosquito Bowl",
-      "poster": "https://images.metahub.space/poster/medium/tt36413910/img",
-      "background": "https://images.metahub.space/background/medium/tt36413910/img",
-      "description": "After Pearl Harbor, four star college footballers join the Marines. Before facing Okinawa's invasion, they participate in a historic game with legendary players - for many, their final match.",
-      "releaseInfo": 2026,
-      "imdbRating": 6.7
-    },
-    {
-      "id": "tt33379543",
-      "type": "movie",
-      "name": "Jana Nayagan",
-      "poster": "https://images.metahub.space/poster/medium/tt33379543/img",
-      "background": "https://images.metahub.space/background/medium/tt33379543/img",
-      "description": "A clash of ideologies. One stands for the people, the other feeds on control. Their paths collided once before. Years later, a child’s silent fear ignites the past, drawing a former police officer into a battle far bigger than personal revenge.",
-      "releaseInfo": 2026,
-      "imdbRating": 5.1
-    },
-    {
-      "id": "tt43723233",
-      "type": "movie",
-      "name": "Drones",
-      "poster": "https://images.metahub.space/poster/medium/tt43723233/img",
-      "background": "https://images.metahub.space/background/medium/tt43723233/img",
-      "description": "A sleepwalking student, a mysterious miniature artist, an ancient witch, a doll house of trapped souls, and a cop cursed by love collide in a surreal world.",
-      "releaseInfo": 2026,
-      "imdbRating": 5.3
-    },
-    {
-      "id": "tt35836025",
-      "type": "movie",
-      "name": "Vishwanath & Sons",
-      "poster": "https://images.metahub.space/poster/medium/tt35836025/img",
-      "background": "https://images.metahub.space/background/medium/tt35836025/img",
-      "description": "A celebrated Olympian shooter travels to America looking for a donor to help his sick child — but unexpected romance complicates his search.",
-      "releaseInfo": 2026,
-      "imdbRating": 7.1
-    },
-    {
-      "id": "tt32261958",
-      "type": "movie",
-      "name": "Verity",
-      "poster": "https://images.metahub.space/poster/medium/tt32261958/img",
-      "background": "https://images.metahub.space/background/medium/tt32261958/img",
-      "description": "Lowen Ashleigh, hired to ghostwrite for best-selling author Verity Crawford, uncovers Verity's autobiographical notes, and becomes involved in what may prove to be a lethal conspiracy.",
-      "releaseInfo": 2026,
-      "imdbRating": 6
-    },
-    {
       "id": "tt37645628",
       "type": "movie",
       "name": "Garividi Lakshmi",
@@ -279,126 +239,6 @@
       "description": "The life of Garividi Lakshmi, a legendary folk singer from Andhra Pradesh who performed Burrakatha and transformed the traditional art form into a movement, winning thousands of hearts with her songs.",
       "releaseInfo": 2026,
       "imdbRating": 8.7
-    },
-    {
-      "id": "tt8490894",
-      "type": "movie",
-      "name": "Ee Nagaraniki Emaindi?",
-      "poster": "https://images.metahub.space/poster/medium/tt8490894/img",
-      "background": "https://images.metahub.space/background/medium/tt8490894/img",
-      "description": "Four friends, each with their own career aspirations, team up to make a short film during a trip to Goa.",
-      "releaseInfo": 2018,
-      "imdbRating": 8
-    },
-    {
-      "id": "tt3011894",
-      "type": "movie",
-      "name": "Wild Tales",
-      "poster": "https://images.metahub.space/poster/medium/tt3011894/img",
-      "background": "https://images.metahub.space/background/medium/tt3011894/img",
-      "description": "Injustice and the demands of the world can cause stress for many people. Some of them, however, explode. This includes a waitress serving a grouchy loan shark, an altercation between two motorists, an ill-fated wedding reception, and a wealthy businessman who tries to buy his family out of trouble.",
-      "releaseInfo": 2014,
-      "imdbRating": 8.1
-    },
-    {
-      "id": "tt15239678",
-      "type": "movie",
-      "name": "Dune: Part Two",
-      "poster": "https://images.metahub.space/poster/medium/tt15239678/img",
-      "background": "https://images.metahub.space/background/medium/tt15239678/img",
-      "description": "Follow the mythic journey of Paul Atreides as he unites with Chani and the Fremen while on a path of revenge against the conspirators who destroyed his family. Facing a choice between the love of his life and the fate of the known universe, Paul endeavors to prevent a terrible future only he can foresee.",
-      "releaseInfo": 2024,
-      "imdbRating": 8.4
-    },
-    {
-      "id": "tt18351090",
-      "type": "movie",
-      "name": "Perfect Liars",
-      "poster": "https://images.metahub.space/poster/medium/tt18351090/img",
-      "background": "https://images.metahub.space/background/medium/tt18351090/img",
-      "description": "Jude Derry arrives at the exclusive Tagus university with a hidden mission: to infiltrate the circle of the Cash brothers and uncover the truth about her brother's death. What begins as revenge turns into a dangerous triangle of seduction, forbidden attraction and lies, drawing her toward a truth she may not be ready to face.",
-      "releaseInfo": 2026,
-      "imdbRating": 5.3
-    },
-    {
-      "id": "tt30768979",
-      "type": "movie",
-      "name": "Aadarsha Kutumbam House No: 47 - AK47",
-      "poster": "https://images.metahub.space/poster/medium/tt30768979/img",
-      "background": "https://images.metahub.space/background/medium/tt30768979/img",
-      "description": "A tight-knit family faces an unexpected crisis that threatens their bond, forcing them to re-evaluate their values and fight to stay united.",
-      "releaseInfo": 2026,
-      "imdbRating": 5.9
-    },
-    {
-      "id": "tt4832640",
-      "type": "movie",
-      "name": "Sultan",
-      "poster": "https://images.metahub.space/poster/medium/tt4832640/img",
-      "background": "https://images.metahub.space/background/medium/tt4832640/img",
-      "description": "The ageing wrestler Sultan Ali Khan decides to try his luck on the mat again; to do this, he wants to represent his country at the Olympic Games, but first has to overcome personal issues.",
-      "releaseInfo": 2016,
-      "imdbRating": 7.1
-    },
-    {
-      "id": "tt2322441",
-      "type": "movie",
-      "name": "Fifty Shades of Grey",
-      "poster": "https://images.metahub.space/poster/medium/tt2322441/img",
-      "background": "https://images.metahub.space/background/medium/tt2322441/img",
-      "description": "When college senior Anastasia Steele steps in for her sick roommate to interview prominent businessman Christian Grey for their campus paper, little does she realize the path her life will take. Christian, as enigmatic as he is rich and powerful, finds himself strangely drawn to Ana, and she to him. Though sexually inexperienced, Ana plunges headlong into an affair -- and learns that Christian's true sexual proclivities push the boundaries of pain and pleasure.",
-      "releaseInfo": 2015,
-      "imdbRating": 4.2
-    },
-    {
-      "id": "tt0068359",
-      "type": "movie",
-      "name": "A Charlie Brown Thanksgiving",
-      "poster": "https://images.metahub.space/poster/medium/tt0068359/img",
-      "background": "https://images.metahub.space/background/medium/tt0068359/img",
-      "description": "Turkey, cranberries, pumpkin pie... and the Peanuts gang to share them with. This is going to be the greatest Thanksgiving ever! The fun begins when Peppermint Patty invites herself and her pals to Charlie Brown's house for a REALLY big turkey party. Good grief! All our hero can cook is cold cereal and maybe toast. Is Charlie Brown doomed? Not when Linus, Snoopy and Woodstock chip in to save the (Thanksgiving) Day. With such good friends, Charlie Brown - and all of us - have so many reasons to be thankful.",
-      "releaseInfo": 1973,
-      "imdbRating": 7.7
-    },
-    {
-      "id": "tt14173636",
-      "type": "movie",
-      "name": "The Invite",
-      "poster": "https://images.metahub.space/poster/medium/tt14173636/img",
-      "background": "https://images.metahub.space/background/medium/tt14173636/img",
-      "description": "Joe and Angela's marriage is on the rocks. When they invite their enigmatic upstairs neighbors over for dinner, the evening takes an unexpected turn.",
-      "releaseInfo": 2026,
-      "imdbRating": 7.4
-    },
-    {
-      "id": "tt14413964",
-      "type": "movie",
-      "name": "Steps",
-      "poster": "https://images.metahub.space/poster/medium/tt14413964/img",
-      "background": "https://images.metahub.space/background/medium/tt14413964/img",
-      "description": "Blamed for magical mischief at the Royal Ball, stepsister Lilith turns her sister into a frog. She must work with Cinderella and a troll to save the kingdom and prove villains deserve happy endings too.",
-      "releaseInfo": 2026,
-      "imdbRating": 6.7
-    },
-    {
-      "id": "tt4846232",
-      "type": "movie",
-      "name": "Good Time",
-      "poster": "https://images.metahub.space/poster/medium/tt4846232/img",
-      "background": "https://images.metahub.space/background/medium/tt4846232/img",
-      "description": "After a botched bank robbery lands his younger brother in prison, Connie Nikas embarks on a twisted odyssey through New York City's underworld to get his brother Nick out of jail.",
-      "releaseInfo": 2017,
-      "imdbRating": 7.3
-    },
-    {
-      "id": "tt6611324",
-      "type": "movie",
-      "name": "Guarding Stars",
-      "poster": "https://images.metahub.space/poster/medium/tt6611324/img",
-      "background": "https://images.metahub.space/background/medium/tt6611324/img",
-      "description": "A skilled bodyguard is assigned to protect a reclusive movie star from a stalker and must pose as his girlfriend to keep the threat hidden. On his family ranch, the assignment blurs lines as proximity complicates the job.",
-      "releaseInfo": 2026,
-      "imdbRating": 6.1
     },
     {
       "id": "tt0097958",
@@ -411,24 +251,154 @@
       "imdbRating": 7.5
     },
     {
-      "id": "tt10545296",
+      "id": "tt1160419",
       "type": "movie",
-      "name": "The Hunger Games: The Ballad of Songbirds & Snakes",
-      "poster": "https://images.metahub.space/poster/medium/tt10545296/img",
-      "background": "https://images.metahub.space/background/medium/tt10545296/img",
-      "description": "Coriolanus Snow mentors and develops feelings for the female District 12 tribute during the 10th Hunger Games.",
-      "releaseInfo": 2023,
-      "imdbRating": 6.6
+      "name": "Dune",
+      "poster": "https://images.metahub.space/poster/medium/tt1160419/img",
+      "background": "https://images.metahub.space/background/medium/tt1160419/img",
+      "description": "Paul Atreides, a brilliant and gifted young man born into a great destiny beyond his understanding, must travel to the most dangerous planet in the universe to ensure the future of his family and his people. As malevolent forces explode into conflict over the planet's exclusive supply of the most precious resource in existence - a commodity capable of unlocking humanity's greatest potential - only those who can conquer their fear will survive.",
+      "releaseInfo": 2021,
+      "imdbRating": 8
     },
     {
-      "id": "tt2012616",
+      "id": "tt33379543",
       "type": "movie",
-      "name": "Motor City",
-      "poster": "https://images.metahub.space/poster/medium/tt2012616/img",
-      "background": "https://images.metahub.space/background/medium/tt2012616/img",
-      "description": "In 1970s Detroit, John Miller falls for a local gangster's girl and lands in prison for a crime he didn't commit. With his life ruined, Miller plots revenge against the man who took his girl away.",
+      "name": "Jana Nayagan",
+      "poster": "https://images.metahub.space/poster/medium/tt33379543/img",
+      "background": "https://images.metahub.space/background/medium/tt33379543/img",
+      "description": "A clash of ideologies. One stands for the people, the other feeds on control. Their paths collided once before. Years later, a child’s silent fear ignites the past, drawing a former police officer into a battle far bigger than personal revenge.",
       "releaseInfo": 2026,
-      "imdbRating": 5.7
+      "imdbRating": 5.1
+    },
+    {
+      "id": "tt35836025",
+      "type": "movie",
+      "name": "Vishwanath & Sons",
+      "poster": "https://images.metahub.space/poster/medium/tt35836025/img",
+      "background": "https://images.metahub.space/background/medium/tt35836025/img",
+      "description": "A celebrated Olympian shooter travels to America looking for a donor to help his sick child — but unexpected romance complicates his search.",
+      "releaseInfo": 2026,
+      "imdbRating": 7.1
+    },
+    {
+      "id": "tt0068359",
+      "type": "movie",
+      "name": "A Charlie Brown Thanksgiving",
+      "poster": "https://images.metahub.space/poster/medium/tt0068359/img",
+      "background": "https://images.metahub.space/background/medium/tt0068359/img",
+      "description": "Turkey, cranberries, pumpkin pie... and the Peanuts gang to share them with. This is going to be the greatest Thanksgiving ever! The fun begins when Peppermint Patty invites herself and her pals to Charlie Brown's house for a REALLY big turkey party. Good grief! All our hero can cook is cold cereal and maybe toast. Is Charlie Brown doomed? Not when Linus, Snoopy and Woodstock chip in to save the (Thanksgiving) Day. With such good friends, Charlie Brown - and all of us - have so many reasons to be thankful.",
+      "releaseInfo": 1973,
+      "imdbRating": 7.7
+    },
+    {
+      "id": "tt32261958",
+      "type": "movie",
+      "name": "Verity",
+      "poster": "https://images.metahub.space/poster/medium/tt32261958/img",
+      "background": "https://images.metahub.space/background/medium/tt32261958/img",
+      "description": "Lowen Ashleigh, hired to ghostwrite for best-selling author Verity Crawford, uncovers Verity's autobiographical notes, and becomes involved in what may prove to be a lethal conspiracy.",
+      "releaseInfo": 2026,
+      "imdbRating": 6
+    },
+    {
+      "id": "tt2322441",
+      "type": "movie",
+      "name": "Fifty Shades of Grey",
+      "poster": "https://images.metahub.space/poster/medium/tt2322441/img",
+      "background": "https://images.metahub.space/background/medium/tt2322441/img",
+      "description": "When college senior Anastasia Steele steps in for her sick roommate to interview prominent businessman Christian Grey for their campus paper, little does she realize the path her life will take. Christian, as enigmatic as he is rich and powerful, finds himself strangely drawn to Ana, and she to him. Though sexually inexperienced, Ana plunges headlong into an affair -- and learns that Christian's true sexual proclivities push the boundaries of pain and pleasure.",
+      "releaseInfo": 2015,
+      "imdbRating": 4.2
+    },
+    {
+      "id": "tt15239678",
+      "type": "movie",
+      "name": "Dune: Part Two",
+      "poster": "https://images.metahub.space/poster/medium/tt15239678/img",
+      "background": "https://images.metahub.space/background/medium/tt15239678/img",
+      "description": "Follow the mythic journey of Paul Atreides as he unites with Chani and the Fremen while on a path of revenge against the conspirators who destroyed his family. Facing a choice between the love of his life and the fate of the known universe, Paul endeavors to prevent a terrible future only he can foresee.",
+      "releaseInfo": 2024,
+      "imdbRating": 8.4
+    },
+    {
+      "id": "tt3011894",
+      "type": "movie",
+      "name": "Wild Tales",
+      "poster": "https://images.metahub.space/poster/medium/tt3011894/img",
+      "background": "https://images.metahub.space/background/medium/tt3011894/img",
+      "description": "Injustice and the demands of the world can cause stress for many people. Some of them, however, explode. This includes a waitress serving a grouchy loan shark, an altercation between two motorists, an ill-fated wedding reception, and a wealthy businessman who tries to buy his family out of trouble.",
+      "releaseInfo": 2014,
+      "imdbRating": 8.1
+    },
+    {
+      "id": "tt28650488",
+      "type": "movie",
+      "name": "The Super Mario Galaxy Movie",
+      "poster": "https://images.metahub.space/poster/medium/tt28650488/img",
+      "background": "https://images.metahub.space/background/medium/tt28650488/img",
+      "description": "Having thwarted Bowser's previous plot to marry Princess Peach, Mario and Luigi now face a fresh threat in Bowser Jr., who is determined to liberate his father from captivity and restore the family legacy. Alongside companions new and old, the brothers travel across the stars to stop the young heir's crusade.",
+      "releaseInfo": 2026,
+      "imdbRating": 6.2
+    },
+    {
+      "id": "tt8814476",
+      "type": "movie",
+      "name": "Supergirl",
+      "poster": "https://images.metahub.space/poster/medium/tt8814476/img",
+      "background": "https://images.metahub.space/background/medium/tt8814476/img",
+      "description": "When an unexpected and ruthless adversary strikes too close to home, Kara Zor-El, aka Supergirl, reluctantly joins forces with an unlikely companion on an epic, interstellar journey of vengeance and justice.",
+      "releaseInfo": 2026,
+      "imdbRating": 5.8
+    },
+    {
+      "id": "tt32023291",
+      "type": "movie",
+      "name": "Main Ladega",
+      "poster": "https://images.metahub.space/poster/medium/tt32023291/img",
+      "background": "https://images.metahub.space/background/medium/tt32023291/img",
+      "description": "A young boy escapes his troubled home, finding solace in boxing at an army hostel, where he channels his pain into strength to protect his family.",
+      "releaseInfo": 2024,
+      "imdbRating": 7.7
+    },
+    {
+      "id": "tt32213169",
+      "type": "movie",
+      "name": "Way of the Warrior Kid",
+      "poster": "https://images.metahub.space/poster/medium/tt32213169/img",
+      "background": "https://images.metahub.space/background/medium/tt32213169/img",
+      "description": "A self-doubting kid who gets bullied learns to find his inner warrior with the help of his uncle, an elite Navy SEAL, who uses his training to guide the youth over the summer.",
+      "releaseInfo": 2026,
+      "imdbRating": 6.5
+    },
+    {
+      "id": "tt4846232",
+      "type": "movie",
+      "name": "Good Time",
+      "poster": "https://images.metahub.space/poster/medium/tt4846232/img",
+      "background": "https://images.metahub.space/background/medium/tt4846232/img",
+      "description": "After a botched bank robbery lands his younger brother in prison, Connie Nikas embarks on a twisted odyssey through New York City's underworld to get his brother Nick out of jail.",
+      "releaseInfo": 2017,
+      "imdbRating": 7.3
+    },
+    {
+      "id": "tt4832640",
+      "type": "movie",
+      "name": "Sultan",
+      "poster": "https://images.metahub.space/poster/medium/tt4832640/img",
+      "background": "https://images.metahub.space/background/medium/tt4832640/img",
+      "description": "The ageing wrestler Sultan Ali Khan decides to try his luck on the mat again; to do this, he wants to represent his country at the Olympic Games, but first has to overcome personal issues.",
+      "releaseInfo": 2016,
+      "imdbRating": 7.1
+    },
+    {
+      "id": "tt43723233",
+      "type": "movie",
+      "name": "Drones",
+      "poster": "https://images.metahub.space/poster/medium/tt43723233/img",
+      "background": "https://images.metahub.space/background/medium/tt43723233/img",
+      "description": "A sleepwalking student, a mysterious miniature artist, an ancient witch, a doll house of trapped souls, and a cop cursed by love collide in a surreal world.",
+      "releaseInfo": 2026,
+      "imdbRating": 5.3
     },
     {
       "id": "tt32324552",
@@ -451,44 +421,64 @@
       "imdbRating": 6.4
     },
     {
-      "id": "tt27419420",
+      "id": "tt14173636",
       "type": "movie",
-      "name": "Street Fighter",
-      "poster": "https://images.metahub.space/poster/medium/tt27419420/img",
-      "background": "https://images.metahub.space/background/medium/tt27419420/img",
-      "description": "In 1993, estranged Street Fighters Ryu and Ken Masters are thrown back into combat when the mysterious Chun-Li recruits them for the next World Warrior Tournament: a brutal clash of fists, fate, and fury. But behind this battle royale lies a deadly conspiracy that forces them to face off against each other and the demons of their past. And if they don't, it's GAME OVER!",
+      "name": "The Invite",
+      "poster": "https://images.metahub.space/poster/medium/tt14173636/img",
+      "background": "https://images.metahub.space/background/medium/tt14173636/img",
+      "description": "Joe and Angela's marriage is on the rocks. When they invite their enigmatic upstairs neighbors over for dinner, the evening takes an unexpected turn.",
+      "releaseInfo": 2026,
+      "imdbRating": 7.4
+    },
+    {
+      "id": "tt34284946",
+      "type": "movie",
+      "name": "I'm Game",
+      "poster": "https://images.metahub.space/poster/medium/tt34284946/img",
+      "background": "https://images.metahub.space/background/medium/tt34284946/img",
+      "description": "A fearless gambler who trusts luck more than life gets caught in a series of crazy and unexpected events that turn his world upside down.",
+      "releaseInfo": 2026,
+      "imdbRating": 5.9
+    },
+    {
+      "id": "tt8490894",
+      "type": "movie",
+      "name": "Ee Nagaraniki Emaindi?",
+      "poster": "https://images.metahub.space/poster/medium/tt8490894/img",
+      "background": "https://images.metahub.space/background/medium/tt8490894/img",
+      "description": "Four friends, each with their own career aspirations, team up to make a short film during a trip to Goa.",
+      "releaseInfo": 2018,
+      "imdbRating": 8
+    },
+    {
+      "id": "tt14849194",
+      "type": "movie",
+      "name": "The Holdovers",
+      "poster": "https://images.metahub.space/poster/medium/tt14849194/img",
+      "background": "https://images.metahub.space/background/medium/tt14849194/img",
+      "description": "In 1970, a curmudgeonly history teacher at a New England boarding school remains on campus during Christmas break to supervise held over students, and ends up forming an unlikely bond with a brainy but damaged troublemaker.",
+      "releaseInfo": 2023,
+      "imdbRating": 7.9
+    },
+    {
+      "id": "tt10545296",
+      "type": "movie",
+      "name": "The Hunger Games: The Ballad of Songbirds & Snakes",
+      "poster": "https://images.metahub.space/poster/medium/tt10545296/img",
+      "background": "https://images.metahub.space/background/medium/tt10545296/img",
+      "description": "Coriolanus Snow mentors and develops feelings for the female District 12 tribute during the 10th Hunger Games.",
+      "releaseInfo": 2023,
+      "imdbRating": 6.6
+    },
+    {
+      "id": "tt6611324",
+      "type": "movie",
+      "name": "Guarding Stars",
+      "poster": "https://images.metahub.space/poster/medium/tt6611324/img",
+      "background": "https://images.metahub.space/background/medium/tt6611324/img",
+      "description": "A skilled bodyguard is assigned to protect a reclusive movie star from a stalker and must pose as his girlfriend to keep the threat hidden. On his family ranch, the assignment blurs lines as proximity complicates the job.",
       "releaseInfo": 2026,
       "imdbRating": 6.1
-    },
-    {
-      "id": "tt28650488",
-      "type": "movie",
-      "name": "The Super Mario Galaxy Movie",
-      "poster": "https://images.metahub.space/poster/medium/tt28650488/img",
-      "background": "https://images.metahub.space/background/medium/tt28650488/img",
-      "description": "Having thwarted Bowser's previous plot to marry Princess Peach, Mario and Luigi now face a fresh threat in Bowser Jr., who is determined to liberate his father from captivity and restore the family legacy. Alongside companions new and old, the brothers travel across the stars to stop the young heir's crusade.",
-      "releaseInfo": 2026,
-      "imdbRating": 6.2
-    },
-    {
-      "id": "tt15552142",
-      "type": "movie",
-      "name": "Caddo Lake",
-      "poster": "https://images.metahub.space/poster/medium/tt15552142/img",
-      "background": "https://images.metahub.space/background/medium/tt15552142/img",
-      "description": "When an 8-year-old girl disappears on Caddo Lake, a series of past deaths and disappearances begin to link together, altering a broken family's history.",
-      "releaseInfo": 2024,
-      "imdbRating": 6.8
-    },
-    {
-      "id": "tt32491690",
-      "type": "movie",
-      "name": "Dark Nuns",
-      "poster": "https://images.metahub.space/poster/medium/tt32491690/img",
-      "background": "https://images.metahub.space/background/medium/tt32491690/img",
-      "description": "Desperation drives two nuns to perform an exorcism no nun should attempt. With a possessed child at the mercy of evil and the opposition of the Catholic Church, they take on the dangerous forbidden rituals themselves, putting their immortal souls in grave danger. They must confront the terrifying cost of their sacrilegious actions, but one goal remains: the boy must be saved at all costs.",
-      "releaseInfo": 2025,
-      "imdbRating": 5.2
     },
     {
       "id": "tt37535100",
@@ -499,6 +489,16 @@
       "description": "Ashley's homecoming from abroad takes an emotional turn when a wedding next door stirs memories of her first love, Justin.",
       "releaseInfo": 2026,
       "imdbRating": 8
+    },
+    {
+      "id": "tt36586020",
+      "type": "movie",
+      "name": "Other Mommy",
+      "poster": "https://images.metahub.space/poster/medium/tt36586020/img",
+      "background": "https://images.metahub.space/background/medium/tt36586020/img",
+      "description": "Young Bela forms a relationship with a sinister entity in her home that looks uncannily like her own mother, drawing her into a terrifying and increasingly dark world.",
+      "releaseInfo": 2026,
+      "imdbRating": 5.3
     }
   ]
 }

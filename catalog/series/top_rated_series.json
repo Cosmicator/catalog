@@ -12,17 +12,6 @@
       "imdbRating": "9.5"
     },
     {
-      "id": "tt0306414",
-      "type": "series",
-      "name": "The Wire",
-      "poster": "https://images.metahub.space/poster/small/tt0306414/img",
-      "background": "https://images.metahub.space/background/medium/tt0306414/img",
-      "logo": "https://images.metahub.space/logo/medium/tt0306414/img",
-      "description": "The Baltimore drug scene, as seen through the eyes of drug dealers and law enforcement.",
-      "releaseInfo": "2002–2008",
-      "imdbRating": "9.3"
-    },
-    {
       "id": "tt0944947",
       "type": "series",
       "name": "Game of Thrones",
@@ -78,17 +67,6 @@
       "imdbRating": "8.8"
     },
     {
-      "id": "tt0098936",
-      "type": "series",
-      "name": "Twin Peaks",
-      "poster": "https://images.metahub.space/poster/small/tt0098936/img",
-      "background": "https://images.metahub.space/background/medium/tt0098936/img",
-      "logo": "https://images.metahub.space/logo/medium/tt0098936/img",
-      "description": "An idiosyncratic FBI agent investigates the murder of a young woman in the even more idiosyncratic town of Twin Peaks.",
-      "releaseInfo": "1990–1991",
-      "imdbRating": "8.7"
-    },
-    {
       "id": "tt10986410",
       "type": "series",
       "name": "Ted Lasso",
@@ -100,14 +78,14 @@
       "imdbRating": "8.7"
     },
     {
-      "id": "tt0988824",
+      "id": "tt0098936",
       "type": "series",
-      "name": "Naruto: Shippuden",
-      "poster": "https://images.metahub.space/poster/small/tt0988824/img",
-      "background": "https://images.metahub.space/background/medium/tt0988824/img",
-      "logo": "https://images.metahub.space/logo/medium/tt0988824/img",
-      "description": "Naruto Uzumaki, is a loud, hyperactive, adolescent ninja who constantly searches for approval and recognition, as well as to become Hokage, who is acknowledged as the leader and strongest of all ninja in the village.",
-      "releaseInfo": "2007–2017",
+      "name": "Twin Peaks",
+      "poster": "https://images.metahub.space/poster/small/tt0098936/img",
+      "background": "https://images.metahub.space/background/medium/tt0098936/img",
+      "logo": "https://images.metahub.space/logo/medium/tt0098936/img",
+      "description": "An idiosyncratic FBI agent investigates the murder of a young woman in the even more idiosyncratic town of Twin Peaks.",
+      "releaseInfo": "1990–1991",
       "imdbRating": "8.7"
     },
     {
@@ -119,17 +97,6 @@
       "logo": "https://images.metahub.space/logo/medium/tt4574334/img",
       "description": "In 1980s Indiana, a group of young friends witness supernatural forces and secret government exploits. As they search for answers, the children unravel a series of extraordinary mysteries.",
       "releaseInfo": "2016–2025",
-      "imdbRating": "8.6"
-    },
-    {
-      "id": "tt9544034",
-      "type": "series",
-      "name": "The Family Man",
-      "poster": "https://images.metahub.space/poster/small/tt9544034/img",
-      "background": "https://images.metahub.space/background/medium/tt9544034/img",
-      "logo": "https://images.metahub.space/logo/medium/tt9544034/img",
-      "description": "A working man from the National Investigation Agency tries to protect the nation from terrorism, but he also needs to keep his family safe from his secret job.",
-      "releaseInfo": "2019–",
       "imdbRating": "8.6"
     },
     {
@@ -199,17 +166,6 @@
       "imdbRating": "8.4"
     },
     {
-      "id": "tt20234568",
-      "type": "series",
-      "name": "Weak Hero Class 1",
-      "poster": "https://images.metahub.space/poster/small/tt20234568/img",
-      "background": "https://images.metahub.space/background/medium/tt20234568/img",
-      "logo": "https://images.metahub.space/logo/medium/tt20234568/img",
-      "description": "Yeon Shi-eun is a model student, who ranks at the top at his school. Physically, he appears like a weak boy, but, by using his smarts, tools, and psychology, he fights against violence that takes place inside and outside of his sc...",
-      "releaseInfo": "2022–",
-      "imdbRating": "8.4"
-    },
-    {
       "id": "tt9059760",
       "type": "series",
       "name": "Normal People",
@@ -221,14 +177,25 @@
       "imdbRating": "8.4"
     },
     {
-      "id": "tt45712181",
+      "id": "tt5875444",
       "type": "series",
-      "name": "Indian Game Show",
-      "poster": "https://live.metahub.space/poster/small/tt45712181/img",
-      "background": "https://live.metahub.space/background/medium/tt45712181/img",
-      "logo": "https://live.metahub.space/logo/medium/tt45712181/img",
-      "description": "The Indian Game Show is a high-energy comedy game show created and hosted by Bharti Singh and Haarsh Limbachiyaa. Featuring popular television actors, choreographers, musicians, and social media influencers, contestants face off in physical stunts, comedy challenges, and quirky tasks to win prizes while avoiding hilarious punishments",
-      "releaseInfo": "2021–",
+      "name": "Slow Horses",
+      "poster": "https://images.metahub.space/poster/small/tt5875444/img",
+      "background": "https://images.metahub.space/background/medium/tt5875444/img",
+      "logo": "https://images.metahub.space/logo/medium/tt5875444/img",
+      "description": "A dysfunctional team of MI5 agents navigate the espionage world's smoke and mirrors to defend the UK from sinister forces.",
+      "releaseInfo": "2022–",
+      "imdbRating": "8.4"
+    },
+    {
+      "id": "tt20234568",
+      "type": "series",
+      "name": "Weak Hero Class 1",
+      "poster": "https://images.metahub.space/poster/small/tt20234568/img",
+      "background": "https://images.metahub.space/background/medium/tt20234568/img",
+      "logo": "https://images.metahub.space/logo/medium/tt20234568/img",
+      "description": "Yeon Shi-eun is a model student, who ranks at the top at his school. Physically, he appears like a weak boy, but, by using his smarts, tools, and psychology, he fights against violence that takes place inside and outside of his sc...",
+      "releaseInfo": "2022–",
       "imdbRating": "8.4"
     },
     {
@@ -243,14 +210,6 @@
       "imdbRating": "8.3"
     },
     {
-      "id": "tt39090300",
-      "type": "series",
-      "name": "Seher Hone Ko Hai",
-      "description": "Strong-willed Kausar defies societal barriers for her daughter Seher's big dreams, but will destiny stand by their side?",
-      "releaseInfo": "2025–",
-      "imdbRating": "8.3"
-    },
-    {
       "id": "tt0455275",
       "type": "series",
       "name": "Prison Break",
@@ -259,6 +218,25 @@
       "logo": "https://images.metahub.space/logo/medium/tt0455275/img",
       "description": "A structural engineer installs himself in a prison his company helped design, to save his falsely accused brother from a death sentence by breaking both of them out from the inside.",
       "releaseInfo": "2005–2017",
+      "imdbRating": "8.3"
+    },
+    {
+      "id": "tt15477488",
+      "type": "series",
+      "name": "Farzi",
+      "poster": "https://images.metahub.space/poster/small/tt15477488/img",
+      "background": "https://images.metahub.space/background/medium/tt15477488/img",
+      "logo": "https://images.metahub.space/logo/medium/tt15477488/img",
+      "description": "Talented artist Sunny creates a flawless counterfeit bill, thrusting him into a dangerous world. Unconventional task force officer Michael is determined to eliminate counterfeiting. In this high-stakes chase, neither can afford to...",
+      "releaseInfo": "2023–",
+      "imdbRating": "8.3"
+    },
+    {
+      "id": "tt39090300",
+      "type": "series",
+      "name": "Seher Hone Ko Hai",
+      "description": "Strong-willed Kausar defies societal barriers for her daughter Seher's big dreams, but will destiny stand by their side?",
+      "releaseInfo": "2025–",
       "imdbRating": "8.3"
     },
     {
@@ -295,17 +273,6 @@
       "imdbRating": "8.2"
     },
     {
-      "id": "tt6468322",
-      "type": "series",
-      "name": "Money Heist",
-      "poster": "https://live.metahub.space/poster/small/tt6468322/img",
-      "background": "https://live.metahub.space/background/medium/tt6468322/img",
-      "logo": "https://live.metahub.space/logo/medium/tt6468322/img",
-      "description": "To carry out the biggest heist in history, a mysterious man called The Professor recruits a band of eight robbers who have a single characteristic: none of them has anything to lose. Five months of seclusion - memorizing every step, every detail, every probability - culminate in eleven days locked up in the National Coinage and Stamp Factory of Spain, surrounded by police forces and with dozens of hostages in their power, to find out whether their suicide wager will lead to everything or nothing.",
-      "releaseInfo": "2017–2021",
-      "imdbRating": "8.2"
-    },
-    {
       "id": "tt7441658",
       "type": "series",
       "name": "Black Clover",
@@ -328,6 +295,17 @@
       "imdbRating": "8.2"
     },
     {
+      "id": "tt6468322",
+      "type": "series",
+      "name": "Money Heist",
+      "poster": "https://live.metahub.space/poster/small/tt6468322/img",
+      "background": "https://live.metahub.space/background/medium/tt6468322/img",
+      "logo": "https://live.metahub.space/logo/medium/tt6468322/img",
+      "description": "To carry out the biggest heist in history, a mysterious man called The Professor recruits a band of eight robbers who have a single characteristic: none of them has anything to lose. Five months of seclusion - memorizing every step, every detail, every probability - culminate in eleven days locked up in the National Coinage and Stamp Factory of Spain, surrounded by police forces and with dozens of hostages in their power, to find out whether their suicide wager will lead to everything or nothing.",
+      "releaseInfo": "2017–2021",
+      "imdbRating": "8.2"
+    },
+    {
       "id": "tt13911628",
       "type": "series",
       "name": "Lessons in Chemistry",
@@ -336,17 +314,6 @@
       "logo": "https://images.metahub.space/logo/medium/tt13911628/img",
       "description": "In the 1950s, Elizabeth Zott's dream of being a scientist is challenged by a society that says women belong in the domestic sphere; she accepts a job on a TV cooking show and sets out to teach a nation of housewives way more than ...",
       "releaseInfo": "2023",
-      "imdbRating": "8.2"
-    },
-    {
-      "id": "tt11198330",
-      "type": "series",
-      "name": "House of the Dragon",
-      "poster": "https://images.metahub.space/poster/small/tt11198330/img",
-      "background": "https://images.metahub.space/background/medium/tt11198330/img",
-      "logo": "https://images.metahub.space/logo/medium/tt11198330/img",
-      "description": "An internal succession war within House Targaryen at the height of its power, 172 years before the birth of Daenerys Targaryen.",
-      "releaseInfo": "2022–",
       "imdbRating": "8.2"
     },
     {
@@ -361,6 +328,17 @@
       "imdbRating": "8.1"
     },
     {
+      "id": "tt1515193",
+      "type": "series",
+      "name": "The Big C",
+      "poster": "https://images.metahub.space/poster/small/tt1515193/img",
+      "background": "https://images.metahub.space/background/medium/tt1515193/img",
+      "logo": "https://images.metahub.space/logo/medium/tt1515193/img",
+      "description": "A suburban mother faces her cancer diagnosis while trying to find humor and happiness as well.",
+      "releaseInfo": "2010–2013",
+      "imdbRating": "8.1"
+    },
+    {
       "id": "tt7772588",
       "type": "series",
       "name": "For All Mankind",
@@ -372,25 +350,14 @@
       "imdbRating": "8.1"
     },
     {
-      "id": "tt24053860",
+      "id": "tt4301160",
       "type": "series",
-      "name": "The Day of the Jackal",
-      "poster": "https://images.metahub.space/poster/small/tt24053860/img",
-      "background": "https://images.metahub.space/background/medium/tt24053860/img",
-      "logo": "https://images.metahub.space/logo/medium/tt24053860/img",
-      "description": "The Jackal is an elusive assassin who makes his living carrying out hits for the highest fee. He soon meets his match in a tenacious British intelligence officer who tracks him down in a thrilling cat-and-mouse chase across Europe.",
-      "releaseInfo": "2024–",
-      "imdbRating": "8.1"
-    },
-    {
-      "id": "tt0092400",
-      "type": "series",
-      "name": "Married... with Children",
-      "poster": "https://images.metahub.space/poster/small/tt0092400/img",
-      "background": "https://images.metahub.space/background/medium/tt0092400/img",
-      "logo": "https://images.metahub.space/logo/medium/tt0092400/img",
-      "description": "Al is the quintessential working class dad. Peggy, his wife, always wants more from him. With their children, they go through the highs and lows of ordinary life.",
-      "releaseInfo": "1987–1997",
+      "name": "Black Bird",
+      "poster": "https://images.metahub.space/poster/small/tt4301160/img",
+      "background": "https://images.metahub.space/background/medium/tt4301160/img",
+      "logo": "https://images.metahub.space/logo/medium/tt4301160/img",
+      "description": "Jimmy Keene is sentenced to 10 years in a minimum security prison but he cuts a deal with the FBI to befriend a suspected serial killer. Keene has to elicit a confession from Larry Hall to find the bodies of as many as eighteen wo...",
+      "releaseInfo": "2022",
       "imdbRating": "8.1"
     },
     {
@@ -405,14 +372,47 @@
       "imdbRating": "8.1"
     },
     {
-      "id": "tt0758790",
+      "id": "tt0092400",
       "type": "series",
-      "name": "The Tudors",
-      "poster": "https://images.metahub.space/poster/small/tt0758790/img",
-      "background": "https://images.metahub.space/background/medium/tt0758790/img",
-      "logo": "https://images.metahub.space/logo/medium/tt0758790/img",
-      "description": "Epic series reveals the scandalous life of a young king whose affairs and obsession with producing a male heir changed marriage, the church, and the world.",
-      "releaseInfo": "2007–2010",
+      "name": "Married... with Children",
+      "poster": "https://images.metahub.space/poster/small/tt0092400/img",
+      "background": "https://images.metahub.space/background/medium/tt0092400/img",
+      "logo": "https://images.metahub.space/logo/medium/tt0092400/img",
+      "description": "Al is the quintessential working class dad. Peggy, his wife, always wants more from him. With their children, they go through the highs and lows of ordinary life.",
+      "releaseInfo": "1987–1997",
+      "imdbRating": "8.1"
+    },
+    {
+      "id": "tt14688458",
+      "type": "series",
+      "name": "Silo",
+      "poster": "https://images.metahub.space/poster/small/tt14688458/img",
+      "background": "https://images.metahub.space/background/medium/tt14688458/img",
+      "logo": "https://images.metahub.space/logo/medium/tt14688458/img",
+      "description": "Men and women live in a giant silo underground with several regulations which they believe are in place to protect them from the toxic and ruined world on the surface.",
+      "releaseInfo": "2023–",
+      "imdbRating": "8.1"
+    },
+    {
+      "id": "tt40856520",
+      "type": "series",
+      "name": "Adarsh Baal Vidyalaya",
+      "poster": "https://live.metahub.space/poster/small/tt40856520/img",
+      "background": "https://live.metahub.space/background/medium/tt40856520/img",
+      "logo": "https://live.metahub.space/logo/medium/tt40856520/img",
+      "description": "A relaxed principal tries to reform a failing public school, triggering a messy transformation as misfit teachers work to repair the system one lesson at a time.",
+      "releaseInfo": "2026–2026",
+      "imdbRating": "8.1"
+    },
+    {
+      "id": "tt24053860",
+      "type": "series",
+      "name": "The Day of the Jackal",
+      "poster": "https://images.metahub.space/poster/small/tt24053860/img",
+      "background": "https://images.metahub.space/background/medium/tt24053860/img",
+      "logo": "https://images.metahub.space/logo/medium/tt24053860/img",
+      "description": "The Jackal is an elusive assassin who makes his living carrying out hits for the highest fee. He soon meets his match in a tenacious British intelligence officer who tracks him down in a thrilling cat-and-mouse chase across Europe.",
+      "releaseInfo": "2024–",
       "imdbRating": "8.1"
     },
     {
@@ -427,6 +427,17 @@
       "imdbRating": "8.1"
     },
     {
+      "id": "tt0758790",
+      "type": "series",
+      "name": "The Tudors",
+      "poster": "https://images.metahub.space/poster/small/tt0758790/img",
+      "background": "https://images.metahub.space/background/medium/tt0758790/img",
+      "logo": "https://images.metahub.space/logo/medium/tt0758790/img",
+      "description": "Epic series reveals the scandalous life of a young king whose affairs and obsession with producing a male heir changed marriage, the church, and the world.",
+      "releaseInfo": "2007–2010",
+      "imdbRating": "8.1"
+    },
+    {
       "id": "tt9288030",
       "type": "series",
       "name": "Reacher",
@@ -438,15 +449,26 @@
       "imdbRating": "8.0"
     },
     {
-      "id": "tt23649128",
+      "id": "tt7587890",
       "type": "series",
-      "name": "The Studio",
-      "poster": "https://images.metahub.space/poster/small/tt23649128/img",
-      "background": "https://images.metahub.space/background/medium/tt23649128/img",
-      "logo": "https://images.metahub.space/logo/medium/tt23649128/img",
-      "description": "Follows a legacy Hollywood movie studio striving to survive in a world where it is increasingly difficult for art and business to live together.",
-      "releaseInfo": "2025–",
+      "name": "The Rookie",
+      "poster": "https://images.metahub.space/poster/small/tt7587890/img",
+      "background": "https://images.metahub.space/background/medium/tt7587890/img",
+      "logo": "https://images.metahub.space/logo/medium/tt7587890/img",
+      "description": "Starting over isn't easy, especially for John Nolan who, after a life-altering incident, is pursuing his dream of joining the LAPD. As their oldest rookie, he's met with skepticism from those who see him as just a walking midlife ...",
+      "releaseInfo": "2018–",
       "imdbRating": "8.0"
+    },
+    {
+      "id": "tt2741602",
+      "type": "series",
+      "name": "The Blacklist",
+      "poster": "https://images.metahub.space/poster/small/tt2741602/img",
+      "background": "https://images.metahub.space/background/medium/tt2741602/img",
+      "logo": "https://images.metahub.space/logo/medium/tt2741602/img",
+      "description": "A new FBI profiler, Elizabeth Keen, has her entire life uprooted when a mysterious criminal, Raymond Reddington, who has eluded capture for decades, turns himself in and insists on speaking only to her.",
+      "releaseInfo": "2013–2023",
+      "imdbRating": "7.9"
     },
     {
       "id": "tt16358384",
@@ -460,14 +482,25 @@
       "imdbRating": "7.9"
     },
     {
-      "id": "tt2741602",
+      "id": "tt22202452",
       "type": "series",
-      "name": "The Blacklist",
-      "poster": "https://images.metahub.space/poster/small/tt2741602/img",
-      "background": "https://images.metahub.space/background/medium/tt2741602/img",
-      "logo": "https://images.metahub.space/logo/medium/tt2741602/img",
-      "description": "A new FBI profiler, Elizabeth Keen, has her entire life uprooted when a mysterious criminal, Raymond Reddington, who has eluded capture for decades, turns himself in and insists on speaking only to her.",
-      "releaseInfo": "2013–2023",
+      "name": "Pluribus",
+      "poster": "https://images.metahub.space/poster/small/tt22202452/img",
+      "background": "https://images.metahub.space/background/medium/tt22202452/img",
+      "logo": "https://images.metahub.space/logo/medium/tt22202452/img",
+      "description": "In a world overtaken by a mysterious wave of forced happiness, Carol Sturka, one of the immune few, must uncover what's really going on - and save humanity from its artificial bliss.",
+      "releaseInfo": "2025–",
+      "imdbRating": "7.9"
+    },
+    {
+      "id": "tt4014320",
+      "type": "series",
+      "name": "Kaisi Yeh Yaariaan",
+      "poster": "https://live.metahub.space/poster/small/tt4014320/img",
+      "background": "https://live.metahub.space/background/medium/tt4014320/img",
+      "logo": "https://live.metahub.space/logo/medium/tt4014320/img",
+      "description": "When a small-town girl , Nandini Murty, wins a scholarship to a prestigious Mumbai academy, she clashes with FAB5, the school's elite and arrogant musical clique and it's leader. What begins as a bitter rivalry soon evolves into a passionate, tumultuous romance with the band's enigmatic leader, Manik Malhotra.",
+      "releaseInfo": "2014–2023",
       "imdbRating": "7.9"
     },
     {
@@ -513,39 +546,6 @@
       "description": "Three bear brothers do whatever they can to be a part of human society by doing what everyone around them does.",
       "releaseInfo": "2014–2019",
       "imdbRating": "7.8"
-    },
-    {
-      "id": "tt9813792",
-      "type": "series",
-      "name": "From",
-      "poster": "https://images.metahub.space/poster/small/tt9813792/img",
-      "background": "https://images.metahub.space/background/medium/tt9813792/img",
-      "logo": "https://images.metahub.space/logo/medium/tt9813792/img",
-      "description": "A town with a hidden secret experiences strange occurrences that intensify at night. Mysterious forces disrupt everyday routines as residents try to preserve stability and community while attempting to comprehend their surroundings.",
-      "releaseInfo": "2022–",
-      "imdbRating": "7.7"
-    },
-    {
-      "id": "tt17677860",
-      "type": "series",
-      "name": "Presumed Innocent",
-      "poster": "https://images.metahub.space/poster/small/tt17677860/img",
-      "background": "https://images.metahub.space/background/medium/tt17677860/img",
-      "logo": "https://images.metahub.space/logo/medium/tt17677860/img",
-      "description": "A horrific murder upends the Chicago Prosecuting Attorney's' office when one of its own is suspected of the crime.",
-      "releaseInfo": "2024–",
-      "imdbRating": "7.7"
-    },
-    {
-      "id": "tt11761176",
-      "type": "series",
-      "name": "Power Book III: Raising Kanan",
-      "poster": "https://images.metahub.space/poster/small/tt11761176/img",
-      "background": "https://images.metahub.space/background/medium/tt11761176/img",
-      "logo": "https://images.metahub.space/logo/medium/tt11761176/img",
-      "description": "Power Book III: Raising Kanan is a prequel set in the 1990s that will chronicle the early years of Kanan Stark, the character first played by executive producer Curtis \"50 Cent\" Jackson.",
-      "releaseInfo": "2021–2026",
-      "imdbRating": "7.7"
     }
   ]
 }
